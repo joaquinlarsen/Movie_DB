@@ -7,10 +7,10 @@ import pandas as pd
 
 BASE_DIR = os.path.dirname(__file__)
 
-# This function allow you to import the html from the url and save it.
+# This function allow you to import the html from the url and save it locally in case you want to parse later.
 def url_to_txt(url, filename="world.html", save=False):
     r = requests.get(url)
-    if r.status_code == 200: # 200 in HTML means that the program found the page that we want to scrap
+    if r.status_code == 200: # 200 in HTML means that the program found the page that we want to scrap.
         html_text = r.text
         if save:
             with open(filename, 'w') as f:
@@ -20,17 +20,16 @@ def url_to_txt(url, filename="world.html", save=False):
 
 
 # This function allow you to search into the html and find the data that we want.
-def parse_and_extract(url, name='2021'):
+def parse_and_extract(url, year='2021'):
     
-    html_text = url_to_txt(url)
-    if html_text == None:
-        return
+    r = requests.get(url)
+    if r.status_code == 200:
+        html_text = r.text
     r_html = HTML(html=html_text)
     table_class = ".imdb-scroll-table"
     r_table = r_html.find(table_class)
 
     table_data = []
-    headers_names = []
 
     if len(r_table) == 1:
         parsed_table = r_table[0]
@@ -49,11 +48,11 @@ def parse_and_extract(url, name='2021'):
     df = pd.DataFrame(table_data, columns=header_names)
     path = os.path.join(BASE_DIR, 'data')
     os.makedirs(path, exist_ok=True)
-    filepath = os.path.join('data', f'{name}.csv')
+    filepath = os.path.join('data', f'{year}.csv')
     df.to_csv(filepath, index=False)
 
 
-def run(start_year=2021, years_ago=21):
+def run(start_year=2021, years_ago=1):
     if start_year == None:
         now = datetime.datetime.now()
         start_year = now.year
@@ -62,7 +61,7 @@ def run(start_year=2021, years_ago=21):
     assert len(f"{start_year}") == 4
     for i in range(0, years_ago+1):
         url = f'https://www.boxofficemojo.com/year/world/{start_year}'
-        parse_and_extract(url, name=start_year)
+        parse_and_extract(url, year=start_year)
         print(f"Finished {start_year}")
         start_year -= 1
 
