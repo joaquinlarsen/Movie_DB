@@ -1,0 +1,4 @@
+requests
+requests-html
+pandas
+beautifulsoup4
