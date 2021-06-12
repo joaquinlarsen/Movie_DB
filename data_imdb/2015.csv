@@ -1,0 +1,496 @@
+Movie,Genre,Duration,Year,Imdb_rating,Metascore_rating,Votes
+Mad Max: Fury Road,"Action, Adventure, Sci-Fi  ",120,2015,81,90,906184
+Star Wars: Episode VII - The Force Awakens,"Action, Adventure, Sci-Fi  ",138,2015,78,80,873258
+The Martian,"Adventure, Drama, Sci-Fi  ",144,2015,80,80,778727
+Avengers: Age of Ultron,"Action, Adventure, Sci-Fi  ",141,2015,73,66,770724
+The Revenant,"Action, Adventure, Drama  ",156,2015,80,76,724623
+Inside Out,"Animation, Adventure, Comedy  ",95,2015,81,94,636037
+Jurassic World,"Action, Adventure, Sci-Fi  ",124,2015,70,59,589763
+Ant-Man,"Action, Adventure, Comedy  ",117,2015,73,64,589356
+The Hateful Eight,"Crime, Drama, Mystery  ",168,2015,78,68,534061
+Spotlight,"Biography, Crime, Drama  ",129,2015,81,93,432285
+Spectre,"Action, Adventure, Thriller  ",148,2015,68,60,391040
+Room,"Drama, Thriller  ",118,2015,81,86,383274
+Sicario,"Action, Crime, Drama  ",121,2015,76,82,382914
+The Big Short,"Biography, Comedy, Drama  ",130,2015,78,81,377728
+Furious 7,"Action, Adventure, Thriller  ",137,2015,71,67,366179
+Mission: Impossible - Rogue Nation,"Action, Adventure, Thriller  ",131,2015,74,75,348621
+Fifty Shades of Grey,"Drama, Romance, Thriller  ",125,2015,41,46,302494
+The Hunger Games: Mockingjay - Part 2,"Action, Adventure, Sci-Fi  ",137,2015,66,65,294633
+Bridge of Spies,"Drama, History, Thriller  ",142,2015,76,81,293623
+The Man from U.N.C.L.E.,"Action, Adventure, Comedy  ",116,2015,73,56,283213
+Terminator Genisys,"Action, Adventure, Sci-Fi  ",126,2015,63,38,263269
+Creed,"Drama, Sport  ",133,2015,76,82,252841
+Spy,"Action, Comedy  ",120,2015,70,75,233540
+Chappie,"Action, Crime, Drama  ",120,2015,68,41,233515
+The Intern,"Comedy, Drama  ",121,2015,71,51,228576
+Maze Runner: The Scorch Trials,"Action, Adventure, Sci-Fi  ",131,2015,63,43,228340
+The Lobster,"Comedy, Drama, Romance  ",119,2015,72,82,227762
+Focus,"Comedy, Crime, Drama  ",105,2015,66,56,224750
+The Divergent Series: Insurgent,"Action, Adventure, Sci-Fi  ",119,2015,62,42,222146
+Southpaw,"Action, Drama, Sport  ",124,2015,74,57,222109
+San Andreas,"Action, Adventure, Thriller  ",114,2015,61,43,217827
+Minions,"Animation, Adventure, Comedy  ",91,2015,64,56,217048
+The Witch,"Drama, Horror, Mystery  ",92,2015,69,83,214629
+Everest,"Action, Adventure, Biography  ",121,2015,71,64,203804
+Ted 2,Comedy  ,115,2015,63,48,189903
+Straight Outta Compton,"Biography, Drama, History  ",147,2015,78,72,184139
+Jupiter Ascending,"Action, Adventure, Sci-Fi  ",127,2015,53,40,181263
+Tomorrowland,"Action, Adventure, Family  ",130,2015,64,60,174569
+Black Mass,"Biography, Crime, Drama  ",123,2015,69,68,170449
+The Danish Girl,"Biography, Drama, Romance  ",119,2015,71,66,169071
+Cinderella,"Drama, Family, Fantasy  ",105,2015,69,67,164266
+Legend,"Biography, Crime, Drama  ",132,2015,69,55,163137
+The Age of Adaline,"Drama, Fantasy, Romance  ",112,2015,72,51,159087
+Steve Jobs,"Biography, Drama  ",122,2015,72,82,158831
+Fantastic Four,"Action, Adventure, Sci-Fi  ",100,2015,42,27,155673
+Mad Max: Fury Road,"Action, Adventure, Sci-Fi  ",120,2015,81,90,906184
+Star Wars: Episode VII - The Force Awakens,"Action, Adventure, Sci-Fi  ",138,2015,78,80,873258
+The Martian,"Adventure, Drama, Sci-Fi  ",144,2015,80,80,778727
+Avengers: Age of Ultron,"Action, Adventure, Sci-Fi  ",141,2015,73,66,770724
+The Revenant,"Action, Adventure, Drama  ",156,2015,80,76,724623
+Inside Out,"Animation, Adventure, Comedy  ",95,2015,81,94,636037
+Jurassic World,"Action, Adventure, Sci-Fi  ",124,2015,70,59,589763
+Ant-Man,"Action, Adventure, Comedy  ",117,2015,73,64,589356
+The Hateful Eight,"Crime, Drama, Mystery  ",168,2015,78,68,534061
+Spotlight,"Biography, Crime, Drama  ",129,2015,81,93,432285
+Spectre,"Action, Adventure, Thriller  ",148,2015,68,60,391040
+Room,"Drama, Thriller  ",118,2015,81,86,383274
+Sicario,"Action, Crime, Drama  ",121,2015,76,82,382914
+The Big Short,"Biography, Comedy, Drama  ",130,2015,78,81,377728
+Furious 7,"Action, Adventure, Thriller  ",137,2015,71,67,366179
+Mission: Impossible - Rogue Nation,"Action, Adventure, Thriller  ",131,2015,74,75,348621
+Fifty Shades of Grey,"Drama, Romance, Thriller  ",125,2015,41,46,302494
+The Hunger Games: Mockingjay - Part 2,"Action, Adventure, Sci-Fi  ",137,2015,66,65,294633
+Bridge of Spies,"Drama, History, Thriller  ",142,2015,76,81,293623
+The Man from U.N.C.L.E.,"Action, Adventure, Comedy  ",116,2015,73,56,283213
+Terminator Genisys,"Action, Adventure, Sci-Fi  ",126,2015,63,38,263269
+Creed,"Drama, Sport  ",133,2015,76,82,252841
+Spy,"Action, Comedy  ",120,2015,70,75,233540
+Chappie,"Action, Crime, Drama  ",120,2015,68,41,233515
+The Intern,"Comedy, Drama  ",121,2015,71,51,228576
+Maze Runner: The Scorch Trials,"Action, Adventure, Sci-Fi  ",131,2015,63,43,228340
+The Lobster,"Comedy, Drama, Romance  ",119,2015,72,82,227762
+Focus,"Comedy, Crime, Drama  ",105,2015,66,56,224750
+The Divergent Series: Insurgent,"Action, Adventure, Sci-Fi  ",119,2015,62,42,222146
+Southpaw,"Action, Drama, Sport  ",124,2015,74,57,222109
+San Andreas,"Action, Adventure, Thriller  ",114,2015,61,43,217827
+Minions,"Animation, Adventure, Comedy  ",91,2015,64,56,217048
+The Witch,"Drama, Horror, Mystery  ",92,2015,69,83,214629
+Everest,"Action, Adventure, Biography  ",121,2015,71,64,203804
+Ted 2,Comedy  ,115,2015,63,48,189903
+Straight Outta Compton,"Biography, Drama, History  ",147,2015,78,72,184139
+Jupiter Ascending,"Action, Adventure, Sci-Fi  ",127,2015,53,40,181263
+Tomorrowland,"Action, Adventure, Family  ",130,2015,64,60,174569
+Black Mass,"Biography, Crime, Drama  ",123,2015,69,68,170449
+The Danish Girl,"Biography, Drama, Romance  ",119,2015,71,66,169071
+Cinderella,"Drama, Family, Fantasy  ",105,2015,69,67,164266
+Legend,"Biography, Crime, Drama  ",132,2015,69,55,163137
+The Age of Adaline,"Drama, Fantasy, Romance  ",112,2015,72,51,159087
+Steve Jobs,"Biography, Drama  ",122,2015,72,82,158831
+Fantastic Four,"Action, Adventure, Sci-Fi  ",100,2015,42,27,155673
+Mad Max: Fury Road,"Action, Adventure, Sci-Fi  ",120,2015,81,90,906184
+Star Wars: Episode VII - The Force Awakens,"Action, Adventure, Sci-Fi  ",138,2015,78,80,873258
+The Martian,"Adventure, Drama, Sci-Fi  ",144,2015,80,80,778727
+Avengers: Age of Ultron,"Action, Adventure, Sci-Fi  ",141,2015,73,66,770724
+The Revenant,"Action, Adventure, Drama  ",156,2015,80,76,724623
+Inside Out,"Animation, Adventure, Comedy  ",95,2015,81,94,636037
+Jurassic World,"Action, Adventure, Sci-Fi  ",124,2015,70,59,589763
+Ant-Man,"Action, Adventure, Comedy  ",117,2015,73,64,589356
+The Hateful Eight,"Crime, Drama, Mystery  ",168,2015,78,68,534061
+Spotlight,"Biography, Crime, Drama  ",129,2015,81,93,432285
+Spectre,"Action, Adventure, Thriller  ",148,2015,68,60,391040
+Room,"Drama, Thriller  ",118,2015,81,86,383274
+Sicario,"Action, Crime, Drama  ",121,2015,76,82,382914
+The Big Short,"Biography, Comedy, Drama  ",130,2015,78,81,377728
+Furious 7,"Action, Adventure, Thriller  ",137,2015,71,67,366179
+Mission: Impossible - Rogue Nation,"Action, Adventure, Thriller  ",131,2015,74,75,348621
+Fifty Shades of Grey,"Drama, Romance, Thriller  ",125,2015,41,46,302494
+The Hunger Games: Mockingjay - Part 2,"Action, Adventure, Sci-Fi  ",137,2015,66,65,294633
+Bridge of Spies,"Drama, History, Thriller  ",142,2015,76,81,293623
+The Man from U.N.C.L.E.,"Action, Adventure, Comedy  ",116,2015,73,56,283213
+Terminator Genisys,"Action, Adventure, Sci-Fi  ",126,2015,63,38,263269
+Creed,"Drama, Sport  ",133,2015,76,82,252841
+Spy,"Action, Comedy  ",120,2015,70,75,233540
+Chappie,"Action, Crime, Drama  ",120,2015,68,41,233515
+The Intern,"Comedy, Drama  ",121,2015,71,51,228576
+Maze Runner: The Scorch Trials,"Action, Adventure, Sci-Fi  ",131,2015,63,43,228340
+The Lobster,"Comedy, Drama, Romance  ",119,2015,72,82,227762
+Focus,"Comedy, Crime, Drama  ",105,2015,66,56,224750
+The Divergent Series: Insurgent,"Action, Adventure, Sci-Fi  ",119,2015,62,42,222146
+Southpaw,"Action, Drama, Sport  ",124,2015,74,57,222109
+San Andreas,"Action, Adventure, Thriller  ",114,2015,61,43,217827
+Minions,"Animation, Adventure, Comedy  ",91,2015,64,56,217048
+The Witch,"Drama, Horror, Mystery  ",92,2015,69,83,214629
+Everest,"Action, Adventure, Biography  ",121,2015,71,64,203804
+Ted 2,Comedy  ,115,2015,63,48,189903
+Straight Outta Compton,"Biography, Drama, History  ",147,2015,78,72,184139
+Jupiter Ascending,"Action, Adventure, Sci-Fi  ",127,2015,53,40,181263
+Tomorrowland,"Action, Adventure, Family  ",130,2015,64,60,174569
+Black Mass,"Biography, Crime, Drama  ",123,2015,69,68,170449
+The Danish Girl,"Biography, Drama, Romance  ",119,2015,71,66,169071
+Cinderella,"Drama, Family, Fantasy  ",105,2015,69,67,164266
+Legend,"Biography, Crime, Drama  ",132,2015,69,55,163137
+The Age of Adaline,"Drama, Fantasy, Romance  ",112,2015,72,51,159087
+Steve Jobs,"Biography, Drama  ",122,2015,72,82,158831
+Fantastic Four,"Action, Adventure, Sci-Fi  ",100,2015,42,27,155673
+Mad Max: Fury Road,"Action, Adventure, Sci-Fi  ",120,2015,81,90,906184
+Star Wars: Episode VII - The Force Awakens,"Action, Adventure, Sci-Fi  ",138,2015,78,80,873258
+The Martian,"Adventure, Drama, Sci-Fi  ",144,2015,80,80,778727
+Avengers: Age of Ultron,"Action, Adventure, Sci-Fi  ",141,2015,73,66,770724
+The Revenant,"Action, Adventure, Drama  ",156,2015,80,76,724623
+Inside Out,"Animation, Adventure, Comedy  ",95,2015,81,94,636037
+Jurassic World,"Action, Adventure, Sci-Fi  ",124,2015,70,59,589763
+Ant-Man,"Action, Adventure, Comedy  ",117,2015,73,64,589356
+The Hateful Eight,"Crime, Drama, Mystery  ",168,2015,78,68,534061
+Spotlight,"Biography, Crime, Drama  ",129,2015,81,93,432285
+Spectre,"Action, Adventure, Thriller  ",148,2015,68,60,391040
+Room,"Drama, Thriller  ",118,2015,81,86,383274
+Sicario,"Action, Crime, Drama  ",121,2015,76,82,382914
+The Big Short,"Biography, Comedy, Drama  ",130,2015,78,81,377728
+Furious 7,"Action, Adventure, Thriller  ",137,2015,71,67,366179
+Mission: Impossible - Rogue Nation,"Action, Adventure, Thriller  ",131,2015,74,75,348621
+Fifty Shades of Grey,"Drama, Romance, Thriller  ",125,2015,41,46,302494
+The Hunger Games: Mockingjay - Part 2,"Action, Adventure, Sci-Fi  ",137,2015,66,65,294633
+Bridge of Spies,"Drama, History, Thriller  ",142,2015,76,81,293623
+The Man from U.N.C.L.E.,"Action, Adventure, Comedy  ",116,2015,73,56,283213
+Terminator Genisys,"Action, Adventure, Sci-Fi  ",126,2015,63,38,263269
+Creed,"Drama, Sport  ",133,2015,76,82,252841
+Spy,"Action, Comedy  ",120,2015,70,75,233540
+Chappie,"Action, Crime, Drama  ",120,2015,68,41,233515
+The Intern,"Comedy, Drama  ",121,2015,71,51,228576
+Maze Runner: The Scorch Trials,"Action, Adventure, Sci-Fi  ",131,2015,63,43,228340
+The Lobster,"Comedy, Drama, Romance  ",119,2015,72,82,227762
+Focus,"Comedy, Crime, Drama  ",105,2015,66,56,224750
+The Divergent Series: Insurgent,"Action, Adventure, Sci-Fi  ",119,2015,62,42,222146
+Southpaw,"Action, Drama, Sport  ",124,2015,74,57,222109
+San Andreas,"Action, Adventure, Thriller  ",114,2015,61,43,217827
+Minions,"Animation, Adventure, Comedy  ",91,2015,64,56,217048
+The Witch,"Drama, Horror, Mystery  ",92,2015,69,83,214629
+Everest,"Action, Adventure, Biography  ",121,2015,71,64,203804
+Ted 2,Comedy  ,115,2015,63,48,189903
+Straight Outta Compton,"Biography, Drama, History  ",147,2015,78,72,184139
+Jupiter Ascending,"Action, Adventure, Sci-Fi  ",127,2015,53,40,181263
+Tomorrowland,"Action, Adventure, Family  ",130,2015,64,60,174569
+Black Mass,"Biography, Crime, Drama  ",123,2015,69,68,170449
+The Danish Girl,"Biography, Drama, Romance  ",119,2015,71,66,169071
+Cinderella,"Drama, Family, Fantasy  ",105,2015,69,67,164266
+Legend,"Biography, Crime, Drama  ",132,2015,69,55,163137
+The Age of Adaline,"Drama, Fantasy, Romance  ",112,2015,72,51,159087
+Steve Jobs,"Biography, Drama  ",122,2015,72,82,158831
+Fantastic Four,"Action, Adventure, Sci-Fi  ",100,2015,42,27,155673
+Mad Max: Fury Road,"Action, Adventure, Sci-Fi  ",120,2015,81,90,906184
+Star Wars: Episode VII - The Force Awakens,"Action, Adventure, Sci-Fi  ",138,2015,78,80,873258
+The Martian,"Adventure, Drama, Sci-Fi  ",144,2015,80,80,778727
+Avengers: Age of Ultron,"Action, Adventure, Sci-Fi  ",141,2015,73,66,770724
+The Revenant,"Action, Adventure, Drama  ",156,2015,80,76,724623
+Inside Out,"Animation, Adventure, Comedy  ",95,2015,81,94,636037
+Jurassic World,"Action, Adventure, Sci-Fi  ",124,2015,70,59,589763
+Ant-Man,"Action, Adventure, Comedy  ",117,2015,73,64,589356
+The Hateful Eight,"Crime, Drama, Mystery  ",168,2015,78,68,534061
+Spotlight,"Biography, Crime, Drama  ",129,2015,81,93,432285
+Spectre,"Action, Adventure, Thriller  ",148,2015,68,60,391040
+Room,"Drama, Thriller  ",118,2015,81,86,383274
+Sicario,"Action, Crime, Drama  ",121,2015,76,82,382914
+The Big Short,"Biography, Comedy, Drama  ",130,2015,78,81,377728
+Furious 7,"Action, Adventure, Thriller  ",137,2015,71,67,366179
+Mission: Impossible - Rogue Nation,"Action, Adventure, Thriller  ",131,2015,74,75,348621
+Fifty Shades of Grey,"Drama, Romance, Thriller  ",125,2015,41,46,302494
+The Hunger Games: Mockingjay - Part 2,"Action, Adventure, Sci-Fi  ",137,2015,66,65,294633
+Bridge of Spies,"Drama, History, Thriller  ",142,2015,76,81,293623
+The Man from U.N.C.L.E.,"Action, Adventure, Comedy  ",116,2015,73,56,283213
+Terminator Genisys,"Action, Adventure, Sci-Fi  ",126,2015,63,38,263269
+Creed,"Drama, Sport  ",133,2015,76,82,252841
+Spy,"Action, Comedy  ",120,2015,70,75,233540
+Chappie,"Action, Crime, Drama  ",120,2015,68,41,233515
+The Intern,"Comedy, Drama  ",121,2015,71,51,228576
+Maze Runner: The Scorch Trials,"Action, Adventure, Sci-Fi  ",131,2015,63,43,228340
+The Lobster,"Comedy, Drama, Romance  ",119,2015,72,82,227762
+Focus,"Comedy, Crime, Drama  ",105,2015,66,56,224750
+The Divergent Series: Insurgent,"Action, Adventure, Sci-Fi  ",119,2015,62,42,222146
+Southpaw,"Action, Drama, Sport  ",124,2015,74,57,222109
+San Andreas,"Action, Adventure, Thriller  ",114,2015,61,43,217827
+Minions,"Animation, Adventure, Comedy  ",91,2015,64,56,217048
+The Witch,"Drama, Horror, Mystery  ",92,2015,69,83,214629
+Everest,"Action, Adventure, Biography  ",121,2015,71,64,203804
+Ted 2,Comedy  ,115,2015,63,48,189903
+Straight Outta Compton,"Biography, Drama, History  ",147,2015,78,72,184139
+Jupiter Ascending,"Action, Adventure, Sci-Fi  ",127,2015,53,40,181263
+Tomorrowland,"Action, Adventure, Family  ",130,2015,64,60,174569
+Black Mass,"Biography, Crime, Drama  ",123,2015,69,68,170449
+The Danish Girl,"Biography, Drama, Romance  ",119,2015,71,66,169071
+Cinderella,"Drama, Family, Fantasy  ",105,2015,69,67,164266
+Legend,"Biography, Crime, Drama  ",132,2015,69,55,163137
+The Age of Adaline,"Drama, Fantasy, Romance  ",112,2015,72,51,159087
+Steve Jobs,"Biography, Drama  ",122,2015,72,82,158831
+Fantastic Four,"Action, Adventure, Sci-Fi  ",100,2015,42,27,155673
+Mad Max: Fury Road,"Action, Adventure, Sci-Fi  ",120,2015,81,90,906184
+Star Wars: Episode VII - The Force Awakens,"Action, Adventure, Sci-Fi  ",138,2015,78,80,873258
+The Martian,"Adventure, Drama, Sci-Fi  ",144,2015,80,80,778727
+Avengers: Age of Ultron,"Action, Adventure, Sci-Fi  ",141,2015,73,66,770724
+The Revenant,"Action, Adventure, Drama  ",156,2015,80,76,724623
+Inside Out,"Animation, Adventure, Comedy  ",95,2015,81,94,636037
+Jurassic World,"Action, Adventure, Sci-Fi  ",124,2015,70,59,589763
+Ant-Man,"Action, Adventure, Comedy  ",117,2015,73,64,589356
+The Hateful Eight,"Crime, Drama, Mystery  ",168,2015,78,68,534061
+Spotlight,"Biography, Crime, Drama  ",129,2015,81,93,432285
+Spectre,"Action, Adventure, Thriller  ",148,2015,68,60,391040
+Room,"Drama, Thriller  ",118,2015,81,86,383274
+Sicario,"Action, Crime, Drama  ",121,2015,76,82,382914
+The Big Short,"Biography, Comedy, Drama  ",130,2015,78,81,377728
+Furious 7,"Action, Adventure, Thriller  ",137,2015,71,67,366179
+Mission: Impossible - Rogue Nation,"Action, Adventure, Thriller  ",131,2015,74,75,348621
+Fifty Shades of Grey,"Drama, Romance, Thriller  ",125,2015,41,46,302494
+The Hunger Games: Mockingjay - Part 2,"Action, Adventure, Sci-Fi  ",137,2015,66,65,294633
+Bridge of Spies,"Drama, History, Thriller  ",142,2015,76,81,293623
+The Man from U.N.C.L.E.,"Action, Adventure, Comedy  ",116,2015,73,56,283213
+Terminator Genisys,"Action, Adventure, Sci-Fi  ",126,2015,63,38,263269
+Creed,"Drama, Sport  ",133,2015,76,82,252841
+Spy,"Action, Comedy  ",120,2015,70,75,233540
+Chappie,"Action, Crime, Drama  ",120,2015,68,41,233515
+The Intern,"Comedy, Drama  ",121,2015,71,51,228576
+Maze Runner: The Scorch Trials,"Action, Adventure, Sci-Fi  ",131,2015,63,43,228340
+The Lobster,"Comedy, Drama, Romance  ",119,2015,72,82,227762
+Focus,"Comedy, Crime, Drama  ",105,2015,66,56,224750
+The Divergent Series: Insurgent,"Action, Adventure, Sci-Fi  ",119,2015,62,42,222146
+Southpaw,"Action, Drama, Sport  ",124,2015,74,57,222109
+San Andreas,"Action, Adventure, Thriller  ",114,2015,61,43,217827
+Minions,"Animation, Adventure, Comedy  ",91,2015,64,56,217048
+The Witch,"Drama, Horror, Mystery  ",92,2015,69,83,214629
+Everest,"Action, Adventure, Biography  ",121,2015,71,64,203804
+Ted 2,Comedy  ,115,2015,63,48,189903
+Straight Outta Compton,"Biography, Drama, History  ",147,2015,78,72,184139
+Jupiter Ascending,"Action, Adventure, Sci-Fi  ",127,2015,53,40,181263
+Tomorrowland,"Action, Adventure, Family  ",130,2015,64,60,174569
+Black Mass,"Biography, Crime, Drama  ",123,2015,69,68,170449
+The Danish Girl,"Biography, Drama, Romance  ",119,2015,71,66,169071
+Cinderella,"Drama, Family, Fantasy  ",105,2015,69,67,164266
+Legend,"Biography, Crime, Drama  ",132,2015,69,55,163137
+The Age of Adaline,"Drama, Fantasy, Romance  ",112,2015,72,51,159087
+Steve Jobs,"Biography, Drama  ",122,2015,72,82,158831
+Fantastic Four,"Action, Adventure, Sci-Fi  ",100,2015,42,27,155673
+Mad Max: Fury Road,"Action, Adventure, Sci-Fi  ",120,2015,81,90,906184
+Star Wars: Episode VII - The Force Awakens,"Action, Adventure, Sci-Fi  ",138,2015,78,80,873258
+The Martian,"Adventure, Drama, Sci-Fi  ",144,2015,80,80,778727
+Avengers: Age of Ultron,"Action, Adventure, Sci-Fi  ",141,2015,73,66,770724
+The Revenant,"Action, Adventure, Drama  ",156,2015,80,76,724623
+Inside Out,"Animation, Adventure, Comedy  ",95,2015,81,94,636037
+Jurassic World,"Action, Adventure, Sci-Fi  ",124,2015,70,59,589763
+Ant-Man,"Action, Adventure, Comedy  ",117,2015,73,64,589356
+The Hateful Eight,"Crime, Drama, Mystery  ",168,2015,78,68,534061
+Spotlight,"Biography, Crime, Drama  ",129,2015,81,93,432285
+Spectre,"Action, Adventure, Thriller  ",148,2015,68,60,391040
+Room,"Drama, Thriller  ",118,2015,81,86,383274
+Sicario,"Action, Crime, Drama  ",121,2015,76,82,382914
+The Big Short,"Biography, Comedy, Drama  ",130,2015,78,81,377728
+Furious 7,"Action, Adventure, Thriller  ",137,2015,71,67,366179
+Mission: Impossible - Rogue Nation,"Action, Adventure, Thriller  ",131,2015,74,75,348621
+Fifty Shades of Grey,"Drama, Romance, Thriller  ",125,2015,41,46,302494
+The Hunger Games: Mockingjay - Part 2,"Action, Adventure, Sci-Fi  ",137,2015,66,65,294633
+Bridge of Spies,"Drama, History, Thriller  ",142,2015,76,81,293623
+The Man from U.N.C.L.E.,"Action, Adventure, Comedy  ",116,2015,73,56,283213
+Terminator Genisys,"Action, Adventure, Sci-Fi  ",126,2015,63,38,263269
+Creed,"Drama, Sport  ",133,2015,76,82,252841
+Spy,"Action, Comedy  ",120,2015,70,75,233540
+Chappie,"Action, Crime, Drama  ",120,2015,68,41,233515
+The Intern,"Comedy, Drama  ",121,2015,71,51,228576
+Maze Runner: The Scorch Trials,"Action, Adventure, Sci-Fi  ",131,2015,63,43,228340
+The Lobster,"Comedy, Drama, Romance  ",119,2015,72,82,227762
+Focus,"Comedy, Crime, Drama  ",105,2015,66,56,224750
+The Divergent Series: Insurgent,"Action, Adventure, Sci-Fi  ",119,2015,62,42,222146
+Southpaw,"Action, Drama, Sport  ",124,2015,74,57,222109
+San Andreas,"Action, Adventure, Thriller  ",114,2015,61,43,217827
+Minions,"Animation, Adventure, Comedy  ",91,2015,64,56,217048
+The Witch,"Drama, Horror, Mystery  ",92,2015,69,83,214629
+Everest,"Action, Adventure, Biography  ",121,2015,71,64,203804
+Ted 2,Comedy  ,115,2015,63,48,189903
+Straight Outta Compton,"Biography, Drama, History  ",147,2015,78,72,184139
+Jupiter Ascending,"Action, Adventure, Sci-Fi  ",127,2015,53,40,181263
+Tomorrowland,"Action, Adventure, Family  ",130,2015,64,60,174569
+Black Mass,"Biography, Crime, Drama  ",123,2015,69,68,170449
+The Danish Girl,"Biography, Drama, Romance  ",119,2015,71,66,169071
+Cinderella,"Drama, Family, Fantasy  ",105,2015,69,67,164266
+Legend,"Biography, Crime, Drama  ",132,2015,69,55,163137
+The Age of Adaline,"Drama, Fantasy, Romance  ",112,2015,72,51,159087
+Steve Jobs,"Biography, Drama  ",122,2015,72,82,158831
+Fantastic Four,"Action, Adventure, Sci-Fi  ",100,2015,42,27,155673
+Mad Max: Fury Road,"Action, Adventure, Sci-Fi  ",120,2015,81,90,906184
+Star Wars: Episode VII - The Force Awakens,"Action, Adventure, Sci-Fi  ",138,2015,78,80,873258
+The Martian,"Adventure, Drama, Sci-Fi  ",144,2015,80,80,778727
+Avengers: Age of Ultron,"Action, Adventure, Sci-Fi  ",141,2015,73,66,770724
+The Revenant,"Action, Adventure, Drama  ",156,2015,80,76,724623
+Inside Out,"Animation, Adventure, Comedy  ",95,2015,81,94,636037
+Jurassic World,"Action, Adventure, Sci-Fi  ",124,2015,70,59,589763
+Ant-Man,"Action, Adventure, Comedy  ",117,2015,73,64,589356
+The Hateful Eight,"Crime, Drama, Mystery  ",168,2015,78,68,534061
+Spotlight,"Biography, Crime, Drama  ",129,2015,81,93,432285
+Spectre,"Action, Adventure, Thriller  ",148,2015,68,60,391040
+Room,"Drama, Thriller  ",118,2015,81,86,383274
+Sicario,"Action, Crime, Drama  ",121,2015,76,82,382914
+The Big Short,"Biography, Comedy, Drama  ",130,2015,78,81,377728
+Furious 7,"Action, Adventure, Thriller  ",137,2015,71,67,366179
+Mission: Impossible - Rogue Nation,"Action, Adventure, Thriller  ",131,2015,74,75,348621
+Fifty Shades of Grey,"Drama, Romance, Thriller  ",125,2015,41,46,302494
+The Hunger Games: Mockingjay - Part 2,"Action, Adventure, Sci-Fi  ",137,2015,66,65,294633
+Bridge of Spies,"Drama, History, Thriller  ",142,2015,76,81,293623
+The Man from U.N.C.L.E.,"Action, Adventure, Comedy  ",116,2015,73,56,283213
+Terminator Genisys,"Action, Adventure, Sci-Fi  ",126,2015,63,38,263269
+Creed,"Drama, Sport  ",133,2015,76,82,252841
+Spy,"Action, Comedy  ",120,2015,70,75,233540
+Chappie,"Action, Crime, Drama  ",120,2015,68,41,233515
+The Intern,"Comedy, Drama  ",121,2015,71,51,228576
+Maze Runner: The Scorch Trials,"Action, Adventure, Sci-Fi  ",131,2015,63,43,228340
+The Lobster,"Comedy, Drama, Romance  ",119,2015,72,82,227762
+Focus,"Comedy, Crime, Drama  ",105,2015,66,56,224750
+The Divergent Series: Insurgent,"Action, Adventure, Sci-Fi  ",119,2015,62,42,222146
+Southpaw,"Action, Drama, Sport  ",124,2015,74,57,222109
+San Andreas,"Action, Adventure, Thriller  ",114,2015,61,43,217827
+Minions,"Animation, Adventure, Comedy  ",91,2015,64,56,217048
+The Witch,"Drama, Horror, Mystery  ",92,2015,69,83,214629
+Everest,"Action, Adventure, Biography  ",121,2015,71,64,203804
+Ted 2,Comedy  ,115,2015,63,48,189903
+Straight Outta Compton,"Biography, Drama, History  ",147,2015,78,72,184139
+Jupiter Ascending,"Action, Adventure, Sci-Fi  ",127,2015,53,40,181263
+Tomorrowland,"Action, Adventure, Family  ",130,2015,64,60,174569
+Black Mass,"Biography, Crime, Drama  ",123,2015,69,68,170449
+The Danish Girl,"Biography, Drama, Romance  ",119,2015,71,66,169071
+Cinderella,"Drama, Family, Fantasy  ",105,2015,69,67,164266
+Legend,"Biography, Crime, Drama  ",132,2015,69,55,163137
+The Age of Adaline,"Drama, Fantasy, Romance  ",112,2015,72,51,159087
+Steve Jobs,"Biography, Drama  ",122,2015,72,82,158831
+Fantastic Four,"Action, Adventure, Sci-Fi  ",100,2015,42,27,155673
+Mad Max: Fury Road,"Action, Adventure, Sci-Fi  ",120,2015,81,90,906184
+Star Wars: Episode VII - The Force Awakens,"Action, Adventure, Sci-Fi  ",138,2015,78,80,873258
+The Martian,"Adventure, Drama, Sci-Fi  ",144,2015,80,80,778727
+Avengers: Age of Ultron,"Action, Adventure, Sci-Fi  ",141,2015,73,66,770724
+The Revenant,"Action, Adventure, Drama  ",156,2015,80,76,724623
+Inside Out,"Animation, Adventure, Comedy  ",95,2015,81,94,636037
+Jurassic World,"Action, Adventure, Sci-Fi  ",124,2015,70,59,589763
+Ant-Man,"Action, Adventure, Comedy  ",117,2015,73,64,589356
+The Hateful Eight,"Crime, Drama, Mystery  ",168,2015,78,68,534061
+Spotlight,"Biography, Crime, Drama  ",129,2015,81,93,432285
+Spectre,"Action, Adventure, Thriller  ",148,2015,68,60,391040
+Room,"Drama, Thriller  ",118,2015,81,86,383274
+Sicario,"Action, Crime, Drama  ",121,2015,76,82,382914
+The Big Short,"Biography, Comedy, Drama  ",130,2015,78,81,377728
+Furious 7,"Action, Adventure, Thriller  ",137,2015,71,67,366179
+Mission: Impossible - Rogue Nation,"Action, Adventure, Thriller  ",131,2015,74,75,348621
+Fifty Shades of Grey,"Drama, Romance, Thriller  ",125,2015,41,46,302494
+The Hunger Games: Mockingjay - Part 2,"Action, Adventure, Sci-Fi  ",137,2015,66,65,294633
+Bridge of Spies,"Drama, History, Thriller  ",142,2015,76,81,293623
+The Man from U.N.C.L.E.,"Action, Adventure, Comedy  ",116,2015,73,56,283213
+Terminator Genisys,"Action, Adventure, Sci-Fi  ",126,2015,63,38,263269
+Creed,"Drama, Sport  ",133,2015,76,82,252841
+Spy,"Action, Comedy  ",120,2015,70,75,233540
+Chappie,"Action, Crime, Drama  ",120,2015,68,41,233515
+The Intern,"Comedy, Drama  ",121,2015,71,51,228576
+Maze Runner: The Scorch Trials,"Action, Adventure, Sci-Fi  ",131,2015,63,43,228340
+The Lobster,"Comedy, Drama, Romance  ",119,2015,72,82,227762
+Focus,"Comedy, Crime, Drama  ",105,2015,66,56,224750
+The Divergent Series: Insurgent,"Action, Adventure, Sci-Fi  ",119,2015,62,42,222146
+Southpaw,"Action, Drama, Sport  ",124,2015,74,57,222109
+San Andreas,"Action, Adventure, Thriller  ",114,2015,61,43,217827
+Minions,"Animation, Adventure, Comedy  ",91,2015,64,56,217048
+The Witch,"Drama, Horror, Mystery  ",92,2015,69,83,214629
+Everest,"Action, Adventure, Biography  ",121,2015,71,64,203804
+Ted 2,Comedy  ,115,2015,63,48,189903
+Straight Outta Compton,"Biography, Drama, History  ",147,2015,78,72,184139
+Jupiter Ascending,"Action, Adventure, Sci-Fi  ",127,2015,53,40,181263
+Tomorrowland,"Action, Adventure, Family  ",130,2015,64,60,174569
+Black Mass,"Biography, Crime, Drama  ",123,2015,69,68,170449
+The Danish Girl,"Biography, Drama, Romance  ",119,2015,71,66,169071
+Cinderella,"Drama, Family, Fantasy  ",105,2015,69,67,164266
+Legend,"Biography, Crime, Drama  ",132,2015,69,55,163137
+The Age of Adaline,"Drama, Fantasy, Romance  ",112,2015,72,51,159087
+Steve Jobs,"Biography, Drama  ",122,2015,72,82,158831
+Fantastic Four,"Action, Adventure, Sci-Fi  ",100,2015,42,27,155673
+Mad Max: Fury Road,"Action, Adventure, Sci-Fi  ",120,2015,81,90,906184
+Star Wars: Episode VII - The Force Awakens,"Action, Adventure, Sci-Fi  ",138,2015,78,80,873258
+The Martian,"Adventure, Drama, Sci-Fi  ",144,2015,80,80,778727
+Avengers: Age of Ultron,"Action, Adventure, Sci-Fi  ",141,2015,73,66,770724
+The Revenant,"Action, Adventure, Drama  ",156,2015,80,76,724623
+Inside Out,"Animation, Adventure, Comedy  ",95,2015,81,94,636037
+Jurassic World,"Action, Adventure, Sci-Fi  ",124,2015,70,59,589763
+Ant-Man,"Action, Adventure, Comedy  ",117,2015,73,64,589356
+The Hateful Eight,"Crime, Drama, Mystery  ",168,2015,78,68,534061
+Spotlight,"Biography, Crime, Drama  ",129,2015,81,93,432285
+Spectre,"Action, Adventure, Thriller  ",148,2015,68,60,391040
+Room,"Drama, Thriller  ",118,2015,81,86,383274
+Sicario,"Action, Crime, Drama  ",121,2015,76,82,382914
+The Big Short,"Biography, Comedy, Drama  ",130,2015,78,81,377728
+Furious 7,"Action, Adventure, Thriller  ",137,2015,71,67,366179
+Mission: Impossible - Rogue Nation,"Action, Adventure, Thriller  ",131,2015,74,75,348621
+Fifty Shades of Grey,"Drama, Romance, Thriller  ",125,2015,41,46,302494
+The Hunger Games: Mockingjay - Part 2,"Action, Adventure, Sci-Fi  ",137,2015,66,65,294633
+Bridge of Spies,"Drama, History, Thriller  ",142,2015,76,81,293623
+The Man from U.N.C.L.E.,"Action, Adventure, Comedy  ",116,2015,73,56,283213
+Terminator Genisys,"Action, Adventure, Sci-Fi  ",126,2015,63,38,263269
+Creed,"Drama, Sport  ",133,2015,76,82,252841
+Spy,"Action, Comedy  ",120,2015,70,75,233540
+Chappie,"Action, Crime, Drama  ",120,2015,68,41,233515
+The Intern,"Comedy, Drama  ",121,2015,71,51,228576
+Maze Runner: The Scorch Trials,"Action, Adventure, Sci-Fi  ",131,2015,63,43,228340
+The Lobster,"Comedy, Drama, Romance  ",119,2015,72,82,227762
+Focus,"Comedy, Crime, Drama  ",105,2015,66,56,224750
+The Divergent Series: Insurgent,"Action, Adventure, Sci-Fi  ",119,2015,62,42,222146
+Southpaw,"Action, Drama, Sport  ",124,2015,74,57,222109
+San Andreas,"Action, Adventure, Thriller  ",114,2015,61,43,217827
+Minions,"Animation, Adventure, Comedy  ",91,2015,64,56,217048
+The Witch,"Drama, Horror, Mystery  ",92,2015,69,83,214629
+Everest,"Action, Adventure, Biography  ",121,2015,71,64,203804
+Ted 2,Comedy  ,115,2015,63,48,189903
+Straight Outta Compton,"Biography, Drama, History  ",147,2015,78,72,184139
+Jupiter Ascending,"Action, Adventure, Sci-Fi  ",127,2015,53,40,181263
+Tomorrowland,"Action, Adventure, Family  ",130,2015,64,60,174569
+Black Mass,"Biography, Crime, Drama  ",123,2015,69,68,170449
+The Danish Girl,"Biography, Drama, Romance  ",119,2015,71,66,169071
+Cinderella,"Drama, Family, Fantasy  ",105,2015,69,67,164266
+Legend,"Biography, Crime, Drama  ",132,2015,69,55,163137
+The Age of Adaline,"Drama, Fantasy, Romance  ",112,2015,72,51,159087
+Steve Jobs,"Biography, Drama  ",122,2015,72,82,158831
+Fantastic Four,"Action, Adventure, Sci-Fi  ",100,2015,42,27,155673
+Mad Max: Fury Road,"Action, Adventure, Sci-Fi  ",120,2015,81,90,906184
+Star Wars: Episode VII - The Force Awakens,"Action, Adventure, Sci-Fi  ",138,2015,78,80,873258
+The Martian,"Adventure, Drama, Sci-Fi  ",144,2015,80,80,778727
+Avengers: Age of Ultron,"Action, Adventure, Sci-Fi  ",141,2015,73,66,770724
+The Revenant,"Action, Adventure, Drama  ",156,2015,80,76,724623
+Inside Out,"Animation, Adventure, Comedy  ",95,2015,81,94,636037
+Jurassic World,"Action, Adventure, Sci-Fi  ",124,2015,70,59,589763
+Ant-Man,"Action, Adventure, Comedy  ",117,2015,73,64,589356
+The Hateful Eight,"Crime, Drama, Mystery  ",168,2015,78,68,534061
+Spotlight,"Biography, Crime, Drama  ",129,2015,81,93,432285
+Spectre,"Action, Adventure, Thriller  ",148,2015,68,60,391040
+Room,"Drama, Thriller  ",118,2015,81,86,383274
+Sicario,"Action, Crime, Drama  ",121,2015,76,82,382914
+The Big Short,"Biography, Comedy, Drama  ",130,2015,78,81,377728
+Furious 7,"Action, Adventure, Thriller  ",137,2015,71,67,366179
+Mission: Impossible - Rogue Nation,"Action, Adventure, Thriller  ",131,2015,74,75,348621
+Fifty Shades of Grey,"Drama, Romance, Thriller  ",125,2015,41,46,302494
+The Hunger Games: Mockingjay - Part 2,"Action, Adventure, Sci-Fi  ",137,2015,66,65,294633
+Bridge of Spies,"Drama, History, Thriller  ",142,2015,76,81,293623
+The Man from U.N.C.L.E.,"Action, Adventure, Comedy  ",116,2015,73,56,283213
+Terminator Genisys,"Action, Adventure, Sci-Fi  ",126,2015,63,38,263269
+Creed,"Drama, Sport  ",133,2015,76,82,252841
+Spy,"Action, Comedy  ",120,2015,70,75,233540
+Chappie,"Action, Crime, Drama  ",120,2015,68,41,233515
+The Intern,"Comedy, Drama  ",121,2015,71,51,228576
+Maze Runner: The Scorch Trials,"Action, Adventure, Sci-Fi  ",131,2015,63,43,228340
+The Lobster,"Comedy, Drama, Romance  ",119,2015,72,82,227762
+Focus,"Comedy, Crime, Drama  ",105,2015,66,56,224750
+The Divergent Series: Insurgent,"Action, Adventure, Sci-Fi  ",119,2015,62,42,222146
+Southpaw,"Action, Drama, Sport  ",124,2015,74,57,222109
+San Andreas,"Action, Adventure, Thriller  ",114,2015,61,43,217827
+Minions,"Animation, Adventure, Comedy  ",91,2015,64,56,217048
+The Witch,"Drama, Horror, Mystery  ",92,2015,69,83,214629
+Everest,"Action, Adventure, Biography  ",121,2015,71,64,203804
+Ted 2,Comedy  ,115,2015,63,48,189903
+Straight Outta Compton,"Biography, Drama, History  ",147,2015,78,72,184139
+Jupiter Ascending,"Action, Adventure, Sci-Fi  ",127,2015,53,40,181263
+Tomorrowland,"Action, Adventure, Family  ",130,2015,64,60,174569
+Black Mass,"Biography, Crime, Drama  ",123,2015,69,68,170449
+The Danish Girl,"Biography, Drama, Romance  ",119,2015,71,66,169071
+Cinderella,"Drama, Family, Fantasy  ",105,2015,69,67,164266
+Legend,"Biography, Crime, Drama  ",132,2015,69,55,163137
+The Age of Adaline,"Drama, Fantasy, Romance  ",112,2015,72,51,159087
+Steve Jobs,"Biography, Drama  ",122,2015,72,82,158831
+Fantastic Four,"Action, Adventure, Sci-Fi  ",100,2015,42,27,155673

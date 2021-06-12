@@ -1,0 +1,496 @@
+Movie,Genre,Duration,Year,Imdb_rating,Metascore_rating,Votes
+Interstellar,"Adventure, Drama, Sci-Fi  ",169,2014,86,74,1567082
+Guardians of the Galaxy,"Action, Adventure, Comedy  ",121,2014,80,76,1067919
+Gone Girl,"Drama, Mystery, Thriller  ",149,2014,81,79,885863
+Captain America: The Winter Soldier,"Action, Adventure, Sci-Fi  ",136,2014,77,70,758089
+Whiplash,"Drama, Music  ",106,2014,85,88,742508
+The Grand Budapest Hotel,"Adventure, Comedy, Crime  ",99,2014,81,88,729264
+The Imitation Game,"Biography, Drama, Thriller  ",114,2014,80,73,702484
+X-Men: Days of Future Past,"Action, Adventure, Sci-Fi  ",132,2014,79,75,670359
+Edge of Tomorrow,"Action, Adventure, Sci-Fi  ",113,2014,79,71,614474
+Kingsman: The Secret Service,"Action, Adventure, Comedy  ",129,2014,77,60,603272
+Birdman or (The Unexpected Virtue of Ignorance),"Comedy, Drama  ",119,2014,77,87,591557
+John Wick,"Action, Crime, Thriller  ",101,2014,74,68,558668
+Ex Machina,"Drama, Sci-Fi, Thriller  ",108,2014,77,78,488041
+The Hobbit: The Battle of the Five Armies,"Adventure, Fantasy  ",144,2014,74,59,484686
+Nightcrawler,"Crime, Drama, Thriller  ",117,2014,78,76,481990
+Lucy,"Action, Sci-Fi, Thriller  ",89,2014,64,61,457207
+American Sniper,"Action, Biography, Drama  ",133,2014,73,72,449090
+Fury,"Action, Drama, War  ",134,2014,76,64,438917
+Divergent,"Action, Adventure, Mystery  ",139,2014,66,48,432737
+The Maze Runner,"Action, Mystery, Sci-Fi  ",113,2014,68,57,427948
+The Amazing Spider-Man 2,"Action, Adventure, Fantasy  ",142,2014,66,53,424955
+The Hunger Games: Mockingjay - Part 1,"Action, Adventure, Sci-Fi  ",123,2014,66,64,421856
+Big Hero 6,"Animation, Action, Adventure  ",102,2014,78,74,420179
+Dawn of the Planet of the Apes,"Action, Adventure, Drama  ",130,2014,76,79,417105
+The Theory of Everything,"Biography, Drama, Romance  ",123,2014,77,72,415040
+Godzilla,"Action, Adventure, Sci-Fi  ",123,2014,64,62,392481
+22 Jump Street,"Action, Comedy, Crime  ",112,2014,70,71,351862
+Maleficent,"Action, Adventure, Family  ",97,2014,70,56,350608
+The Fault in Our Stars,"Drama, Romance  ",126,2014,77,69,350524
+The Equalizer,"Action, Crime, Thriller  ",132,2014,72,57,342015
+Boyhood,Drama  ,165,2014,79,100,340162
+The Lego Movie,"Animation, Action, Adventure  ",100,2014,77,83,328988
+How to Train Your Dragon 2,"Animation, Action, Adventure  ",102,2014,78,76,311364
+The Interview,"Action, Adventure, Comedy  ",112,2014,65,52,311101
+Transformers: Age of Extinction,"Action, Adventure, Sci-Fi  ",165,2014,56,32,300982
+Neighbors,Comedy  ,97,2014,63,68,292244
+300: Rise of an Empire,"Action, Drama  ",102,2014,62,48,284940
+Predestination,"Action, Drama, Sci-Fi  ",97,2014,75,69,259930
+Non-Stop,"Action, Mystery, Thriller  ",106,2014,69,56,253373
+Noah,"Action, Adventure, Drama  ",138,2014,57,68,245913
+Transcendence,"Action, Drama, Sci-Fi  ",119,2014,62,42,219495
+RoboCop,"Action, Crime, Sci-Fi  ",117,2014,61,52,218647
+It Follows,"Horror, Mystery, Thriller  ",100,2014,68,83,215664
+Teenage Mutant Ninja Turtles,"Action, Adventure, Comedy  ",101,2014,58,31,202831
+The Babadook,"Drama, Horror, Mystery  ",94,2014,68,86,201905
+Interstellar,"Adventure, Drama, Sci-Fi  ",169,2014,86,74,1567082
+Guardians of the Galaxy,"Action, Adventure, Comedy  ",121,2014,80,76,1067919
+Gone Girl,"Drama, Mystery, Thriller  ",149,2014,81,79,885863
+Captain America: The Winter Soldier,"Action, Adventure, Sci-Fi  ",136,2014,77,70,758089
+Whiplash,"Drama, Music  ",106,2014,85,88,742508
+The Grand Budapest Hotel,"Adventure, Comedy, Crime  ",99,2014,81,88,729264
+The Imitation Game,"Biography, Drama, Thriller  ",114,2014,80,73,702484
+X-Men: Days of Future Past,"Action, Adventure, Sci-Fi  ",132,2014,79,75,670359
+Edge of Tomorrow,"Action, Adventure, Sci-Fi  ",113,2014,79,71,614474
+Kingsman: The Secret Service,"Action, Adventure, Comedy  ",129,2014,77,60,603272
+Birdman or (The Unexpected Virtue of Ignorance),"Comedy, Drama  ",119,2014,77,87,591557
+John Wick,"Action, Crime, Thriller  ",101,2014,74,68,558668
+Ex Machina,"Drama, Sci-Fi, Thriller  ",108,2014,77,78,488041
+The Hobbit: The Battle of the Five Armies,"Adventure, Fantasy  ",144,2014,74,59,484686
+Nightcrawler,"Crime, Drama, Thriller  ",117,2014,78,76,481990
+Lucy,"Action, Sci-Fi, Thriller  ",89,2014,64,61,457207
+American Sniper,"Action, Biography, Drama  ",133,2014,73,72,449090
+Fury,"Action, Drama, War  ",134,2014,76,64,438917
+Divergent,"Action, Adventure, Mystery  ",139,2014,66,48,432737
+The Maze Runner,"Action, Mystery, Sci-Fi  ",113,2014,68,57,427948
+The Amazing Spider-Man 2,"Action, Adventure, Fantasy  ",142,2014,66,53,424955
+The Hunger Games: Mockingjay - Part 1,"Action, Adventure, Sci-Fi  ",123,2014,66,64,421856
+Big Hero 6,"Animation, Action, Adventure  ",102,2014,78,74,420179
+Dawn of the Planet of the Apes,"Action, Adventure, Drama  ",130,2014,76,79,417105
+The Theory of Everything,"Biography, Drama, Romance  ",123,2014,77,72,415040
+Godzilla,"Action, Adventure, Sci-Fi  ",123,2014,64,62,392481
+22 Jump Street,"Action, Comedy, Crime  ",112,2014,70,71,351862
+Maleficent,"Action, Adventure, Family  ",97,2014,70,56,350608
+The Fault in Our Stars,"Drama, Romance  ",126,2014,77,69,350524
+The Equalizer,"Action, Crime, Thriller  ",132,2014,72,57,342015
+Boyhood,Drama  ,165,2014,79,100,340162
+The Lego Movie,"Animation, Action, Adventure  ",100,2014,77,83,328988
+How to Train Your Dragon 2,"Animation, Action, Adventure  ",102,2014,78,76,311364
+The Interview,"Action, Adventure, Comedy  ",112,2014,65,52,311101
+Transformers: Age of Extinction,"Action, Adventure, Sci-Fi  ",165,2014,56,32,300982
+Neighbors,Comedy  ,97,2014,63,68,292244
+300: Rise of an Empire,"Action, Drama  ",102,2014,62,48,284940
+Predestination,"Action, Drama, Sci-Fi  ",97,2014,75,69,259930
+Non-Stop,"Action, Mystery, Thriller  ",106,2014,69,56,253373
+Noah,"Action, Adventure, Drama  ",138,2014,57,68,245913
+Transcendence,"Action, Drama, Sci-Fi  ",119,2014,62,42,219495
+RoboCop,"Action, Crime, Sci-Fi  ",117,2014,61,52,218647
+It Follows,"Horror, Mystery, Thriller  ",100,2014,68,83,215664
+Teenage Mutant Ninja Turtles,"Action, Adventure, Comedy  ",101,2014,58,31,202831
+The Babadook,"Drama, Horror, Mystery  ",94,2014,68,86,201905
+Interstellar,"Adventure, Drama, Sci-Fi  ",169,2014,86,74,1567082
+Guardians of the Galaxy,"Action, Adventure, Comedy  ",121,2014,80,76,1067919
+Gone Girl,"Drama, Mystery, Thriller  ",149,2014,81,79,885863
+Captain America: The Winter Soldier,"Action, Adventure, Sci-Fi  ",136,2014,77,70,758089
+Whiplash,"Drama, Music  ",106,2014,85,88,742508
+The Grand Budapest Hotel,"Adventure, Comedy, Crime  ",99,2014,81,88,729264
+The Imitation Game,"Biography, Drama, Thriller  ",114,2014,80,73,702484
+X-Men: Days of Future Past,"Action, Adventure, Sci-Fi  ",132,2014,79,75,670359
+Edge of Tomorrow,"Action, Adventure, Sci-Fi  ",113,2014,79,71,614474
+Kingsman: The Secret Service,"Action, Adventure, Comedy  ",129,2014,77,60,603272
+Birdman or (The Unexpected Virtue of Ignorance),"Comedy, Drama  ",119,2014,77,87,591557
+John Wick,"Action, Crime, Thriller  ",101,2014,74,68,558668
+Ex Machina,"Drama, Sci-Fi, Thriller  ",108,2014,77,78,488041
+The Hobbit: The Battle of the Five Armies,"Adventure, Fantasy  ",144,2014,74,59,484686
+Nightcrawler,"Crime, Drama, Thriller  ",117,2014,78,76,481990
+Lucy,"Action, Sci-Fi, Thriller  ",89,2014,64,61,457207
+American Sniper,"Action, Biography, Drama  ",133,2014,73,72,449090
+Fury,"Action, Drama, War  ",134,2014,76,64,438917
+Divergent,"Action, Adventure, Mystery  ",139,2014,66,48,432737
+The Maze Runner,"Action, Mystery, Sci-Fi  ",113,2014,68,57,427948
+The Amazing Spider-Man 2,"Action, Adventure, Fantasy  ",142,2014,66,53,424955
+The Hunger Games: Mockingjay - Part 1,"Action, Adventure, Sci-Fi  ",123,2014,66,64,421856
+Big Hero 6,"Animation, Action, Adventure  ",102,2014,78,74,420179
+Dawn of the Planet of the Apes,"Action, Adventure, Drama  ",130,2014,76,79,417105
+The Theory of Everything,"Biography, Drama, Romance  ",123,2014,77,72,415040
+Godzilla,"Action, Adventure, Sci-Fi  ",123,2014,64,62,392481
+22 Jump Street,"Action, Comedy, Crime  ",112,2014,70,71,351862
+Maleficent,"Action, Adventure, Family  ",97,2014,70,56,350608
+The Fault in Our Stars,"Drama, Romance  ",126,2014,77,69,350524
+The Equalizer,"Action, Crime, Thriller  ",132,2014,72,57,342015
+Boyhood,Drama  ,165,2014,79,100,340162
+The Lego Movie,"Animation, Action, Adventure  ",100,2014,77,83,328988
+How to Train Your Dragon 2,"Animation, Action, Adventure  ",102,2014,78,76,311364
+The Interview,"Action, Adventure, Comedy  ",112,2014,65,52,311101
+Transformers: Age of Extinction,"Action, Adventure, Sci-Fi  ",165,2014,56,32,300982
+Neighbors,Comedy  ,97,2014,63,68,292244
+300: Rise of an Empire,"Action, Drama  ",102,2014,62,48,284940
+Predestination,"Action, Drama, Sci-Fi  ",97,2014,75,69,259930
+Non-Stop,"Action, Mystery, Thriller  ",106,2014,69,56,253373
+Noah,"Action, Adventure, Drama  ",138,2014,57,68,245913
+Transcendence,"Action, Drama, Sci-Fi  ",119,2014,62,42,219495
+RoboCop,"Action, Crime, Sci-Fi  ",117,2014,61,52,218647
+It Follows,"Horror, Mystery, Thriller  ",100,2014,68,83,215664
+Teenage Mutant Ninja Turtles,"Action, Adventure, Comedy  ",101,2014,58,31,202831
+The Babadook,"Drama, Horror, Mystery  ",94,2014,68,86,201905
+Interstellar,"Adventure, Drama, Sci-Fi  ",169,2014,86,74,1567082
+Guardians of the Galaxy,"Action, Adventure, Comedy  ",121,2014,80,76,1067919
+Gone Girl,"Drama, Mystery, Thriller  ",149,2014,81,79,885863
+Captain America: The Winter Soldier,"Action, Adventure, Sci-Fi  ",136,2014,77,70,758089
+Whiplash,"Drama, Music  ",106,2014,85,88,742508
+The Grand Budapest Hotel,"Adventure, Comedy, Crime  ",99,2014,81,88,729264
+The Imitation Game,"Biography, Drama, Thriller  ",114,2014,80,73,702484
+X-Men: Days of Future Past,"Action, Adventure, Sci-Fi  ",132,2014,79,75,670359
+Edge of Tomorrow,"Action, Adventure, Sci-Fi  ",113,2014,79,71,614474
+Kingsman: The Secret Service,"Action, Adventure, Comedy  ",129,2014,77,60,603272
+Birdman or (The Unexpected Virtue of Ignorance),"Comedy, Drama  ",119,2014,77,87,591557
+John Wick,"Action, Crime, Thriller  ",101,2014,74,68,558668
+Ex Machina,"Drama, Sci-Fi, Thriller  ",108,2014,77,78,488041
+The Hobbit: The Battle of the Five Armies,"Adventure, Fantasy  ",144,2014,74,59,484686
+Nightcrawler,"Crime, Drama, Thriller  ",117,2014,78,76,481990
+Lucy,"Action, Sci-Fi, Thriller  ",89,2014,64,61,457207
+American Sniper,"Action, Biography, Drama  ",133,2014,73,72,449090
+Fury,"Action, Drama, War  ",134,2014,76,64,438917
+Divergent,"Action, Adventure, Mystery  ",139,2014,66,48,432737
+The Maze Runner,"Action, Mystery, Sci-Fi  ",113,2014,68,57,427948
+The Amazing Spider-Man 2,"Action, Adventure, Fantasy  ",142,2014,66,53,424955
+The Hunger Games: Mockingjay - Part 1,"Action, Adventure, Sci-Fi  ",123,2014,66,64,421856
+Big Hero 6,"Animation, Action, Adventure  ",102,2014,78,74,420179
+Dawn of the Planet of the Apes,"Action, Adventure, Drama  ",130,2014,76,79,417105
+The Theory of Everything,"Biography, Drama, Romance  ",123,2014,77,72,415040
+Godzilla,"Action, Adventure, Sci-Fi  ",123,2014,64,62,392481
+22 Jump Street,"Action, Comedy, Crime  ",112,2014,70,71,351862
+Maleficent,"Action, Adventure, Family  ",97,2014,70,56,350608
+The Fault in Our Stars,"Drama, Romance  ",126,2014,77,69,350524
+The Equalizer,"Action, Crime, Thriller  ",132,2014,72,57,342015
+Boyhood,Drama  ,165,2014,79,100,340162
+The Lego Movie,"Animation, Action, Adventure  ",100,2014,77,83,328988
+How to Train Your Dragon 2,"Animation, Action, Adventure  ",102,2014,78,76,311364
+The Interview,"Action, Adventure, Comedy  ",112,2014,65,52,311101
+Transformers: Age of Extinction,"Action, Adventure, Sci-Fi  ",165,2014,56,32,300982
+Neighbors,Comedy  ,97,2014,63,68,292244
+300: Rise of an Empire,"Action, Drama  ",102,2014,62,48,284940
+Predestination,"Action, Drama, Sci-Fi  ",97,2014,75,69,259930
+Non-Stop,"Action, Mystery, Thriller  ",106,2014,69,56,253373
+Noah,"Action, Adventure, Drama  ",138,2014,57,68,245913
+Transcendence,"Action, Drama, Sci-Fi  ",119,2014,62,42,219495
+RoboCop,"Action, Crime, Sci-Fi  ",117,2014,61,52,218647
+It Follows,"Horror, Mystery, Thriller  ",100,2014,68,83,215664
+Teenage Mutant Ninja Turtles,"Action, Adventure, Comedy  ",101,2014,58,31,202831
+The Babadook,"Drama, Horror, Mystery  ",94,2014,68,86,201905
+Interstellar,"Adventure, Drama, Sci-Fi  ",169,2014,86,74,1567082
+Guardians of the Galaxy,"Action, Adventure, Comedy  ",121,2014,80,76,1067919
+Gone Girl,"Drama, Mystery, Thriller  ",149,2014,81,79,885863
+Captain America: The Winter Soldier,"Action, Adventure, Sci-Fi  ",136,2014,77,70,758089
+Whiplash,"Drama, Music  ",106,2014,85,88,742508
+The Grand Budapest Hotel,"Adventure, Comedy, Crime  ",99,2014,81,88,729264
+The Imitation Game,"Biography, Drama, Thriller  ",114,2014,80,73,702484
+X-Men: Days of Future Past,"Action, Adventure, Sci-Fi  ",132,2014,79,75,670359
+Edge of Tomorrow,"Action, Adventure, Sci-Fi  ",113,2014,79,71,614474
+Kingsman: The Secret Service,"Action, Adventure, Comedy  ",129,2014,77,60,603272
+Birdman or (The Unexpected Virtue of Ignorance),"Comedy, Drama  ",119,2014,77,87,591557
+John Wick,"Action, Crime, Thriller  ",101,2014,74,68,558668
+Ex Machina,"Drama, Sci-Fi, Thriller  ",108,2014,77,78,488041
+The Hobbit: The Battle of the Five Armies,"Adventure, Fantasy  ",144,2014,74,59,484686
+Nightcrawler,"Crime, Drama, Thriller  ",117,2014,78,76,481990
+Lucy,"Action, Sci-Fi, Thriller  ",89,2014,64,61,457207
+American Sniper,"Action, Biography, Drama  ",133,2014,73,72,449090
+Fury,"Action, Drama, War  ",134,2014,76,64,438917
+Divergent,"Action, Adventure, Mystery  ",139,2014,66,48,432737
+The Maze Runner,"Action, Mystery, Sci-Fi  ",113,2014,68,57,427948
+The Amazing Spider-Man 2,"Action, Adventure, Fantasy  ",142,2014,66,53,424955
+The Hunger Games: Mockingjay - Part 1,"Action, Adventure, Sci-Fi  ",123,2014,66,64,421856
+Big Hero 6,"Animation, Action, Adventure  ",102,2014,78,74,420179
+Dawn of the Planet of the Apes,"Action, Adventure, Drama  ",130,2014,76,79,417105
+The Theory of Everything,"Biography, Drama, Romance  ",123,2014,77,72,415040
+Godzilla,"Action, Adventure, Sci-Fi  ",123,2014,64,62,392481
+22 Jump Street,"Action, Comedy, Crime  ",112,2014,70,71,351862
+Maleficent,"Action, Adventure, Family  ",97,2014,70,56,350608
+The Fault in Our Stars,"Drama, Romance  ",126,2014,77,69,350524
+The Equalizer,"Action, Crime, Thriller  ",132,2014,72,57,342015
+Boyhood,Drama  ,165,2014,79,100,340162
+The Lego Movie,"Animation, Action, Adventure  ",100,2014,77,83,328988
+How to Train Your Dragon 2,"Animation, Action, Adventure  ",102,2014,78,76,311364
+The Interview,"Action, Adventure, Comedy  ",112,2014,65,52,311101
+Transformers: Age of Extinction,"Action, Adventure, Sci-Fi  ",165,2014,56,32,300982
+Neighbors,Comedy  ,97,2014,63,68,292244
+300: Rise of an Empire,"Action, Drama  ",102,2014,62,48,284940
+Predestination,"Action, Drama, Sci-Fi  ",97,2014,75,69,259930
+Non-Stop,"Action, Mystery, Thriller  ",106,2014,69,56,253373
+Noah,"Action, Adventure, Drama  ",138,2014,57,68,245913
+Transcendence,"Action, Drama, Sci-Fi  ",119,2014,62,42,219495
+RoboCop,"Action, Crime, Sci-Fi  ",117,2014,61,52,218647
+It Follows,"Horror, Mystery, Thriller  ",100,2014,68,83,215664
+Teenage Mutant Ninja Turtles,"Action, Adventure, Comedy  ",101,2014,58,31,202831
+The Babadook,"Drama, Horror, Mystery  ",94,2014,68,86,201905
+Interstellar,"Adventure, Drama, Sci-Fi  ",169,2014,86,74,1567082
+Guardians of the Galaxy,"Action, Adventure, Comedy  ",121,2014,80,76,1067919
+Gone Girl,"Drama, Mystery, Thriller  ",149,2014,81,79,885863
+Captain America: The Winter Soldier,"Action, Adventure, Sci-Fi  ",136,2014,77,70,758089
+Whiplash,"Drama, Music  ",106,2014,85,88,742508
+The Grand Budapest Hotel,"Adventure, Comedy, Crime  ",99,2014,81,88,729264
+The Imitation Game,"Biography, Drama, Thriller  ",114,2014,80,73,702484
+X-Men: Days of Future Past,"Action, Adventure, Sci-Fi  ",132,2014,79,75,670359
+Edge of Tomorrow,"Action, Adventure, Sci-Fi  ",113,2014,79,71,614474
+Kingsman: The Secret Service,"Action, Adventure, Comedy  ",129,2014,77,60,603272
+Birdman or (The Unexpected Virtue of Ignorance),"Comedy, Drama  ",119,2014,77,87,591557
+John Wick,"Action, Crime, Thriller  ",101,2014,74,68,558668
+Ex Machina,"Drama, Sci-Fi, Thriller  ",108,2014,77,78,488041
+The Hobbit: The Battle of the Five Armies,"Adventure, Fantasy  ",144,2014,74,59,484686
+Nightcrawler,"Crime, Drama, Thriller  ",117,2014,78,76,481990
+Lucy,"Action, Sci-Fi, Thriller  ",89,2014,64,61,457207
+American Sniper,"Action, Biography, Drama  ",133,2014,73,72,449090
+Fury,"Action, Drama, War  ",134,2014,76,64,438917
+Divergent,"Action, Adventure, Mystery  ",139,2014,66,48,432737
+The Maze Runner,"Action, Mystery, Sci-Fi  ",113,2014,68,57,427948
+The Amazing Spider-Man 2,"Action, Adventure, Fantasy  ",142,2014,66,53,424955
+The Hunger Games: Mockingjay - Part 1,"Action, Adventure, Sci-Fi  ",123,2014,66,64,421856
+Big Hero 6,"Animation, Action, Adventure  ",102,2014,78,74,420179
+Dawn of the Planet of the Apes,"Action, Adventure, Drama  ",130,2014,76,79,417105
+The Theory of Everything,"Biography, Drama, Romance  ",123,2014,77,72,415040
+Godzilla,"Action, Adventure, Sci-Fi  ",123,2014,64,62,392481
+22 Jump Street,"Action, Comedy, Crime  ",112,2014,70,71,351862
+Maleficent,"Action, Adventure, Family  ",97,2014,70,56,350608
+The Fault in Our Stars,"Drama, Romance  ",126,2014,77,69,350524
+The Equalizer,"Action, Crime, Thriller  ",132,2014,72,57,342015
+Boyhood,Drama  ,165,2014,79,100,340162
+The Lego Movie,"Animation, Action, Adventure  ",100,2014,77,83,328988
+How to Train Your Dragon 2,"Animation, Action, Adventure  ",102,2014,78,76,311364
+The Interview,"Action, Adventure, Comedy  ",112,2014,65,52,311101
+Transformers: Age of Extinction,"Action, Adventure, Sci-Fi  ",165,2014,56,32,300982
+Neighbors,Comedy  ,97,2014,63,68,292244
+300: Rise of an Empire,"Action, Drama  ",102,2014,62,48,284940
+Predestination,"Action, Drama, Sci-Fi  ",97,2014,75,69,259930
+Non-Stop,"Action, Mystery, Thriller  ",106,2014,69,56,253373
+Noah,"Action, Adventure, Drama  ",138,2014,57,68,245913
+Transcendence,"Action, Drama, Sci-Fi  ",119,2014,62,42,219495
+RoboCop,"Action, Crime, Sci-Fi  ",117,2014,61,52,218647
+It Follows,"Horror, Mystery, Thriller  ",100,2014,68,83,215664
+Teenage Mutant Ninja Turtles,"Action, Adventure, Comedy  ",101,2014,58,31,202831
+The Babadook,"Drama, Horror, Mystery  ",94,2014,68,86,201905
+Interstellar,"Adventure, Drama, Sci-Fi  ",169,2014,86,74,1567082
+Guardians of the Galaxy,"Action, Adventure, Comedy  ",121,2014,80,76,1067919
+Gone Girl,"Drama, Mystery, Thriller  ",149,2014,81,79,885863
+Captain America: The Winter Soldier,"Action, Adventure, Sci-Fi  ",136,2014,77,70,758089
+Whiplash,"Drama, Music  ",106,2014,85,88,742508
+The Grand Budapest Hotel,"Adventure, Comedy, Crime  ",99,2014,81,88,729264
+The Imitation Game,"Biography, Drama, Thriller  ",114,2014,80,73,702484
+X-Men: Days of Future Past,"Action, Adventure, Sci-Fi  ",132,2014,79,75,670359
+Edge of Tomorrow,"Action, Adventure, Sci-Fi  ",113,2014,79,71,614474
+Kingsman: The Secret Service,"Action, Adventure, Comedy  ",129,2014,77,60,603272
+Birdman or (The Unexpected Virtue of Ignorance),"Comedy, Drama  ",119,2014,77,87,591557
+John Wick,"Action, Crime, Thriller  ",101,2014,74,68,558668
+Ex Machina,"Drama, Sci-Fi, Thriller  ",108,2014,77,78,488041
+The Hobbit: The Battle of the Five Armies,"Adventure, Fantasy  ",144,2014,74,59,484686
+Nightcrawler,"Crime, Drama, Thriller  ",117,2014,78,76,481990
+Lucy,"Action, Sci-Fi, Thriller  ",89,2014,64,61,457207
+American Sniper,"Action, Biography, Drama  ",133,2014,73,72,449090
+Fury,"Action, Drama, War  ",134,2014,76,64,438917
+Divergent,"Action, Adventure, Mystery  ",139,2014,66,48,432737
+The Maze Runner,"Action, Mystery, Sci-Fi  ",113,2014,68,57,427948
+The Amazing Spider-Man 2,"Action, Adventure, Fantasy  ",142,2014,66,53,424955
+The Hunger Games: Mockingjay - Part 1,"Action, Adventure, Sci-Fi  ",123,2014,66,64,421856
+Big Hero 6,"Animation, Action, Adventure  ",102,2014,78,74,420179
+Dawn of the Planet of the Apes,"Action, Adventure, Drama  ",130,2014,76,79,417105
+The Theory of Everything,"Biography, Drama, Romance  ",123,2014,77,72,415040
+Godzilla,"Action, Adventure, Sci-Fi  ",123,2014,64,62,392481
+22 Jump Street,"Action, Comedy, Crime  ",112,2014,70,71,351862
+Maleficent,"Action, Adventure, Family  ",97,2014,70,56,350608
+The Fault in Our Stars,"Drama, Romance  ",126,2014,77,69,350524
+The Equalizer,"Action, Crime, Thriller  ",132,2014,72,57,342015
+Boyhood,Drama  ,165,2014,79,100,340162
+The Lego Movie,"Animation, Action, Adventure  ",100,2014,77,83,328988
+How to Train Your Dragon 2,"Animation, Action, Adventure  ",102,2014,78,76,311364
+The Interview,"Action, Adventure, Comedy  ",112,2014,65,52,311101
+Transformers: Age of Extinction,"Action, Adventure, Sci-Fi  ",165,2014,56,32,300982
+Neighbors,Comedy  ,97,2014,63,68,292244
+300: Rise of an Empire,"Action, Drama  ",102,2014,62,48,284940
+Predestination,"Action, Drama, Sci-Fi  ",97,2014,75,69,259930
+Non-Stop,"Action, Mystery, Thriller  ",106,2014,69,56,253373
+Noah,"Action, Adventure, Drama  ",138,2014,57,68,245913
+Transcendence,"Action, Drama, Sci-Fi  ",119,2014,62,42,219495
+RoboCop,"Action, Crime, Sci-Fi  ",117,2014,61,52,218647
+It Follows,"Horror, Mystery, Thriller  ",100,2014,68,83,215664
+Teenage Mutant Ninja Turtles,"Action, Adventure, Comedy  ",101,2014,58,31,202831
+The Babadook,"Drama, Horror, Mystery  ",94,2014,68,86,201905
+Interstellar,"Adventure, Drama, Sci-Fi  ",169,2014,86,74,1567082
+Guardians of the Galaxy,"Action, Adventure, Comedy  ",121,2014,80,76,1067919
+Gone Girl,"Drama, Mystery, Thriller  ",149,2014,81,79,885863
+Captain America: The Winter Soldier,"Action, Adventure, Sci-Fi  ",136,2014,77,70,758089
+Whiplash,"Drama, Music  ",106,2014,85,88,742508
+The Grand Budapest Hotel,"Adventure, Comedy, Crime  ",99,2014,81,88,729264
+The Imitation Game,"Biography, Drama, Thriller  ",114,2014,80,73,702484
+X-Men: Days of Future Past,"Action, Adventure, Sci-Fi  ",132,2014,79,75,670359
+Edge of Tomorrow,"Action, Adventure, Sci-Fi  ",113,2014,79,71,614474
+Kingsman: The Secret Service,"Action, Adventure, Comedy  ",129,2014,77,60,603272
+Birdman or (The Unexpected Virtue of Ignorance),"Comedy, Drama  ",119,2014,77,87,591557
+John Wick,"Action, Crime, Thriller  ",101,2014,74,68,558668
+Ex Machina,"Drama, Sci-Fi, Thriller  ",108,2014,77,78,488041
+The Hobbit: The Battle of the Five Armies,"Adventure, Fantasy  ",144,2014,74,59,484686
+Nightcrawler,"Crime, Drama, Thriller  ",117,2014,78,76,481990
+Lucy,"Action, Sci-Fi, Thriller  ",89,2014,64,61,457207
+American Sniper,"Action, Biography, Drama  ",133,2014,73,72,449090
+Fury,"Action, Drama, War  ",134,2014,76,64,438917
+Divergent,"Action, Adventure, Mystery  ",139,2014,66,48,432737
+The Maze Runner,"Action, Mystery, Sci-Fi  ",113,2014,68,57,427948
+The Amazing Spider-Man 2,"Action, Adventure, Fantasy  ",142,2014,66,53,424955
+The Hunger Games: Mockingjay - Part 1,"Action, Adventure, Sci-Fi  ",123,2014,66,64,421856
+Big Hero 6,"Animation, Action, Adventure  ",102,2014,78,74,420179
+Dawn of the Planet of the Apes,"Action, Adventure, Drama  ",130,2014,76,79,417105
+The Theory of Everything,"Biography, Drama, Romance  ",123,2014,77,72,415040
+Godzilla,"Action, Adventure, Sci-Fi  ",123,2014,64,62,392481
+22 Jump Street,"Action, Comedy, Crime  ",112,2014,70,71,351862
+Maleficent,"Action, Adventure, Family  ",97,2014,70,56,350608
+The Fault in Our Stars,"Drama, Romance  ",126,2014,77,69,350524
+The Equalizer,"Action, Crime, Thriller  ",132,2014,72,57,342015
+Boyhood,Drama  ,165,2014,79,100,340162
+The Lego Movie,"Animation, Action, Adventure  ",100,2014,77,83,328988
+How to Train Your Dragon 2,"Animation, Action, Adventure  ",102,2014,78,76,311364
+The Interview,"Action, Adventure, Comedy  ",112,2014,65,52,311101
+Transformers: Age of Extinction,"Action, Adventure, Sci-Fi  ",165,2014,56,32,300982
+Neighbors,Comedy  ,97,2014,63,68,292244
+300: Rise of an Empire,"Action, Drama  ",102,2014,62,48,284940
+Predestination,"Action, Drama, Sci-Fi  ",97,2014,75,69,259930
+Non-Stop,"Action, Mystery, Thriller  ",106,2014,69,56,253373
+Noah,"Action, Adventure, Drama  ",138,2014,57,68,245913
+Transcendence,"Action, Drama, Sci-Fi  ",119,2014,62,42,219495
+RoboCop,"Action, Crime, Sci-Fi  ",117,2014,61,52,218647
+It Follows,"Horror, Mystery, Thriller  ",100,2014,68,83,215664
+Teenage Mutant Ninja Turtles,"Action, Adventure, Comedy  ",101,2014,58,31,202831
+The Babadook,"Drama, Horror, Mystery  ",94,2014,68,86,201905
+Interstellar,"Adventure, Drama, Sci-Fi  ",169,2014,86,74,1567082
+Guardians of the Galaxy,"Action, Adventure, Comedy  ",121,2014,80,76,1067919
+Gone Girl,"Drama, Mystery, Thriller  ",149,2014,81,79,885863
+Captain America: The Winter Soldier,"Action, Adventure, Sci-Fi  ",136,2014,77,70,758089
+Whiplash,"Drama, Music  ",106,2014,85,88,742508
+The Grand Budapest Hotel,"Adventure, Comedy, Crime  ",99,2014,81,88,729264
+The Imitation Game,"Biography, Drama, Thriller  ",114,2014,80,73,702484
+X-Men: Days of Future Past,"Action, Adventure, Sci-Fi  ",132,2014,79,75,670359
+Edge of Tomorrow,"Action, Adventure, Sci-Fi  ",113,2014,79,71,614474
+Kingsman: The Secret Service,"Action, Adventure, Comedy  ",129,2014,77,60,603272
+Birdman or (The Unexpected Virtue of Ignorance),"Comedy, Drama  ",119,2014,77,87,591557
+John Wick,"Action, Crime, Thriller  ",101,2014,74,68,558668
+Ex Machina,"Drama, Sci-Fi, Thriller  ",108,2014,77,78,488041
+The Hobbit: The Battle of the Five Armies,"Adventure, Fantasy  ",144,2014,74,59,484686
+Nightcrawler,"Crime, Drama, Thriller  ",117,2014,78,76,481990
+Lucy,"Action, Sci-Fi, Thriller  ",89,2014,64,61,457207
+American Sniper,"Action, Biography, Drama  ",133,2014,73,72,449090
+Fury,"Action, Drama, War  ",134,2014,76,64,438917
+Divergent,"Action, Adventure, Mystery  ",139,2014,66,48,432737
+The Maze Runner,"Action, Mystery, Sci-Fi  ",113,2014,68,57,427948
+The Amazing Spider-Man 2,"Action, Adventure, Fantasy  ",142,2014,66,53,424955
+The Hunger Games: Mockingjay - Part 1,"Action, Adventure, Sci-Fi  ",123,2014,66,64,421856
+Big Hero 6,"Animation, Action, Adventure  ",102,2014,78,74,420179
+Dawn of the Planet of the Apes,"Action, Adventure, Drama  ",130,2014,76,79,417105
+The Theory of Everything,"Biography, Drama, Romance  ",123,2014,77,72,415040
+Godzilla,"Action, Adventure, Sci-Fi  ",123,2014,64,62,392481
+22 Jump Street,"Action, Comedy, Crime  ",112,2014,70,71,351862
+Maleficent,"Action, Adventure, Family  ",97,2014,70,56,350608
+The Fault in Our Stars,"Drama, Romance  ",126,2014,77,69,350524
+The Equalizer,"Action, Crime, Thriller  ",132,2014,72,57,342015
+Boyhood,Drama  ,165,2014,79,100,340162
+The Lego Movie,"Animation, Action, Adventure  ",100,2014,77,83,328988
+How to Train Your Dragon 2,"Animation, Action, Adventure  ",102,2014,78,76,311364
+The Interview,"Action, Adventure, Comedy  ",112,2014,65,52,311101
+Transformers: Age of Extinction,"Action, Adventure, Sci-Fi  ",165,2014,56,32,300982
+Neighbors,Comedy  ,97,2014,63,68,292244
+300: Rise of an Empire,"Action, Drama  ",102,2014,62,48,284940
+Predestination,"Action, Drama, Sci-Fi  ",97,2014,75,69,259930
+Non-Stop,"Action, Mystery, Thriller  ",106,2014,69,56,253373
+Noah,"Action, Adventure, Drama  ",138,2014,57,68,245913
+Transcendence,"Action, Drama, Sci-Fi  ",119,2014,62,42,219495
+RoboCop,"Action, Crime, Sci-Fi  ",117,2014,61,52,218647
+It Follows,"Horror, Mystery, Thriller  ",100,2014,68,83,215664
+Teenage Mutant Ninja Turtles,"Action, Adventure, Comedy  ",101,2014,58,31,202831
+The Babadook,"Drama, Horror, Mystery  ",94,2014,68,86,201905
+Interstellar,"Adventure, Drama, Sci-Fi  ",169,2014,86,74,1567082
+Guardians of the Galaxy,"Action, Adventure, Comedy  ",121,2014,80,76,1067919
+Gone Girl,"Drama, Mystery, Thriller  ",149,2014,81,79,885863
+Captain America: The Winter Soldier,"Action, Adventure, Sci-Fi  ",136,2014,77,70,758089
+Whiplash,"Drama, Music  ",106,2014,85,88,742508
+The Grand Budapest Hotel,"Adventure, Comedy, Crime  ",99,2014,81,88,729264
+The Imitation Game,"Biography, Drama, Thriller  ",114,2014,80,73,702484
+X-Men: Days of Future Past,"Action, Adventure, Sci-Fi  ",132,2014,79,75,670359
+Edge of Tomorrow,"Action, Adventure, Sci-Fi  ",113,2014,79,71,614474
+Kingsman: The Secret Service,"Action, Adventure, Comedy  ",129,2014,77,60,603272
+Birdman or (The Unexpected Virtue of Ignorance),"Comedy, Drama  ",119,2014,77,87,591557
+John Wick,"Action, Crime, Thriller  ",101,2014,74,68,558668
+Ex Machina,"Drama, Sci-Fi, Thriller  ",108,2014,77,78,488041
+The Hobbit: The Battle of the Five Armies,"Adventure, Fantasy  ",144,2014,74,59,484686
+Nightcrawler,"Crime, Drama, Thriller  ",117,2014,78,76,481990
+Lucy,"Action, Sci-Fi, Thriller  ",89,2014,64,61,457207
+American Sniper,"Action, Biography, Drama  ",133,2014,73,72,449090
+Fury,"Action, Drama, War  ",134,2014,76,64,438917
+Divergent,"Action, Adventure, Mystery  ",139,2014,66,48,432737
+The Maze Runner,"Action, Mystery, Sci-Fi  ",113,2014,68,57,427948
+The Amazing Spider-Man 2,"Action, Adventure, Fantasy  ",142,2014,66,53,424955
+The Hunger Games: Mockingjay - Part 1,"Action, Adventure, Sci-Fi  ",123,2014,66,64,421856
+Big Hero 6,"Animation, Action, Adventure  ",102,2014,78,74,420179
+Dawn of the Planet of the Apes,"Action, Adventure, Drama  ",130,2014,76,79,417105
+The Theory of Everything,"Biography, Drama, Romance  ",123,2014,77,72,415040
+Godzilla,"Action, Adventure, Sci-Fi  ",123,2014,64,62,392481
+22 Jump Street,"Action, Comedy, Crime  ",112,2014,70,71,351862
+Maleficent,"Action, Adventure, Family  ",97,2014,70,56,350608
+The Fault in Our Stars,"Drama, Romance  ",126,2014,77,69,350524
+The Equalizer,"Action, Crime, Thriller  ",132,2014,72,57,342015
+Boyhood,Drama  ,165,2014,79,100,340162
+The Lego Movie,"Animation, Action, Adventure  ",100,2014,77,83,328988
+How to Train Your Dragon 2,"Animation, Action, Adventure  ",102,2014,78,76,311364
+The Interview,"Action, Adventure, Comedy  ",112,2014,65,52,311101
+Transformers: Age of Extinction,"Action, Adventure, Sci-Fi  ",165,2014,56,32,300982
+Neighbors,Comedy  ,97,2014,63,68,292244
+300: Rise of an Empire,"Action, Drama  ",102,2014,62,48,284940
+Predestination,"Action, Drama, Sci-Fi  ",97,2014,75,69,259930
+Non-Stop,"Action, Mystery, Thriller  ",106,2014,69,56,253373
+Noah,"Action, Adventure, Drama  ",138,2014,57,68,245913
+Transcendence,"Action, Drama, Sci-Fi  ",119,2014,62,42,219495
+RoboCop,"Action, Crime, Sci-Fi  ",117,2014,61,52,218647
+It Follows,"Horror, Mystery, Thriller  ",100,2014,68,83,215664
+Teenage Mutant Ninja Turtles,"Action, Adventure, Comedy  ",101,2014,58,31,202831
+The Babadook,"Drama, Horror, Mystery  ",94,2014,68,86,201905
+Interstellar,"Adventure, Drama, Sci-Fi  ",169,2014,86,74,1567082
+Guardians of the Galaxy,"Action, Adventure, Comedy  ",121,2014,80,76,1067919
+Gone Girl,"Drama, Mystery, Thriller  ",149,2014,81,79,885863
+Captain America: The Winter Soldier,"Action, Adventure, Sci-Fi  ",136,2014,77,70,758089
+Whiplash,"Drama, Music  ",106,2014,85,88,742508
+The Grand Budapest Hotel,"Adventure, Comedy, Crime  ",99,2014,81,88,729264
+The Imitation Game,"Biography, Drama, Thriller  ",114,2014,80,73,702484
+X-Men: Days of Future Past,"Action, Adventure, Sci-Fi  ",132,2014,79,75,670359
+Edge of Tomorrow,"Action, Adventure, Sci-Fi  ",113,2014,79,71,614474
+Kingsman: The Secret Service,"Action, Adventure, Comedy  ",129,2014,77,60,603272
+Birdman or (The Unexpected Virtue of Ignorance),"Comedy, Drama  ",119,2014,77,87,591557
+John Wick,"Action, Crime, Thriller  ",101,2014,74,68,558668
+Ex Machina,"Drama, Sci-Fi, Thriller  ",108,2014,77,78,488041
+The Hobbit: The Battle of the Five Armies,"Adventure, Fantasy  ",144,2014,74,59,484686
+Nightcrawler,"Crime, Drama, Thriller  ",117,2014,78,76,481990
+Lucy,"Action, Sci-Fi, Thriller  ",89,2014,64,61,457207
+American Sniper,"Action, Biography, Drama  ",133,2014,73,72,449090
+Fury,"Action, Drama, War  ",134,2014,76,64,438917
+Divergent,"Action, Adventure, Mystery  ",139,2014,66,48,432737
+The Maze Runner,"Action, Mystery, Sci-Fi  ",113,2014,68,57,427948
+The Amazing Spider-Man 2,"Action, Adventure, Fantasy  ",142,2014,66,53,424955
+The Hunger Games: Mockingjay - Part 1,"Action, Adventure, Sci-Fi  ",123,2014,66,64,421856
+Big Hero 6,"Animation, Action, Adventure  ",102,2014,78,74,420179
+Dawn of the Planet of the Apes,"Action, Adventure, Drama  ",130,2014,76,79,417105
+The Theory of Everything,"Biography, Drama, Romance  ",123,2014,77,72,415040
+Godzilla,"Action, Adventure, Sci-Fi  ",123,2014,64,62,392481
+22 Jump Street,"Action, Comedy, Crime  ",112,2014,70,71,351862
+Maleficent,"Action, Adventure, Family  ",97,2014,70,56,350608
+The Fault in Our Stars,"Drama, Romance  ",126,2014,77,69,350524
+The Equalizer,"Action, Crime, Thriller  ",132,2014,72,57,342015
+Boyhood,Drama  ,165,2014,79,100,340162
+The Lego Movie,"Animation, Action, Adventure  ",100,2014,77,83,328988
+How to Train Your Dragon 2,"Animation, Action, Adventure  ",102,2014,78,76,311364
+The Interview,"Action, Adventure, Comedy  ",112,2014,65,52,311101
+Transformers: Age of Extinction,"Action, Adventure, Sci-Fi  ",165,2014,56,32,300982
+Neighbors,Comedy  ,97,2014,63,68,292244
+300: Rise of an Empire,"Action, Drama  ",102,2014,62,48,284940
+Predestination,"Action, Drama, Sci-Fi  ",97,2014,75,69,259930
+Non-Stop,"Action, Mystery, Thriller  ",106,2014,69,56,253373
+Noah,"Action, Adventure, Drama  ",138,2014,57,68,245913
+Transcendence,"Action, Drama, Sci-Fi  ",119,2014,62,42,219495
+RoboCop,"Action, Crime, Sci-Fi  ",117,2014,61,52,218647
+It Follows,"Horror, Mystery, Thriller  ",100,2014,68,83,215664
+Teenage Mutant Ninja Turtles,"Action, Adventure, Comedy  ",101,2014,58,31,202831
+The Babadook,"Drama, Horror, Mystery  ",94,2014,68,86,201905

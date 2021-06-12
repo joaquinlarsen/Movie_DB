@@ -1,253 +1,397 @@
 Movie,Genre,Duration,Year,Imdb_rating,Metascore_rating,Votes
-Tenet,"Action, Sci-Fi, Thriller  ",150,2020,74,69,356196
-Soul,"Animation, Adventure, Comedy  ",100,2020,81,83,242868
-Wonder Woman 1984,"Action, Adventure, Fantasy  ",151,2020,54,60,204204
-Birds of Prey,"Action, Adventure, Comedy  ",109,2020,61,60,183962
-The Invisible Man,"Drama, Horror, Mystery  ",124,2020,71,72,180999
-Extraction,"Action, Thriller  ",116,2020,67,56,168096
-The Trial of the Chicago 7,"Drama, History, Thriller  ",129,2020,78,76,145679
-Enola Holmes,"Action, Adventure, Crime  ",123,2020,66,68,138936
-Bad Boys for Life,"Action, Comedy, Crime  ",124,2020,66,59,137125
-The Old Guard,"Action, Adventure, Fantasy  ",125,2020,67,70,136140
-Borat Subsequent Moviefilm,Comedy  ,95,2020,67,68,123049
-Mulan,"Action, Adventure, Drama  ",115,2020,57,66,121835
-Onward,"Animation, Adventure, Comedy  ",102,2020,74,61,114030
-Palm Springs,"Comedy, Fantasy, Mystery  ",90,2020,74,83,112231
-The Devil All the Time,"Crime, Drama, Thriller  ",138,2020,71,55,103946
-Sonic the Hedgehog,"Action, Adventure, Comedy  ",99,2020,65,47,98905
-I Care a Lot,"Comedy, Crime, Thriller  ",118,2020,63,66,97956
-Promising Young Woman,"Crime, Drama, Thriller  ",113,2020,75,73,97834
-Nomadland,Drama  ,107,2020,74,93,94754
-Love and Monsters,"Action, Adventure, Comedy  ",109,2020,70,63,86542
-Greenland,"Action, Drama, Thriller  ",119,2020,64,64,82936
-Eurovision Song Contest: The Story of Fire Saga,"Comedy, Music  ",123,2020,65,50,80481
-Another Round,"Comedy, Drama  ",117,2020,78,80,77479
-Greyhound,"Action, Drama, History  ",91,2020,70,64,76603
-The Hunt,"Action, Horror, Thriller  ",90,2020,65,50,76503
-Project Power,"Action, Crime, Sci-Fi  ",113,2020,60,51,74885
-Spenser Confidential,"Action, Comedy, Crime  ",111,2020,62,49,74818
-The Midnight Sky,"Drama, Fantasy, Sci-Fi  ",118,2020,56,58,73948
-The Social Dilemma,"Documentary, Drama  ",94,2020,76,78,70447
-I'm Thinking of Ending Things,"Drama, Thriller  ",134,2020,66,78,68679
-Underwater,"Action, Horror, Sci-Fi  ",95,2020,58,48,67742
-Hamilton,"Biography, Drama, History  ",160,2020,85,90,64627
-Bloodshot,"Action, Drama, Sci-Fi  ",109,2020,57,44,64587
-News of the World,"Action, Adventure, Drama  ",118,2020,68,73,63672
-Mank,"Biography, Comedy, Drama  ",131,2020,69,79,60739
-The Father,Drama  ,97,2020,83,88,60475
-Tenet,"Action, Sci-Fi, Thriller  ",150,2020,74,69,356196
-Soul,"Animation, Adventure, Comedy  ",100,2020,81,83,242868
-Wonder Woman 1984,"Action, Adventure, Fantasy  ",151,2020,54,60,204204
-Birds of Prey,"Action, Adventure, Comedy  ",109,2020,61,60,183962
-The Invisible Man,"Drama, Horror, Mystery  ",124,2020,71,72,180999
-Extraction,"Action, Thriller  ",116,2020,67,56,168096
-The Trial of the Chicago 7,"Drama, History, Thriller  ",129,2020,78,76,145679
-Enola Holmes,"Action, Adventure, Crime  ",123,2020,66,68,138936
-Bad Boys for Life,"Action, Comedy, Crime  ",124,2020,66,59,137125
-The Old Guard,"Action, Adventure, Fantasy  ",125,2020,67,70,136140
-Borat Subsequent Moviefilm,Comedy  ,95,2020,67,68,123049
-Mulan,"Action, Adventure, Drama  ",115,2020,57,66,121835
-Onward,"Animation, Adventure, Comedy  ",102,2020,74,61,114030
-Palm Springs,"Comedy, Fantasy, Mystery  ",90,2020,74,83,112231
-The Devil All the Time,"Crime, Drama, Thriller  ",138,2020,71,55,103946
-Sonic the Hedgehog,"Action, Adventure, Comedy  ",99,2020,65,47,98905
-I Care a Lot,"Comedy, Crime, Thriller  ",118,2020,63,66,97956
-Promising Young Woman,"Crime, Drama, Thriller  ",113,2020,75,73,97834
-Nomadland,Drama  ,107,2020,74,93,94754
-Love and Monsters,"Action, Adventure, Comedy  ",109,2020,70,63,86542
-Greenland,"Action, Drama, Thriller  ",119,2020,64,64,82936
-Eurovision Song Contest: The Story of Fire Saga,"Comedy, Music  ",123,2020,65,50,80481
-Another Round,"Comedy, Drama  ",117,2020,78,80,77479
-Greyhound,"Action, Drama, History  ",91,2020,70,64,76604
-The Hunt,"Action, Horror, Thriller  ",90,2020,65,50,76503
-Project Power,"Action, Crime, Sci-Fi  ",113,2020,60,51,74885
-Spenser Confidential,"Action, Comedy, Crime  ",111,2020,62,49,74818
-The Midnight Sky,"Drama, Fantasy, Sci-Fi  ",118,2020,56,58,73948
-The Social Dilemma,"Documentary, Drama  ",94,2020,76,78,70447
-I'm Thinking of Ending Things,"Drama, Thriller  ",134,2020,66,78,68679
-Underwater,"Action, Horror, Sci-Fi  ",95,2020,58,48,67742
-Hamilton,"Biography, Drama, History  ",160,2020,85,90,64627
-Bloodshot,"Action, Drama, Sci-Fi  ",109,2020,57,44,64587
-News of the World,"Action, Adventure, Drama  ",118,2020,68,73,63672
-Mank,"Biography, Comedy, Drama  ",131,2020,69,79,60739
-The Father,Drama  ,97,2020,83,88,60475
-Tenet,"Action, Sci-Fi, Thriller  ",150,2020,74,69,356196
-Soul,"Animation, Adventure, Comedy  ",100,2020,81,83,242868
-Wonder Woman 1984,"Action, Adventure, Fantasy  ",151,2020,54,60,204204
-Birds of Prey,"Action, Adventure, Comedy  ",109,2020,61,60,183962
-The Invisible Man,"Drama, Horror, Mystery  ",124,2020,71,72,180999
-Extraction,"Action, Thriller  ",116,2020,67,56,168096
-The Trial of the Chicago 7,"Drama, History, Thriller  ",129,2020,78,76,145679
-Enola Holmes,"Action, Adventure, Crime  ",123,2020,66,68,138936
-Bad Boys for Life,"Action, Comedy, Crime  ",124,2020,66,59,137125
-The Old Guard,"Action, Adventure, Fantasy  ",125,2020,67,70,136140
-Borat Subsequent Moviefilm,Comedy  ,95,2020,67,68,123049
-Mulan,"Action, Adventure, Drama  ",115,2020,57,66,121835
-Onward,"Animation, Adventure, Comedy  ",102,2020,74,61,114030
-Palm Springs,"Comedy, Fantasy, Mystery  ",90,2020,74,83,112246
-The Devil All the Time,"Crime, Drama, Thriller  ",138,2020,71,55,103946
-Sonic the Hedgehog,"Action, Adventure, Comedy  ",99,2020,65,47,98905
-I Care a Lot,"Comedy, Crime, Thriller  ",118,2020,63,66,97956
-Promising Young Woman,"Crime, Drama, Thriller  ",113,2020,75,73,97834
-Nomadland,Drama  ,107,2020,74,93,94754
-Love and Monsters,"Action, Adventure, Comedy  ",109,2020,70,63,86542
-Greenland,"Action, Drama, Thriller  ",119,2020,64,64,82936
-Eurovision Song Contest: The Story of Fire Saga,"Comedy, Music  ",123,2020,65,50,80481
-Another Round,"Comedy, Drama  ",117,2020,78,80,77479
-Greyhound,"Action, Drama, History  ",91,2020,70,64,76603
-The Hunt,"Action, Horror, Thriller  ",90,2020,65,50,76503
-Project Power,"Action, Crime, Sci-Fi  ",113,2020,60,51,74885
-Spenser Confidential,"Action, Comedy, Crime  ",111,2020,62,49,74818
-The Midnight Sky,"Drama, Fantasy, Sci-Fi  ",118,2020,56,58,73948
-The Social Dilemma,"Documentary, Drama  ",94,2020,76,78,70447
-I'm Thinking of Ending Things,"Drama, Thriller  ",134,2020,66,78,68679
-Underwater,"Action, Horror, Sci-Fi  ",95,2020,58,48,67742
-Hamilton,"Biography, Drama, History  ",160,2020,85,90,64627
-Bloodshot,"Action, Drama, Sci-Fi  ",109,2020,57,44,64587
-News of the World,"Action, Adventure, Drama  ",118,2020,68,73,63672
-Mank,"Biography, Comedy, Drama  ",131,2020,69,79,60739
-The Father,Drama  ,97,2020,83,88,60475
-Tenet,"Action, Sci-Fi, Thriller  ",150,2020,74,69,356196
-Soul,"Animation, Adventure, Comedy  ",100,2020,81,83,242868
-Wonder Woman 1984,"Action, Adventure, Fantasy  ",151,2020,54,60,204204
-Birds of Prey,"Action, Adventure, Comedy  ",109,2020,61,60,183962
-The Invisible Man,"Drama, Horror, Mystery  ",124,2020,71,72,180999
-Extraction,"Action, Thriller  ",116,2020,67,56,168096
-The Trial of the Chicago 7,"Drama, History, Thriller  ",129,2020,78,76,145679
-Enola Holmes,"Action, Adventure, Crime  ",123,2020,66,68,138936
-Bad Boys for Life,"Action, Comedy, Crime  ",124,2020,66,59,137125
-The Old Guard,"Action, Adventure, Fantasy  ",125,2020,67,70,136140
-Borat Subsequent Moviefilm,Comedy  ,95,2020,67,68,123049
-Mulan,"Action, Adventure, Drama  ",115,2020,57,66,121835
-Onward,"Animation, Adventure, Comedy  ",102,2020,74,61,114030
-Palm Springs,"Comedy, Fantasy, Mystery  ",90,2020,74,83,112246
-The Devil All the Time,"Crime, Drama, Thriller  ",138,2020,71,55,103946
-Sonic the Hedgehog,"Action, Adventure, Comedy  ",99,2020,65,47,98905
-I Care a Lot,"Comedy, Crime, Thriller  ",118,2020,63,66,97956
-Promising Young Woman,"Crime, Drama, Thriller  ",113,2020,75,73,97834
-Nomadland,Drama  ,107,2020,74,93,94754
-Love and Monsters,"Action, Adventure, Comedy  ",109,2020,70,63,86542
-Greenland,"Action, Drama, Thriller  ",119,2020,64,64,82936
-Eurovision Song Contest: The Story of Fire Saga,"Comedy, Music  ",123,2020,65,50,80481
-Another Round,"Comedy, Drama  ",117,2020,78,80,77479
-Greyhound,"Action, Drama, History  ",91,2020,70,64,76603
-The Hunt,"Action, Horror, Thriller  ",90,2020,65,50,76503
-Project Power,"Action, Crime, Sci-Fi  ",113,2020,60,51,74885
-Spenser Confidential,"Action, Comedy, Crime  ",111,2020,62,49,74818
-The Midnight Sky,"Drama, Fantasy, Sci-Fi  ",118,2020,56,58,73948
-The Social Dilemma,"Documentary, Drama  ",94,2020,76,78,70447
-I'm Thinking of Ending Things,"Drama, Thriller  ",134,2020,66,78,68679
-Underwater,"Action, Horror, Sci-Fi  ",95,2020,58,48,67742
-Hamilton,"Biography, Drama, History  ",160,2020,85,90,64627
-Bloodshot,"Action, Drama, Sci-Fi  ",109,2020,57,44,64587
-News of the World,"Action, Adventure, Drama  ",118,2020,68,73,63672
-Mank,"Biography, Comedy, Drama  ",131,2020,69,79,60739
-The Father,Drama  ,97,2020,83,88,60475
-Tenet,"Action, Sci-Fi, Thriller  ",150,2020,74,69,356196
-Soul,"Animation, Adventure, Comedy  ",100,2020,81,83,242868
-Wonder Woman 1984,"Action, Adventure, Fantasy  ",151,2020,54,60,204204
-Birds of Prey,"Action, Adventure, Comedy  ",109,2020,61,60,183962
-The Invisible Man,"Drama, Horror, Mystery  ",124,2020,71,72,180999
-Extraction,"Action, Thriller  ",116,2020,67,56,168096
-The Trial of the Chicago 7,"Drama, History, Thriller  ",129,2020,78,76,145679
-Enola Holmes,"Action, Adventure, Crime  ",123,2020,66,68,138936
-Bad Boys for Life,"Action, Comedy, Crime  ",124,2020,66,59,137125
-The Old Guard,"Action, Adventure, Fantasy  ",125,2020,67,70,136140
-Borat Subsequent Moviefilm,Comedy  ,95,2020,67,68,123049
-Mulan,"Action, Adventure, Drama  ",115,2020,57,66,121835
-Onward,"Animation, Adventure, Comedy  ",102,2020,74,61,114030
-Palm Springs,"Comedy, Fantasy, Mystery  ",90,2020,74,83,112231
-The Devil All the Time,"Crime, Drama, Thriller  ",138,2020,71,55,103946
-Sonic the Hedgehog,"Action, Adventure, Comedy  ",99,2020,65,47,98905
-I Care a Lot,"Comedy, Crime, Thriller  ",118,2020,63,66,97956
-Promising Young Woman,"Crime, Drama, Thriller  ",113,2020,75,73,97834
-Nomadland,Drama  ,107,2020,74,93,94754
-Love and Monsters,"Action, Adventure, Comedy  ",109,2020,70,63,86542
-Greenland,"Action, Drama, Thriller  ",119,2020,64,64,82936
-Eurovision Song Contest: The Story of Fire Saga,"Comedy, Music  ",123,2020,65,50,80481
-Another Round,"Comedy, Drama  ",117,2020,78,80,77479
-Greyhound,"Action, Drama, History  ",91,2020,70,64,76603
-The Hunt,"Action, Horror, Thriller  ",90,2020,65,50,76503
-Project Power,"Action, Crime, Sci-Fi  ",113,2020,60,51,74885
-Spenser Confidential,"Action, Comedy, Crime  ",111,2020,62,49,74818
-The Midnight Sky,"Drama, Fantasy, Sci-Fi  ",118,2020,56,58,73948
-The Social Dilemma,"Documentary, Drama  ",94,2020,76,78,70447
-I'm Thinking of Ending Things,"Drama, Thriller  ",134,2020,66,78,68679
-Underwater,"Action, Horror, Sci-Fi  ",95,2020,58,48,67742
-Hamilton,"Biography, Drama, History  ",160,2020,85,90,64627
-Bloodshot,"Action, Drama, Sci-Fi  ",109,2020,57,44,64587
-News of the World,"Action, Adventure, Drama  ",118,2020,68,73,63672
-Mank,"Biography, Comedy, Drama  ",131,2020,69,79,60739
-The Father,Drama  ,97,2020,83,88,60475
-Tenet,"Action, Sci-Fi, Thriller  ",150,2020,74,69,356196
-Soul,"Animation, Adventure, Comedy  ",100,2020,81,83,242844
-Wonder Woman 1984,"Action, Adventure, Fantasy  ",151,2020,54,60,204204
-Birds of Prey,"Action, Adventure, Comedy  ",109,2020,61,60,183962
-The Invisible Man,"Drama, Horror, Mystery  ",124,2020,71,72,180999
-Extraction,"Action, Thriller  ",116,2020,67,56,168096
-The Trial of the Chicago 7,"Drama, History, Thriller  ",129,2020,78,76,145679
-Enola Holmes,"Action, Adventure, Crime  ",123,2020,66,68,138936
-Bad Boys for Life,"Action, Comedy, Crime  ",124,2020,66,59,137125
-The Old Guard,"Action, Adventure, Fantasy  ",125,2020,67,70,136140
-Borat Subsequent Moviefilm,Comedy  ,95,2020,67,68,123049
-Mulan,"Action, Adventure, Drama  ",115,2020,57,66,121835
-Onward,"Animation, Adventure, Comedy  ",102,2020,74,61,114030
-Palm Springs,"Comedy, Fantasy, Mystery  ",90,2020,74,83,112231
-The Devil All the Time,"Crime, Drama, Thriller  ",138,2020,71,55,103946
-Sonic the Hedgehog,"Action, Adventure, Comedy  ",99,2020,65,47,98905
-I Care a Lot,"Comedy, Crime, Thriller  ",118,2020,63,66,97956
-Promising Young Woman,"Crime, Drama, Thriller  ",113,2020,75,73,97834
-Nomadland,Drama  ,107,2020,74,93,94754
-Love and Monsters,"Action, Adventure, Comedy  ",109,2020,70,63,86542
-Greenland,"Action, Drama, Thriller  ",119,2020,64,64,82936
-Eurovision Song Contest: The Story of Fire Saga,"Comedy, Music  ",123,2020,65,50,80481
-Another Round,"Comedy, Drama  ",117,2020,78,80,77479
-Greyhound,"Action, Drama, History  ",91,2020,70,64,76603
-The Hunt,"Action, Horror, Thriller  ",90,2020,65,50,76503
-Project Power,"Action, Crime, Sci-Fi  ",113,2020,60,51,74885
-Spenser Confidential,"Action, Comedy, Crime  ",111,2020,62,49,74818
-The Midnight Sky,"Drama, Fantasy, Sci-Fi  ",118,2020,56,58,73948
-The Social Dilemma,"Documentary, Drama  ",94,2020,76,78,70447
-I'm Thinking of Ending Things,"Drama, Thriller  ",134,2020,66,78,68679
-Underwater,"Action, Horror, Sci-Fi  ",95,2020,58,48,67742
-Hamilton,"Biography, Drama, History  ",160,2020,85,90,64627
-Bloodshot,"Action, Drama, Sci-Fi  ",109,2020,57,44,64587
-News of the World,"Action, Adventure, Drama  ",118,2020,68,73,63672
-Mank,"Biography, Comedy, Drama  ",131,2020,69,79,60739
-The Father,Drama  ,97,2020,83,88,60475
-Tenet,"Action, Sci-Fi, Thriller  ",150,2020,74,69,356196
-Soul,"Animation, Adventure, Comedy  ",100,2020,81,83,242868
-Wonder Woman 1984,"Action, Adventure, Fantasy  ",151,2020,54,60,204204
-Birds of Prey,"Action, Adventure, Comedy  ",109,2020,61,60,183962
-The Invisible Man,"Drama, Horror, Mystery  ",124,2020,71,72,180999
-Extraction,"Action, Thriller  ",116,2020,67,56,168096
-The Trial of the Chicago 7,"Drama, History, Thriller  ",129,2020,78,76,145679
-Enola Holmes,"Action, Adventure, Crime  ",123,2020,66,68,138936
-Bad Boys for Life,"Action, Comedy, Crime  ",124,2020,66,59,137125
-The Old Guard,"Action, Adventure, Fantasy  ",125,2020,67,70,136140
-Borat Subsequent Moviefilm,Comedy  ,95,2020,67,68,123049
-Mulan,"Action, Adventure, Drama  ",115,2020,57,66,121835
-Onward,"Animation, Adventure, Comedy  ",102,2020,74,61,114030
-Palm Springs,"Comedy, Fantasy, Mystery  ",90,2020,74,83,112246
-The Devil All the Time,"Crime, Drama, Thriller  ",138,2020,71,55,103946
-Sonic the Hedgehog,"Action, Adventure, Comedy  ",99,2020,65,47,98905
-I Care a Lot,"Comedy, Crime, Thriller  ",118,2020,63,66,97956
-Promising Young Woman,"Crime, Drama, Thriller  ",113,2020,75,73,97834
-Nomadland,Drama  ,107,2020,74,93,94754
-Love and Monsters,"Action, Adventure, Comedy  ",109,2020,70,63,86542
-Greenland,"Action, Drama, Thriller  ",119,2020,64,64,82936
-Eurovision Song Contest: The Story of Fire Saga,"Comedy, Music  ",123,2020,65,50,80496
-Another Round,"Comedy, Drama  ",117,2020,78,80,77479
-Greyhound,"Action, Drama, History  ",91,2020,70,64,76603
-The Hunt,"Action, Horror, Thriller  ",90,2020,65,50,76503
-Project Power,"Action, Crime, Sci-Fi  ",113,2020,60,51,74885
-Spenser Confidential,"Action, Comedy, Crime  ",111,2020,62,49,74818
-The Midnight Sky,"Drama, Fantasy, Sci-Fi  ",118,2020,56,58,73948
-The Social Dilemma,"Documentary, Drama  ",94,2020,76,78,70447
-I'm Thinking of Ending Things,"Drama, Thriller  ",134,2020,66,78,68679
-Underwater,"Action, Horror, Sci-Fi  ",95,2020,58,48,67742
-Hamilton,"Biography, Drama, History  ",160,2020,85,90,64627
-Bloodshot,"Action, Drama, Sci-Fi  ",109,2020,57,44,64587
-News of the World,"Action, Adventure, Drama  ",118,2020,68,73,63672
-Mank,"Biography, Comedy, Drama  ",131,2020,69,79,60739
-The Father,Drama  ,97,2020,83,88,60475
+Tenet,"Action, Sci-Fi, Thriller  ",150,2020,74,69,366315
+Soul,"Animation, Adventure, Comedy  ",100,2020,81,83,249554
+Wonder Woman 1984,"Action, Adventure, Fantasy  ",151,2020,54,60,209941
+Birds of Prey,"Action, Adventure, Comedy  ",109,2020,61,60,185702
+The Invisible Man,"Drama, Horror, Mystery  ",124,2020,71,72,182615
+Extraction,"Action, Thriller  ",116,2020,67,56,169736
+The Trial of the Chicago 7,"Drama, History, Thriller  ",129,2020,78,76,148137
+Enola Holmes,"Action, Adventure, Crime  ",123,2020,66,68,140837
+Bad Boys for Life,"Action, Comedy, Crime  ",124,2020,66,59,138060
+The Old Guard,"Action, Adventure, Fantasy  ",125,2020,67,70,137492
+Borat Subsequent Moviefilm,Comedy  ,95,2020,67,68,124213
+Mulan,"Action, Adventure, Drama  ",115,2020,57,66,123229
+Onward,"Animation, Adventure, Comedy  ",102,2020,74,61,115512
+Palm Springs,"Comedy, Fantasy, Mystery  ",90,2020,74,83,114999
+The Devil All the Time,"Crime, Drama, Thriller  ",138,2020,71,55,105259
+Promising Young Woman,"Crime, Drama, Thriller  ",113,2020,75,73,103601
+Nomadland,Drama  ,107,2020,74,93,102825
+I Care a Lot,"Comedy, Crime, Thriller  ",118,2020,63,66,101684
+Sonic the Hedgehog,"Action, Adventure, Comedy  ",99,2020,65,47,99953
+Love and Monsters,"Action, Adventure, Comedy  ",109,2020,70,63,92325
+Greenland,"Action, Drama, Thriller  ",119,2020,64,64,87162
+Another Round,"Comedy, Drama  ",117,2020,78,80,82535
+Eurovision Song Contest: The Story of Fire Saga,"Comedy, Music  ",123,2020,65,50,82496
+Greyhound,"Action, Drama, History  ",91,2020,70,64,77556
+The Hunt,"Action, Horror, Thriller  ",90,2020,65,50,77375
+Project Power,"Action, Crime, Sci-Fi  ",113,2020,60,51,75603
+Spenser Confidential,"Action, Comedy, Crime  ",111,2020,62,49,75550
+The Midnight Sky,"Drama, Fantasy, Sci-Fi  ",118,2020,56,58,74498
+The Social Dilemma,"Documentary, Drama  ",94,2020,76,78,71014
+I'm Thinking of Ending Things,"Drama, Thriller  ",134,2020,66,78,69460
+Underwater,"Action, Horror, Sci-Fi  ",95,2020,58,48,68363
+The Father,Drama  ,97,2020,83,88,68006
+Hamilton,"Biography, Drama, History  ",160,2020,84,90,65769
+News of the World,"Action, Adventure, Drama  ",118,2020,68,73,65329
+Bloodshot,"Action, Drama, Sci-Fi  ",109,2020,57,44,65041
+Mank,"Biography, Comedy, Drama  ",131,2020,69,79,61705
+Tenet,"Action, Sci-Fi, Thriller  ",150,2020,74,69,366315
+Soul,"Animation, Adventure, Comedy  ",100,2020,81,83,249554
+Wonder Woman 1984,"Action, Adventure, Fantasy  ",151,2020,54,60,209941
+Birds of Prey,"Action, Adventure, Comedy  ",109,2020,61,60,185702
+The Invisible Man,"Drama, Horror, Mystery  ",124,2020,71,72,182615
+Extraction,"Action, Thriller  ",116,2020,67,56,169736
+The Trial of the Chicago 7,"Drama, History, Thriller  ",129,2020,78,76,148137
+Enola Holmes,"Action, Adventure, Crime  ",123,2020,66,68,140837
+Bad Boys for Life,"Action, Comedy, Crime  ",124,2020,66,59,138060
+The Old Guard,"Action, Adventure, Fantasy  ",125,2020,67,70,137492
+Borat Subsequent Moviefilm,Comedy  ,95,2020,67,68,124213
+Mulan,"Action, Adventure, Drama  ",115,2020,57,66,123229
+Onward,"Animation, Adventure, Comedy  ",102,2020,74,61,115512
+Palm Springs,"Comedy, Fantasy, Mystery  ",90,2020,74,83,114999
+The Devil All the Time,"Crime, Drama, Thriller  ",138,2020,71,55,105259
+Promising Young Woman,"Crime, Drama, Thriller  ",113,2020,75,73,103601
+Nomadland,Drama  ,107,2020,74,93,102825
+I Care a Lot,"Comedy, Crime, Thriller  ",118,2020,63,66,101684
+Sonic the Hedgehog,"Action, Adventure, Comedy  ",99,2020,65,47,99953
+Love and Monsters,"Action, Adventure, Comedy  ",109,2020,70,63,92325
+Greenland,"Action, Drama, Thriller  ",119,2020,64,64,87162
+Another Round,"Comedy, Drama  ",117,2020,78,80,82535
+Eurovision Song Contest: The Story of Fire Saga,"Comedy, Music  ",123,2020,65,50,82496
+Greyhound,"Action, Drama, History  ",91,2020,70,64,77556
+The Hunt,"Action, Horror, Thriller  ",90,2020,65,50,77375
+Project Power,"Action, Crime, Sci-Fi  ",113,2020,60,51,75603
+Spenser Confidential,"Action, Comedy, Crime  ",111,2020,62,49,75550
+The Midnight Sky,"Drama, Fantasy, Sci-Fi  ",118,2020,56,58,74498
+The Social Dilemma,"Documentary, Drama  ",94,2020,76,78,71014
+I'm Thinking of Ending Things,"Drama, Thriller  ",134,2020,66,78,69460
+Underwater,"Action, Horror, Sci-Fi  ",95,2020,58,48,68363
+The Father,Drama  ,97,2020,83,88,68006
+Hamilton,"Biography, Drama, History  ",160,2020,84,90,65769
+News of the World,"Action, Adventure, Drama  ",118,2020,68,73,65329
+Bloodshot,"Action, Drama, Sci-Fi  ",109,2020,57,44,65041
+Mank,"Biography, Comedy, Drama  ",131,2020,69,79,61705
+Tenet,"Action, Sci-Fi, Thriller  ",150,2020,74,69,366315
+Soul,"Animation, Adventure, Comedy  ",100,2020,81,83,249554
+Wonder Woman 1984,"Action, Adventure, Fantasy  ",151,2020,54,60,209941
+Birds of Prey,"Action, Adventure, Comedy  ",109,2020,61,60,185702
+The Invisible Man,"Drama, Horror, Mystery  ",124,2020,71,72,182615
+Extraction,"Action, Thriller  ",116,2020,67,56,169736
+The Trial of the Chicago 7,"Drama, History, Thriller  ",129,2020,78,76,148137
+Enola Holmes,"Action, Adventure, Crime  ",123,2020,66,68,140837
+Bad Boys for Life,"Action, Comedy, Crime  ",124,2020,66,59,138060
+The Old Guard,"Action, Adventure, Fantasy  ",125,2020,67,70,137492
+Borat Subsequent Moviefilm,Comedy  ,95,2020,67,68,124213
+Mulan,"Action, Adventure, Drama  ",115,2020,57,66,123229
+Onward,"Animation, Adventure, Comedy  ",102,2020,74,61,115512
+Palm Springs,"Comedy, Fantasy, Mystery  ",90,2020,74,83,114999
+The Devil All the Time,"Crime, Drama, Thriller  ",138,2020,71,55,105259
+Promising Young Woman,"Crime, Drama, Thriller  ",113,2020,75,73,103601
+Nomadland,Drama  ,107,2020,74,93,102825
+I Care a Lot,"Comedy, Crime, Thriller  ",118,2020,63,66,101684
+Sonic the Hedgehog,"Action, Adventure, Comedy  ",99,2020,65,47,99953
+Love and Monsters,"Action, Adventure, Comedy  ",109,2020,70,63,92325
+Greenland,"Action, Drama, Thriller  ",119,2020,64,64,87162
+Another Round,"Comedy, Drama  ",117,2020,78,80,82535
+Eurovision Song Contest: The Story of Fire Saga,"Comedy, Music  ",123,2020,65,50,82496
+Greyhound,"Action, Drama, History  ",91,2020,70,64,77556
+The Hunt,"Action, Horror, Thriller  ",90,2020,65,50,77375
+Project Power,"Action, Crime, Sci-Fi  ",113,2020,60,51,75603
+Spenser Confidential,"Action, Comedy, Crime  ",111,2020,62,49,75550
+The Midnight Sky,"Drama, Fantasy, Sci-Fi  ",118,2020,56,58,74498
+The Social Dilemma,"Documentary, Drama  ",94,2020,76,78,71014
+I'm Thinking of Ending Things,"Drama, Thriller  ",134,2020,66,78,69460
+Underwater,"Action, Horror, Sci-Fi  ",95,2020,58,48,68363
+The Father,Drama  ,97,2020,83,88,68006
+Hamilton,"Biography, Drama, History  ",160,2020,84,90,65769
+News of the World,"Action, Adventure, Drama  ",118,2020,68,73,65329
+Bloodshot,"Action, Drama, Sci-Fi  ",109,2020,57,44,65041
+Mank,"Biography, Comedy, Drama  ",131,2020,69,79,61705
+Tenet,"Action, Sci-Fi, Thriller  ",150,2020,74,69,366315
+Soul,"Animation, Adventure, Comedy  ",100,2020,81,83,249554
+Wonder Woman 1984,"Action, Adventure, Fantasy  ",151,2020,54,60,209941
+Birds of Prey,"Action, Adventure, Comedy  ",109,2020,61,60,185702
+The Invisible Man,"Drama, Horror, Mystery  ",124,2020,71,72,182615
+Extraction,"Action, Thriller  ",116,2020,67,56,169736
+The Trial of the Chicago 7,"Drama, History, Thriller  ",129,2020,78,76,148137
+Enola Holmes,"Action, Adventure, Crime  ",123,2020,66,68,140837
+Bad Boys for Life,"Action, Comedy, Crime  ",124,2020,66,59,138060
+The Old Guard,"Action, Adventure, Fantasy  ",125,2020,67,70,137492
+Borat Subsequent Moviefilm,Comedy  ,95,2020,67,68,124213
+Mulan,"Action, Adventure, Drama  ",115,2020,57,66,123229
+Onward,"Animation, Adventure, Comedy  ",102,2020,74,61,115512
+Palm Springs,"Comedy, Fantasy, Mystery  ",90,2020,74,83,114999
+The Devil All the Time,"Crime, Drama, Thriller  ",138,2020,71,55,105259
+Promising Young Woman,"Crime, Drama, Thriller  ",113,2020,75,73,103601
+Nomadland,Drama  ,107,2020,74,93,102825
+I Care a Lot,"Comedy, Crime, Thriller  ",118,2020,63,66,101684
+Sonic the Hedgehog,"Action, Adventure, Comedy  ",99,2020,65,47,99953
+Love and Monsters,"Action, Adventure, Comedy  ",109,2020,70,63,92325
+Greenland,"Action, Drama, Thriller  ",119,2020,64,64,87162
+Another Round,"Comedy, Drama  ",117,2020,78,80,82535
+Eurovision Song Contest: The Story of Fire Saga,"Comedy, Music  ",123,2020,65,50,82496
+Greyhound,"Action, Drama, History  ",91,2020,70,64,77556
+The Hunt,"Action, Horror, Thriller  ",90,2020,65,50,77375
+Project Power,"Action, Crime, Sci-Fi  ",113,2020,60,51,75603
+Spenser Confidential,"Action, Comedy, Crime  ",111,2020,62,49,75550
+The Midnight Sky,"Drama, Fantasy, Sci-Fi  ",118,2020,56,58,74498
+The Social Dilemma,"Documentary, Drama  ",94,2020,76,78,71014
+I'm Thinking of Ending Things,"Drama, Thriller  ",134,2020,66,78,69460
+Underwater,"Action, Horror, Sci-Fi  ",95,2020,58,48,68363
+The Father,Drama  ,97,2020,83,88,68006
+Hamilton,"Biography, Drama, History  ",160,2020,84,90,65769
+News of the World,"Action, Adventure, Drama  ",118,2020,68,73,65329
+Bloodshot,"Action, Drama, Sci-Fi  ",109,2020,57,44,65041
+Mank,"Biography, Comedy, Drama  ",131,2020,69,79,61705
+Tenet,"Action, Sci-Fi, Thriller  ",150,2020,74,69,366315
+Soul,"Animation, Adventure, Comedy  ",100,2020,81,83,249554
+Wonder Woman 1984,"Action, Adventure, Fantasy  ",151,2020,54,60,209941
+Birds of Prey,"Action, Adventure, Comedy  ",109,2020,61,60,185702
+The Invisible Man,"Drama, Horror, Mystery  ",124,2020,71,72,182615
+Extraction,"Action, Thriller  ",116,2020,67,56,169736
+The Trial of the Chicago 7,"Drama, History, Thriller  ",129,2020,78,76,148137
+Enola Holmes,"Action, Adventure, Crime  ",123,2020,66,68,140837
+Bad Boys for Life,"Action, Comedy, Crime  ",124,2020,66,59,138060
+The Old Guard,"Action, Adventure, Fantasy  ",125,2020,67,70,137492
+Borat Subsequent Moviefilm,Comedy  ,95,2020,67,68,124213
+Mulan,"Action, Adventure, Drama  ",115,2020,57,66,123229
+Onward,"Animation, Adventure, Comedy  ",102,2020,74,61,115512
+Palm Springs,"Comedy, Fantasy, Mystery  ",90,2020,74,83,114999
+The Devil All the Time,"Crime, Drama, Thriller  ",138,2020,71,55,105259
+Promising Young Woman,"Crime, Drama, Thriller  ",113,2020,75,73,103601
+Nomadland,Drama  ,107,2020,74,93,102825
+I Care a Lot,"Comedy, Crime, Thriller  ",118,2020,63,66,101684
+Sonic the Hedgehog,"Action, Adventure, Comedy  ",99,2020,65,47,99953
+Love and Monsters,"Action, Adventure, Comedy  ",109,2020,70,63,92325
+Greenland,"Action, Drama, Thriller  ",119,2020,64,64,87162
+Another Round,"Comedy, Drama  ",117,2020,78,80,82535
+Eurovision Song Contest: The Story of Fire Saga,"Comedy, Music  ",123,2020,65,50,82496
+Greyhound,"Action, Drama, History  ",91,2020,70,64,77556
+The Hunt,"Action, Horror, Thriller  ",90,2020,65,50,77375
+Project Power,"Action, Crime, Sci-Fi  ",113,2020,60,51,75603
+Spenser Confidential,"Action, Comedy, Crime  ",111,2020,62,49,75550
+The Midnight Sky,"Drama, Fantasy, Sci-Fi  ",118,2020,56,58,74498
+The Social Dilemma,"Documentary, Drama  ",94,2020,76,78,71014
+I'm Thinking of Ending Things,"Drama, Thriller  ",134,2020,66,78,69460
+Underwater,"Action, Horror, Sci-Fi  ",95,2020,58,48,68363
+The Father,Drama  ,97,2020,83,88,68006
+Hamilton,"Biography, Drama, History  ",160,2020,84,90,65769
+News of the World,"Action, Adventure, Drama  ",118,2020,68,73,65329
+Bloodshot,"Action, Drama, Sci-Fi  ",109,2020,57,44,65041
+Mank,"Biography, Comedy, Drama  ",131,2020,69,79,61705
+Tenet,"Action, Sci-Fi, Thriller  ",150,2020,74,69,366315
+Soul,"Animation, Adventure, Comedy  ",100,2020,81,83,249554
+Wonder Woman 1984,"Action, Adventure, Fantasy  ",151,2020,54,60,209941
+Birds of Prey,"Action, Adventure, Comedy  ",109,2020,61,60,185702
+The Invisible Man,"Drama, Horror, Mystery  ",124,2020,71,72,182615
+Extraction,"Action, Thriller  ",116,2020,67,56,169736
+The Trial of the Chicago 7,"Drama, History, Thriller  ",129,2020,78,76,148137
+Enola Holmes,"Action, Adventure, Crime  ",123,2020,66,68,140837
+Bad Boys for Life,"Action, Comedy, Crime  ",124,2020,66,59,138060
+The Old Guard,"Action, Adventure, Fantasy  ",125,2020,67,70,137492
+Borat Subsequent Moviefilm,Comedy  ,95,2020,67,68,124213
+Mulan,"Action, Adventure, Drama  ",115,2020,57,66,123229
+Onward,"Animation, Adventure, Comedy  ",102,2020,74,61,115512
+Palm Springs,"Comedy, Fantasy, Mystery  ",90,2020,74,83,114999
+The Devil All the Time,"Crime, Drama, Thriller  ",138,2020,71,55,105259
+Promising Young Woman,"Crime, Drama, Thriller  ",113,2020,75,73,103601
+Nomadland,Drama  ,107,2020,74,93,102825
+I Care a Lot,"Comedy, Crime, Thriller  ",118,2020,63,66,101684
+Sonic the Hedgehog,"Action, Adventure, Comedy  ",99,2020,65,47,99953
+Love and Monsters,"Action, Adventure, Comedy  ",109,2020,70,63,92325
+Greenland,"Action, Drama, Thriller  ",119,2020,64,64,87162
+Another Round,"Comedy, Drama  ",117,2020,78,80,82535
+Eurovision Song Contest: The Story of Fire Saga,"Comedy, Music  ",123,2020,65,50,82496
+Greyhound,"Action, Drama, History  ",91,2020,70,64,77556
+The Hunt,"Action, Horror, Thriller  ",90,2020,65,50,77375
+Project Power,"Action, Crime, Sci-Fi  ",113,2020,60,51,75603
+Spenser Confidential,"Action, Comedy, Crime  ",111,2020,62,49,75550
+The Midnight Sky,"Drama, Fantasy, Sci-Fi  ",118,2020,56,58,74498
+The Social Dilemma,"Documentary, Drama  ",94,2020,76,78,71014
+I'm Thinking of Ending Things,"Drama, Thriller  ",134,2020,66,78,69460
+Underwater,"Action, Horror, Sci-Fi  ",95,2020,58,48,68363
+The Father,Drama  ,97,2020,83,88,68006
+Hamilton,"Biography, Drama, History  ",160,2020,84,90,65769
+News of the World,"Action, Adventure, Drama  ",118,2020,68,73,65329
+Bloodshot,"Action, Drama, Sci-Fi  ",109,2020,57,44,65041
+Mank,"Biography, Comedy, Drama  ",131,2020,69,79,61705
+Tenet,"Action, Sci-Fi, Thriller  ",150,2020,74,69,366315
+Soul,"Animation, Adventure, Comedy  ",100,2020,81,83,249554
+Wonder Woman 1984,"Action, Adventure, Fantasy  ",151,2020,54,60,209941
+Birds of Prey,"Action, Adventure, Comedy  ",109,2020,61,60,185702
+The Invisible Man,"Drama, Horror, Mystery  ",124,2020,71,72,182615
+Extraction,"Action, Thriller  ",116,2020,67,56,169736
+The Trial of the Chicago 7,"Drama, History, Thriller  ",129,2020,78,76,148137
+Enola Holmes,"Action, Adventure, Crime  ",123,2020,66,68,140837
+Bad Boys for Life,"Action, Comedy, Crime  ",124,2020,66,59,138060
+The Old Guard,"Action, Adventure, Fantasy  ",125,2020,67,70,137492
+Borat Subsequent Moviefilm,Comedy  ,95,2020,67,68,124213
+Mulan,"Action, Adventure, Drama  ",115,2020,57,66,123229
+Onward,"Animation, Adventure, Comedy  ",102,2020,74,61,115512
+Palm Springs,"Comedy, Fantasy, Mystery  ",90,2020,74,83,114999
+The Devil All the Time,"Crime, Drama, Thriller  ",138,2020,71,55,105259
+Promising Young Woman,"Crime, Drama, Thriller  ",113,2020,75,73,103601
+Nomadland,Drama  ,107,2020,74,93,102825
+I Care a Lot,"Comedy, Crime, Thriller  ",118,2020,63,66,101684
+Sonic the Hedgehog,"Action, Adventure, Comedy  ",99,2020,65,47,99953
+Love and Monsters,"Action, Adventure, Comedy  ",109,2020,70,63,92325
+Greenland,"Action, Drama, Thriller  ",119,2020,64,64,87162
+Another Round,"Comedy, Drama  ",117,2020,78,80,82535
+Eurovision Song Contest: The Story of Fire Saga,"Comedy, Music  ",123,2020,65,50,82496
+Greyhound,"Action, Drama, History  ",91,2020,70,64,77556
+The Hunt,"Action, Horror, Thriller  ",90,2020,65,50,77375
+Project Power,"Action, Crime, Sci-Fi  ",113,2020,60,51,75603
+Spenser Confidential,"Action, Comedy, Crime  ",111,2020,62,49,75550
+The Midnight Sky,"Drama, Fantasy, Sci-Fi  ",118,2020,56,58,74498
+The Social Dilemma,"Documentary, Drama  ",94,2020,76,78,71014
+I'm Thinking of Ending Things,"Drama, Thriller  ",134,2020,66,78,69460
+Underwater,"Action, Horror, Sci-Fi  ",95,2020,58,48,68363
+The Father,Drama  ,97,2020,83,88,68006
+Hamilton,"Biography, Drama, History  ",160,2020,84,90,65769
+News of the World,"Action, Adventure, Drama  ",118,2020,68,73,65329
+Bloodshot,"Action, Drama, Sci-Fi  ",109,2020,57,44,65041
+Mank,"Biography, Comedy, Drama  ",131,2020,69,79,61705
+Tenet,"Action, Sci-Fi, Thriller  ",150,2020,74,69,366315
+Soul,"Animation, Adventure, Comedy  ",100,2020,81,83,249554
+Wonder Woman 1984,"Action, Adventure, Fantasy  ",151,2020,54,60,209941
+Birds of Prey,"Action, Adventure, Comedy  ",109,2020,61,60,185702
+The Invisible Man,"Drama, Horror, Mystery  ",124,2020,71,72,182615
+Extraction,"Action, Thriller  ",116,2020,67,56,169736
+The Trial of the Chicago 7,"Drama, History, Thriller  ",129,2020,78,76,148137
+Enola Holmes,"Action, Adventure, Crime  ",123,2020,66,68,140837
+Bad Boys for Life,"Action, Comedy, Crime  ",124,2020,66,59,138060
+The Old Guard,"Action, Adventure, Fantasy  ",125,2020,67,70,137492
+Borat Subsequent Moviefilm,Comedy  ,95,2020,67,68,124213
+Mulan,"Action, Adventure, Drama  ",115,2020,57,66,123229
+Onward,"Animation, Adventure, Comedy  ",102,2020,74,61,115512
+Palm Springs,"Comedy, Fantasy, Mystery  ",90,2020,74,83,114999
+The Devil All the Time,"Crime, Drama, Thriller  ",138,2020,71,55,105259
+Promising Young Woman,"Crime, Drama, Thriller  ",113,2020,75,73,103601
+Nomadland,Drama  ,107,2020,74,93,102825
+I Care a Lot,"Comedy, Crime, Thriller  ",118,2020,63,66,101684
+Sonic the Hedgehog,"Action, Adventure, Comedy  ",99,2020,65,47,99953
+Love and Monsters,"Action, Adventure, Comedy  ",109,2020,70,63,92325
+Greenland,"Action, Drama, Thriller  ",119,2020,64,64,87162
+Another Round,"Comedy, Drama  ",117,2020,78,80,82535
+Eurovision Song Contest: The Story of Fire Saga,"Comedy, Music  ",123,2020,65,50,82496
+Greyhound,"Action, Drama, History  ",91,2020,70,64,77556
+The Hunt,"Action, Horror, Thriller  ",90,2020,65,50,77375
+Project Power,"Action, Crime, Sci-Fi  ",113,2020,60,51,75603
+Spenser Confidential,"Action, Comedy, Crime  ",111,2020,62,49,75550
+The Midnight Sky,"Drama, Fantasy, Sci-Fi  ",118,2020,56,58,74498
+The Social Dilemma,"Documentary, Drama  ",94,2020,76,78,71014
+I'm Thinking of Ending Things,"Drama, Thriller  ",134,2020,66,78,69460
+Underwater,"Action, Horror, Sci-Fi  ",95,2020,58,48,68363
+The Father,Drama  ,97,2020,83,88,68006
+Hamilton,"Biography, Drama, History  ",160,2020,84,90,65769
+News of the World,"Action, Adventure, Drama  ",118,2020,68,73,65329
+Bloodshot,"Action, Drama, Sci-Fi  ",109,2020,57,44,65041
+Mank,"Biography, Comedy, Drama  ",131,2020,69,79,61705
+Tenet,"Action, Sci-Fi, Thriller  ",150,2020,74,69,366315
+Soul,"Animation, Adventure, Comedy  ",100,2020,81,83,249554
+Wonder Woman 1984,"Action, Adventure, Fantasy  ",151,2020,54,60,209941
+Birds of Prey,"Action, Adventure, Comedy  ",109,2020,61,60,185702
+The Invisible Man,"Drama, Horror, Mystery  ",124,2020,71,72,182615
+Extraction,"Action, Thriller  ",116,2020,67,56,169736
+The Trial of the Chicago 7,"Drama, History, Thriller  ",129,2020,78,76,148137
+Enola Holmes,"Action, Adventure, Crime  ",123,2020,66,68,140837
+Bad Boys for Life,"Action, Comedy, Crime  ",124,2020,66,59,138060
+The Old Guard,"Action, Adventure, Fantasy  ",125,2020,67,70,137492
+Borat Subsequent Moviefilm,Comedy  ,95,2020,67,68,124213
+Mulan,"Action, Adventure, Drama  ",115,2020,57,66,123229
+Onward,"Animation, Adventure, Comedy  ",102,2020,74,61,115512
+Palm Springs,"Comedy, Fantasy, Mystery  ",90,2020,74,83,114999
+The Devil All the Time,"Crime, Drama, Thriller  ",138,2020,71,55,105259
+Promising Young Woman,"Crime, Drama, Thriller  ",113,2020,75,73,103601
+Nomadland,Drama  ,107,2020,74,93,102825
+I Care a Lot,"Comedy, Crime, Thriller  ",118,2020,63,66,101684
+Sonic the Hedgehog,"Action, Adventure, Comedy  ",99,2020,65,47,99953
+Love and Monsters,"Action, Adventure, Comedy  ",109,2020,70,63,92325
+Greenland,"Action, Drama, Thriller  ",119,2020,64,64,87162
+Another Round,"Comedy, Drama  ",117,2020,78,80,82535
+Eurovision Song Contest: The Story of Fire Saga,"Comedy, Music  ",123,2020,65,50,82496
+Greyhound,"Action, Drama, History  ",91,2020,70,64,77556
+The Hunt,"Action, Horror, Thriller  ",90,2020,65,50,77375
+Project Power,"Action, Crime, Sci-Fi  ",113,2020,60,51,75603
+Spenser Confidential,"Action, Comedy, Crime  ",111,2020,62,49,75550
+The Midnight Sky,"Drama, Fantasy, Sci-Fi  ",118,2020,56,58,74498
+The Social Dilemma,"Documentary, Drama  ",94,2020,76,78,71014
+I'm Thinking of Ending Things,"Drama, Thriller  ",134,2020,66,78,69460
+Underwater,"Action, Horror, Sci-Fi  ",95,2020,58,48,68363
+The Father,Drama  ,97,2020,83,88,68006
+Hamilton,"Biography, Drama, History  ",160,2020,84,90,65769
+News of the World,"Action, Adventure, Drama  ",118,2020,68,73,65329
+Bloodshot,"Action, Drama, Sci-Fi  ",109,2020,57,44,65041
+Mank,"Biography, Comedy, Drama  ",131,2020,69,79,61705
+Tenet,"Action, Sci-Fi, Thriller  ",150,2020,74,69,366315
+Soul,"Animation, Adventure, Comedy  ",100,2020,81,83,249554
+Wonder Woman 1984,"Action, Adventure, Fantasy  ",151,2020,54,60,209941
+Birds of Prey,"Action, Adventure, Comedy  ",109,2020,61,60,185702
+The Invisible Man,"Drama, Horror, Mystery  ",124,2020,71,72,182615
+Extraction,"Action, Thriller  ",116,2020,67,56,169736
+The Trial of the Chicago 7,"Drama, History, Thriller  ",129,2020,78,76,148137
+Enola Holmes,"Action, Adventure, Crime  ",123,2020,66,68,140837
+Bad Boys for Life,"Action, Comedy, Crime  ",124,2020,66,59,138060
+The Old Guard,"Action, Adventure, Fantasy  ",125,2020,67,70,137492
+Borat Subsequent Moviefilm,Comedy  ,95,2020,67,68,124213
+Mulan,"Action, Adventure, Drama  ",115,2020,57,66,123229
+Onward,"Animation, Adventure, Comedy  ",102,2020,74,61,115512
+Palm Springs,"Comedy, Fantasy, Mystery  ",90,2020,74,83,114999
+The Devil All the Time,"Crime, Drama, Thriller  ",138,2020,71,55,105259
+Promising Young Woman,"Crime, Drama, Thriller  ",113,2020,75,73,103601
+Nomadland,Drama  ,107,2020,74,93,102825
+I Care a Lot,"Comedy, Crime, Thriller  ",118,2020,63,66,101684
+Sonic the Hedgehog,"Action, Adventure, Comedy  ",99,2020,65,47,99953
+Love and Monsters,"Action, Adventure, Comedy  ",109,2020,70,63,92325
+Greenland,"Action, Drama, Thriller  ",119,2020,64,64,87162
+Another Round,"Comedy, Drama  ",117,2020,78,80,82535
+Eurovision Song Contest: The Story of Fire Saga,"Comedy, Music  ",123,2020,65,50,82496
+Greyhound,"Action, Drama, History  ",91,2020,70,64,77556
+The Hunt,"Action, Horror, Thriller  ",90,2020,65,50,77375
+Project Power,"Action, Crime, Sci-Fi  ",113,2020,60,51,75603
+Spenser Confidential,"Action, Comedy, Crime  ",111,2020,62,49,75550
+The Midnight Sky,"Drama, Fantasy, Sci-Fi  ",118,2020,56,58,74498
+The Social Dilemma,"Documentary, Drama  ",94,2020,76,78,71014
+I'm Thinking of Ending Things,"Drama, Thriller  ",134,2020,66,78,69460
+Underwater,"Action, Horror, Sci-Fi  ",95,2020,58,48,68363
+The Father,Drama  ,97,2020,83,88,68006
+Hamilton,"Biography, Drama, History  ",160,2020,84,90,65769
+News of the World,"Action, Adventure, Drama  ",118,2020,68,73,65329
+Bloodshot,"Action, Drama, Sci-Fi  ",109,2020,57,44,65041
+Mank,"Biography, Comedy, Drama  ",131,2020,69,79,61705
+Tenet,"Action, Sci-Fi, Thriller  ",150,2020,74,69,366315
+Soul,"Animation, Adventure, Comedy  ",100,2020,81,83,249554
+Wonder Woman 1984,"Action, Adventure, Fantasy  ",151,2020,54,60,209941
+Birds of Prey,"Action, Adventure, Comedy  ",109,2020,61,60,185702
+The Invisible Man,"Drama, Horror, Mystery  ",124,2020,71,72,182615
+Extraction,"Action, Thriller  ",116,2020,67,56,169736
+The Trial of the Chicago 7,"Drama, History, Thriller  ",129,2020,78,76,148137
+Enola Holmes,"Action, Adventure, Crime  ",123,2020,66,68,140837
+Bad Boys for Life,"Action, Comedy, Crime  ",124,2020,66,59,138060
+The Old Guard,"Action, Adventure, Fantasy  ",125,2020,67,70,137492
+Borat Subsequent Moviefilm,Comedy  ,95,2020,67,68,124213
+Mulan,"Action, Adventure, Drama  ",115,2020,57,66,123229
+Onward,"Animation, Adventure, Comedy  ",102,2020,74,61,115512
+Palm Springs,"Comedy, Fantasy, Mystery  ",90,2020,74,83,114999
+The Devil All the Time,"Crime, Drama, Thriller  ",138,2020,71,55,105259
+Promising Young Woman,"Crime, Drama, Thriller  ",113,2020,75,73,103601
+Nomadland,Drama  ,107,2020,74,93,102825
+I Care a Lot,"Comedy, Crime, Thriller  ",118,2020,63,66,101684
+Sonic the Hedgehog,"Action, Adventure, Comedy  ",99,2020,65,47,99953
+Love and Monsters,"Action, Adventure, Comedy  ",109,2020,70,63,92325
+Greenland,"Action, Drama, Thriller  ",119,2020,64,64,87162
+Another Round,"Comedy, Drama  ",117,2020,78,80,82535
+Eurovision Song Contest: The Story of Fire Saga,"Comedy, Music  ",123,2020,65,50,82496
+Greyhound,"Action, Drama, History  ",91,2020,70,64,77556
+The Hunt,"Action, Horror, Thriller  ",90,2020,65,50,77375
+Project Power,"Action, Crime, Sci-Fi  ",113,2020,60,51,75603
+Spenser Confidential,"Action, Comedy, Crime  ",111,2020,62,49,75550
+The Midnight Sky,"Drama, Fantasy, Sci-Fi  ",118,2020,56,58,74498
+The Social Dilemma,"Documentary, Drama  ",94,2020,76,78,71014
+I'm Thinking of Ending Things,"Drama, Thriller  ",134,2020,66,78,69460
+Underwater,"Action, Horror, Sci-Fi  ",95,2020,58,48,68363
+The Father,Drama  ,97,2020,83,88,68006
+Hamilton,"Biography, Drama, History  ",160,2020,84,90,65769
+News of the World,"Action, Adventure, Drama  ",118,2020,68,73,65329
+Bloodshot,"Action, Drama, Sci-Fi  ",109,2020,57,44,65041
+Mank,"Biography, Comedy, Drama  ",131,2020,69,79,61705

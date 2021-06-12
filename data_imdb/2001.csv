@@ -1,0 +1,496 @@
+Movie,Genre,Duration,Year,Imdb_rating,Metascore_rating,Votes
+The Lord of the Rings: The Fellowship of the Ring,"Action, Adventure, Drama  ",178,2001,88,92,1698225
+A Beautiful Mind,"Biography, Drama  ",135,2001,82,72,866916
+"Monsters, Inc.","Animation, Adventure, Comedy  ",92,2001,81,79,832848
+Donnie Darko,"Drama, Mystery, Sci-Fi  ",113,2001,80,88,751945
+Amélie,"Comedy, Romance  ",122,2001,83,69,715011
+Harry Potter and the Sorcerer's Stone,"Adventure, Family, Fantasy  ",152,2001,76,64,678253
+Spirited Away,"Animation, Adventure, Family  ",125,2001,86,96,673896
+Shrek,"Animation, Adventure, Comedy  ",90,2001,79,84,626799
+Ocean's Eleven,"Crime, Thriller  ",116,2001,77,74,527731
+Training Day,"Crime, Drama, Thriller  ",122,2001,77,69,401198
+Black Hawk Down,"Drama, History, War  ",144,2001,77,74,370480
+The Fast and the Furious,"Action, Crime, Thriller  ",106,2001,68,58,356397
+The Others,"Horror, Mystery, Thriller  ",104,2001,76,74,344230
+Mulholland Dr.,"Drama, Mystery, Thriller  ",147,2001,79,85,329363
+Pearl Harbor,"Action, Drama, History  ",183,2001,62,44,315696
+The Mummy Returns,"Action, Adventure, Fantasy  ",130,2001,64,48,305440
+Jurassic Park III,"Action, Adventure, Sci-Fi  ",92,2001,59,42,300076
+A.I. Artificial Intelligence,"Drama, Sci-Fi  ",146,2001,72,65,294057
+The Royal Tenenbaums,"Comedy, Drama  ",110,2001,76,76,272078
+Moulin Rouge!,"Drama, Musical, Romance  ",127,2001,76,66,270436
+Hannibal,"Crime, Drama, Thriller  ",131,2001,68,57,259610
+Vanilla Sky,"Fantasy, Mystery, Romance  ",136,2001,69,45,252537
+Zoolander,Comedy  ,90,2001,65,61,249978
+Enemy at the Gates,"Drama, History, War  ",131,2001,76,53,247628
+Blow,"Biography, Crime, Drama  ",124,2001,76,52,244656
+American Pie 2,Comedy  ,108,2001,64,43,243469
+Bridget Jones's Diary,"Comedy, Drama, Romance  ",97,2001,67,66,230659
+Planet of the Apes,"Action, Adventure, Sci-Fi  ",119,2001,57,50,212312
+Rush Hour 2,"Action, Comedy, Crime  ",90,2001,66,48,203528
+Lara Croft: Tomb Raider,"Action, Adventure, Fantasy  ",100,2001,58,33,200285
+Legally Blonde,"Comedy, Romance  ",96,2001,63,59,192514
+Swordfish,"Action, Crime, Thriller  ",99,2001,65,32,178206
+K-PAX,"Drama, Mystery, Sci-Fi  ",120,2001,74,49,176758
+A Knight's Tale,"Action, Adventure, Romance  ",132,2001,69,56,175094
+Scary Movie 2,Comedy  ,83,2001,53,29,151761
+Jay and Silent Bob Strike Back,Comedy  ,104,2001,68,51,149757
+From Hell,"Horror, Mystery, Thriller  ",122,2001,68,54,148791
+Spy Game,"Action, Crime, Thriller  ",126,2001,71,63,148350
+I Am Sam,Drama  ,132,2001,76,28,144608
+The Princess Diaries,"Comedy, Family, Romance  ",111,2001,64,52,131740
+Shallow Hal,"Comedy, Drama, Fantasy  ",114,2001,59,48,128954
+The Score,"Action, Crime, Drama  ",124,2001,68,71,123163
+Evolution,"Comedy, Sci-Fi  ",101,2001,61,40,121175
+Y Tu Mamá También,Drama  ,106,2001,76,88,117577
+Ghost World,"Comedy, Drama  ",111,2001,73,88,114511
+The Lord of the Rings: The Fellowship of the Ring,"Action, Adventure, Drama  ",178,2001,88,92,1698225
+A Beautiful Mind,"Biography, Drama  ",135,2001,82,72,866916
+"Monsters, Inc.","Animation, Adventure, Comedy  ",92,2001,81,79,832848
+Donnie Darko,"Drama, Mystery, Sci-Fi  ",113,2001,80,88,751945
+Amélie,"Comedy, Romance  ",122,2001,83,69,715011
+Harry Potter and the Sorcerer's Stone,"Adventure, Family, Fantasy  ",152,2001,76,64,678253
+Spirited Away,"Animation, Adventure, Family  ",125,2001,86,96,673896
+Shrek,"Animation, Adventure, Comedy  ",90,2001,79,84,626799
+Ocean's Eleven,"Crime, Thriller  ",116,2001,77,74,527731
+Training Day,"Crime, Drama, Thriller  ",122,2001,77,69,401198
+Black Hawk Down,"Drama, History, War  ",144,2001,77,74,370480
+The Fast and the Furious,"Action, Crime, Thriller  ",106,2001,68,58,356397
+The Others,"Horror, Mystery, Thriller  ",104,2001,76,74,344230
+Mulholland Dr.,"Drama, Mystery, Thriller  ",147,2001,79,85,329363
+Pearl Harbor,"Action, Drama, History  ",183,2001,62,44,315696
+The Mummy Returns,"Action, Adventure, Fantasy  ",130,2001,64,48,305440
+Jurassic Park III,"Action, Adventure, Sci-Fi  ",92,2001,59,42,300076
+A.I. Artificial Intelligence,"Drama, Sci-Fi  ",146,2001,72,65,294057
+The Royal Tenenbaums,"Comedy, Drama  ",110,2001,76,76,272078
+Moulin Rouge!,"Drama, Musical, Romance  ",127,2001,76,66,270436
+Hannibal,"Crime, Drama, Thriller  ",131,2001,68,57,259610
+Vanilla Sky,"Fantasy, Mystery, Romance  ",136,2001,69,45,252537
+Zoolander,Comedy  ,90,2001,65,61,249978
+Enemy at the Gates,"Drama, History, War  ",131,2001,76,53,247628
+Blow,"Biography, Crime, Drama  ",124,2001,76,52,244656
+American Pie 2,Comedy  ,108,2001,64,43,243469
+Bridget Jones's Diary,"Comedy, Drama, Romance  ",97,2001,67,66,230659
+Planet of the Apes,"Action, Adventure, Sci-Fi  ",119,2001,57,50,212312
+Rush Hour 2,"Action, Comedy, Crime  ",90,2001,66,48,203528
+Lara Croft: Tomb Raider,"Action, Adventure, Fantasy  ",100,2001,58,33,200285
+Legally Blonde,"Comedy, Romance  ",96,2001,63,59,192514
+Swordfish,"Action, Crime, Thriller  ",99,2001,65,32,178206
+K-PAX,"Drama, Mystery, Sci-Fi  ",120,2001,74,49,176758
+A Knight's Tale,"Action, Adventure, Romance  ",132,2001,69,56,175094
+Scary Movie 2,Comedy  ,83,2001,53,29,151761
+Jay and Silent Bob Strike Back,Comedy  ,104,2001,68,51,149757
+From Hell,"Horror, Mystery, Thriller  ",122,2001,68,54,148791
+Spy Game,"Action, Crime, Thriller  ",126,2001,71,63,148350
+I Am Sam,Drama  ,132,2001,76,28,144608
+The Princess Diaries,"Comedy, Family, Romance  ",111,2001,64,52,131740
+Shallow Hal,"Comedy, Drama, Fantasy  ",114,2001,59,48,128954
+The Score,"Action, Crime, Drama  ",124,2001,68,71,123163
+Evolution,"Comedy, Sci-Fi  ",101,2001,61,40,121175
+Y Tu Mamá También,Drama  ,106,2001,76,88,117577
+Ghost World,"Comedy, Drama  ",111,2001,73,88,114511
+The Lord of the Rings: The Fellowship of the Ring,"Action, Adventure, Drama  ",178,2001,88,92,1698225
+A Beautiful Mind,"Biography, Drama  ",135,2001,82,72,866916
+"Monsters, Inc.","Animation, Adventure, Comedy  ",92,2001,81,79,832848
+Donnie Darko,"Drama, Mystery, Sci-Fi  ",113,2001,80,88,751945
+Amélie,"Comedy, Romance  ",122,2001,83,69,715011
+Harry Potter and the Sorcerer's Stone,"Adventure, Family, Fantasy  ",152,2001,76,64,678253
+Spirited Away,"Animation, Adventure, Family  ",125,2001,86,96,673896
+Shrek,"Animation, Adventure, Comedy  ",90,2001,79,84,626799
+Ocean's Eleven,"Crime, Thriller  ",116,2001,77,74,527731
+Training Day,"Crime, Drama, Thriller  ",122,2001,77,69,401198
+Black Hawk Down,"Drama, History, War  ",144,2001,77,74,370480
+The Fast and the Furious,"Action, Crime, Thriller  ",106,2001,68,58,356397
+The Others,"Horror, Mystery, Thriller  ",104,2001,76,74,344230
+Mulholland Dr.,"Drama, Mystery, Thriller  ",147,2001,79,85,329363
+Pearl Harbor,"Action, Drama, History  ",183,2001,62,44,315696
+The Mummy Returns,"Action, Adventure, Fantasy  ",130,2001,64,48,305440
+Jurassic Park III,"Action, Adventure, Sci-Fi  ",92,2001,59,42,300076
+A.I. Artificial Intelligence,"Drama, Sci-Fi  ",146,2001,72,65,294057
+The Royal Tenenbaums,"Comedy, Drama  ",110,2001,76,76,272078
+Moulin Rouge!,"Drama, Musical, Romance  ",127,2001,76,66,270436
+Hannibal,"Crime, Drama, Thriller  ",131,2001,68,57,259610
+Vanilla Sky,"Fantasy, Mystery, Romance  ",136,2001,69,45,252537
+Zoolander,Comedy  ,90,2001,65,61,249978
+Enemy at the Gates,"Drama, History, War  ",131,2001,76,53,247628
+Blow,"Biography, Crime, Drama  ",124,2001,76,52,244656
+American Pie 2,Comedy  ,108,2001,64,43,243469
+Bridget Jones's Diary,"Comedy, Drama, Romance  ",97,2001,67,66,230659
+Planet of the Apes,"Action, Adventure, Sci-Fi  ",119,2001,57,50,212312
+Rush Hour 2,"Action, Comedy, Crime  ",90,2001,66,48,203528
+Lara Croft: Tomb Raider,"Action, Adventure, Fantasy  ",100,2001,58,33,200285
+Legally Blonde,"Comedy, Romance  ",96,2001,63,59,192514
+Swordfish,"Action, Crime, Thriller  ",99,2001,65,32,178206
+K-PAX,"Drama, Mystery, Sci-Fi  ",120,2001,74,49,176758
+A Knight's Tale,"Action, Adventure, Romance  ",132,2001,69,56,175094
+Scary Movie 2,Comedy  ,83,2001,53,29,151761
+Jay and Silent Bob Strike Back,Comedy  ,104,2001,68,51,149757
+From Hell,"Horror, Mystery, Thriller  ",122,2001,68,54,148791
+Spy Game,"Action, Crime, Thriller  ",126,2001,71,63,148350
+I Am Sam,Drama  ,132,2001,76,28,144608
+The Princess Diaries,"Comedy, Family, Romance  ",111,2001,64,52,131740
+Shallow Hal,"Comedy, Drama, Fantasy  ",114,2001,59,48,128954
+The Score,"Action, Crime, Drama  ",124,2001,68,71,123163
+Evolution,"Comedy, Sci-Fi  ",101,2001,61,40,121175
+Y Tu Mamá También,Drama  ,106,2001,76,88,117577
+Ghost World,"Comedy, Drama  ",111,2001,73,88,114511
+The Lord of the Rings: The Fellowship of the Ring,"Action, Adventure, Drama  ",178,2001,88,92,1698225
+A Beautiful Mind,"Biography, Drama  ",135,2001,82,72,866916
+"Monsters, Inc.","Animation, Adventure, Comedy  ",92,2001,81,79,832848
+Donnie Darko,"Drama, Mystery, Sci-Fi  ",113,2001,80,88,751945
+Amélie,"Comedy, Romance  ",122,2001,83,69,715011
+Harry Potter and the Sorcerer's Stone,"Adventure, Family, Fantasy  ",152,2001,76,64,678253
+Spirited Away,"Animation, Adventure, Family  ",125,2001,86,96,673896
+Shrek,"Animation, Adventure, Comedy  ",90,2001,79,84,626799
+Ocean's Eleven,"Crime, Thriller  ",116,2001,77,74,527731
+Training Day,"Crime, Drama, Thriller  ",122,2001,77,69,401198
+Black Hawk Down,"Drama, History, War  ",144,2001,77,74,370480
+The Fast and the Furious,"Action, Crime, Thriller  ",106,2001,68,58,356397
+The Others,"Horror, Mystery, Thriller  ",104,2001,76,74,344230
+Mulholland Dr.,"Drama, Mystery, Thriller  ",147,2001,79,85,329363
+Pearl Harbor,"Action, Drama, History  ",183,2001,62,44,315696
+The Mummy Returns,"Action, Adventure, Fantasy  ",130,2001,64,48,305440
+Jurassic Park III,"Action, Adventure, Sci-Fi  ",92,2001,59,42,300076
+A.I. Artificial Intelligence,"Drama, Sci-Fi  ",146,2001,72,65,294057
+The Royal Tenenbaums,"Comedy, Drama  ",110,2001,76,76,272078
+Moulin Rouge!,"Drama, Musical, Romance  ",127,2001,76,66,270436
+Hannibal,"Crime, Drama, Thriller  ",131,2001,68,57,259610
+Vanilla Sky,"Fantasy, Mystery, Romance  ",136,2001,69,45,252537
+Zoolander,Comedy  ,90,2001,65,61,249978
+Enemy at the Gates,"Drama, History, War  ",131,2001,76,53,247628
+Blow,"Biography, Crime, Drama  ",124,2001,76,52,244656
+American Pie 2,Comedy  ,108,2001,64,43,243469
+Bridget Jones's Diary,"Comedy, Drama, Romance  ",97,2001,67,66,230659
+Planet of the Apes,"Action, Adventure, Sci-Fi  ",119,2001,57,50,212312
+Rush Hour 2,"Action, Comedy, Crime  ",90,2001,66,48,203528
+Lara Croft: Tomb Raider,"Action, Adventure, Fantasy  ",100,2001,58,33,200285
+Legally Blonde,"Comedy, Romance  ",96,2001,63,59,192514
+Swordfish,"Action, Crime, Thriller  ",99,2001,65,32,178206
+K-PAX,"Drama, Mystery, Sci-Fi  ",120,2001,74,49,176758
+A Knight's Tale,"Action, Adventure, Romance  ",132,2001,69,56,175094
+Scary Movie 2,Comedy  ,83,2001,53,29,151761
+Jay and Silent Bob Strike Back,Comedy  ,104,2001,68,51,149757
+From Hell,"Horror, Mystery, Thriller  ",122,2001,68,54,148791
+Spy Game,"Action, Crime, Thriller  ",126,2001,71,63,148350
+I Am Sam,Drama  ,132,2001,76,28,144608
+The Princess Diaries,"Comedy, Family, Romance  ",111,2001,64,52,131740
+Shallow Hal,"Comedy, Drama, Fantasy  ",114,2001,59,48,128954
+The Score,"Action, Crime, Drama  ",124,2001,68,71,123163
+Evolution,"Comedy, Sci-Fi  ",101,2001,61,40,121175
+Y Tu Mamá También,Drama  ,106,2001,76,88,117577
+Ghost World,"Comedy, Drama  ",111,2001,73,88,114511
+The Lord of the Rings: The Fellowship of the Ring,"Action, Adventure, Drama  ",178,2001,88,92,1698225
+A Beautiful Mind,"Biography, Drama  ",135,2001,82,72,866916
+"Monsters, Inc.","Animation, Adventure, Comedy  ",92,2001,81,79,832848
+Donnie Darko,"Drama, Mystery, Sci-Fi  ",113,2001,80,88,751945
+Amélie,"Comedy, Romance  ",122,2001,83,69,715011
+Harry Potter and the Sorcerer's Stone,"Adventure, Family, Fantasy  ",152,2001,76,64,678253
+Spirited Away,"Animation, Adventure, Family  ",125,2001,86,96,673896
+Shrek,"Animation, Adventure, Comedy  ",90,2001,79,84,626799
+Ocean's Eleven,"Crime, Thriller  ",116,2001,77,74,527731
+Training Day,"Crime, Drama, Thriller  ",122,2001,77,69,401198
+Black Hawk Down,"Drama, History, War  ",144,2001,77,74,370480
+The Fast and the Furious,"Action, Crime, Thriller  ",106,2001,68,58,356397
+The Others,"Horror, Mystery, Thriller  ",104,2001,76,74,344230
+Mulholland Dr.,"Drama, Mystery, Thriller  ",147,2001,79,85,329363
+Pearl Harbor,"Action, Drama, History  ",183,2001,62,44,315696
+The Mummy Returns,"Action, Adventure, Fantasy  ",130,2001,64,48,305440
+Jurassic Park III,"Action, Adventure, Sci-Fi  ",92,2001,59,42,300076
+A.I. Artificial Intelligence,"Drama, Sci-Fi  ",146,2001,72,65,294057
+The Royal Tenenbaums,"Comedy, Drama  ",110,2001,76,76,272078
+Moulin Rouge!,"Drama, Musical, Romance  ",127,2001,76,66,270436
+Hannibal,"Crime, Drama, Thriller  ",131,2001,68,57,259610
+Vanilla Sky,"Fantasy, Mystery, Romance  ",136,2001,69,45,252537
+Zoolander,Comedy  ,90,2001,65,61,249978
+Enemy at the Gates,"Drama, History, War  ",131,2001,76,53,247628
+Blow,"Biography, Crime, Drama  ",124,2001,76,52,244656
+American Pie 2,Comedy  ,108,2001,64,43,243469
+Bridget Jones's Diary,"Comedy, Drama, Romance  ",97,2001,67,66,230659
+Planet of the Apes,"Action, Adventure, Sci-Fi  ",119,2001,57,50,212312
+Rush Hour 2,"Action, Comedy, Crime  ",90,2001,66,48,203528
+Lara Croft: Tomb Raider,"Action, Adventure, Fantasy  ",100,2001,58,33,200285
+Legally Blonde,"Comedy, Romance  ",96,2001,63,59,192514
+Swordfish,"Action, Crime, Thriller  ",99,2001,65,32,178206
+K-PAX,"Drama, Mystery, Sci-Fi  ",120,2001,74,49,176758
+A Knight's Tale,"Action, Adventure, Romance  ",132,2001,69,56,175094
+Scary Movie 2,Comedy  ,83,2001,53,29,151761
+Jay and Silent Bob Strike Back,Comedy  ,104,2001,68,51,149757
+From Hell,"Horror, Mystery, Thriller  ",122,2001,68,54,148791
+Spy Game,"Action, Crime, Thriller  ",126,2001,71,63,148350
+I Am Sam,Drama  ,132,2001,76,28,144608
+The Princess Diaries,"Comedy, Family, Romance  ",111,2001,64,52,131740
+Shallow Hal,"Comedy, Drama, Fantasy  ",114,2001,59,48,128954
+The Score,"Action, Crime, Drama  ",124,2001,68,71,123163
+Evolution,"Comedy, Sci-Fi  ",101,2001,61,40,121175
+Y Tu Mamá También,Drama  ,106,2001,76,88,117577
+Ghost World,"Comedy, Drama  ",111,2001,73,88,114511
+The Lord of the Rings: The Fellowship of the Ring,"Action, Adventure, Drama  ",178,2001,88,92,1698225
+A Beautiful Mind,"Biography, Drama  ",135,2001,82,72,866916
+"Monsters, Inc.","Animation, Adventure, Comedy  ",92,2001,81,79,832848
+Donnie Darko,"Drama, Mystery, Sci-Fi  ",113,2001,80,88,751945
+Amélie,"Comedy, Romance  ",122,2001,83,69,715011
+Harry Potter and the Sorcerer's Stone,"Adventure, Family, Fantasy  ",152,2001,76,64,678253
+Spirited Away,"Animation, Adventure, Family  ",125,2001,86,96,673896
+Shrek,"Animation, Adventure, Comedy  ",90,2001,79,84,626799
+Ocean's Eleven,"Crime, Thriller  ",116,2001,77,74,527731
+Training Day,"Crime, Drama, Thriller  ",122,2001,77,69,401198
+Black Hawk Down,"Drama, History, War  ",144,2001,77,74,370480
+The Fast and the Furious,"Action, Crime, Thriller  ",106,2001,68,58,356397
+The Others,"Horror, Mystery, Thriller  ",104,2001,76,74,344230
+Mulholland Dr.,"Drama, Mystery, Thriller  ",147,2001,79,85,329363
+Pearl Harbor,"Action, Drama, History  ",183,2001,62,44,315696
+The Mummy Returns,"Action, Adventure, Fantasy  ",130,2001,64,48,305440
+Jurassic Park III,"Action, Adventure, Sci-Fi  ",92,2001,59,42,300076
+A.I. Artificial Intelligence,"Drama, Sci-Fi  ",146,2001,72,65,294057
+The Royal Tenenbaums,"Comedy, Drama  ",110,2001,76,76,272078
+Moulin Rouge!,"Drama, Musical, Romance  ",127,2001,76,66,270436
+Hannibal,"Crime, Drama, Thriller  ",131,2001,68,57,259610
+Vanilla Sky,"Fantasy, Mystery, Romance  ",136,2001,69,45,252537
+Zoolander,Comedy  ,90,2001,65,61,249978
+Enemy at the Gates,"Drama, History, War  ",131,2001,76,53,247628
+Blow,"Biography, Crime, Drama  ",124,2001,76,52,244656
+American Pie 2,Comedy  ,108,2001,64,43,243469
+Bridget Jones's Diary,"Comedy, Drama, Romance  ",97,2001,67,66,230659
+Planet of the Apes,"Action, Adventure, Sci-Fi  ",119,2001,57,50,212312
+Rush Hour 2,"Action, Comedy, Crime  ",90,2001,66,48,203528
+Lara Croft: Tomb Raider,"Action, Adventure, Fantasy  ",100,2001,58,33,200285
+Legally Blonde,"Comedy, Romance  ",96,2001,63,59,192514
+Swordfish,"Action, Crime, Thriller  ",99,2001,65,32,178206
+K-PAX,"Drama, Mystery, Sci-Fi  ",120,2001,74,49,176758
+A Knight's Tale,"Action, Adventure, Romance  ",132,2001,69,56,175094
+Scary Movie 2,Comedy  ,83,2001,53,29,151761
+Jay and Silent Bob Strike Back,Comedy  ,104,2001,68,51,149757
+From Hell,"Horror, Mystery, Thriller  ",122,2001,68,54,148791
+Spy Game,"Action, Crime, Thriller  ",126,2001,71,63,148350
+I Am Sam,Drama  ,132,2001,76,28,144608
+The Princess Diaries,"Comedy, Family, Romance  ",111,2001,64,52,131740
+Shallow Hal,"Comedy, Drama, Fantasy  ",114,2001,59,48,128954
+The Score,"Action, Crime, Drama  ",124,2001,68,71,123163
+Evolution,"Comedy, Sci-Fi  ",101,2001,61,40,121175
+Y Tu Mamá También,Drama  ,106,2001,76,88,117577
+Ghost World,"Comedy, Drama  ",111,2001,73,88,114511
+The Lord of the Rings: The Fellowship of the Ring,"Action, Adventure, Drama  ",178,2001,88,92,1698225
+A Beautiful Mind,"Biography, Drama  ",135,2001,82,72,866916
+"Monsters, Inc.","Animation, Adventure, Comedy  ",92,2001,81,79,832848
+Donnie Darko,"Drama, Mystery, Sci-Fi  ",113,2001,80,88,751945
+Amélie,"Comedy, Romance  ",122,2001,83,69,715011
+Harry Potter and the Sorcerer's Stone,"Adventure, Family, Fantasy  ",152,2001,76,64,678253
+Spirited Away,"Animation, Adventure, Family  ",125,2001,86,96,673896
+Shrek,"Animation, Adventure, Comedy  ",90,2001,79,84,626799
+Ocean's Eleven,"Crime, Thriller  ",116,2001,77,74,527731
+Training Day,"Crime, Drama, Thriller  ",122,2001,77,69,401198
+Black Hawk Down,"Drama, History, War  ",144,2001,77,74,370480
+The Fast and the Furious,"Action, Crime, Thriller  ",106,2001,68,58,356397
+The Others,"Horror, Mystery, Thriller  ",104,2001,76,74,344230
+Mulholland Dr.,"Drama, Mystery, Thriller  ",147,2001,79,85,329363
+Pearl Harbor,"Action, Drama, History  ",183,2001,62,44,315696
+The Mummy Returns,"Action, Adventure, Fantasy  ",130,2001,64,48,305440
+Jurassic Park III,"Action, Adventure, Sci-Fi  ",92,2001,59,42,300076
+A.I. Artificial Intelligence,"Drama, Sci-Fi  ",146,2001,72,65,294057
+The Royal Tenenbaums,"Comedy, Drama  ",110,2001,76,76,272078
+Moulin Rouge!,"Drama, Musical, Romance  ",127,2001,76,66,270436
+Hannibal,"Crime, Drama, Thriller  ",131,2001,68,57,259610
+Vanilla Sky,"Fantasy, Mystery, Romance  ",136,2001,69,45,252537
+Zoolander,Comedy  ,90,2001,65,61,249978
+Enemy at the Gates,"Drama, History, War  ",131,2001,76,53,247628
+Blow,"Biography, Crime, Drama  ",124,2001,76,52,244656
+American Pie 2,Comedy  ,108,2001,64,43,243469
+Bridget Jones's Diary,"Comedy, Drama, Romance  ",97,2001,67,66,230659
+Planet of the Apes,"Action, Adventure, Sci-Fi  ",119,2001,57,50,212312
+Rush Hour 2,"Action, Comedy, Crime  ",90,2001,66,48,203528
+Lara Croft: Tomb Raider,"Action, Adventure, Fantasy  ",100,2001,58,33,200285
+Legally Blonde,"Comedy, Romance  ",96,2001,63,59,192514
+Swordfish,"Action, Crime, Thriller  ",99,2001,65,32,178206
+K-PAX,"Drama, Mystery, Sci-Fi  ",120,2001,74,49,176758
+A Knight's Tale,"Action, Adventure, Romance  ",132,2001,69,56,175094
+Scary Movie 2,Comedy  ,83,2001,53,29,151761
+Jay and Silent Bob Strike Back,Comedy  ,104,2001,68,51,149757
+From Hell,"Horror, Mystery, Thriller  ",122,2001,68,54,148791
+Spy Game,"Action, Crime, Thriller  ",126,2001,71,63,148350
+I Am Sam,Drama  ,132,2001,76,28,144608
+The Princess Diaries,"Comedy, Family, Romance  ",111,2001,64,52,131740
+Shallow Hal,"Comedy, Drama, Fantasy  ",114,2001,59,48,128954
+The Score,"Action, Crime, Drama  ",124,2001,68,71,123163
+Evolution,"Comedy, Sci-Fi  ",101,2001,61,40,121175
+Y Tu Mamá También,Drama  ,106,2001,76,88,117577
+Ghost World,"Comedy, Drama  ",111,2001,73,88,114511
+The Lord of the Rings: The Fellowship of the Ring,"Action, Adventure, Drama  ",178,2001,88,92,1698225
+A Beautiful Mind,"Biography, Drama  ",135,2001,82,72,866916
+"Monsters, Inc.","Animation, Adventure, Comedy  ",92,2001,81,79,832848
+Donnie Darko,"Drama, Mystery, Sci-Fi  ",113,2001,80,88,751945
+Amélie,"Comedy, Romance  ",122,2001,83,69,715011
+Harry Potter and the Sorcerer's Stone,"Adventure, Family, Fantasy  ",152,2001,76,64,678253
+Spirited Away,"Animation, Adventure, Family  ",125,2001,86,96,673896
+Shrek,"Animation, Adventure, Comedy  ",90,2001,79,84,626799
+Ocean's Eleven,"Crime, Thriller  ",116,2001,77,74,527731
+Training Day,"Crime, Drama, Thriller  ",122,2001,77,69,401198
+Black Hawk Down,"Drama, History, War  ",144,2001,77,74,370480
+The Fast and the Furious,"Action, Crime, Thriller  ",106,2001,68,58,356397
+The Others,"Horror, Mystery, Thriller  ",104,2001,76,74,344230
+Mulholland Dr.,"Drama, Mystery, Thriller  ",147,2001,79,85,329363
+Pearl Harbor,"Action, Drama, History  ",183,2001,62,44,315696
+The Mummy Returns,"Action, Adventure, Fantasy  ",130,2001,64,48,305440
+Jurassic Park III,"Action, Adventure, Sci-Fi  ",92,2001,59,42,300076
+A.I. Artificial Intelligence,"Drama, Sci-Fi  ",146,2001,72,65,294057
+The Royal Tenenbaums,"Comedy, Drama  ",110,2001,76,76,272078
+Moulin Rouge!,"Drama, Musical, Romance  ",127,2001,76,66,270436
+Hannibal,"Crime, Drama, Thriller  ",131,2001,68,57,259610
+Vanilla Sky,"Fantasy, Mystery, Romance  ",136,2001,69,45,252537
+Zoolander,Comedy  ,90,2001,65,61,249978
+Enemy at the Gates,"Drama, History, War  ",131,2001,76,53,247628
+Blow,"Biography, Crime, Drama  ",124,2001,76,52,244656
+American Pie 2,Comedy  ,108,2001,64,43,243469
+Bridget Jones's Diary,"Comedy, Drama, Romance  ",97,2001,67,66,230659
+Planet of the Apes,"Action, Adventure, Sci-Fi  ",119,2001,57,50,212312
+Rush Hour 2,"Action, Comedy, Crime  ",90,2001,66,48,203528
+Lara Croft: Tomb Raider,"Action, Adventure, Fantasy  ",100,2001,58,33,200285
+Legally Blonde,"Comedy, Romance  ",96,2001,63,59,192514
+Swordfish,"Action, Crime, Thriller  ",99,2001,65,32,178206
+K-PAX,"Drama, Mystery, Sci-Fi  ",120,2001,74,49,176758
+A Knight's Tale,"Action, Adventure, Romance  ",132,2001,69,56,175094
+Scary Movie 2,Comedy  ,83,2001,53,29,151761
+Jay and Silent Bob Strike Back,Comedy  ,104,2001,68,51,149757
+From Hell,"Horror, Mystery, Thriller  ",122,2001,68,54,148791
+Spy Game,"Action, Crime, Thriller  ",126,2001,71,63,148350
+I Am Sam,Drama  ,132,2001,76,28,144608
+The Princess Diaries,"Comedy, Family, Romance  ",111,2001,64,52,131740
+Shallow Hal,"Comedy, Drama, Fantasy  ",114,2001,59,48,128954
+The Score,"Action, Crime, Drama  ",124,2001,68,71,123163
+Evolution,"Comedy, Sci-Fi  ",101,2001,61,40,121175
+Y Tu Mamá También,Drama  ,106,2001,76,88,117577
+Ghost World,"Comedy, Drama  ",111,2001,73,88,114511
+The Lord of the Rings: The Fellowship of the Ring,"Action, Adventure, Drama  ",178,2001,88,92,1698225
+A Beautiful Mind,"Biography, Drama  ",135,2001,82,72,866916
+"Monsters, Inc.","Animation, Adventure, Comedy  ",92,2001,81,79,832848
+Donnie Darko,"Drama, Mystery, Sci-Fi  ",113,2001,80,88,751945
+Amélie,"Comedy, Romance  ",122,2001,83,69,715011
+Harry Potter and the Sorcerer's Stone,"Adventure, Family, Fantasy  ",152,2001,76,64,678253
+Spirited Away,"Animation, Adventure, Family  ",125,2001,86,96,673896
+Shrek,"Animation, Adventure, Comedy  ",90,2001,79,84,626799
+Ocean's Eleven,"Crime, Thriller  ",116,2001,77,74,527731
+Training Day,"Crime, Drama, Thriller  ",122,2001,77,69,401198
+Black Hawk Down,"Drama, History, War  ",144,2001,77,74,370480
+The Fast and the Furious,"Action, Crime, Thriller  ",106,2001,68,58,356397
+The Others,"Horror, Mystery, Thriller  ",104,2001,76,74,344230
+Mulholland Dr.,"Drama, Mystery, Thriller  ",147,2001,79,85,329363
+Pearl Harbor,"Action, Drama, History  ",183,2001,62,44,315696
+The Mummy Returns,"Action, Adventure, Fantasy  ",130,2001,64,48,305440
+Jurassic Park III,"Action, Adventure, Sci-Fi  ",92,2001,59,42,300076
+A.I. Artificial Intelligence,"Drama, Sci-Fi  ",146,2001,72,65,294057
+The Royal Tenenbaums,"Comedy, Drama  ",110,2001,76,76,272078
+Moulin Rouge!,"Drama, Musical, Romance  ",127,2001,76,66,270436
+Hannibal,"Crime, Drama, Thriller  ",131,2001,68,57,259610
+Vanilla Sky,"Fantasy, Mystery, Romance  ",136,2001,69,45,252537
+Zoolander,Comedy  ,90,2001,65,61,249978
+Enemy at the Gates,"Drama, History, War  ",131,2001,76,53,247628
+Blow,"Biography, Crime, Drama  ",124,2001,76,52,244656
+American Pie 2,Comedy  ,108,2001,64,43,243469
+Bridget Jones's Diary,"Comedy, Drama, Romance  ",97,2001,67,66,230659
+Planet of the Apes,"Action, Adventure, Sci-Fi  ",119,2001,57,50,212312
+Rush Hour 2,"Action, Comedy, Crime  ",90,2001,66,48,203528
+Lara Croft: Tomb Raider,"Action, Adventure, Fantasy  ",100,2001,58,33,200285
+Legally Blonde,"Comedy, Romance  ",96,2001,63,59,192514
+Swordfish,"Action, Crime, Thriller  ",99,2001,65,32,178206
+K-PAX,"Drama, Mystery, Sci-Fi  ",120,2001,74,49,176758
+A Knight's Tale,"Action, Adventure, Romance  ",132,2001,69,56,175094
+Scary Movie 2,Comedy  ,83,2001,53,29,151761
+Jay and Silent Bob Strike Back,Comedy  ,104,2001,68,51,149757
+From Hell,"Horror, Mystery, Thriller  ",122,2001,68,54,148791
+Spy Game,"Action, Crime, Thriller  ",126,2001,71,63,148350
+I Am Sam,Drama  ,132,2001,76,28,144608
+The Princess Diaries,"Comedy, Family, Romance  ",111,2001,64,52,131740
+Shallow Hal,"Comedy, Drama, Fantasy  ",114,2001,59,48,128954
+The Score,"Action, Crime, Drama  ",124,2001,68,71,123163
+Evolution,"Comedy, Sci-Fi  ",101,2001,61,40,121175
+Y Tu Mamá También,Drama  ,106,2001,76,88,117577
+Ghost World,"Comedy, Drama  ",111,2001,73,88,114511
+The Lord of the Rings: The Fellowship of the Ring,"Action, Adventure, Drama  ",178,2001,88,92,1698225
+A Beautiful Mind,"Biography, Drama  ",135,2001,82,72,866916
+"Monsters, Inc.","Animation, Adventure, Comedy  ",92,2001,81,79,832848
+Donnie Darko,"Drama, Mystery, Sci-Fi  ",113,2001,80,88,751945
+Amélie,"Comedy, Romance  ",122,2001,83,69,715011
+Harry Potter and the Sorcerer's Stone,"Adventure, Family, Fantasy  ",152,2001,76,64,678253
+Spirited Away,"Animation, Adventure, Family  ",125,2001,86,96,673896
+Shrek,"Animation, Adventure, Comedy  ",90,2001,79,84,626799
+Ocean's Eleven,"Crime, Thriller  ",116,2001,77,74,527731
+Training Day,"Crime, Drama, Thriller  ",122,2001,77,69,401198
+Black Hawk Down,"Drama, History, War  ",144,2001,77,74,370480
+The Fast and the Furious,"Action, Crime, Thriller  ",106,2001,68,58,356397
+The Others,"Horror, Mystery, Thriller  ",104,2001,76,74,344230
+Mulholland Dr.,"Drama, Mystery, Thriller  ",147,2001,79,85,329363
+Pearl Harbor,"Action, Drama, History  ",183,2001,62,44,315696
+The Mummy Returns,"Action, Adventure, Fantasy  ",130,2001,64,48,305440
+Jurassic Park III,"Action, Adventure, Sci-Fi  ",92,2001,59,42,300076
+A.I. Artificial Intelligence,"Drama, Sci-Fi  ",146,2001,72,65,294057
+The Royal Tenenbaums,"Comedy, Drama  ",110,2001,76,76,272078
+Moulin Rouge!,"Drama, Musical, Romance  ",127,2001,76,66,270436
+Hannibal,"Crime, Drama, Thriller  ",131,2001,68,57,259610
+Vanilla Sky,"Fantasy, Mystery, Romance  ",136,2001,69,45,252537
+Zoolander,Comedy  ,90,2001,65,61,249978
+Enemy at the Gates,"Drama, History, War  ",131,2001,76,53,247628
+Blow,"Biography, Crime, Drama  ",124,2001,76,52,244656
+American Pie 2,Comedy  ,108,2001,64,43,243469
+Bridget Jones's Diary,"Comedy, Drama, Romance  ",97,2001,67,66,230659
+Planet of the Apes,"Action, Adventure, Sci-Fi  ",119,2001,57,50,212312
+Rush Hour 2,"Action, Comedy, Crime  ",90,2001,66,48,203528
+Lara Croft: Tomb Raider,"Action, Adventure, Fantasy  ",100,2001,58,33,200285
+Legally Blonde,"Comedy, Romance  ",96,2001,63,59,192514
+Swordfish,"Action, Crime, Thriller  ",99,2001,65,32,178206
+K-PAX,"Drama, Mystery, Sci-Fi  ",120,2001,74,49,176758
+A Knight's Tale,"Action, Adventure, Romance  ",132,2001,69,56,175094
+Scary Movie 2,Comedy  ,83,2001,53,29,151761
+Jay and Silent Bob Strike Back,Comedy  ,104,2001,68,51,149757
+From Hell,"Horror, Mystery, Thriller  ",122,2001,68,54,148791
+Spy Game,"Action, Crime, Thriller  ",126,2001,71,63,148350
+I Am Sam,Drama  ,132,2001,76,28,144608
+The Princess Diaries,"Comedy, Family, Romance  ",111,2001,64,52,131740
+Shallow Hal,"Comedy, Drama, Fantasy  ",114,2001,59,48,128954
+The Score,"Action, Crime, Drama  ",124,2001,68,71,123163
+Evolution,"Comedy, Sci-Fi  ",101,2001,61,40,121175
+Y Tu Mamá También,Drama  ,106,2001,76,88,117577
+Ghost World,"Comedy, Drama  ",111,2001,73,88,114511
+The Lord of the Rings: The Fellowship of the Ring,"Action, Adventure, Drama  ",178,2001,88,92,1698225
+A Beautiful Mind,"Biography, Drama  ",135,2001,82,72,866916
+"Monsters, Inc.","Animation, Adventure, Comedy  ",92,2001,81,79,832848
+Donnie Darko,"Drama, Mystery, Sci-Fi  ",113,2001,80,88,751945
+Amélie,"Comedy, Romance  ",122,2001,83,69,715011
+Harry Potter and the Sorcerer's Stone,"Adventure, Family, Fantasy  ",152,2001,76,64,678253
+Spirited Away,"Animation, Adventure, Family  ",125,2001,86,96,673896
+Shrek,"Animation, Adventure, Comedy  ",90,2001,79,84,626799
+Ocean's Eleven,"Crime, Thriller  ",116,2001,77,74,527731
+Training Day,"Crime, Drama, Thriller  ",122,2001,77,69,401198
+Black Hawk Down,"Drama, History, War  ",144,2001,77,74,370480
+The Fast and the Furious,"Action, Crime, Thriller  ",106,2001,68,58,356397
+The Others,"Horror, Mystery, Thriller  ",104,2001,76,74,344230
+Mulholland Dr.,"Drama, Mystery, Thriller  ",147,2001,79,85,329363
+Pearl Harbor,"Action, Drama, History  ",183,2001,62,44,315696
+The Mummy Returns,"Action, Adventure, Fantasy  ",130,2001,64,48,305440
+Jurassic Park III,"Action, Adventure, Sci-Fi  ",92,2001,59,42,300076
+A.I. Artificial Intelligence,"Drama, Sci-Fi  ",146,2001,72,65,294057
+The Royal Tenenbaums,"Comedy, Drama  ",110,2001,76,76,272078
+Moulin Rouge!,"Drama, Musical, Romance  ",127,2001,76,66,270436
+Hannibal,"Crime, Drama, Thriller  ",131,2001,68,57,259610
+Vanilla Sky,"Fantasy, Mystery, Romance  ",136,2001,69,45,252537
+Zoolander,Comedy  ,90,2001,65,61,249978
+Enemy at the Gates,"Drama, History, War  ",131,2001,76,53,247628
+Blow,"Biography, Crime, Drama  ",124,2001,76,52,244656
+American Pie 2,Comedy  ,108,2001,64,43,243469
+Bridget Jones's Diary,"Comedy, Drama, Romance  ",97,2001,67,66,230659
+Planet of the Apes,"Action, Adventure, Sci-Fi  ",119,2001,57,50,212312
+Rush Hour 2,"Action, Comedy, Crime  ",90,2001,66,48,203528
+Lara Croft: Tomb Raider,"Action, Adventure, Fantasy  ",100,2001,58,33,200285
+Legally Blonde,"Comedy, Romance  ",96,2001,63,59,192514
+Swordfish,"Action, Crime, Thriller  ",99,2001,65,32,178206
+K-PAX,"Drama, Mystery, Sci-Fi  ",120,2001,74,49,176758
+A Knight's Tale,"Action, Adventure, Romance  ",132,2001,69,56,175094
+Scary Movie 2,Comedy  ,83,2001,53,29,151761
+Jay and Silent Bob Strike Back,Comedy  ,104,2001,68,51,149757
+From Hell,"Horror, Mystery, Thriller  ",122,2001,68,54,148791
+Spy Game,"Action, Crime, Thriller  ",126,2001,71,63,148350
+I Am Sam,Drama  ,132,2001,76,28,144608
+The Princess Diaries,"Comedy, Family, Romance  ",111,2001,64,52,131740
+Shallow Hal,"Comedy, Drama, Fantasy  ",114,2001,59,48,128954
+The Score,"Action, Crime, Drama  ",124,2001,68,71,123163
+Evolution,"Comedy, Sci-Fi  ",101,2001,61,40,121175
+Y Tu Mamá También,Drama  ,106,2001,76,88,117577
+Ghost World,"Comedy, Drama  ",111,2001,73,88,114511

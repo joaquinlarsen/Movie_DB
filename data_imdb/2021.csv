@@ -1,176 +1,309 @@
 Movie,Genre,Duration,Year,Imdb_rating,Metascore_rating,Votes
-Zack Snyder's Justice League,"Action, Adventure, Fantasy  ",242,2021,82,54,290353
-Godzilla vs. Kong,"Action, Sci-Fi, Thriller  ",113,2021,65,59,129427
-Mortal Kombat,"Action, Adventure, Fantasy  ",110,2021,62,44,101804
-Nobody,"Action, Crime, Drama  ",92,2021,74,63,82293
-Army of the Dead,"Action, Crime, Horror  ",148,2021,60,57,67750
-Raya and the Last Dragon,"Animation, Action, Adventure  ",107,2021,74,75,59288
-The Little Things,"Crime, Drama, Thriller  ",128,2021,63,54,58372
-Coming 2 America,Comedy  ,110,2021,53,52,56621
-The Dig,"Biography, Drama, History  ",112,2021,71,73,55457
-The White Tiger,"Crime, Drama  ",125,2021,71,76,48555
-Judas and the Black Messiah,"Biography, Drama, History  ",126,2021,75,85,48036
-The Mitchells vs the Machines,"Animation, Adventure, Comedy  ",113,2021,78,80,45775
-The Woman in the Window,"Crime, Drama, Mystery  ",100,2021,57,41,35302
-Outside the Wire,"Action, Adventure, Fantasy  ",114,2021,54,45,35287
-Tom Clancy's Without Remorse,"Action, Thriller, War  ",109,2021,58,41,35087
-Thunder Force,"Action, Adventure, Comedy  ",106,2021,44,34,32394
-Stowaway,"Drama, Sci-Fi, Thriller  ",116,2021,56,63,31145
-Malcolm & Marie,"Drama, Romance  ",106,2021,67,53,28503
-Boss Level,"Action, Mystery, Sci-Fi  ",94,2021,69,56,27575
-Palmer,Drama  ,110,2021,73,53,24323
-The Mauritanian,"Drama, Thriller  ",129,2021,74,53,24138
-Tom and Jerry,"Animation, Comedy, Family  ",101,2021,53,32,23090
-Cherry,"Crime, Drama  ",142,2021,66,44,21321
-Redemption Day,"Action, Drama, Thriller  ",99,2021,67,22,21159
-Chaos Walking,"Action, Adventure, Fantasy  ",109,2021,57,38,19820
-Zack Snyder's Justice League,"Action, Adventure, Fantasy  ",242,2021,82,54,290353
-Godzilla vs. Kong,"Action, Sci-Fi, Thriller  ",113,2021,65,59,129427
-Mortal Kombat,"Action, Adventure, Fantasy  ",110,2021,62,44,101804
-Nobody,"Action, Crime, Drama  ",92,2021,74,63,82293
-Army of the Dead,"Action, Crime, Horror  ",148,2021,60,57,67750
-Raya and the Last Dragon,"Animation, Action, Adventure  ",107,2021,74,75,59288
-The Little Things,"Crime, Drama, Thriller  ",128,2021,63,54,58372
-Coming 2 America,Comedy  ,110,2021,53,52,56621
-The Dig,"Biography, Drama, History  ",112,2021,71,73,55457
-The White Tiger,"Crime, Drama  ",125,2021,71,76,48555
-Judas and the Black Messiah,"Biography, Drama, History  ",126,2021,75,85,48036
-The Mitchells vs the Machines,"Animation, Adventure, Comedy  ",113,2021,78,80,45775
-The Woman in the Window,"Crime, Drama, Mystery  ",100,2021,57,41,35302
-Outside the Wire,"Action, Adventure, Fantasy  ",114,2021,54,45,35287
-Tom Clancy's Without Remorse,"Action, Thriller, War  ",109,2021,58,41,35054
-Thunder Force,"Action, Adventure, Comedy  ",106,2021,44,34,32394
-Stowaway,"Drama, Sci-Fi, Thriller  ",116,2021,56,63,31145
-Malcolm & Marie,"Drama, Romance  ",106,2021,67,53,28503
-Boss Level,"Action, Mystery, Sci-Fi  ",94,2021,69,56,27575
-Palmer,Drama  ,110,2021,73,53,24323
-The Mauritanian,"Drama, Thriller  ",129,2021,74,53,24138
-Tom and Jerry,"Animation, Comedy, Family  ",101,2021,53,32,23090
-Cherry,"Crime, Drama  ",142,2021,66,44,21321
-Redemption Day,"Action, Drama, Thriller  ",99,2021,67,22,21159
-Chaos Walking,"Action, Adventure, Fantasy  ",109,2021,57,38,19820
-Zack Snyder's Justice League,"Action, Adventure, Fantasy  ",242,2021,82,54,290353
-Godzilla vs. Kong,"Action, Sci-Fi, Thriller  ",113,2021,65,59,129427
-Mortal Kombat,"Action, Adventure, Fantasy  ",110,2021,62,44,101804
-Nobody,"Action, Crime, Drama  ",92,2021,74,63,82293
-Army of the Dead,"Action, Crime, Horror  ",148,2021,60,57,67750
-Raya and the Last Dragon,"Animation, Action, Adventure  ",107,2021,74,75,59288
-The Little Things,"Crime, Drama, Thriller  ",128,2021,63,54,58372
-Coming 2 America,Comedy  ,110,2021,53,52,56621
-The Dig,"Biography, Drama, History  ",112,2021,71,73,55457
-The White Tiger,"Crime, Drama  ",125,2021,71,76,48555
-Judas and the Black Messiah,"Biography, Drama, History  ",126,2021,75,85,48051
-The Mitchells vs the Machines,"Animation, Adventure, Comedy  ",113,2021,78,80,45775
-The Woman in the Window,"Crime, Drama, Mystery  ",100,2021,57,41,35302
-Outside the Wire,"Action, Adventure, Fantasy  ",114,2021,54,45,35287
-Tom Clancy's Without Remorse,"Action, Thriller, War  ",109,2021,58,41,35054
-Thunder Force,"Action, Adventure, Comedy  ",106,2021,44,34,32394
-Stowaway,"Drama, Sci-Fi, Thriller  ",116,2021,56,63,31154
-Malcolm & Marie,"Drama, Romance  ",106,2021,67,53,28503
-Boss Level,"Action, Mystery, Sci-Fi  ",94,2021,69,56,27575
-Palmer,Drama  ,110,2021,73,53,24323
-The Mauritanian,"Drama, Thriller  ",129,2021,74,53,24138
-Tom and Jerry,"Animation, Comedy, Family  ",101,2021,53,32,23090
-Cherry,"Crime, Drama  ",142,2021,66,44,21321
-Redemption Day,"Action, Drama, Thriller  ",99,2021,67,22,21159
-Chaos Walking,"Action, Adventure, Fantasy  ",109,2021,57,38,19820
-Zack Snyder's Justice League,"Action, Adventure, Fantasy  ",242,2021,82,54,290353
-Godzilla vs. Kong,"Action, Sci-Fi, Thriller  ",113,2021,65,59,129427
-Mortal Kombat,"Action, Adventure, Fantasy  ",110,2021,62,44,101804
-Nobody,"Action, Crime, Drama  ",92,2021,74,63,82293
-Army of the Dead,"Action, Crime, Horror  ",148,2021,60,57,67750
-Raya and the Last Dragon,"Animation, Action, Adventure  ",107,2021,74,75,59288
-The Little Things,"Crime, Drama, Thriller  ",128,2021,63,54,58372
-Coming 2 America,Comedy  ,110,2021,53,52,56621
-The Dig,"Biography, Drama, History  ",112,2021,71,73,55457
-The White Tiger,"Crime, Drama  ",125,2021,71,76,48555
-Judas and the Black Messiah,"Biography, Drama, History  ",126,2021,75,85,48051
-The Mitchells vs the Machines,"Animation, Adventure, Comedy  ",113,2021,78,80,45775
-The Woman in the Window,"Crime, Drama, Mystery  ",100,2021,57,41,35302
-Outside the Wire,"Action, Adventure, Fantasy  ",114,2021,54,45,35287
-Tom Clancy's Without Remorse,"Action, Thriller, War  ",109,2021,58,41,35054
-Thunder Force,"Action, Adventure, Comedy  ",106,2021,44,34,32394
-Stowaway,"Drama, Sci-Fi, Thriller  ",116,2021,56,63,31154
-Malcolm & Marie,"Drama, Romance  ",106,2021,67,53,28503
-Boss Level,"Action, Mystery, Sci-Fi  ",94,2021,69,56,27575
-Palmer,Drama  ,110,2021,73,53,24323
-The Mauritanian,"Drama, Thriller  ",129,2021,74,53,24138
-Tom and Jerry,"Animation, Comedy, Family  ",101,2021,53,32,23090
-Cherry,"Crime, Drama  ",142,2021,66,44,21321
-Redemption Day,"Action, Drama, Thriller  ",99,2021,67,22,21159
-Chaos Walking,"Action, Adventure, Fantasy  ",109,2021,57,38,19820
-Zack Snyder's Justice League,"Action, Adventure, Fantasy  ",242,2021,82,54,290353
-Godzilla vs. Kong,"Action, Sci-Fi, Thriller  ",113,2021,65,59,129427
-Mortal Kombat,"Action, Adventure, Fantasy  ",110,2021,62,44,101804
-Nobody,"Action, Crime, Drama  ",92,2021,74,63,82293
-Army of the Dead,"Action, Crime, Horror  ",148,2021,60,57,67750
-Raya and the Last Dragon,"Animation, Action, Adventure  ",107,2021,74,75,59288
-The Little Things,"Crime, Drama, Thriller  ",128,2021,63,54,58372
-Coming 2 America,Comedy  ,110,2021,53,52,56621
-The Dig,"Biography, Drama, History  ",112,2021,71,73,55457
-The White Tiger,"Crime, Drama  ",125,2021,71,76,48555
-Judas and the Black Messiah,"Biography, Drama, History  ",126,2021,75,85,48036
-The Mitchells vs the Machines,"Animation, Adventure, Comedy  ",113,2021,78,80,45775
-The Woman in the Window,"Crime, Drama, Mystery  ",100,2021,57,41,35302
-Outside the Wire,"Action, Adventure, Fantasy  ",114,2021,54,45,35287
-Tom Clancy's Without Remorse,"Action, Thriller, War  ",109,2021,58,41,35054
-Thunder Force,"Action, Adventure, Comedy  ",106,2021,44,34,32394
-Stowaway,"Drama, Sci-Fi, Thriller  ",116,2021,56,63,31154
-Malcolm & Marie,"Drama, Romance  ",106,2021,67,53,28503
-Boss Level,"Action, Mystery, Sci-Fi  ",94,2021,69,56,27575
-Palmer,Drama  ,110,2021,73,53,24323
-The Mauritanian,"Drama, Thriller  ",129,2021,74,53,24138
-Tom and Jerry,"Animation, Comedy, Family  ",101,2021,53,32,23090
-Cherry,"Crime, Drama  ",142,2021,66,44,21321
-Redemption Day,"Action, Drama, Thriller  ",99,2021,67,22,21159
-Chaos Walking,"Action, Adventure, Fantasy  ",109,2021,57,38,19820
-Zack Snyder's Justice League,"Action, Adventure, Fantasy  ",242,2021,82,54,290353
-Godzilla vs. Kong,"Action, Sci-Fi, Thriller  ",113,2021,65,59,129427
-Mortal Kombat,"Action, Adventure, Fantasy  ",110,2021,62,44,101804
-Nobody,"Action, Crime, Drama  ",92,2021,74,63,82293
-Army of the Dead,"Action, Crime, Horror  ",148,2021,60,57,67750
-Raya and the Last Dragon,"Animation, Action, Adventure  ",107,2021,74,75,59288
-The Little Things,"Crime, Drama, Thriller  ",128,2021,63,54,58372
-Coming 2 America,Comedy  ,110,2021,53,52,56621
-The Dig,"Biography, Drama, History  ",112,2021,71,73,55457
-The White Tiger,"Crime, Drama  ",125,2021,71,76,48555
-Judas and the Black Messiah,"Biography, Drama, History  ",126,2021,75,85,48051
-The Mitchells vs the Machines,"Animation, Adventure, Comedy  ",113,2021,78,80,45775
-The Woman in the Window,"Crime, Drama, Mystery  ",100,2021,57,41,35302
-Outside the Wire,"Action, Adventure, Fantasy  ",114,2021,54,45,35287
-Tom Clancy's Without Remorse,"Action, Thriller, War  ",109,2021,58,41,35054
-Thunder Force,"Action, Adventure, Comedy  ",106,2021,44,34,32394
-Stowaway,"Drama, Sci-Fi, Thriller  ",116,2021,56,63,31154
-Malcolm & Marie,"Drama, Romance  ",106,2021,67,53,28503
-Boss Level,"Action, Mystery, Sci-Fi  ",94,2021,69,56,27575
-Palmer,Drama  ,110,2021,73,53,24323
-The Mauritanian,"Drama, Thriller  ",129,2021,74,53,24138
-Tom and Jerry,"Animation, Comedy, Family  ",101,2021,53,32,23090
-Cherry,"Crime, Drama  ",142,2021,66,44,21321
-Redemption Day,"Action, Drama, Thriller  ",99,2021,67,22,21159
-Chaos Walking,"Action, Adventure, Fantasy  ",109,2021,57,38,19820
-Zack Snyder's Justice League,"Action, Adventure, Fantasy  ",242,2021,82,54,290353
-Godzilla vs. Kong,"Action, Sci-Fi, Thriller  ",113,2021,65,59,129427
-Mortal Kombat,"Action, Adventure, Fantasy  ",110,2021,62,44,101804
-Nobody,"Action, Crime, Drama  ",92,2021,74,63,82293
-Army of the Dead,"Action, Crime, Horror  ",148,2021,60,57,67750
-Raya and the Last Dragon,"Animation, Action, Adventure  ",107,2021,74,75,59288
-The Little Things,"Crime, Drama, Thriller  ",128,2021,63,54,58372
-Coming 2 America,Comedy  ,110,2021,53,52,56621
-The Dig,"Biography, Drama, History  ",112,2021,71,73,55457
-The White Tiger,"Crime, Drama  ",125,2021,71,76,48555
-Judas and the Black Messiah,"Biography, Drama, History  ",126,2021,75,85,48036
-The Mitchells vs the Machines,"Animation, Adventure, Comedy  ",113,2021,78,80,45775
-The Woman in the Window,"Crime, Drama, Mystery  ",100,2021,57,41,35302
-Outside the Wire,"Action, Adventure, Fantasy  ",114,2021,54,45,35287
-Tom Clancy's Without Remorse,"Action, Thriller, War  ",109,2021,58,41,35087
-Thunder Force,"Action, Adventure, Comedy  ",106,2021,44,34,32394
-Stowaway,"Drama, Sci-Fi, Thriller  ",116,2021,56,63,31145
-Malcolm & Marie,"Drama, Romance  ",106,2021,67,53,28503
-Boss Level,"Action, Mystery, Sci-Fi  ",94,2021,69,56,27575
-Palmer,Drama  ,110,2021,73,53,24323
-The Mauritanian,"Drama, Thriller  ",129,2021,74,53,24138
-Tom and Jerry,"Animation, Comedy, Family  ",101,2021,53,32,23090
-Cherry,"Crime, Drama  ",142,2021,66,44,21321
-Redemption Day,"Action, Drama, Thriller  ",99,2021,67,22,21159
-Chaos Walking,"Action, Adventure, Fantasy  ",109,2021,57,38,19820
+Zack Snyder's Justice League,"Action, Adventure, Fantasy  ",242,2021,81,54,300092
+Godzilla vs. Kong,"Action, Sci-Fi, Thriller  ",113,2021,65,59,138523
+Army of the Dead,"Action, Crime, Horror  ",148,2021,58,57,112283
+Mortal Kombat,"Action, Adventure, Fantasy  ",110,2021,62,44,111816
+Nobody,"Action, Crime, Drama  ",92,2021,74,63,96022
+Raya and the Last Dragon,"Animation, Action, Adventure  ",107,2021,74,75,73387
+The Little Things,"Crime, Drama, Thriller  ",128,2021,63,54,60759
+Coming 2 America,Comedy  ,110,2021,53,52,57656
+The Dig,"Biography, Drama, History  ",112,2021,71,73,56889
+The Mitchells vs the Machines,"Animation, Adventure, Comedy  ",113,2021,78,80,56490
+Cruella,"Comedy, Crime  ",134,2021,74,59,53628
+Wrath of Man,"Action, Crime, Thriller  ",119,2021,72,57,50340
+Judas and the Black Messiah,"Biography, Drama, History  ",126,2021,75,85,50179
+The White Tiger,"Crime, Drama  ",125,2021,71,76,49667
+The Woman in the Window,"Crime, Drama, Mystery  ",100,2021,57,41,47313
+Tom Clancy's Without Remorse,"Action, Thriller, War  ",109,2021,58,41,40231
+Outside the Wire,"Action, Adventure, Fantasy  ",114,2021,54,45,35922
+The Conjuring: The Devil Made Me Do It,"Horror, Mystery, Thriller  ",112,2021,64,53,34467
+Stowaway,"Drama, Sci-Fi, Thriller  ",116,2021,56,63,33656
+Thunder Force,"Action, Adventure, Comedy  ",106,2021,44,34,33586
+Boss Level,"Action, Mystery, Sci-Fi  ",94,2021,69,56,29989
+Those Who Wish Me Dead,"Action, Drama, Thriller  ",100,2021,60,59,29938
+Malcolm & Marie,"Drama, Romance  ",106,2021,67,53,28901
+The Mauritanian,"Drama, Thriller  ",129,2021,74,53,26839
+Palmer,Drama  ,110,2021,73,53,25124
+Tom and Jerry,"Animation, Comedy, Family  ",101,2021,53,32,24145
+Oxygen,"Drama, Fantasy, Sci-Fi  ",100,2021,65,67,22659
+Cherry,"Crime, Drama  ",142,2021,66,44,22312
+Zack Snyder's Justice League,"Action, Adventure, Fantasy  ",242,2021,81,54,300092
+Godzilla vs. Kong,"Action, Sci-Fi, Thriller  ",113,2021,65,59,138523
+Army of the Dead,"Action, Crime, Horror  ",148,2021,58,57,112283
+Mortal Kombat,"Action, Adventure, Fantasy  ",110,2021,62,44,111816
+Nobody,"Action, Crime, Drama  ",92,2021,74,63,96022
+Raya and the Last Dragon,"Animation, Action, Adventure  ",107,2021,74,75,73387
+The Little Things,"Crime, Drama, Thriller  ",128,2021,63,54,60759
+Coming 2 America,Comedy  ,110,2021,53,52,57656
+The Dig,"Biography, Drama, History  ",112,2021,71,73,56889
+The Mitchells vs the Machines,"Animation, Adventure, Comedy  ",113,2021,78,80,56490
+Cruella,"Comedy, Crime  ",134,2021,74,59,53628
+Wrath of Man,"Action, Crime, Thriller  ",119,2021,72,57,50340
+Judas and the Black Messiah,"Biography, Drama, History  ",126,2021,75,85,50179
+The White Tiger,"Crime, Drama  ",125,2021,71,76,49667
+The Woman in the Window,"Crime, Drama, Mystery  ",100,2021,57,41,47313
+Tom Clancy's Without Remorse,"Action, Thriller, War  ",109,2021,58,41,40231
+Outside the Wire,"Action, Adventure, Fantasy  ",114,2021,54,45,35922
+The Conjuring: The Devil Made Me Do It,"Horror, Mystery, Thriller  ",112,2021,64,53,34467
+Stowaway,"Drama, Sci-Fi, Thriller  ",116,2021,56,63,33656
+Thunder Force,"Action, Adventure, Comedy  ",106,2021,44,34,33586
+Boss Level,"Action, Mystery, Sci-Fi  ",94,2021,69,56,29989
+Those Who Wish Me Dead,"Action, Drama, Thriller  ",100,2021,60,59,29938
+Malcolm & Marie,"Drama, Romance  ",106,2021,67,53,28901
+The Mauritanian,"Drama, Thriller  ",129,2021,74,53,26839
+Palmer,Drama  ,110,2021,73,53,25124
+Tom and Jerry,"Animation, Comedy, Family  ",101,2021,53,32,24145
+Oxygen,"Drama, Fantasy, Sci-Fi  ",100,2021,65,67,22659
+Cherry,"Crime, Drama  ",142,2021,66,44,22312
+Zack Snyder's Justice League,"Action, Adventure, Fantasy  ",242,2021,81,54,300092
+Godzilla vs. Kong,"Action, Sci-Fi, Thriller  ",113,2021,65,59,138523
+Army of the Dead,"Action, Crime, Horror  ",148,2021,58,57,112283
+Mortal Kombat,"Action, Adventure, Fantasy  ",110,2021,62,44,111816
+Nobody,"Action, Crime, Drama  ",92,2021,74,63,96022
+Raya and the Last Dragon,"Animation, Action, Adventure  ",107,2021,74,75,73387
+The Little Things,"Crime, Drama, Thriller  ",128,2021,63,54,60759
+Coming 2 America,Comedy  ,110,2021,53,52,57656
+The Dig,"Biography, Drama, History  ",112,2021,71,73,56889
+The Mitchells vs the Machines,"Animation, Adventure, Comedy  ",113,2021,78,80,56490
+Cruella,"Comedy, Crime  ",134,2021,74,59,53628
+Wrath of Man,"Action, Crime, Thriller  ",119,2021,72,57,50340
+Judas and the Black Messiah,"Biography, Drama, History  ",126,2021,75,85,50179
+The White Tiger,"Crime, Drama  ",125,2021,71,76,49667
+The Woman in the Window,"Crime, Drama, Mystery  ",100,2021,57,41,47313
+Tom Clancy's Without Remorse,"Action, Thriller, War  ",109,2021,58,41,40231
+Outside the Wire,"Action, Adventure, Fantasy  ",114,2021,54,45,35922
+The Conjuring: The Devil Made Me Do It,"Horror, Mystery, Thriller  ",112,2021,64,53,34467
+Stowaway,"Drama, Sci-Fi, Thriller  ",116,2021,56,63,33656
+Thunder Force,"Action, Adventure, Comedy  ",106,2021,44,34,33586
+Boss Level,"Action, Mystery, Sci-Fi  ",94,2021,69,56,29989
+Those Who Wish Me Dead,"Action, Drama, Thriller  ",100,2021,60,59,29938
+Malcolm & Marie,"Drama, Romance  ",106,2021,67,53,28901
+The Mauritanian,"Drama, Thriller  ",129,2021,74,53,26839
+Palmer,Drama  ,110,2021,73,53,25124
+Tom and Jerry,"Animation, Comedy, Family  ",101,2021,53,32,24145
+Oxygen,"Drama, Fantasy, Sci-Fi  ",100,2021,65,67,22659
+Cherry,"Crime, Drama  ",142,2021,66,44,22312
+Zack Snyder's Justice League,"Action, Adventure, Fantasy  ",242,2021,81,54,300092
+Godzilla vs. Kong,"Action, Sci-Fi, Thriller  ",113,2021,65,59,138523
+Army of the Dead,"Action, Crime, Horror  ",148,2021,58,57,112283
+Mortal Kombat,"Action, Adventure, Fantasy  ",110,2021,62,44,111816
+Nobody,"Action, Crime, Drama  ",92,2021,74,63,96022
+Raya and the Last Dragon,"Animation, Action, Adventure  ",107,2021,74,75,73387
+The Little Things,"Crime, Drama, Thriller  ",128,2021,63,54,60759
+Coming 2 America,Comedy  ,110,2021,53,52,57656
+The Dig,"Biography, Drama, History  ",112,2021,71,73,56889
+The Mitchells vs the Machines,"Animation, Adventure, Comedy  ",113,2021,78,80,56490
+Cruella,"Comedy, Crime  ",134,2021,74,59,53628
+Wrath of Man,"Action, Crime, Thriller  ",119,2021,72,57,50340
+Judas and the Black Messiah,"Biography, Drama, History  ",126,2021,75,85,50179
+The White Tiger,"Crime, Drama  ",125,2021,71,76,49667
+The Woman in the Window,"Crime, Drama, Mystery  ",100,2021,57,41,47313
+Tom Clancy's Without Remorse,"Action, Thriller, War  ",109,2021,58,41,40231
+Outside the Wire,"Action, Adventure, Fantasy  ",114,2021,54,45,35922
+The Conjuring: The Devil Made Me Do It,"Horror, Mystery, Thriller  ",112,2021,64,53,34467
+Stowaway,"Drama, Sci-Fi, Thriller  ",116,2021,56,63,33656
+Thunder Force,"Action, Adventure, Comedy  ",106,2021,44,34,33586
+Boss Level,"Action, Mystery, Sci-Fi  ",94,2021,69,56,29989
+Those Who Wish Me Dead,"Action, Drama, Thriller  ",100,2021,60,59,29938
+Malcolm & Marie,"Drama, Romance  ",106,2021,67,53,28901
+The Mauritanian,"Drama, Thriller  ",129,2021,74,53,26839
+Palmer,Drama  ,110,2021,73,53,25124
+Tom and Jerry,"Animation, Comedy, Family  ",101,2021,53,32,24145
+Oxygen,"Drama, Fantasy, Sci-Fi  ",100,2021,65,67,22659
+Cherry,"Crime, Drama  ",142,2021,66,44,22312
+Zack Snyder's Justice League,"Action, Adventure, Fantasy  ",242,2021,81,54,300092
+Godzilla vs. Kong,"Action, Sci-Fi, Thriller  ",113,2021,65,59,138523
+Army of the Dead,"Action, Crime, Horror  ",148,2021,58,57,112283
+Mortal Kombat,"Action, Adventure, Fantasy  ",110,2021,62,44,111816
+Nobody,"Action, Crime, Drama  ",92,2021,74,63,96022
+Raya and the Last Dragon,"Animation, Action, Adventure  ",107,2021,74,75,73387
+The Little Things,"Crime, Drama, Thriller  ",128,2021,63,54,60759
+Coming 2 America,Comedy  ,110,2021,53,52,57656
+The Dig,"Biography, Drama, History  ",112,2021,71,73,56889
+The Mitchells vs the Machines,"Animation, Adventure, Comedy  ",113,2021,78,80,56490
+Cruella,"Comedy, Crime  ",134,2021,74,59,53628
+Wrath of Man,"Action, Crime, Thriller  ",119,2021,72,57,50340
+Judas and the Black Messiah,"Biography, Drama, History  ",126,2021,75,85,50179
+The White Tiger,"Crime, Drama  ",125,2021,71,76,49667
+The Woman in the Window,"Crime, Drama, Mystery  ",100,2021,57,41,47313
+Tom Clancy's Without Remorse,"Action, Thriller, War  ",109,2021,58,41,40231
+Outside the Wire,"Action, Adventure, Fantasy  ",114,2021,54,45,35922
+The Conjuring: The Devil Made Me Do It,"Horror, Mystery, Thriller  ",112,2021,64,53,34467
+Stowaway,"Drama, Sci-Fi, Thriller  ",116,2021,56,63,33656
+Thunder Force,"Action, Adventure, Comedy  ",106,2021,44,34,33586
+Boss Level,"Action, Mystery, Sci-Fi  ",94,2021,69,56,29989
+Those Who Wish Me Dead,"Action, Drama, Thriller  ",100,2021,60,59,29938
+Malcolm & Marie,"Drama, Romance  ",106,2021,67,53,28901
+The Mauritanian,"Drama, Thriller  ",129,2021,74,53,26839
+Palmer,Drama  ,110,2021,73,53,25124
+Tom and Jerry,"Animation, Comedy, Family  ",101,2021,53,32,24145
+Oxygen,"Drama, Fantasy, Sci-Fi  ",100,2021,65,67,22659
+Cherry,"Crime, Drama  ",142,2021,66,44,22312
+Zack Snyder's Justice League,"Action, Adventure, Fantasy  ",242,2021,81,54,300092
+Godzilla vs. Kong,"Action, Sci-Fi, Thriller  ",113,2021,65,59,138523
+Army of the Dead,"Action, Crime, Horror  ",148,2021,58,57,112283
+Mortal Kombat,"Action, Adventure, Fantasy  ",110,2021,62,44,111816
+Nobody,"Action, Crime, Drama  ",92,2021,74,63,96022
+Raya and the Last Dragon,"Animation, Action, Adventure  ",107,2021,74,75,73387
+The Little Things,"Crime, Drama, Thriller  ",128,2021,63,54,60759
+Coming 2 America,Comedy  ,110,2021,53,52,57656
+The Dig,"Biography, Drama, History  ",112,2021,71,73,56889
+The Mitchells vs the Machines,"Animation, Adventure, Comedy  ",113,2021,78,80,56490
+Cruella,"Comedy, Crime  ",134,2021,74,59,53628
+Wrath of Man,"Action, Crime, Thriller  ",119,2021,72,57,50340
+Judas and the Black Messiah,"Biography, Drama, History  ",126,2021,75,85,50179
+The White Tiger,"Crime, Drama  ",125,2021,71,76,49667
+The Woman in the Window,"Crime, Drama, Mystery  ",100,2021,57,41,47313
+Tom Clancy's Without Remorse,"Action, Thriller, War  ",109,2021,58,41,40231
+Outside the Wire,"Action, Adventure, Fantasy  ",114,2021,54,45,35922
+The Conjuring: The Devil Made Me Do It,"Horror, Mystery, Thriller  ",112,2021,64,53,34467
+Stowaway,"Drama, Sci-Fi, Thriller  ",116,2021,56,63,33656
+Thunder Force,"Action, Adventure, Comedy  ",106,2021,44,34,33586
+Boss Level,"Action, Mystery, Sci-Fi  ",94,2021,69,56,29989
+Those Who Wish Me Dead,"Action, Drama, Thriller  ",100,2021,60,59,29938
+Malcolm & Marie,"Drama, Romance  ",106,2021,67,53,28901
+The Mauritanian,"Drama, Thriller  ",129,2021,74,53,26839
+Palmer,Drama  ,110,2021,73,53,25124
+Tom and Jerry,"Animation, Comedy, Family  ",101,2021,53,32,24145
+Oxygen,"Drama, Fantasy, Sci-Fi  ",100,2021,65,67,22659
+Cherry,"Crime, Drama  ",142,2021,66,44,22312
+Zack Snyder's Justice League,"Action, Adventure, Fantasy  ",242,2021,81,54,300092
+Godzilla vs. Kong,"Action, Sci-Fi, Thriller  ",113,2021,65,59,138523
+Army of the Dead,"Action, Crime, Horror  ",148,2021,58,57,112283
+Mortal Kombat,"Action, Adventure, Fantasy  ",110,2021,62,44,111816
+Nobody,"Action, Crime, Drama  ",92,2021,74,63,96022
+Raya and the Last Dragon,"Animation, Action, Adventure  ",107,2021,74,75,73387
+The Little Things,"Crime, Drama, Thriller  ",128,2021,63,54,60759
+Coming 2 America,Comedy  ,110,2021,53,52,57656
+The Dig,"Biography, Drama, History  ",112,2021,71,73,56889
+The Mitchells vs the Machines,"Animation, Adventure, Comedy  ",113,2021,78,80,56490
+Cruella,"Comedy, Crime  ",134,2021,74,59,53628
+Wrath of Man,"Action, Crime, Thriller  ",119,2021,72,57,50340
+Judas and the Black Messiah,"Biography, Drama, History  ",126,2021,75,85,50179
+The White Tiger,"Crime, Drama  ",125,2021,71,76,49667
+The Woman in the Window,"Crime, Drama, Mystery  ",100,2021,57,41,47313
+Tom Clancy's Without Remorse,"Action, Thriller, War  ",109,2021,58,41,40231
+Outside the Wire,"Action, Adventure, Fantasy  ",114,2021,54,45,35922
+The Conjuring: The Devil Made Me Do It,"Horror, Mystery, Thriller  ",112,2021,64,53,34467
+Stowaway,"Drama, Sci-Fi, Thriller  ",116,2021,56,63,33656
+Thunder Force,"Action, Adventure, Comedy  ",106,2021,44,34,33586
+Boss Level,"Action, Mystery, Sci-Fi  ",94,2021,69,56,29989
+Those Who Wish Me Dead,"Action, Drama, Thriller  ",100,2021,60,59,29938
+Malcolm & Marie,"Drama, Romance  ",106,2021,67,53,28901
+The Mauritanian,"Drama, Thriller  ",129,2021,74,53,26839
+Palmer,Drama  ,110,2021,73,53,25124
+Tom and Jerry,"Animation, Comedy, Family  ",101,2021,53,32,24145
+Oxygen,"Drama, Fantasy, Sci-Fi  ",100,2021,65,67,22659
+Cherry,"Crime, Drama  ",142,2021,66,44,22312
+Zack Snyder's Justice League,"Action, Adventure, Fantasy  ",242,2021,81,54,300092
+Godzilla vs. Kong,"Action, Sci-Fi, Thriller  ",113,2021,65,59,138523
+Army of the Dead,"Action, Crime, Horror  ",148,2021,58,57,112283
+Mortal Kombat,"Action, Adventure, Fantasy  ",110,2021,62,44,111816
+Nobody,"Action, Crime, Drama  ",92,2021,74,63,96022
+Raya and the Last Dragon,"Animation, Action, Adventure  ",107,2021,74,75,73387
+The Little Things,"Crime, Drama, Thriller  ",128,2021,63,54,60759
+Coming 2 America,Comedy  ,110,2021,53,52,57656
+The Dig,"Biography, Drama, History  ",112,2021,71,73,56889
+The Mitchells vs the Machines,"Animation, Adventure, Comedy  ",113,2021,78,80,56490
+Cruella,"Comedy, Crime  ",134,2021,74,59,53628
+Wrath of Man,"Action, Crime, Thriller  ",119,2021,72,57,50340
+Judas and the Black Messiah,"Biography, Drama, History  ",126,2021,75,85,50179
+The White Tiger,"Crime, Drama  ",125,2021,71,76,49667
+The Woman in the Window,"Crime, Drama, Mystery  ",100,2021,57,41,47313
+Tom Clancy's Without Remorse,"Action, Thriller, War  ",109,2021,58,41,40231
+Outside the Wire,"Action, Adventure, Fantasy  ",114,2021,54,45,35922
+The Conjuring: The Devil Made Me Do It,"Horror, Mystery, Thriller  ",112,2021,64,53,34467
+Stowaway,"Drama, Sci-Fi, Thriller  ",116,2021,56,63,33656
+Thunder Force,"Action, Adventure, Comedy  ",106,2021,44,34,33586
+Boss Level,"Action, Mystery, Sci-Fi  ",94,2021,69,56,29989
+Those Who Wish Me Dead,"Action, Drama, Thriller  ",100,2021,60,59,29938
+Malcolm & Marie,"Drama, Romance  ",106,2021,67,53,28901
+The Mauritanian,"Drama, Thriller  ",129,2021,74,53,26839
+Palmer,Drama  ,110,2021,73,53,25124
+Tom and Jerry,"Animation, Comedy, Family  ",101,2021,53,32,24145
+Oxygen,"Drama, Fantasy, Sci-Fi  ",100,2021,65,67,22659
+Cherry,"Crime, Drama  ",142,2021,66,44,22312
+Zack Snyder's Justice League,"Action, Adventure, Fantasy  ",242,2021,81,54,300092
+Godzilla vs. Kong,"Action, Sci-Fi, Thriller  ",113,2021,65,59,138523
+Army of the Dead,"Action, Crime, Horror  ",148,2021,58,57,112283
+Mortal Kombat,"Action, Adventure, Fantasy  ",110,2021,62,44,111816
+Nobody,"Action, Crime, Drama  ",92,2021,74,63,96022
+Raya and the Last Dragon,"Animation, Action, Adventure  ",107,2021,74,75,73387
+The Little Things,"Crime, Drama, Thriller  ",128,2021,63,54,60759
+Coming 2 America,Comedy  ,110,2021,53,52,57656
+The Dig,"Biography, Drama, History  ",112,2021,71,73,56889
+The Mitchells vs the Machines,"Animation, Adventure, Comedy  ",113,2021,78,80,56490
+Cruella,"Comedy, Crime  ",134,2021,74,59,53628
+Wrath of Man,"Action, Crime, Thriller  ",119,2021,72,57,50340
+Judas and the Black Messiah,"Biography, Drama, History  ",126,2021,75,85,50179
+The White Tiger,"Crime, Drama  ",125,2021,71,76,49667
+The Woman in the Window,"Crime, Drama, Mystery  ",100,2021,57,41,47313
+Tom Clancy's Without Remorse,"Action, Thriller, War  ",109,2021,58,41,40231
+Outside the Wire,"Action, Adventure, Fantasy  ",114,2021,54,45,35922
+The Conjuring: The Devil Made Me Do It,"Horror, Mystery, Thriller  ",112,2021,64,53,34467
+Stowaway,"Drama, Sci-Fi, Thriller  ",116,2021,56,63,33656
+Thunder Force,"Action, Adventure, Comedy  ",106,2021,44,34,33586
+Boss Level,"Action, Mystery, Sci-Fi  ",94,2021,69,56,29989
+Those Who Wish Me Dead,"Action, Drama, Thriller  ",100,2021,60,59,29938
+Malcolm & Marie,"Drama, Romance  ",106,2021,67,53,28901
+The Mauritanian,"Drama, Thriller  ",129,2021,74,53,26839
+Palmer,Drama  ,110,2021,73,53,25124
+Tom and Jerry,"Animation, Comedy, Family  ",101,2021,53,32,24145
+Oxygen,"Drama, Fantasy, Sci-Fi  ",100,2021,65,67,22659
+Cherry,"Crime, Drama  ",142,2021,66,44,22312
+Zack Snyder's Justice League,"Action, Adventure, Fantasy  ",242,2021,81,54,300092
+Godzilla vs. Kong,"Action, Sci-Fi, Thriller  ",113,2021,65,59,138523
+Army of the Dead,"Action, Crime, Horror  ",148,2021,58,57,112283
+Mortal Kombat,"Action, Adventure, Fantasy  ",110,2021,62,44,111816
+Nobody,"Action, Crime, Drama  ",92,2021,74,63,96022
+Raya and the Last Dragon,"Animation, Action, Adventure  ",107,2021,74,75,73387
+The Little Things,"Crime, Drama, Thriller  ",128,2021,63,54,60759
+Coming 2 America,Comedy  ,110,2021,53,52,57656
+The Dig,"Biography, Drama, History  ",112,2021,71,73,56889
+The Mitchells vs the Machines,"Animation, Adventure, Comedy  ",113,2021,78,80,56490
+Cruella,"Comedy, Crime  ",134,2021,74,59,53628
+Wrath of Man,"Action, Crime, Thriller  ",119,2021,72,57,50340
+Judas and the Black Messiah,"Biography, Drama, History  ",126,2021,75,85,50179
+The White Tiger,"Crime, Drama  ",125,2021,71,76,49667
+The Woman in the Window,"Crime, Drama, Mystery  ",100,2021,57,41,47313
+Tom Clancy's Without Remorse,"Action, Thriller, War  ",109,2021,58,41,40231
+Outside the Wire,"Action, Adventure, Fantasy  ",114,2021,54,45,35922
+The Conjuring: The Devil Made Me Do It,"Horror, Mystery, Thriller  ",112,2021,64,53,34467
+Stowaway,"Drama, Sci-Fi, Thriller  ",116,2021,56,63,33656
+Thunder Force,"Action, Adventure, Comedy  ",106,2021,44,34,33586
+Boss Level,"Action, Mystery, Sci-Fi  ",94,2021,69,56,29989
+Those Who Wish Me Dead,"Action, Drama, Thriller  ",100,2021,60,59,29938
+Malcolm & Marie,"Drama, Romance  ",106,2021,67,53,28901
+The Mauritanian,"Drama, Thriller  ",129,2021,74,53,26839
+Palmer,Drama  ,110,2021,73,53,25124
+Tom and Jerry,"Animation, Comedy, Family  ",101,2021,53,32,24145
+Oxygen,"Drama, Fantasy, Sci-Fi  ",100,2021,65,67,22659
+Cherry,"Crime, Drama  ",142,2021,66,44,22312
+Zack Snyder's Justice League,"Action, Adventure, Fantasy  ",242,2021,81,54,300092
+Godzilla vs. Kong,"Action, Sci-Fi, Thriller  ",113,2021,65,59,138523
+Army of the Dead,"Action, Crime, Horror  ",148,2021,58,57,112283
+Mortal Kombat,"Action, Adventure, Fantasy  ",110,2021,62,44,111816
+Nobody,"Action, Crime, Drama  ",92,2021,74,63,96022
+Raya and the Last Dragon,"Animation, Action, Adventure  ",107,2021,74,75,73387
+The Little Things,"Crime, Drama, Thriller  ",128,2021,63,54,60759
+Coming 2 America,Comedy  ,110,2021,53,52,57656
+The Dig,"Biography, Drama, History  ",112,2021,71,73,56889
+The Mitchells vs the Machines,"Animation, Adventure, Comedy  ",113,2021,78,80,56490
+Cruella,"Comedy, Crime  ",134,2021,74,59,53628
+Wrath of Man,"Action, Crime, Thriller  ",119,2021,72,57,50340
+Judas and the Black Messiah,"Biography, Drama, History  ",126,2021,75,85,50179
+The White Tiger,"Crime, Drama  ",125,2021,71,76,49667
+The Woman in the Window,"Crime, Drama, Mystery  ",100,2021,57,41,47313
+Tom Clancy's Without Remorse,"Action, Thriller, War  ",109,2021,58,41,40231
+Outside the Wire,"Action, Adventure, Fantasy  ",114,2021,54,45,35922
+The Conjuring: The Devil Made Me Do It,"Horror, Mystery, Thriller  ",112,2021,64,53,34467
+Stowaway,"Drama, Sci-Fi, Thriller  ",116,2021,56,63,33656
+Thunder Force,"Action, Adventure, Comedy  ",106,2021,44,34,33586
+Boss Level,"Action, Mystery, Sci-Fi  ",94,2021,69,56,29989
+Those Who Wish Me Dead,"Action, Drama, Thriller  ",100,2021,60,59,29938
+Malcolm & Marie,"Drama, Romance  ",106,2021,67,53,28901
+The Mauritanian,"Drama, Thriller  ",129,2021,74,53,26839
+Palmer,Drama  ,110,2021,73,53,25124
+Tom and Jerry,"Animation, Comedy, Family  ",101,2021,53,32,24145
+Oxygen,"Drama, Fantasy, Sci-Fi  ",100,2021,65,67,22659
+Cherry,"Crime, Drama  ",142,2021,66,44,22312

@@ -1,288 +1,452 @@
 Movie,Genre,Duration,Year,Imdb_rating,Metascore_rating,Votes
-Joker,"Crime, Drama, Thriller  ",122,2019,84,59,1000379
-Avengers: Endgame,"Action, Adventure, Drama  ",181,2019,84,78,876560
-Parasite,"Comedy, Drama, Thriller  ",132,2019,86,96,609738
-Once Upon a Time... In Hollywood,"Comedy, Drama  ",161,2019,76,83,582997
-Knives Out,"Comedy, Crime, Drama  ",130,2019,79,82,491599
-Captain Marvel,"Action, Adventure, Sci-Fi  ",123,2019,69,64,469063
-1917,"Drama, Thriller, War  ",119,2019,83,78,461520
-Star Wars: Episode IX - The Rise of Skywalker,"Action, Adventure, Fantasy  ",141,2019,66,53,389058
-Spider-Man: Far from Home,"Action, Adventure, Sci-Fi  ",129,2019,75,69,345933
-The Irishman,"Biography, Crime, Drama  ",209,2019,78,94,338597
-Jojo Rabbit,"Comedy, Drama, War  ",108,2019,79,58,319946
-Ford v Ferrari,"Action, Biography, Drama  ",152,2019,81,81,313980
-John Wick: Chapter 3 - Parabellum,"Action, Crime, Thriller  ",130,2019,74,73,289424
-Shazam!,"Action, Adventure, Comedy  ",132,2019,70,71,275505
-The Gentlemen,"Action, Comedy, Crime  ",113,2019,78,51,263478
-Marriage Story,"Comedy, Drama, Romance  ",137,2019,79,94,259474
-Us,"Horror, Mystery, Thriller  ",116,2019,68,81,241232
-Alita: Battle Angel,"Action, Adventure, Sci-Fi  ",122,2019,73,53,236843
-Aladdin,"Adventure, Family, Fantasy  ",128,2019,69,53,235600
-Uncut Gems,"Crime, Drama, Thriller  ",135,2019,74,91,233293
-The Lion King,"Animation, Adventure, Drama  ",118,2019,69,55,219022
-Midsommar,"Drama, Horror, Mystery  ",148,2019,71,72,218738
-It Chapter Two,"Drama, Fantasy, Horror  ",169,2019,65,58,216843
-Glass,"Drama, Sci-Fi, Thriller  ",129,2019,66,43,215546
-Toy Story 4,"Animation, Adventure, Comedy  ",100,2019,77,84,212580
-Ad Astra,"Adventure, Drama, Mystery  ",123,2019,65,80,205609
-Jumanji: The Next Level,"Action, Adventure, Comedy  ",123,2019,66,58,198995
-El Camino: A Breaking Bad Movie,"Action, Crime, Drama  ",122,2019,73,72,193745
-The Platform,"Horror, Sci-Fi, Thriller  ",94,2019,70,73,176853
-Fast & Furious Presents: Hobbs & Shaw,"Action, Adventure, Thriller  ",137,2019,64,60,176572
-X-Men: Dark Phoenix,"Action, Adventure, Sci-Fi  ",113,2019,57,43,163079
-Godzilla: King of the Monsters,"Action, Adventure, Fantasy  ",132,2019,60,48,157458
-Terminator: Dark Fate,"Action, Adventure, Sci-Fi  ",128,2019,62,54,156005
-Little Women,"Drama, Romance  ",135,2019,78,91,154451
-The Lighthouse,"Drama, Fantasy, Horror  ",109,2019,75,83,154411
-Doctor Sleep,"Drama, Fantasy, Horror  ",152,2019,73,59,152134
-Rocketman,"Biography, Drama, Music  ",121,2019,73,69,148992
-Zombieland: Double Tap,"Action, Adventure, Comedy  ",99,2019,67,55,147322
-6 Underground,"Action, Thriller  ",128,2019,61,41,145972
-Frozen II,"Animation, Adventure, Comedy  ",103,2019,68,64,144170
-Pokémon Detective Pikachu,"Action, Adventure, Comedy  ",104,2019,66,53,143609
-Joker,"Crime, Drama, Thriller  ",122,2019,84,59,1000379
-Avengers: Endgame,"Action, Adventure, Drama  ",181,2019,84,78,876560
-Parasite,"Comedy, Drama, Thriller  ",132,2019,86,96,609738
-Once Upon a Time... In Hollywood,"Comedy, Drama  ",161,2019,76,83,582997
-Knives Out,"Comedy, Crime, Drama  ",130,2019,79,82,491579
-Captain Marvel,"Action, Adventure, Sci-Fi  ",123,2019,69,64,469063
-1917,"Drama, Thriller, War  ",119,2019,83,78,461520
-Star Wars: Episode IX - The Rise of Skywalker,"Action, Adventure, Fantasy  ",141,2019,66,53,389058
-Spider-Man: Far from Home,"Action, Adventure, Sci-Fi  ",129,2019,75,69,345933
-The Irishman,"Biography, Crime, Drama  ",209,2019,78,94,338597
-Jojo Rabbit,"Comedy, Drama, War  ",108,2019,79,58,319946
-Ford v Ferrari,"Action, Biography, Drama  ",152,2019,81,81,313980
-John Wick: Chapter 3 - Parabellum,"Action, Crime, Thriller  ",130,2019,74,73,289424
-Shazam!,"Action, Adventure, Comedy  ",132,2019,70,71,275505
-The Gentlemen,"Action, Comedy, Crime  ",113,2019,78,51,263478
-Marriage Story,"Comedy, Drama, Romance  ",137,2019,79,94,259474
-Us,"Horror, Mystery, Thriller  ",116,2019,68,81,241232
-Alita: Battle Angel,"Action, Adventure, Sci-Fi  ",122,2019,73,53,236843
-Aladdin,"Adventure, Family, Fantasy  ",128,2019,69,53,235600
-Uncut Gems,"Crime, Drama, Thriller  ",135,2019,74,91,233293
-The Lion King,"Animation, Adventure, Drama  ",118,2019,69,55,219022
-Midsommar,"Drama, Horror, Mystery  ",148,2019,71,72,218738
-It Chapter Two,"Drama, Fantasy, Horror  ",169,2019,65,58,216843
-Glass,"Drama, Sci-Fi, Thriller  ",129,2019,66,43,215546
-Toy Story 4,"Animation, Adventure, Comedy  ",100,2019,77,84,212580
-Ad Astra,"Adventure, Drama, Mystery  ",123,2019,65,80,205609
-Jumanji: The Next Level,"Action, Adventure, Comedy  ",123,2019,66,58,198995
-El Camino: A Breaking Bad Movie,"Action, Crime, Drama  ",122,2019,73,72,193745
-The Platform,"Horror, Sci-Fi, Thriller  ",94,2019,70,73,176853
-Fast & Furious Presents: Hobbs & Shaw,"Action, Adventure, Thriller  ",137,2019,64,60,176572
-X-Men: Dark Phoenix,"Action, Adventure, Sci-Fi  ",113,2019,57,43,163079
-Godzilla: King of the Monsters,"Action, Adventure, Fantasy  ",132,2019,60,48,157458
-Terminator: Dark Fate,"Action, Adventure, Sci-Fi  ",128,2019,62,54,156005
-Little Women,"Drama, Romance  ",135,2019,78,91,154451
-The Lighthouse,"Drama, Fantasy, Horror  ",109,2019,75,83,154411
-Doctor Sleep,"Drama, Fantasy, Horror  ",152,2019,73,59,152134
-Rocketman,"Biography, Drama, Music  ",121,2019,73,69,148992
-Zombieland: Double Tap,"Action, Adventure, Comedy  ",99,2019,67,55,147322
-6 Underground,"Action, Thriller  ",128,2019,61,41,145972
-Frozen II,"Animation, Adventure, Comedy  ",103,2019,68,64,144170
-Pokémon Detective Pikachu,"Action, Adventure, Comedy  ",104,2019,66,53,143609
-Joker,"Crime, Drama, Thriller  ",122,2019,84,59,1000379
-Avengers: Endgame,"Action, Adventure, Drama  ",181,2019,84,78,876560
-Parasite,"Comedy, Drama, Thriller  ",132,2019,86,96,609738
-Once Upon a Time... In Hollywood,"Comedy, Drama  ",161,2019,76,83,582997
-Knives Out,"Comedy, Crime, Drama  ",130,2019,79,82,491599
-Captain Marvel,"Action, Adventure, Sci-Fi  ",123,2019,69,64,469063
-1917,"Drama, Thriller, War  ",119,2019,83,78,461533
-Star Wars: Episode IX - The Rise of Skywalker,"Action, Adventure, Fantasy  ",141,2019,66,53,389058
-Spider-Man: Far from Home,"Action, Adventure, Sci-Fi  ",129,2019,75,69,345933
-The Irishman,"Biography, Crime, Drama  ",209,2019,78,94,338597
-Jojo Rabbit,"Comedy, Drama, War  ",108,2019,79,58,319946
-Ford v Ferrari,"Action, Biography, Drama  ",152,2019,81,81,313980
-John Wick: Chapter 3 - Parabellum,"Action, Crime, Thriller  ",130,2019,74,73,289424
-Shazam!,"Action, Adventure, Comedy  ",132,2019,70,71,275505
-The Gentlemen,"Action, Comedy, Crime  ",113,2019,78,51,263478
-Marriage Story,"Comedy, Drama, Romance  ",137,2019,79,94,259474
-Us,"Horror, Mystery, Thriller  ",116,2019,68,81,241232
-Alita: Battle Angel,"Action, Adventure, Sci-Fi  ",122,2019,73,53,236843
-Aladdin,"Adventure, Family, Fantasy  ",128,2019,69,53,235600
-Uncut Gems,"Crime, Drama, Thriller  ",135,2019,74,91,233293
-The Lion King,"Animation, Adventure, Drama  ",118,2019,69,55,219022
-Midsommar,"Drama, Horror, Mystery  ",148,2019,71,72,218726
-It Chapter Two,"Drama, Fantasy, Horror  ",169,2019,65,58,216843
-Glass,"Drama, Sci-Fi, Thriller  ",129,2019,66,43,215546
-Toy Story 4,"Animation, Adventure, Comedy  ",100,2019,77,84,212580
-Ad Astra,"Adventure, Drama, Mystery  ",123,2019,65,80,205609
-Jumanji: The Next Level,"Action, Adventure, Comedy  ",123,2019,66,58,198995
-El Camino: A Breaking Bad Movie,"Action, Crime, Drama  ",122,2019,73,72,193745
-The Platform,"Horror, Sci-Fi, Thriller  ",94,2019,70,73,176853
-Fast & Furious Presents: Hobbs & Shaw,"Action, Adventure, Thriller  ",137,2019,64,60,176572
-X-Men: Dark Phoenix,"Action, Adventure, Sci-Fi  ",113,2019,57,43,163079
-Godzilla: King of the Monsters,"Action, Adventure, Fantasy  ",132,2019,60,48,157458
-Terminator: Dark Fate,"Action, Adventure, Sci-Fi  ",128,2019,62,54,156005
-Little Women,"Drama, Romance  ",135,2019,78,91,154451
-The Lighthouse,"Drama, Fantasy, Horror  ",109,2019,75,83,154411
-Doctor Sleep,"Drama, Fantasy, Horror  ",152,2019,73,59,152134
-Rocketman,"Biography, Drama, Music  ",121,2019,73,69,148992
-Zombieland: Double Tap,"Action, Adventure, Comedy  ",99,2019,67,55,147322
-6 Underground,"Action, Thriller  ",128,2019,61,41,145972
-Frozen II,"Animation, Adventure, Comedy  ",103,2019,68,64,144170
-Pokémon Detective Pikachu,"Action, Adventure, Comedy  ",104,2019,66,53,143609
-Joker,"Crime, Drama, Thriller  ",122,2019,84,59,1000379
-Avengers: Endgame,"Action, Adventure, Drama  ",181,2019,84,78,876560
-Parasite,"Comedy, Drama, Thriller  ",132,2019,86,96,609738
-Once Upon a Time... In Hollywood,"Comedy, Drama  ",161,2019,76,83,582997
-Knives Out,"Comedy, Crime, Drama  ",130,2019,79,82,491599
-Captain Marvel,"Action, Adventure, Sci-Fi  ",123,2019,69,64,469063
-1917,"Drama, Thriller, War  ",119,2019,83,78,461533
-Star Wars: Episode IX - The Rise of Skywalker,"Action, Adventure, Fantasy  ",141,2019,66,53,389058
-Spider-Man: Far from Home,"Action, Adventure, Sci-Fi  ",129,2019,75,69,345933
-The Irishman,"Biography, Crime, Drama  ",209,2019,78,94,338597
-Jojo Rabbit,"Comedy, Drama, War  ",108,2019,79,58,319946
-Ford v Ferrari,"Action, Biography, Drama  ",152,2019,81,81,313980
-John Wick: Chapter 3 - Parabellum,"Action, Crime, Thriller  ",130,2019,74,73,289424
-Shazam!,"Action, Adventure, Comedy  ",132,2019,70,71,275505
-The Gentlemen,"Action, Comedy, Crime  ",113,2019,78,51,263478
-Marriage Story,"Comedy, Drama, Romance  ",137,2019,79,94,259474
-Us,"Horror, Mystery, Thriller  ",116,2019,68,81,241232
-Alita: Battle Angel,"Action, Adventure, Sci-Fi  ",122,2019,73,53,236843
-Aladdin,"Adventure, Family, Fantasy  ",128,2019,69,53,235600
-Uncut Gems,"Crime, Drama, Thriller  ",135,2019,74,91,233293
-The Lion King,"Animation, Adventure, Drama  ",118,2019,69,55,219022
-Midsommar,"Drama, Horror, Mystery  ",148,2019,71,72,218738
-It Chapter Two,"Drama, Fantasy, Horror  ",169,2019,65,58,216843
-Glass,"Drama, Sci-Fi, Thriller  ",129,2019,66,43,215546
-Toy Story 4,"Animation, Adventure, Comedy  ",100,2019,77,84,212580
-Ad Astra,"Adventure, Drama, Mystery  ",123,2019,65,80,205609
-Jumanji: The Next Level,"Action, Adventure, Comedy  ",123,2019,66,58,198995
-El Camino: A Breaking Bad Movie,"Action, Crime, Drama  ",122,2019,73,72,193745
-The Platform,"Horror, Sci-Fi, Thriller  ",94,2019,70,73,176853
-Fast & Furious Presents: Hobbs & Shaw,"Action, Adventure, Thriller  ",137,2019,64,60,176572
-X-Men: Dark Phoenix,"Action, Adventure, Sci-Fi  ",113,2019,57,43,163079
-Godzilla: King of the Monsters,"Action, Adventure, Fantasy  ",132,2019,60,48,157458
-Terminator: Dark Fate,"Action, Adventure, Sci-Fi  ",128,2019,62,54,156005
-Little Women,"Drama, Romance  ",135,2019,78,91,154451
-The Lighthouse,"Drama, Fantasy, Horror  ",109,2019,75,83,154411
-Doctor Sleep,"Drama, Fantasy, Horror  ",152,2019,73,59,152134
-Rocketman,"Biography, Drama, Music  ",121,2019,73,69,148992
-Zombieland: Double Tap,"Action, Adventure, Comedy  ",99,2019,67,55,147322
-6 Underground,"Action, Thriller  ",128,2019,61,41,145972
-Frozen II,"Animation, Adventure, Comedy  ",103,2019,68,64,144170
-Pokémon Detective Pikachu,"Action, Adventure, Comedy  ",104,2019,66,53,143614
-Joker,"Crime, Drama, Thriller  ",122,2019,84,59,1000379
-Avengers: Endgame,"Action, Adventure, Drama  ",181,2019,84,78,876560
-Parasite,"Comedy, Drama, Thriller  ",132,2019,86,96,609738
-Once Upon a Time... In Hollywood,"Comedy, Drama  ",161,2019,76,83,582997
-Knives Out,"Comedy, Crime, Drama  ",130,2019,79,82,491599
-Captain Marvel,"Action, Adventure, Sci-Fi  ",123,2019,69,64,469063
-1917,"Drama, Thriller, War  ",119,2019,83,78,461533
-Star Wars: Episode IX - The Rise of Skywalker,"Action, Adventure, Fantasy  ",141,2019,66,53,389058
-Spider-Man: Far from Home,"Action, Adventure, Sci-Fi  ",129,2019,75,69,345933
-The Irishman,"Biography, Crime, Drama  ",209,2019,78,94,338597
-Jojo Rabbit,"Comedy, Drama, War  ",108,2019,79,58,319946
-Ford v Ferrari,"Action, Biography, Drama  ",152,2019,81,81,313980
-John Wick: Chapter 3 - Parabellum,"Action, Crime, Thriller  ",130,2019,74,73,289424
-Shazam!,"Action, Adventure, Comedy  ",132,2019,70,71,275505
-The Gentlemen,"Action, Comedy, Crime  ",113,2019,78,51,263478
-Marriage Story,"Comedy, Drama, Romance  ",137,2019,79,94,259474
-Us,"Horror, Mystery, Thriller  ",116,2019,68,81,241232
-Alita: Battle Angel,"Action, Adventure, Sci-Fi  ",122,2019,73,53,236843
-Aladdin,"Adventure, Family, Fantasy  ",128,2019,69,53,235600
-Uncut Gems,"Crime, Drama, Thriller  ",135,2019,74,91,233293
-The Lion King,"Animation, Adventure, Drama  ",118,2019,69,55,219022
-Midsommar,"Drama, Horror, Mystery  ",148,2019,71,72,218738
-It Chapter Two,"Drama, Fantasy, Horror  ",169,2019,65,58,216843
-Glass,"Drama, Sci-Fi, Thriller  ",129,2019,66,43,215546
-Toy Story 4,"Animation, Adventure, Comedy  ",100,2019,77,84,212580
-Ad Astra,"Adventure, Drama, Mystery  ",123,2019,65,80,205609
-Jumanji: The Next Level,"Action, Adventure, Comedy  ",123,2019,66,58,198995
-El Camino: A Breaking Bad Movie,"Action, Crime, Drama  ",122,2019,73,72,193745
-The Platform,"Horror, Sci-Fi, Thriller  ",94,2019,70,73,176853
-Fast & Furious Presents: Hobbs & Shaw,"Action, Adventure, Thriller  ",137,2019,64,60,176572
-X-Men: Dark Phoenix,"Action, Adventure, Sci-Fi  ",113,2019,57,43,163079
-Godzilla: King of the Monsters,"Action, Adventure, Fantasy  ",132,2019,60,48,157458
-Terminator: Dark Fate,"Action, Adventure, Sci-Fi  ",128,2019,62,54,156005
-Little Women,"Drama, Romance  ",135,2019,78,91,154451
-The Lighthouse,"Drama, Fantasy, Horror  ",109,2019,75,83,154411
-Doctor Sleep,"Drama, Fantasy, Horror  ",152,2019,73,59,152134
-Rocketman,"Biography, Drama, Music  ",121,2019,73,69,148992
-Zombieland: Double Tap,"Action, Adventure, Comedy  ",99,2019,67,55,147322
-6 Underground,"Action, Thriller  ",128,2019,61,41,145972
-Frozen II,"Animation, Adventure, Comedy  ",103,2019,68,64,144170
-Pokémon Detective Pikachu,"Action, Adventure, Comedy  ",104,2019,66,53,143614
-Joker,"Crime, Drama, Thriller  ",122,2019,84,59,1000379
-Avengers: Endgame,"Action, Adventure, Drama  ",181,2019,84,78,876560
-Parasite,"Comedy, Drama, Thriller  ",132,2019,86,96,609738
-Once Upon a Time... In Hollywood,"Comedy, Drama  ",161,2019,76,83,582997
-Knives Out,"Comedy, Crime, Drama  ",130,2019,79,82,491599
-Captain Marvel,"Action, Adventure, Sci-Fi  ",123,2019,69,64,469063
-1917,"Drama, Thriller, War  ",119,2019,83,78,461520
-Star Wars: Episode IX - The Rise of Skywalker,"Action, Adventure, Fantasy  ",141,2019,66,53,389058
-Spider-Man: Far from Home,"Action, Adventure, Sci-Fi  ",129,2019,75,69,345933
-The Irishman,"Biography, Crime, Drama  ",209,2019,78,94,338597
-Jojo Rabbit,"Comedy, Drama, War  ",108,2019,79,58,319946
-Ford v Ferrari,"Action, Biography, Drama  ",152,2019,81,81,313980
-John Wick: Chapter 3 - Parabellum,"Action, Crime, Thriller  ",130,2019,74,73,289424
-Shazam!,"Action, Adventure, Comedy  ",132,2019,70,71,275505
-The Gentlemen,"Action, Comedy, Crime  ",113,2019,78,51,263478
-Marriage Story,"Comedy, Drama, Romance  ",137,2019,79,94,259474
-Us,"Horror, Mystery, Thriller  ",116,2019,68,81,241232
-Alita: Battle Angel,"Action, Adventure, Sci-Fi  ",122,2019,73,53,236843
-Aladdin,"Adventure, Family, Fantasy  ",128,2019,69,53,235600
-Uncut Gems,"Crime, Drama, Thriller  ",135,2019,74,91,233293
-The Lion King,"Animation, Adventure, Drama  ",118,2019,69,55,219022
-Midsommar,"Drama, Horror, Mystery  ",148,2019,71,72,218738
-It Chapter Two,"Drama, Fantasy, Horror  ",169,2019,65,58,216843
-Glass,"Drama, Sci-Fi, Thriller  ",129,2019,66,43,215546
-Toy Story 4,"Animation, Adventure, Comedy  ",100,2019,77,84,212580
-Ad Astra,"Adventure, Drama, Mystery  ",123,2019,65,80,205609
-Jumanji: The Next Level,"Action, Adventure, Comedy  ",123,2019,66,58,198995
-El Camino: A Breaking Bad Movie,"Action, Crime, Drama  ",122,2019,73,72,193745
-The Platform,"Horror, Sci-Fi, Thriller  ",94,2019,70,73,176853
-Fast & Furious Presents: Hobbs & Shaw,"Action, Adventure, Thriller  ",137,2019,64,60,176572
-X-Men: Dark Phoenix,"Action, Adventure, Sci-Fi  ",113,2019,57,43,163079
-Godzilla: King of the Monsters,"Action, Adventure, Fantasy  ",132,2019,60,48,157458
-Terminator: Dark Fate,"Action, Adventure, Sci-Fi  ",128,2019,62,54,156005
-Little Women,"Drama, Romance  ",135,2019,78,91,154451
-The Lighthouse,"Drama, Fantasy, Horror  ",109,2019,75,83,154411
-Doctor Sleep,"Drama, Fantasy, Horror  ",152,2019,73,59,152134
-Rocketman,"Biography, Drama, Music  ",121,2019,73,69,148992
-Zombieland: Double Tap,"Action, Adventure, Comedy  ",99,2019,67,55,147322
-6 Underground,"Action, Thriller  ",128,2019,61,41,145972
-Frozen II,"Animation, Adventure, Comedy  ",103,2019,68,64,144170
-Pokémon Detective Pikachu,"Action, Adventure, Comedy  ",104,2019,66,53,143614
-Joker,"Crime, Drama, Thriller  ",122,2019,84,59,1000379
-Avengers: Endgame,"Action, Adventure, Drama  ",181,2019,84,78,876560
-Parasite,"Comedy, Drama, Thriller  ",132,2019,86,96,609738
-Once Upon a Time... In Hollywood,"Comedy, Drama  ",161,2019,76,83,582997
-Knives Out,"Comedy, Crime, Drama  ",130,2019,79,82,491599
-Captain Marvel,"Action, Adventure, Sci-Fi  ",123,2019,69,64,469063
-1917,"Drama, Thriller, War  ",119,2019,83,78,461520
-Star Wars: Episode IX - The Rise of Skywalker,"Action, Adventure, Fantasy  ",141,2019,66,53,389058
-Spider-Man: Far from Home,"Action, Adventure, Sci-Fi  ",129,2019,75,69,345933
-The Irishman,"Biography, Crime, Drama  ",209,2019,78,94,338597
-Jojo Rabbit,"Comedy, Drama, War  ",108,2019,79,58,319946
-Ford v Ferrari,"Action, Biography, Drama  ",152,2019,81,81,313980
-John Wick: Chapter 3 - Parabellum,"Action, Crime, Thriller  ",130,2019,74,73,289424
-Shazam!,"Action, Adventure, Comedy  ",132,2019,70,71,275505
-The Gentlemen,"Action, Comedy, Crime  ",113,2019,78,51,263491
-Marriage Story,"Comedy, Drama, Romance  ",137,2019,79,94,259474
-Us,"Horror, Mystery, Thriller  ",116,2019,68,81,241232
-Alita: Battle Angel,"Action, Adventure, Sci-Fi  ",122,2019,73,53,236843
-Aladdin,"Adventure, Family, Fantasy  ",128,2019,69,53,235600
-Uncut Gems,"Crime, Drama, Thriller  ",135,2019,74,91,233293
-The Lion King,"Animation, Adventure, Drama  ",118,2019,69,55,219022
-Midsommar,"Drama, Horror, Mystery  ",148,2019,71,72,218738
-It Chapter Two,"Drama, Fantasy, Horror  ",169,2019,65,58,216843
-Glass,"Drama, Sci-Fi, Thriller  ",129,2019,66,43,215546
-Toy Story 4,"Animation, Adventure, Comedy  ",100,2019,77,84,212580
-Ad Astra,"Adventure, Drama, Mystery  ",123,2019,65,80,205609
-Jumanji: The Next Level,"Action, Adventure, Comedy  ",123,2019,66,58,198995
-El Camino: A Breaking Bad Movie,"Action, Crime, Drama  ",122,2019,73,72,193745
-The Platform,"Horror, Sci-Fi, Thriller  ",94,2019,70,73,176853
-Fast & Furious Presents: Hobbs & Shaw,"Action, Adventure, Thriller  ",137,2019,64,60,176572
-X-Men: Dark Phoenix,"Action, Adventure, Sci-Fi  ",113,2019,57,43,163079
-Godzilla: King of the Monsters,"Action, Adventure, Fantasy  ",132,2019,60,48,157458
-Terminator: Dark Fate,"Action, Adventure, Sci-Fi  ",128,2019,62,54,156005
-Little Women,"Drama, Romance  ",135,2019,78,91,154451
-The Lighthouse,"Drama, Fantasy, Horror  ",109,2019,75,83,154411
-Doctor Sleep,"Drama, Fantasy, Horror  ",152,2019,73,59,152134
-Rocketman,"Biography, Drama, Music  ",121,2019,73,69,148992
-Zombieland: Double Tap,"Action, Adventure, Comedy  ",99,2019,67,55,147322
-6 Underground,"Action, Thriller  ",128,2019,61,41,145972
-Frozen II,"Animation, Adventure, Comedy  ",103,2019,68,64,144170
-Pokémon Detective Pikachu,"Action, Adventure, Comedy  ",104,2019,66,53,143614
+Joker,"Crime, Drama, Thriller  ",122,2019,84,59,1009043
+Avengers: Endgame,"Action, Adventure, Drama  ",181,2019,84,78,885299
+Parasite,"Comedy, Drama, Thriller  ",132,2019,86,96,617185
+Once Upon a Time... In Hollywood,"Comedy, Drama  ",161,2019,76,83,588601
+Knives Out,"Comedy, Crime, Drama  ",130,2019,79,82,496411
+Captain Marvel,"Action, Adventure, Sci-Fi  ",123,2019,68,64,471705
+1917,"Drama, Thriller, War  ",119,2019,83,78,465528
+Star Wars: Episode IX - The Rise of Skywalker,"Action, Adventure, Fantasy  ",141,2019,66,53,390809
+Spider-Man: Far from Home,"Action, Adventure, Sci-Fi  ",129,2019,75,69,350663
+The Irishman,"Biography, Crime, Drama  ",209,2019,78,94,340259
+Jojo Rabbit,"Comedy, Drama, War  ",108,2019,79,58,322735
+Ford v Ferrari,"Action, Biography, Drama  ",152,2019,81,81,316932
+John Wick: Chapter 3 - Parabellum,"Action, Crime, Thriller  ",130,2019,74,73,291881
+Shazam!,"Action, Adventure, Comedy  ",132,2019,70,71,277990
+The Gentlemen,"Action, Comedy, Crime  ",113,2019,78,51,266756
+Marriage Story,"Comedy, Drama, Romance  ",137,2019,79,94,261146
+Us,"Horror, Mystery, Thriller  ",116,2019,68,81,243355
+Alita: Battle Angel,"Action, Adventure, Sci-Fi  ",122,2019,73,53,237883
+Aladdin,"Adventure, Family, Fantasy  ",128,2019,69,53,236902
+Uncut Gems,"Crime, Drama, Thriller  ",135,2019,74,91,234829
+Midsommar,"Drama, Horror, Mystery  ",148,2019,71,72,221864
+The Lion King,"Animation, Adventure, Drama  ",118,2019,69,55,220016
+It Chapter Two,"Drama, Fantasy, Horror  ",169,2019,65,58,218813
+Glass,"Drama, Sci-Fi, Thriller  ",129,2019,66,43,216866
+Toy Story 4,"Animation, Adventure, Comedy  ",100,2019,77,84,213864
+Ad Astra,"Adventure, Drama, Mystery  ",123,2019,65,80,206346
+Jumanji: The Next Level,"Action, Adventure, Comedy  ",123,2019,66,58,200490
+El Camino: A Breaking Bad Movie,"Action, Crime, Drama  ",122,2019,73,72,195270
+Fast & Furious Presents: Hobbs & Shaw,"Action, Adventure, Thriller  ",137,2019,64,60,178594
+The Platform,"Horror, Sci-Fi, Thriller  ",94,2019,70,73,178504
+X-Men: Dark Phoenix,"Action, Adventure, Sci-Fi  ",113,2019,57,43,163963
+Godzilla: King of the Monsters,"Action, Adventure, Fantasy  ",132,2019,60,48,158655
+Terminator: Dark Fate,"Action, Adventure, Sci-Fi  ",128,2019,62,54,156887
+The Lighthouse,"Drama, Fantasy, Horror  ",109,2019,75,83,155889
+Little Women,"Drama, Romance  ",135,2019,78,91,155690
+Doctor Sleep,"Drama, Fantasy, Horror  ",152,2019,73,59,153499
+Rocketman,"Biography, Drama, Music  ",121,2019,73,69,150327
+Zombieland: Double Tap,"Action, Adventure, Comedy  ",99,2019,67,55,148688
+6 Underground,"Action, Thriller  ",128,2019,61,41,147041
+Frozen II,"Animation, Adventure, Comedy  ",103,2019,68,64,145188
+Pokémon Detective Pikachu,"Action, Adventure, Comedy  ",104,2019,66,53,144593
+Joker,"Crime, Drama, Thriller  ",122,2019,84,59,1009043
+Avengers: Endgame,"Action, Adventure, Drama  ",181,2019,84,78,885299
+Parasite,"Comedy, Drama, Thriller  ",132,2019,86,96,617185
+Once Upon a Time... In Hollywood,"Comedy, Drama  ",161,2019,76,83,588601
+Knives Out,"Comedy, Crime, Drama  ",130,2019,79,82,496411
+Captain Marvel,"Action, Adventure, Sci-Fi  ",123,2019,68,64,471705
+1917,"Drama, Thriller, War  ",119,2019,83,78,465528
+Star Wars: Episode IX - The Rise of Skywalker,"Action, Adventure, Fantasy  ",141,2019,66,53,390809
+Spider-Man: Far from Home,"Action, Adventure, Sci-Fi  ",129,2019,75,69,350663
+The Irishman,"Biography, Crime, Drama  ",209,2019,78,94,340259
+Jojo Rabbit,"Comedy, Drama, War  ",108,2019,79,58,322735
+Ford v Ferrari,"Action, Biography, Drama  ",152,2019,81,81,316932
+John Wick: Chapter 3 - Parabellum,"Action, Crime, Thriller  ",130,2019,74,73,291881
+Shazam!,"Action, Adventure, Comedy  ",132,2019,70,71,277990
+The Gentlemen,"Action, Comedy, Crime  ",113,2019,78,51,266756
+Marriage Story,"Comedy, Drama, Romance  ",137,2019,79,94,261146
+Us,"Horror, Mystery, Thriller  ",116,2019,68,81,243355
+Alita: Battle Angel,"Action, Adventure, Sci-Fi  ",122,2019,73,53,237883
+Aladdin,"Adventure, Family, Fantasy  ",128,2019,69,53,236902
+Uncut Gems,"Crime, Drama, Thriller  ",135,2019,74,91,234829
+Midsommar,"Drama, Horror, Mystery  ",148,2019,71,72,221864
+The Lion King,"Animation, Adventure, Drama  ",118,2019,69,55,220016
+It Chapter Two,"Drama, Fantasy, Horror  ",169,2019,65,58,218813
+Glass,"Drama, Sci-Fi, Thriller  ",129,2019,66,43,216866
+Toy Story 4,"Animation, Adventure, Comedy  ",100,2019,77,84,213864
+Ad Astra,"Adventure, Drama, Mystery  ",123,2019,65,80,206346
+Jumanji: The Next Level,"Action, Adventure, Comedy  ",123,2019,66,58,200490
+El Camino: A Breaking Bad Movie,"Action, Crime, Drama  ",122,2019,73,72,195270
+Fast & Furious Presents: Hobbs & Shaw,"Action, Adventure, Thriller  ",137,2019,64,60,178594
+The Platform,"Horror, Sci-Fi, Thriller  ",94,2019,70,73,178504
+X-Men: Dark Phoenix,"Action, Adventure, Sci-Fi  ",113,2019,57,43,163963
+Godzilla: King of the Monsters,"Action, Adventure, Fantasy  ",132,2019,60,48,158655
+Terminator: Dark Fate,"Action, Adventure, Sci-Fi  ",128,2019,62,54,156887
+The Lighthouse,"Drama, Fantasy, Horror  ",109,2019,75,83,155889
+Little Women,"Drama, Romance  ",135,2019,78,91,155690
+Doctor Sleep,"Drama, Fantasy, Horror  ",152,2019,73,59,153499
+Rocketman,"Biography, Drama, Music  ",121,2019,73,69,150327
+Zombieland: Double Tap,"Action, Adventure, Comedy  ",99,2019,67,55,148688
+6 Underground,"Action, Thriller  ",128,2019,61,41,147041
+Frozen II,"Animation, Adventure, Comedy  ",103,2019,68,64,145188
+Pokémon Detective Pikachu,"Action, Adventure, Comedy  ",104,2019,66,53,144593
+Joker,"Crime, Drama, Thriller  ",122,2019,84,59,1009043
+Avengers: Endgame,"Action, Adventure, Drama  ",181,2019,84,78,885299
+Parasite,"Comedy, Drama, Thriller  ",132,2019,86,96,617185
+Once Upon a Time... In Hollywood,"Comedy, Drama  ",161,2019,76,83,588601
+Knives Out,"Comedy, Crime, Drama  ",130,2019,79,82,496411
+Captain Marvel,"Action, Adventure, Sci-Fi  ",123,2019,68,64,471705
+1917,"Drama, Thriller, War  ",119,2019,83,78,465528
+Star Wars: Episode IX - The Rise of Skywalker,"Action, Adventure, Fantasy  ",141,2019,66,53,390809
+Spider-Man: Far from Home,"Action, Adventure, Sci-Fi  ",129,2019,75,69,350663
+The Irishman,"Biography, Crime, Drama  ",209,2019,78,94,340259
+Jojo Rabbit,"Comedy, Drama, War  ",108,2019,79,58,322735
+Ford v Ferrari,"Action, Biography, Drama  ",152,2019,81,81,316932
+John Wick: Chapter 3 - Parabellum,"Action, Crime, Thriller  ",130,2019,74,73,291881
+Shazam!,"Action, Adventure, Comedy  ",132,2019,70,71,277990
+The Gentlemen,"Action, Comedy, Crime  ",113,2019,78,51,266756
+Marriage Story,"Comedy, Drama, Romance  ",137,2019,79,94,261146
+Us,"Horror, Mystery, Thriller  ",116,2019,68,81,243355
+Alita: Battle Angel,"Action, Adventure, Sci-Fi  ",122,2019,73,53,237883
+Aladdin,"Adventure, Family, Fantasy  ",128,2019,69,53,236902
+Uncut Gems,"Crime, Drama, Thriller  ",135,2019,74,91,234829
+Midsommar,"Drama, Horror, Mystery  ",148,2019,71,72,221864
+The Lion King,"Animation, Adventure, Drama  ",118,2019,69,55,220016
+It Chapter Two,"Drama, Fantasy, Horror  ",169,2019,65,58,218813
+Glass,"Drama, Sci-Fi, Thriller  ",129,2019,66,43,216866
+Toy Story 4,"Animation, Adventure, Comedy  ",100,2019,77,84,213864
+Ad Astra,"Adventure, Drama, Mystery  ",123,2019,65,80,206346
+Jumanji: The Next Level,"Action, Adventure, Comedy  ",123,2019,66,58,200490
+El Camino: A Breaking Bad Movie,"Action, Crime, Drama  ",122,2019,73,72,195270
+Fast & Furious Presents: Hobbs & Shaw,"Action, Adventure, Thriller  ",137,2019,64,60,178594
+The Platform,"Horror, Sci-Fi, Thriller  ",94,2019,70,73,178504
+X-Men: Dark Phoenix,"Action, Adventure, Sci-Fi  ",113,2019,57,43,163963
+Godzilla: King of the Monsters,"Action, Adventure, Fantasy  ",132,2019,60,48,158655
+Terminator: Dark Fate,"Action, Adventure, Sci-Fi  ",128,2019,62,54,156887
+The Lighthouse,"Drama, Fantasy, Horror  ",109,2019,75,83,155889
+Little Women,"Drama, Romance  ",135,2019,78,91,155690
+Doctor Sleep,"Drama, Fantasy, Horror  ",152,2019,73,59,153499
+Rocketman,"Biography, Drama, Music  ",121,2019,73,69,150327
+Zombieland: Double Tap,"Action, Adventure, Comedy  ",99,2019,67,55,148688
+6 Underground,"Action, Thriller  ",128,2019,61,41,147041
+Frozen II,"Animation, Adventure, Comedy  ",103,2019,68,64,145188
+Pokémon Detective Pikachu,"Action, Adventure, Comedy  ",104,2019,66,53,144593
+Joker,"Crime, Drama, Thriller  ",122,2019,84,59,1009043
+Avengers: Endgame,"Action, Adventure, Drama  ",181,2019,84,78,885299
+Parasite,"Comedy, Drama, Thriller  ",132,2019,86,96,617185
+Once Upon a Time... In Hollywood,"Comedy, Drama  ",161,2019,76,83,588601
+Knives Out,"Comedy, Crime, Drama  ",130,2019,79,82,496411
+Captain Marvel,"Action, Adventure, Sci-Fi  ",123,2019,68,64,471705
+1917,"Drama, Thriller, War  ",119,2019,83,78,465528
+Star Wars: Episode IX - The Rise of Skywalker,"Action, Adventure, Fantasy  ",141,2019,66,53,390809
+Spider-Man: Far from Home,"Action, Adventure, Sci-Fi  ",129,2019,75,69,350663
+The Irishman,"Biography, Crime, Drama  ",209,2019,78,94,340259
+Jojo Rabbit,"Comedy, Drama, War  ",108,2019,79,58,322735
+Ford v Ferrari,"Action, Biography, Drama  ",152,2019,81,81,316932
+John Wick: Chapter 3 - Parabellum,"Action, Crime, Thriller  ",130,2019,74,73,291881
+Shazam!,"Action, Adventure, Comedy  ",132,2019,70,71,277990
+The Gentlemen,"Action, Comedy, Crime  ",113,2019,78,51,266756
+Marriage Story,"Comedy, Drama, Romance  ",137,2019,79,94,261146
+Us,"Horror, Mystery, Thriller  ",116,2019,68,81,243355
+Alita: Battle Angel,"Action, Adventure, Sci-Fi  ",122,2019,73,53,237883
+Aladdin,"Adventure, Family, Fantasy  ",128,2019,69,53,236902
+Uncut Gems,"Crime, Drama, Thriller  ",135,2019,74,91,234829
+Midsommar,"Drama, Horror, Mystery  ",148,2019,71,72,221864
+The Lion King,"Animation, Adventure, Drama  ",118,2019,69,55,220016
+It Chapter Two,"Drama, Fantasy, Horror  ",169,2019,65,58,218813
+Glass,"Drama, Sci-Fi, Thriller  ",129,2019,66,43,216866
+Toy Story 4,"Animation, Adventure, Comedy  ",100,2019,77,84,213864
+Ad Astra,"Adventure, Drama, Mystery  ",123,2019,65,80,206346
+Jumanji: The Next Level,"Action, Adventure, Comedy  ",123,2019,66,58,200490
+El Camino: A Breaking Bad Movie,"Action, Crime, Drama  ",122,2019,73,72,195270
+Fast & Furious Presents: Hobbs & Shaw,"Action, Adventure, Thriller  ",137,2019,64,60,178594
+The Platform,"Horror, Sci-Fi, Thriller  ",94,2019,70,73,178504
+X-Men: Dark Phoenix,"Action, Adventure, Sci-Fi  ",113,2019,57,43,163963
+Godzilla: King of the Monsters,"Action, Adventure, Fantasy  ",132,2019,60,48,158655
+Terminator: Dark Fate,"Action, Adventure, Sci-Fi  ",128,2019,62,54,156887
+The Lighthouse,"Drama, Fantasy, Horror  ",109,2019,75,83,155889
+Little Women,"Drama, Romance  ",135,2019,78,91,155690
+Doctor Sleep,"Drama, Fantasy, Horror  ",152,2019,73,59,153499
+Rocketman,"Biography, Drama, Music  ",121,2019,73,69,150327
+Zombieland: Double Tap,"Action, Adventure, Comedy  ",99,2019,67,55,148688
+6 Underground,"Action, Thriller  ",128,2019,61,41,147041
+Frozen II,"Animation, Adventure, Comedy  ",103,2019,68,64,145188
+Pokémon Detective Pikachu,"Action, Adventure, Comedy  ",104,2019,66,53,144593
+Joker,"Crime, Drama, Thriller  ",122,2019,84,59,1009043
+Avengers: Endgame,"Action, Adventure, Drama  ",181,2019,84,78,885299
+Parasite,"Comedy, Drama, Thriller  ",132,2019,86,96,617185
+Once Upon a Time... In Hollywood,"Comedy, Drama  ",161,2019,76,83,588601
+Knives Out,"Comedy, Crime, Drama  ",130,2019,79,82,496411
+Captain Marvel,"Action, Adventure, Sci-Fi  ",123,2019,68,64,471705
+1917,"Drama, Thriller, War  ",119,2019,83,78,465528
+Star Wars: Episode IX - The Rise of Skywalker,"Action, Adventure, Fantasy  ",141,2019,66,53,390809
+Spider-Man: Far from Home,"Action, Adventure, Sci-Fi  ",129,2019,75,69,350663
+The Irishman,"Biography, Crime, Drama  ",209,2019,78,94,340259
+Jojo Rabbit,"Comedy, Drama, War  ",108,2019,79,58,322735
+Ford v Ferrari,"Action, Biography, Drama  ",152,2019,81,81,316932
+John Wick: Chapter 3 - Parabellum,"Action, Crime, Thriller  ",130,2019,74,73,291881
+Shazam!,"Action, Adventure, Comedy  ",132,2019,70,71,277990
+The Gentlemen,"Action, Comedy, Crime  ",113,2019,78,51,266756
+Marriage Story,"Comedy, Drama, Romance  ",137,2019,79,94,261146
+Us,"Horror, Mystery, Thriller  ",116,2019,68,81,243355
+Alita: Battle Angel,"Action, Adventure, Sci-Fi  ",122,2019,73,53,237883
+Aladdin,"Adventure, Family, Fantasy  ",128,2019,69,53,236902
+Uncut Gems,"Crime, Drama, Thriller  ",135,2019,74,91,234829
+Midsommar,"Drama, Horror, Mystery  ",148,2019,71,72,221864
+The Lion King,"Animation, Adventure, Drama  ",118,2019,69,55,220016
+It Chapter Two,"Drama, Fantasy, Horror  ",169,2019,65,58,218813
+Glass,"Drama, Sci-Fi, Thriller  ",129,2019,66,43,216866
+Toy Story 4,"Animation, Adventure, Comedy  ",100,2019,77,84,213864
+Ad Astra,"Adventure, Drama, Mystery  ",123,2019,65,80,206346
+Jumanji: The Next Level,"Action, Adventure, Comedy  ",123,2019,66,58,200490
+El Camino: A Breaking Bad Movie,"Action, Crime, Drama  ",122,2019,73,72,195270
+Fast & Furious Presents: Hobbs & Shaw,"Action, Adventure, Thriller  ",137,2019,64,60,178594
+The Platform,"Horror, Sci-Fi, Thriller  ",94,2019,70,73,178504
+X-Men: Dark Phoenix,"Action, Adventure, Sci-Fi  ",113,2019,57,43,163963
+Godzilla: King of the Monsters,"Action, Adventure, Fantasy  ",132,2019,60,48,158655
+Terminator: Dark Fate,"Action, Adventure, Sci-Fi  ",128,2019,62,54,156887
+The Lighthouse,"Drama, Fantasy, Horror  ",109,2019,75,83,155889
+Little Women,"Drama, Romance  ",135,2019,78,91,155690
+Doctor Sleep,"Drama, Fantasy, Horror  ",152,2019,73,59,153499
+Rocketman,"Biography, Drama, Music  ",121,2019,73,69,150327
+Zombieland: Double Tap,"Action, Adventure, Comedy  ",99,2019,67,55,148688
+6 Underground,"Action, Thriller  ",128,2019,61,41,147041
+Frozen II,"Animation, Adventure, Comedy  ",103,2019,68,64,145188
+Pokémon Detective Pikachu,"Action, Adventure, Comedy  ",104,2019,66,53,144593
+Joker,"Crime, Drama, Thriller  ",122,2019,84,59,1009043
+Avengers: Endgame,"Action, Adventure, Drama  ",181,2019,84,78,885299
+Parasite,"Comedy, Drama, Thriller  ",132,2019,86,96,617185
+Once Upon a Time... In Hollywood,"Comedy, Drama  ",161,2019,76,83,588601
+Knives Out,"Comedy, Crime, Drama  ",130,2019,79,82,496411
+Captain Marvel,"Action, Adventure, Sci-Fi  ",123,2019,68,64,471705
+1917,"Drama, Thriller, War  ",119,2019,83,78,465528
+Star Wars: Episode IX - The Rise of Skywalker,"Action, Adventure, Fantasy  ",141,2019,66,53,390809
+Spider-Man: Far from Home,"Action, Adventure, Sci-Fi  ",129,2019,75,69,350663
+The Irishman,"Biography, Crime, Drama  ",209,2019,78,94,340259
+Jojo Rabbit,"Comedy, Drama, War  ",108,2019,79,58,322735
+Ford v Ferrari,"Action, Biography, Drama  ",152,2019,81,81,316932
+John Wick: Chapter 3 - Parabellum,"Action, Crime, Thriller  ",130,2019,74,73,291881
+Shazam!,"Action, Adventure, Comedy  ",132,2019,70,71,277990
+The Gentlemen,"Action, Comedy, Crime  ",113,2019,78,51,266756
+Marriage Story,"Comedy, Drama, Romance  ",137,2019,79,94,261146
+Us,"Horror, Mystery, Thriller  ",116,2019,68,81,243355
+Alita: Battle Angel,"Action, Adventure, Sci-Fi  ",122,2019,73,53,237883
+Aladdin,"Adventure, Family, Fantasy  ",128,2019,69,53,236902
+Uncut Gems,"Crime, Drama, Thriller  ",135,2019,74,91,234829
+Midsommar,"Drama, Horror, Mystery  ",148,2019,71,72,221864
+The Lion King,"Animation, Adventure, Drama  ",118,2019,69,55,220016
+It Chapter Two,"Drama, Fantasy, Horror  ",169,2019,65,58,218813
+Glass,"Drama, Sci-Fi, Thriller  ",129,2019,66,43,216866
+Toy Story 4,"Animation, Adventure, Comedy  ",100,2019,77,84,213864
+Ad Astra,"Adventure, Drama, Mystery  ",123,2019,65,80,206346
+Jumanji: The Next Level,"Action, Adventure, Comedy  ",123,2019,66,58,200490
+El Camino: A Breaking Bad Movie,"Action, Crime, Drama  ",122,2019,73,72,195270
+Fast & Furious Presents: Hobbs & Shaw,"Action, Adventure, Thriller  ",137,2019,64,60,178594
+The Platform,"Horror, Sci-Fi, Thriller  ",94,2019,70,73,178504
+X-Men: Dark Phoenix,"Action, Adventure, Sci-Fi  ",113,2019,57,43,163963
+Godzilla: King of the Monsters,"Action, Adventure, Fantasy  ",132,2019,60,48,158655
+Terminator: Dark Fate,"Action, Adventure, Sci-Fi  ",128,2019,62,54,156887
+The Lighthouse,"Drama, Fantasy, Horror  ",109,2019,75,83,155889
+Little Women,"Drama, Romance  ",135,2019,78,91,155690
+Doctor Sleep,"Drama, Fantasy, Horror  ",152,2019,73,59,153499
+Rocketman,"Biography, Drama, Music  ",121,2019,73,69,150327
+Zombieland: Double Tap,"Action, Adventure, Comedy  ",99,2019,67,55,148688
+6 Underground,"Action, Thriller  ",128,2019,61,41,147041
+Frozen II,"Animation, Adventure, Comedy  ",103,2019,68,64,145188
+Pokémon Detective Pikachu,"Action, Adventure, Comedy  ",104,2019,66,53,144593
+Joker,"Crime, Drama, Thriller  ",122,2019,84,59,1009043
+Avengers: Endgame,"Action, Adventure, Drama  ",181,2019,84,78,885299
+Parasite,"Comedy, Drama, Thriller  ",132,2019,86,96,617185
+Once Upon a Time... In Hollywood,"Comedy, Drama  ",161,2019,76,83,588601
+Knives Out,"Comedy, Crime, Drama  ",130,2019,79,82,496411
+Captain Marvel,"Action, Adventure, Sci-Fi  ",123,2019,68,64,471705
+1917,"Drama, Thriller, War  ",119,2019,83,78,465528
+Star Wars: Episode IX - The Rise of Skywalker,"Action, Adventure, Fantasy  ",141,2019,66,53,390809
+Spider-Man: Far from Home,"Action, Adventure, Sci-Fi  ",129,2019,75,69,350663
+The Irishman,"Biography, Crime, Drama  ",209,2019,78,94,340259
+Jojo Rabbit,"Comedy, Drama, War  ",108,2019,79,58,322735
+Ford v Ferrari,"Action, Biography, Drama  ",152,2019,81,81,316932
+John Wick: Chapter 3 - Parabellum,"Action, Crime, Thriller  ",130,2019,74,73,291881
+Shazam!,"Action, Adventure, Comedy  ",132,2019,70,71,277990
+The Gentlemen,"Action, Comedy, Crime  ",113,2019,78,51,266756
+Marriage Story,"Comedy, Drama, Romance  ",137,2019,79,94,261146
+Us,"Horror, Mystery, Thriller  ",116,2019,68,81,243355
+Alita: Battle Angel,"Action, Adventure, Sci-Fi  ",122,2019,73,53,237883
+Aladdin,"Adventure, Family, Fantasy  ",128,2019,69,53,236902
+Uncut Gems,"Crime, Drama, Thriller  ",135,2019,74,91,234829
+Midsommar,"Drama, Horror, Mystery  ",148,2019,71,72,221864
+The Lion King,"Animation, Adventure, Drama  ",118,2019,69,55,220016
+It Chapter Two,"Drama, Fantasy, Horror  ",169,2019,65,58,218813
+Glass,"Drama, Sci-Fi, Thriller  ",129,2019,66,43,216866
+Toy Story 4,"Animation, Adventure, Comedy  ",100,2019,77,84,213864
+Ad Astra,"Adventure, Drama, Mystery  ",123,2019,65,80,206346
+Jumanji: The Next Level,"Action, Adventure, Comedy  ",123,2019,66,58,200490
+El Camino: A Breaking Bad Movie,"Action, Crime, Drama  ",122,2019,73,72,195270
+Fast & Furious Presents: Hobbs & Shaw,"Action, Adventure, Thriller  ",137,2019,64,60,178594
+The Platform,"Horror, Sci-Fi, Thriller  ",94,2019,70,73,178504
+X-Men: Dark Phoenix,"Action, Adventure, Sci-Fi  ",113,2019,57,43,163963
+Godzilla: King of the Monsters,"Action, Adventure, Fantasy  ",132,2019,60,48,158655
+Terminator: Dark Fate,"Action, Adventure, Sci-Fi  ",128,2019,62,54,156887
+The Lighthouse,"Drama, Fantasy, Horror  ",109,2019,75,83,155889
+Little Women,"Drama, Romance  ",135,2019,78,91,155690
+Doctor Sleep,"Drama, Fantasy, Horror  ",152,2019,73,59,153499
+Rocketman,"Biography, Drama, Music  ",121,2019,73,69,150327
+Zombieland: Double Tap,"Action, Adventure, Comedy  ",99,2019,67,55,148688
+6 Underground,"Action, Thriller  ",128,2019,61,41,147041
+Frozen II,"Animation, Adventure, Comedy  ",103,2019,68,64,145188
+Pokémon Detective Pikachu,"Action, Adventure, Comedy  ",104,2019,66,53,144593
+Joker,"Crime, Drama, Thriller  ",122,2019,84,59,1009043
+Avengers: Endgame,"Action, Adventure, Drama  ",181,2019,84,78,885299
+Parasite,"Comedy, Drama, Thriller  ",132,2019,86,96,617185
+Once Upon a Time... In Hollywood,"Comedy, Drama  ",161,2019,76,83,588601
+Knives Out,"Comedy, Crime, Drama  ",130,2019,79,82,496411
+Captain Marvel,"Action, Adventure, Sci-Fi  ",123,2019,68,64,471705
+1917,"Drama, Thriller, War  ",119,2019,83,78,465528
+Star Wars: Episode IX - The Rise of Skywalker,"Action, Adventure, Fantasy  ",141,2019,66,53,390809
+Spider-Man: Far from Home,"Action, Adventure, Sci-Fi  ",129,2019,75,69,350663
+The Irishman,"Biography, Crime, Drama  ",209,2019,78,94,340259
+Jojo Rabbit,"Comedy, Drama, War  ",108,2019,79,58,322735
+Ford v Ferrari,"Action, Biography, Drama  ",152,2019,81,81,316932
+John Wick: Chapter 3 - Parabellum,"Action, Crime, Thriller  ",130,2019,74,73,291881
+Shazam!,"Action, Adventure, Comedy  ",132,2019,70,71,277990
+The Gentlemen,"Action, Comedy, Crime  ",113,2019,78,51,266756
+Marriage Story,"Comedy, Drama, Romance  ",137,2019,79,94,261146
+Us,"Horror, Mystery, Thriller  ",116,2019,68,81,243355
+Alita: Battle Angel,"Action, Adventure, Sci-Fi  ",122,2019,73,53,237883
+Aladdin,"Adventure, Family, Fantasy  ",128,2019,69,53,236902
+Uncut Gems,"Crime, Drama, Thriller  ",135,2019,74,91,234829
+Midsommar,"Drama, Horror, Mystery  ",148,2019,71,72,221864
+The Lion King,"Animation, Adventure, Drama  ",118,2019,69,55,220016
+It Chapter Two,"Drama, Fantasy, Horror  ",169,2019,65,58,218813
+Glass,"Drama, Sci-Fi, Thriller  ",129,2019,66,43,216866
+Toy Story 4,"Animation, Adventure, Comedy  ",100,2019,77,84,213864
+Ad Astra,"Adventure, Drama, Mystery  ",123,2019,65,80,206346
+Jumanji: The Next Level,"Action, Adventure, Comedy  ",123,2019,66,58,200490
+El Camino: A Breaking Bad Movie,"Action, Crime, Drama  ",122,2019,73,72,195270
+Fast & Furious Presents: Hobbs & Shaw,"Action, Adventure, Thriller  ",137,2019,64,60,178594
+The Platform,"Horror, Sci-Fi, Thriller  ",94,2019,70,73,178504
+X-Men: Dark Phoenix,"Action, Adventure, Sci-Fi  ",113,2019,57,43,163963
+Godzilla: King of the Monsters,"Action, Adventure, Fantasy  ",132,2019,60,48,158655
+Terminator: Dark Fate,"Action, Adventure, Sci-Fi  ",128,2019,62,54,156887
+The Lighthouse,"Drama, Fantasy, Horror  ",109,2019,75,83,155889
+Little Women,"Drama, Romance  ",135,2019,78,91,155690
+Doctor Sleep,"Drama, Fantasy, Horror  ",152,2019,73,59,153499
+Rocketman,"Biography, Drama, Music  ",121,2019,73,69,150327
+Zombieland: Double Tap,"Action, Adventure, Comedy  ",99,2019,67,55,148688
+6 Underground,"Action, Thriller  ",128,2019,61,41,147041
+Frozen II,"Animation, Adventure, Comedy  ",103,2019,68,64,145188
+Pokémon Detective Pikachu,"Action, Adventure, Comedy  ",104,2019,66,53,144593
+Joker,"Crime, Drama, Thriller  ",122,2019,84,59,1009043
+Avengers: Endgame,"Action, Adventure, Drama  ",181,2019,84,78,885299
+Parasite,"Comedy, Drama, Thriller  ",132,2019,86,96,617185
+Once Upon a Time... In Hollywood,"Comedy, Drama  ",161,2019,76,83,588601
+Knives Out,"Comedy, Crime, Drama  ",130,2019,79,82,496411
+Captain Marvel,"Action, Adventure, Sci-Fi  ",123,2019,68,64,471705
+1917,"Drama, Thriller, War  ",119,2019,83,78,465528
+Star Wars: Episode IX - The Rise of Skywalker,"Action, Adventure, Fantasy  ",141,2019,66,53,390809
+Spider-Man: Far from Home,"Action, Adventure, Sci-Fi  ",129,2019,75,69,350663
+The Irishman,"Biography, Crime, Drama  ",209,2019,78,94,340259
+Jojo Rabbit,"Comedy, Drama, War  ",108,2019,79,58,322735
+Ford v Ferrari,"Action, Biography, Drama  ",152,2019,81,81,316932
+John Wick: Chapter 3 - Parabellum,"Action, Crime, Thriller  ",130,2019,74,73,291881
+Shazam!,"Action, Adventure, Comedy  ",132,2019,70,71,277990
+The Gentlemen,"Action, Comedy, Crime  ",113,2019,78,51,266756
+Marriage Story,"Comedy, Drama, Romance  ",137,2019,79,94,261146
+Us,"Horror, Mystery, Thriller  ",116,2019,68,81,243355
+Alita: Battle Angel,"Action, Adventure, Sci-Fi  ",122,2019,73,53,237883
+Aladdin,"Adventure, Family, Fantasy  ",128,2019,69,53,236902
+Uncut Gems,"Crime, Drama, Thriller  ",135,2019,74,91,234829
+Midsommar,"Drama, Horror, Mystery  ",148,2019,71,72,221864
+The Lion King,"Animation, Adventure, Drama  ",118,2019,69,55,220016
+It Chapter Two,"Drama, Fantasy, Horror  ",169,2019,65,58,218813
+Glass,"Drama, Sci-Fi, Thriller  ",129,2019,66,43,216866
+Toy Story 4,"Animation, Adventure, Comedy  ",100,2019,77,84,213864
+Ad Astra,"Adventure, Drama, Mystery  ",123,2019,65,80,206346
+Jumanji: The Next Level,"Action, Adventure, Comedy  ",123,2019,66,58,200490
+El Camino: A Breaking Bad Movie,"Action, Crime, Drama  ",122,2019,73,72,195270
+Fast & Furious Presents: Hobbs & Shaw,"Action, Adventure, Thriller  ",137,2019,64,60,178594
+The Platform,"Horror, Sci-Fi, Thriller  ",94,2019,70,73,178504
+X-Men: Dark Phoenix,"Action, Adventure, Sci-Fi  ",113,2019,57,43,163963
+Godzilla: King of the Monsters,"Action, Adventure, Fantasy  ",132,2019,60,48,158655
+Terminator: Dark Fate,"Action, Adventure, Sci-Fi  ",128,2019,62,54,156887
+The Lighthouse,"Drama, Fantasy, Horror  ",109,2019,75,83,155889
+Little Women,"Drama, Romance  ",135,2019,78,91,155690
+Doctor Sleep,"Drama, Fantasy, Horror  ",152,2019,73,59,153499
+Rocketman,"Biography, Drama, Music  ",121,2019,73,69,150327
+Zombieland: Double Tap,"Action, Adventure, Comedy  ",99,2019,67,55,148688
+6 Underground,"Action, Thriller  ",128,2019,61,41,147041
+Frozen II,"Animation, Adventure, Comedy  ",103,2019,68,64,145188
+Pokémon Detective Pikachu,"Action, Adventure, Comedy  ",104,2019,66,53,144593
+Joker,"Crime, Drama, Thriller  ",122,2019,84,59,1009043
+Avengers: Endgame,"Action, Adventure, Drama  ",181,2019,84,78,885299
+Parasite,"Comedy, Drama, Thriller  ",132,2019,86,96,617185
+Once Upon a Time... In Hollywood,"Comedy, Drama  ",161,2019,76,83,588601
+Knives Out,"Comedy, Crime, Drama  ",130,2019,79,82,496411
+Captain Marvel,"Action, Adventure, Sci-Fi  ",123,2019,68,64,471705
+1917,"Drama, Thriller, War  ",119,2019,83,78,465528
+Star Wars: Episode IX - The Rise of Skywalker,"Action, Adventure, Fantasy  ",141,2019,66,53,390809
+Spider-Man: Far from Home,"Action, Adventure, Sci-Fi  ",129,2019,75,69,350663
+The Irishman,"Biography, Crime, Drama  ",209,2019,78,94,340259
+Jojo Rabbit,"Comedy, Drama, War  ",108,2019,79,58,322735
+Ford v Ferrari,"Action, Biography, Drama  ",152,2019,81,81,316932
+John Wick: Chapter 3 - Parabellum,"Action, Crime, Thriller  ",130,2019,74,73,291881
+Shazam!,"Action, Adventure, Comedy  ",132,2019,70,71,277990
+The Gentlemen,"Action, Comedy, Crime  ",113,2019,78,51,266756
+Marriage Story,"Comedy, Drama, Romance  ",137,2019,79,94,261146
+Us,"Horror, Mystery, Thriller  ",116,2019,68,81,243355
+Alita: Battle Angel,"Action, Adventure, Sci-Fi  ",122,2019,73,53,237883
+Aladdin,"Adventure, Family, Fantasy  ",128,2019,69,53,236902
+Uncut Gems,"Crime, Drama, Thriller  ",135,2019,74,91,234829
+Midsommar,"Drama, Horror, Mystery  ",148,2019,71,72,221864
+The Lion King,"Animation, Adventure, Drama  ",118,2019,69,55,220016
+It Chapter Two,"Drama, Fantasy, Horror  ",169,2019,65,58,218813
+Glass,"Drama, Sci-Fi, Thriller  ",129,2019,66,43,216866
+Toy Story 4,"Animation, Adventure, Comedy  ",100,2019,77,84,213864
+Ad Astra,"Adventure, Drama, Mystery  ",123,2019,65,80,206346
+Jumanji: The Next Level,"Action, Adventure, Comedy  ",123,2019,66,58,200490
+El Camino: A Breaking Bad Movie,"Action, Crime, Drama  ",122,2019,73,72,195270
+Fast & Furious Presents: Hobbs & Shaw,"Action, Adventure, Thriller  ",137,2019,64,60,178594
+The Platform,"Horror, Sci-Fi, Thriller  ",94,2019,70,73,178504
+X-Men: Dark Phoenix,"Action, Adventure, Sci-Fi  ",113,2019,57,43,163963
+Godzilla: King of the Monsters,"Action, Adventure, Fantasy  ",132,2019,60,48,158655
+Terminator: Dark Fate,"Action, Adventure, Sci-Fi  ",128,2019,62,54,156887
+The Lighthouse,"Drama, Fantasy, Horror  ",109,2019,75,83,155889
+Little Women,"Drama, Romance  ",135,2019,78,91,155690
+Doctor Sleep,"Drama, Fantasy, Horror  ",152,2019,73,59,153499
+Rocketman,"Biography, Drama, Music  ",121,2019,73,69,150327
+Zombieland: Double Tap,"Action, Adventure, Comedy  ",99,2019,67,55,148688
+6 Underground,"Action, Thriller  ",128,2019,61,41,147041
+Frozen II,"Animation, Adventure, Comedy  ",103,2019,68,64,145188
+Pokémon Detective Pikachu,"Action, Adventure, Comedy  ",104,2019,66,53,144593
+Joker,"Crime, Drama, Thriller  ",122,2019,84,59,1009043
+Avengers: Endgame,"Action, Adventure, Drama  ",181,2019,84,78,885299
+Parasite,"Comedy, Drama, Thriller  ",132,2019,86,96,617185
+Once Upon a Time... In Hollywood,"Comedy, Drama  ",161,2019,76,83,588601
+Knives Out,"Comedy, Crime, Drama  ",130,2019,79,82,496411
+Captain Marvel,"Action, Adventure, Sci-Fi  ",123,2019,68,64,471705
+1917,"Drama, Thriller, War  ",119,2019,83,78,465528
+Star Wars: Episode IX - The Rise of Skywalker,"Action, Adventure, Fantasy  ",141,2019,66,53,390809
+Spider-Man: Far from Home,"Action, Adventure, Sci-Fi  ",129,2019,75,69,350663
+The Irishman,"Biography, Crime, Drama  ",209,2019,78,94,340259
+Jojo Rabbit,"Comedy, Drama, War  ",108,2019,79,58,322735
+Ford v Ferrari,"Action, Biography, Drama  ",152,2019,81,81,316932
+John Wick: Chapter 3 - Parabellum,"Action, Crime, Thriller  ",130,2019,74,73,291881
+Shazam!,"Action, Adventure, Comedy  ",132,2019,70,71,277990
+The Gentlemen,"Action, Comedy, Crime  ",113,2019,78,51,266756
+Marriage Story,"Comedy, Drama, Romance  ",137,2019,79,94,261146
+Us,"Horror, Mystery, Thriller  ",116,2019,68,81,243355
+Alita: Battle Angel,"Action, Adventure, Sci-Fi  ",122,2019,73,53,237883
+Aladdin,"Adventure, Family, Fantasy  ",128,2019,69,53,236902
+Uncut Gems,"Crime, Drama, Thriller  ",135,2019,74,91,234829
+Midsommar,"Drama, Horror, Mystery  ",148,2019,71,72,221864
+The Lion King,"Animation, Adventure, Drama  ",118,2019,69,55,220016
+It Chapter Two,"Drama, Fantasy, Horror  ",169,2019,65,58,218813
+Glass,"Drama, Sci-Fi, Thriller  ",129,2019,66,43,216866
+Toy Story 4,"Animation, Adventure, Comedy  ",100,2019,77,84,213864
+Ad Astra,"Adventure, Drama, Mystery  ",123,2019,65,80,206346
+Jumanji: The Next Level,"Action, Adventure, Comedy  ",123,2019,66,58,200490
+El Camino: A Breaking Bad Movie,"Action, Crime, Drama  ",122,2019,73,72,195270
+Fast & Furious Presents: Hobbs & Shaw,"Action, Adventure, Thriller  ",137,2019,64,60,178594
+The Platform,"Horror, Sci-Fi, Thriller  ",94,2019,70,73,178504
+X-Men: Dark Phoenix,"Action, Adventure, Sci-Fi  ",113,2019,57,43,163963
+Godzilla: King of the Monsters,"Action, Adventure, Fantasy  ",132,2019,60,48,158655
+Terminator: Dark Fate,"Action, Adventure, Sci-Fi  ",128,2019,62,54,156887
+The Lighthouse,"Drama, Fantasy, Horror  ",109,2019,75,83,155889
+Little Women,"Drama, Romance  ",135,2019,78,91,155690
+Doctor Sleep,"Drama, Fantasy, Horror  ",152,2019,73,59,153499
+Rocketman,"Biography, Drama, Music  ",121,2019,73,69,150327
+Zombieland: Double Tap,"Action, Adventure, Comedy  ",99,2019,67,55,148688
+6 Underground,"Action, Thriller  ",128,2019,61,41,147041
+Frozen II,"Animation, Adventure, Comedy  ",103,2019,68,64,145188
+Pokémon Detective Pikachu,"Action, Adventure, Comedy  ",104,2019,66,53,144593

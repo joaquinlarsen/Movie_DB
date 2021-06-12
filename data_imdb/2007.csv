@@ -1,0 +1,485 @@
+Movie,Genre,Duration,Year,Imdb_rating,Metascore_rating,Votes
+No Country for Old Men,"Crime, Drama, Thriller  ",122,2007,81,91,880162
+I Am Legend,"Action, Adventure, Drama  ",101,2007,72,65,699820
+Ratatouille,"Animation, Adventure, Comedy  ",111,2007,80,96,656100
+The Bourne Ultimatum,"Action, Mystery, Thriller  ",115,2007,80,85,610509
+Pirates of the Caribbean: At World's End,"Action, Adventure, Fantasy  ",169,2007,71,50,604942
+Transformers,"Action, Adventure, Sci-Fi  ",144,2007,70,61,604078
+Into the Wild,"Adventure, Biography, Drama  ",148,2007,81,73,585234
+Superbad,Comedy  ,113,2007,76,76,531673
+There Will Be Blood,Drama  ,158,2007,82,93,531270
+Harry Potter and the Order of the Phoenix,"Action, Adventure, Family  ",138,2007,75,71,523790
+Spider-Man 3,"Action, Adventure, Sci-Fi  ",139,2007,62,59,509839
+Juno,"Comedy, Drama  ",96,2007,74,81,497252
+Zodiac,"Crime, Drama, Mystery  ",157,2007,77,78,482306
+Hot Fuzz,"Action, Comedy, Mystery  ",121,2007,78,81,473512
+American Gangster,"Biography, Crime, Drama  ",157,2007,78,76,399737
+Live Free or Die Hard,"Action, Thriller  ",128,2007,71,69,392669
+Knocked Up,"Comedy, Romance  ",129,2007,69,85,354931
+Sweeney Todd: The Demon Barber of Fleet Street,"Drama, Horror, Musical  ",116,2007,73,83,348990
+Ocean's Thirteen,"Crime, Thriller  ",122,2007,69,62,326709
+Shooter,"Action, Drama, Thriller  ",124,2007,72,53,315747
+The Simpsons Movie,"Animation, Adventure, Comedy  ",87,2007,73,80,312968
+3:10 to Yuma,"Action, Crime, Drama  ",122,2007,77,76,293747
+Shrek the Third,"Animation, Adventure, Comedy  ",93,2007,61,58,286448
+The Mist,"Horror, Sci-Fi, Thriller  ",126,2007,71,58,285660
+28 Weeks Later,"Horror, Sci-Fi  ",100,2007,70,78,262240
+Stardust,"Adventure, Family, Fantasy  ",127,2007,76,66,259178
+1408,"Fantasy, Horror, Mystery  ",104,2007,68,64,258580
+Atonement,"Drama, Mystery, Romance  ",123,2007,78,85,257530
+Gone Baby Gone,"Crime, Drama, Mystery  ",114,2007,76,72,255078
+Fantastic 4: Rise of the Silver Surfer,"Action, Adventure, Fantasy  ",92,2007,56,45,253676
+Sunshine,"Sci-Fi, Thriller  ",107,2007,72,64,237380
+The Bucket List,"Adventure, Comedy, Drama  ",97,2007,74,42,234437
+Eastern Promises,"Action, Crime, Drama  ",100,2007,76,82,231381
+Ghost Rider,"Action, Fantasy, Thriller  ",110,2007,53,35,226588
+Disturbia,"Crime, Drama, Mystery  ",105,2007,68,62,224225
+Paranormal Activity,"Horror, Mystery  ",86,2007,63,68,223700
+National Treasure: Book of Secrets,"Action, Adventure, Mystery  ",124,2007,65,48,222130
+P.S. I Love You,"Comedy, Drama, Romance  ",126,2007,70,39,202155
+Fracture,"Crime, Drama, Thriller  ",113,2007,72,68,190928
+Resident Evil: Extinction,"Action, Horror, Sci-Fi  ",93,2007,62,41,186187
+The Darjeeling Limited,"Adventure, Comedy, Drama  ",91,2007,72,67,184986
+The Golden Compass,"Adventure, Family, Fantasy  ",113,2007,61,51,181234
+Enchanted,"Comedy, Family, Fantasy  ",107,2007,70,75,179948
+Grindhouse,"Action, Horror, Thriller  ",191,2007,75,77,179417
+No Country for Old Men,"Crime, Drama, Thriller  ",122,2007,81,91,880162
+I Am Legend,"Action, Adventure, Drama  ",101,2007,72,65,699820
+Ratatouille,"Animation, Adventure, Comedy  ",111,2007,80,96,656100
+The Bourne Ultimatum,"Action, Mystery, Thriller  ",115,2007,80,85,610509
+Pirates of the Caribbean: At World's End,"Action, Adventure, Fantasy  ",169,2007,71,50,604942
+Transformers,"Action, Adventure, Sci-Fi  ",144,2007,70,61,604078
+Into the Wild,"Adventure, Biography, Drama  ",148,2007,81,73,585234
+Superbad,Comedy  ,113,2007,76,76,531673
+There Will Be Blood,Drama  ,158,2007,82,93,531270
+Harry Potter and the Order of the Phoenix,"Action, Adventure, Family  ",138,2007,75,71,523790
+Spider-Man 3,"Action, Adventure, Sci-Fi  ",139,2007,62,59,509839
+Juno,"Comedy, Drama  ",96,2007,74,81,497252
+Zodiac,"Crime, Drama, Mystery  ",157,2007,77,78,482306
+Hot Fuzz,"Action, Comedy, Mystery  ",121,2007,78,81,473512
+American Gangster,"Biography, Crime, Drama  ",157,2007,78,76,399737
+Live Free or Die Hard,"Action, Thriller  ",128,2007,71,69,392669
+Knocked Up,"Comedy, Romance  ",129,2007,69,85,354931
+Sweeney Todd: The Demon Barber of Fleet Street,"Drama, Horror, Musical  ",116,2007,73,83,348990
+Ocean's Thirteen,"Crime, Thriller  ",122,2007,69,62,326709
+Shooter,"Action, Drama, Thriller  ",124,2007,72,53,315747
+The Simpsons Movie,"Animation, Adventure, Comedy  ",87,2007,73,80,312968
+3:10 to Yuma,"Action, Crime, Drama  ",122,2007,77,76,293747
+Shrek the Third,"Animation, Adventure, Comedy  ",93,2007,61,58,286448
+The Mist,"Horror, Sci-Fi, Thriller  ",126,2007,71,58,285660
+28 Weeks Later,"Horror, Sci-Fi  ",100,2007,70,78,262240
+Stardust,"Adventure, Family, Fantasy  ",127,2007,76,66,259178
+1408,"Fantasy, Horror, Mystery  ",104,2007,68,64,258580
+Atonement,"Drama, Mystery, Romance  ",123,2007,78,85,257530
+Gone Baby Gone,"Crime, Drama, Mystery  ",114,2007,76,72,255078
+Fantastic 4: Rise of the Silver Surfer,"Action, Adventure, Fantasy  ",92,2007,56,45,253676
+Sunshine,"Sci-Fi, Thriller  ",107,2007,72,64,237380
+The Bucket List,"Adventure, Comedy, Drama  ",97,2007,74,42,234437
+Eastern Promises,"Action, Crime, Drama  ",100,2007,76,82,231381
+Ghost Rider,"Action, Fantasy, Thriller  ",110,2007,53,35,226588
+Disturbia,"Crime, Drama, Mystery  ",105,2007,68,62,224225
+Paranormal Activity,"Horror, Mystery  ",86,2007,63,68,223700
+National Treasure: Book of Secrets,"Action, Adventure, Mystery  ",124,2007,65,48,222130
+P.S. I Love You,"Comedy, Drama, Romance  ",126,2007,70,39,202155
+Fracture,"Crime, Drama, Thriller  ",113,2007,72,68,190928
+Resident Evil: Extinction,"Action, Horror, Sci-Fi  ",93,2007,62,41,186187
+The Darjeeling Limited,"Adventure, Comedy, Drama  ",91,2007,72,67,184986
+The Golden Compass,"Adventure, Family, Fantasy  ",113,2007,61,51,181234
+Enchanted,"Comedy, Family, Fantasy  ",107,2007,70,75,179948
+Grindhouse,"Action, Horror, Thriller  ",191,2007,75,77,179417
+No Country for Old Men,"Crime, Drama, Thriller  ",122,2007,81,91,880162
+I Am Legend,"Action, Adventure, Drama  ",101,2007,72,65,699820
+Ratatouille,"Animation, Adventure, Comedy  ",111,2007,80,96,656100
+The Bourne Ultimatum,"Action, Mystery, Thriller  ",115,2007,80,85,610509
+Pirates of the Caribbean: At World's End,"Action, Adventure, Fantasy  ",169,2007,71,50,604942
+Transformers,"Action, Adventure, Sci-Fi  ",144,2007,70,61,604078
+Into the Wild,"Adventure, Biography, Drama  ",148,2007,81,73,585234
+Superbad,Comedy  ,113,2007,76,76,531673
+There Will Be Blood,Drama  ,158,2007,82,93,531270
+Harry Potter and the Order of the Phoenix,"Action, Adventure, Family  ",138,2007,75,71,523790
+Spider-Man 3,"Action, Adventure, Sci-Fi  ",139,2007,62,59,509839
+Juno,"Comedy, Drama  ",96,2007,74,81,497252
+Zodiac,"Crime, Drama, Mystery  ",157,2007,77,78,482306
+Hot Fuzz,"Action, Comedy, Mystery  ",121,2007,78,81,473512
+American Gangster,"Biography, Crime, Drama  ",157,2007,78,76,399737
+Live Free or Die Hard,"Action, Thriller  ",128,2007,71,69,392669
+Knocked Up,"Comedy, Romance  ",129,2007,69,85,354931
+Sweeney Todd: The Demon Barber of Fleet Street,"Drama, Horror, Musical  ",116,2007,73,83,348990
+Ocean's Thirteen,"Crime, Thriller  ",122,2007,69,62,326709
+Shooter,"Action, Drama, Thriller  ",124,2007,72,53,315747
+The Simpsons Movie,"Animation, Adventure, Comedy  ",87,2007,73,80,312968
+3:10 to Yuma,"Action, Crime, Drama  ",122,2007,77,76,293747
+Shrek the Third,"Animation, Adventure, Comedy  ",93,2007,61,58,286448
+The Mist,"Horror, Sci-Fi, Thriller  ",126,2007,71,58,285660
+28 Weeks Later,"Horror, Sci-Fi  ",100,2007,70,78,262240
+Stardust,"Adventure, Family, Fantasy  ",127,2007,76,66,259178
+1408,"Fantasy, Horror, Mystery  ",104,2007,68,64,258580
+Atonement,"Drama, Mystery, Romance  ",123,2007,78,85,257530
+Gone Baby Gone,"Crime, Drama, Mystery  ",114,2007,76,72,255078
+Fantastic 4: Rise of the Silver Surfer,"Action, Adventure, Fantasy  ",92,2007,56,45,253676
+Sunshine,"Sci-Fi, Thriller  ",107,2007,72,64,237380
+The Bucket List,"Adventure, Comedy, Drama  ",97,2007,74,42,234437
+Eastern Promises,"Action, Crime, Drama  ",100,2007,76,82,231381
+Ghost Rider,"Action, Fantasy, Thriller  ",110,2007,53,35,226588
+Disturbia,"Crime, Drama, Mystery  ",105,2007,68,62,224225
+Paranormal Activity,"Horror, Mystery  ",86,2007,63,68,223700
+National Treasure: Book of Secrets,"Action, Adventure, Mystery  ",124,2007,65,48,222130
+P.S. I Love You,"Comedy, Drama, Romance  ",126,2007,70,39,202155
+Fracture,"Crime, Drama, Thriller  ",113,2007,72,68,190928
+Resident Evil: Extinction,"Action, Horror, Sci-Fi  ",93,2007,62,41,186187
+The Darjeeling Limited,"Adventure, Comedy, Drama  ",91,2007,72,67,184986
+The Golden Compass,"Adventure, Family, Fantasy  ",113,2007,61,51,181234
+Enchanted,"Comedy, Family, Fantasy  ",107,2007,70,75,179948
+Grindhouse,"Action, Horror, Thriller  ",191,2007,75,77,179417
+No Country for Old Men,"Crime, Drama, Thriller  ",122,2007,81,91,880162
+I Am Legend,"Action, Adventure, Drama  ",101,2007,72,65,699820
+Ratatouille,"Animation, Adventure, Comedy  ",111,2007,80,96,656100
+The Bourne Ultimatum,"Action, Mystery, Thriller  ",115,2007,80,85,610509
+Pirates of the Caribbean: At World's End,"Action, Adventure, Fantasy  ",169,2007,71,50,604942
+Transformers,"Action, Adventure, Sci-Fi  ",144,2007,70,61,604078
+Into the Wild,"Adventure, Biography, Drama  ",148,2007,81,73,585234
+Superbad,Comedy  ,113,2007,76,76,531673
+There Will Be Blood,Drama  ,158,2007,82,93,531270
+Harry Potter and the Order of the Phoenix,"Action, Adventure, Family  ",138,2007,75,71,523790
+Spider-Man 3,"Action, Adventure, Sci-Fi  ",139,2007,62,59,509839
+Juno,"Comedy, Drama  ",96,2007,74,81,497252
+Zodiac,"Crime, Drama, Mystery  ",157,2007,77,78,482306
+Hot Fuzz,"Action, Comedy, Mystery  ",121,2007,78,81,473512
+American Gangster,"Biography, Crime, Drama  ",157,2007,78,76,399737
+Live Free or Die Hard,"Action, Thriller  ",128,2007,71,69,392669
+Knocked Up,"Comedy, Romance  ",129,2007,69,85,354931
+Sweeney Todd: The Demon Barber of Fleet Street,"Drama, Horror, Musical  ",116,2007,73,83,348990
+Ocean's Thirteen,"Crime, Thriller  ",122,2007,69,62,326709
+Shooter,"Action, Drama, Thriller  ",124,2007,72,53,315747
+The Simpsons Movie,"Animation, Adventure, Comedy  ",87,2007,73,80,312968
+3:10 to Yuma,"Action, Crime, Drama  ",122,2007,77,76,293747
+Shrek the Third,"Animation, Adventure, Comedy  ",93,2007,61,58,286448
+The Mist,"Horror, Sci-Fi, Thriller  ",126,2007,71,58,285660
+28 Weeks Later,"Horror, Sci-Fi  ",100,2007,70,78,262240
+Stardust,"Adventure, Family, Fantasy  ",127,2007,76,66,259178
+1408,"Fantasy, Horror, Mystery  ",104,2007,68,64,258580
+Atonement,"Drama, Mystery, Romance  ",123,2007,78,85,257530
+Gone Baby Gone,"Crime, Drama, Mystery  ",114,2007,76,72,255078
+Fantastic 4: Rise of the Silver Surfer,"Action, Adventure, Fantasy  ",92,2007,56,45,253676
+Sunshine,"Sci-Fi, Thriller  ",107,2007,72,64,237380
+The Bucket List,"Adventure, Comedy, Drama  ",97,2007,74,42,234437
+Eastern Promises,"Action, Crime, Drama  ",100,2007,76,82,231381
+Ghost Rider,"Action, Fantasy, Thriller  ",110,2007,53,35,226588
+Disturbia,"Crime, Drama, Mystery  ",105,2007,68,62,224225
+Paranormal Activity,"Horror, Mystery  ",86,2007,63,68,223700
+National Treasure: Book of Secrets,"Action, Adventure, Mystery  ",124,2007,65,48,222130
+P.S. I Love You,"Comedy, Drama, Romance  ",126,2007,70,39,202155
+Fracture,"Crime, Drama, Thriller  ",113,2007,72,68,190928
+Resident Evil: Extinction,"Action, Horror, Sci-Fi  ",93,2007,62,41,186187
+The Darjeeling Limited,"Adventure, Comedy, Drama  ",91,2007,72,67,184986
+The Golden Compass,"Adventure, Family, Fantasy  ",113,2007,61,51,181234
+Enchanted,"Comedy, Family, Fantasy  ",107,2007,70,75,179948
+Grindhouse,"Action, Horror, Thriller  ",191,2007,75,77,179417
+No Country for Old Men,"Crime, Drama, Thriller  ",122,2007,81,91,880162
+I Am Legend,"Action, Adventure, Drama  ",101,2007,72,65,699820
+Ratatouille,"Animation, Adventure, Comedy  ",111,2007,80,96,656100
+The Bourne Ultimatum,"Action, Mystery, Thriller  ",115,2007,80,85,610509
+Pirates of the Caribbean: At World's End,"Action, Adventure, Fantasy  ",169,2007,71,50,604942
+Transformers,"Action, Adventure, Sci-Fi  ",144,2007,70,61,604078
+Into the Wild,"Adventure, Biography, Drama  ",148,2007,81,73,585234
+Superbad,Comedy  ,113,2007,76,76,531673
+There Will Be Blood,Drama  ,158,2007,82,93,531270
+Harry Potter and the Order of the Phoenix,"Action, Adventure, Family  ",138,2007,75,71,523790
+Spider-Man 3,"Action, Adventure, Sci-Fi  ",139,2007,62,59,509839
+Juno,"Comedy, Drama  ",96,2007,74,81,497252
+Zodiac,"Crime, Drama, Mystery  ",157,2007,77,78,482306
+Hot Fuzz,"Action, Comedy, Mystery  ",121,2007,78,81,473512
+American Gangster,"Biography, Crime, Drama  ",157,2007,78,76,399737
+Live Free or Die Hard,"Action, Thriller  ",128,2007,71,69,392669
+Knocked Up,"Comedy, Romance  ",129,2007,69,85,354931
+Sweeney Todd: The Demon Barber of Fleet Street,"Drama, Horror, Musical  ",116,2007,73,83,348990
+Ocean's Thirteen,"Crime, Thriller  ",122,2007,69,62,326709
+Shooter,"Action, Drama, Thriller  ",124,2007,72,53,315747
+The Simpsons Movie,"Animation, Adventure, Comedy  ",87,2007,73,80,312968
+3:10 to Yuma,"Action, Crime, Drama  ",122,2007,77,76,293747
+Shrek the Third,"Animation, Adventure, Comedy  ",93,2007,61,58,286448
+The Mist,"Horror, Sci-Fi, Thriller  ",126,2007,71,58,285660
+28 Weeks Later,"Horror, Sci-Fi  ",100,2007,70,78,262240
+Stardust,"Adventure, Family, Fantasy  ",127,2007,76,66,259178
+1408,"Fantasy, Horror, Mystery  ",104,2007,68,64,258580
+Atonement,"Drama, Mystery, Romance  ",123,2007,78,85,257530
+Gone Baby Gone,"Crime, Drama, Mystery  ",114,2007,76,72,255078
+Fantastic 4: Rise of the Silver Surfer,"Action, Adventure, Fantasy  ",92,2007,56,45,253676
+Sunshine,"Sci-Fi, Thriller  ",107,2007,72,64,237380
+The Bucket List,"Adventure, Comedy, Drama  ",97,2007,74,42,234437
+Eastern Promises,"Action, Crime, Drama  ",100,2007,76,82,231381
+Ghost Rider,"Action, Fantasy, Thriller  ",110,2007,53,35,226588
+Disturbia,"Crime, Drama, Mystery  ",105,2007,68,62,224225
+Paranormal Activity,"Horror, Mystery  ",86,2007,63,68,223700
+National Treasure: Book of Secrets,"Action, Adventure, Mystery  ",124,2007,65,48,222130
+P.S. I Love You,"Comedy, Drama, Romance  ",126,2007,70,39,202155
+Fracture,"Crime, Drama, Thriller  ",113,2007,72,68,190928
+Resident Evil: Extinction,"Action, Horror, Sci-Fi  ",93,2007,62,41,186187
+The Darjeeling Limited,"Adventure, Comedy, Drama  ",91,2007,72,67,184986
+The Golden Compass,"Adventure, Family, Fantasy  ",113,2007,61,51,181234
+Enchanted,"Comedy, Family, Fantasy  ",107,2007,70,75,179948
+Grindhouse,"Action, Horror, Thriller  ",191,2007,75,77,179417
+No Country for Old Men,"Crime, Drama, Thriller  ",122,2007,81,91,880162
+I Am Legend,"Action, Adventure, Drama  ",101,2007,72,65,699820
+Ratatouille,"Animation, Adventure, Comedy  ",111,2007,80,96,656100
+The Bourne Ultimatum,"Action, Mystery, Thriller  ",115,2007,80,85,610509
+Pirates of the Caribbean: At World's End,"Action, Adventure, Fantasy  ",169,2007,71,50,604942
+Transformers,"Action, Adventure, Sci-Fi  ",144,2007,70,61,604078
+Into the Wild,"Adventure, Biography, Drama  ",148,2007,81,73,585234
+Superbad,Comedy  ,113,2007,76,76,531673
+There Will Be Blood,Drama  ,158,2007,82,93,531270
+Harry Potter and the Order of the Phoenix,"Action, Adventure, Family  ",138,2007,75,71,523790
+Spider-Man 3,"Action, Adventure, Sci-Fi  ",139,2007,62,59,509839
+Juno,"Comedy, Drama  ",96,2007,74,81,497252
+Zodiac,"Crime, Drama, Mystery  ",157,2007,77,78,482306
+Hot Fuzz,"Action, Comedy, Mystery  ",121,2007,78,81,473512
+American Gangster,"Biography, Crime, Drama  ",157,2007,78,76,399737
+Live Free or Die Hard,"Action, Thriller  ",128,2007,71,69,392669
+Knocked Up,"Comedy, Romance  ",129,2007,69,85,354931
+Sweeney Todd: The Demon Barber of Fleet Street,"Drama, Horror, Musical  ",116,2007,73,83,348990
+Ocean's Thirteen,"Crime, Thriller  ",122,2007,69,62,326709
+Shooter,"Action, Drama, Thriller  ",124,2007,72,53,315747
+The Simpsons Movie,"Animation, Adventure, Comedy  ",87,2007,73,80,312968
+3:10 to Yuma,"Action, Crime, Drama  ",122,2007,77,76,293747
+Shrek the Third,"Animation, Adventure, Comedy  ",93,2007,61,58,286448
+The Mist,"Horror, Sci-Fi, Thriller  ",126,2007,71,58,285660
+28 Weeks Later,"Horror, Sci-Fi  ",100,2007,70,78,262240
+Stardust,"Adventure, Family, Fantasy  ",127,2007,76,66,259178
+1408,"Fantasy, Horror, Mystery  ",104,2007,68,64,258580
+Atonement,"Drama, Mystery, Romance  ",123,2007,78,85,257530
+Gone Baby Gone,"Crime, Drama, Mystery  ",114,2007,76,72,255078
+Fantastic 4: Rise of the Silver Surfer,"Action, Adventure, Fantasy  ",92,2007,56,45,253676
+Sunshine,"Sci-Fi, Thriller  ",107,2007,72,64,237380
+The Bucket List,"Adventure, Comedy, Drama  ",97,2007,74,42,234437
+Eastern Promises,"Action, Crime, Drama  ",100,2007,76,82,231381
+Ghost Rider,"Action, Fantasy, Thriller  ",110,2007,53,35,226588
+Disturbia,"Crime, Drama, Mystery  ",105,2007,68,62,224225
+Paranormal Activity,"Horror, Mystery  ",86,2007,63,68,223700
+National Treasure: Book of Secrets,"Action, Adventure, Mystery  ",124,2007,65,48,222130
+P.S. I Love You,"Comedy, Drama, Romance  ",126,2007,70,39,202155
+Fracture,"Crime, Drama, Thriller  ",113,2007,72,68,190928
+Resident Evil: Extinction,"Action, Horror, Sci-Fi  ",93,2007,62,41,186187
+The Darjeeling Limited,"Adventure, Comedy, Drama  ",91,2007,72,67,184986
+The Golden Compass,"Adventure, Family, Fantasy  ",113,2007,61,51,181234
+Enchanted,"Comedy, Family, Fantasy  ",107,2007,70,75,179948
+Grindhouse,"Action, Horror, Thriller  ",191,2007,75,77,179417
+No Country for Old Men,"Crime, Drama, Thriller  ",122,2007,81,91,880162
+I Am Legend,"Action, Adventure, Drama  ",101,2007,72,65,699820
+Ratatouille,"Animation, Adventure, Comedy  ",111,2007,80,96,656100
+The Bourne Ultimatum,"Action, Mystery, Thriller  ",115,2007,80,85,610509
+Pirates of the Caribbean: At World's End,"Action, Adventure, Fantasy  ",169,2007,71,50,604942
+Transformers,"Action, Adventure, Sci-Fi  ",144,2007,70,61,604078
+Into the Wild,"Adventure, Biography, Drama  ",148,2007,81,73,585234
+Superbad,Comedy  ,113,2007,76,76,531673
+There Will Be Blood,Drama  ,158,2007,82,93,531270
+Harry Potter and the Order of the Phoenix,"Action, Adventure, Family  ",138,2007,75,71,523790
+Spider-Man 3,"Action, Adventure, Sci-Fi  ",139,2007,62,59,509839
+Juno,"Comedy, Drama  ",96,2007,74,81,497252
+Zodiac,"Crime, Drama, Mystery  ",157,2007,77,78,482306
+Hot Fuzz,"Action, Comedy, Mystery  ",121,2007,78,81,473512
+American Gangster,"Biography, Crime, Drama  ",157,2007,78,76,399737
+Live Free or Die Hard,"Action, Thriller  ",128,2007,71,69,392669
+Knocked Up,"Comedy, Romance  ",129,2007,69,85,354931
+Sweeney Todd: The Demon Barber of Fleet Street,"Drama, Horror, Musical  ",116,2007,73,83,348990
+Ocean's Thirteen,"Crime, Thriller  ",122,2007,69,62,326709
+Shooter,"Action, Drama, Thriller  ",124,2007,72,53,315747
+The Simpsons Movie,"Animation, Adventure, Comedy  ",87,2007,73,80,312968
+3:10 to Yuma,"Action, Crime, Drama  ",122,2007,77,76,293747
+Shrek the Third,"Animation, Adventure, Comedy  ",93,2007,61,58,286448
+The Mist,"Horror, Sci-Fi, Thriller  ",126,2007,71,58,285660
+28 Weeks Later,"Horror, Sci-Fi  ",100,2007,70,78,262240
+Stardust,"Adventure, Family, Fantasy  ",127,2007,76,66,259178
+1408,"Fantasy, Horror, Mystery  ",104,2007,68,64,258580
+Atonement,"Drama, Mystery, Romance  ",123,2007,78,85,257530
+Gone Baby Gone,"Crime, Drama, Mystery  ",114,2007,76,72,255078
+Fantastic 4: Rise of the Silver Surfer,"Action, Adventure, Fantasy  ",92,2007,56,45,253676
+Sunshine,"Sci-Fi, Thriller  ",107,2007,72,64,237380
+The Bucket List,"Adventure, Comedy, Drama  ",97,2007,74,42,234437
+Eastern Promises,"Action, Crime, Drama  ",100,2007,76,82,231381
+Ghost Rider,"Action, Fantasy, Thriller  ",110,2007,53,35,226588
+Disturbia,"Crime, Drama, Mystery  ",105,2007,68,62,224225
+Paranormal Activity,"Horror, Mystery  ",86,2007,63,68,223700
+National Treasure: Book of Secrets,"Action, Adventure, Mystery  ",124,2007,65,48,222130
+P.S. I Love You,"Comedy, Drama, Romance  ",126,2007,70,39,202155
+Fracture,"Crime, Drama, Thriller  ",113,2007,72,68,190928
+Resident Evil: Extinction,"Action, Horror, Sci-Fi  ",93,2007,62,41,186187
+The Darjeeling Limited,"Adventure, Comedy, Drama  ",91,2007,72,67,184986
+The Golden Compass,"Adventure, Family, Fantasy  ",113,2007,61,51,181234
+Enchanted,"Comedy, Family, Fantasy  ",107,2007,70,75,179948
+Grindhouse,"Action, Horror, Thriller  ",191,2007,75,77,179417
+No Country for Old Men,"Crime, Drama, Thriller  ",122,2007,81,91,880162
+I Am Legend,"Action, Adventure, Drama  ",101,2007,72,65,699820
+Ratatouille,"Animation, Adventure, Comedy  ",111,2007,80,96,656100
+The Bourne Ultimatum,"Action, Mystery, Thriller  ",115,2007,80,85,610509
+Pirates of the Caribbean: At World's End,"Action, Adventure, Fantasy  ",169,2007,71,50,604942
+Transformers,"Action, Adventure, Sci-Fi  ",144,2007,70,61,604078
+Into the Wild,"Adventure, Biography, Drama  ",148,2007,81,73,585234
+Superbad,Comedy  ,113,2007,76,76,531673
+There Will Be Blood,Drama  ,158,2007,82,93,531270
+Harry Potter and the Order of the Phoenix,"Action, Adventure, Family  ",138,2007,75,71,523790
+Spider-Man 3,"Action, Adventure, Sci-Fi  ",139,2007,62,59,509839
+Juno,"Comedy, Drama  ",96,2007,74,81,497252
+Zodiac,"Crime, Drama, Mystery  ",157,2007,77,78,482306
+Hot Fuzz,"Action, Comedy, Mystery  ",121,2007,78,81,473512
+American Gangster,"Biography, Crime, Drama  ",157,2007,78,76,399737
+Live Free or Die Hard,"Action, Thriller  ",128,2007,71,69,392669
+Knocked Up,"Comedy, Romance  ",129,2007,69,85,354931
+Sweeney Todd: The Demon Barber of Fleet Street,"Drama, Horror, Musical  ",116,2007,73,83,348990
+Ocean's Thirteen,"Crime, Thriller  ",122,2007,69,62,326709
+Shooter,"Action, Drama, Thriller  ",124,2007,72,53,315747
+The Simpsons Movie,"Animation, Adventure, Comedy  ",87,2007,73,80,312968
+3:10 to Yuma,"Action, Crime, Drama  ",122,2007,77,76,293747
+Shrek the Third,"Animation, Adventure, Comedy  ",93,2007,61,58,286448
+The Mist,"Horror, Sci-Fi, Thriller  ",126,2007,71,58,285660
+28 Weeks Later,"Horror, Sci-Fi  ",100,2007,70,78,262240
+Stardust,"Adventure, Family, Fantasy  ",127,2007,76,66,259178
+1408,"Fantasy, Horror, Mystery  ",104,2007,68,64,258580
+Atonement,"Drama, Mystery, Romance  ",123,2007,78,85,257530
+Gone Baby Gone,"Crime, Drama, Mystery  ",114,2007,76,72,255078
+Fantastic 4: Rise of the Silver Surfer,"Action, Adventure, Fantasy  ",92,2007,56,45,253676
+Sunshine,"Sci-Fi, Thriller  ",107,2007,72,64,237380
+The Bucket List,"Adventure, Comedy, Drama  ",97,2007,74,42,234437
+Eastern Promises,"Action, Crime, Drama  ",100,2007,76,82,231381
+Ghost Rider,"Action, Fantasy, Thriller  ",110,2007,53,35,226588
+Disturbia,"Crime, Drama, Mystery  ",105,2007,68,62,224225
+Paranormal Activity,"Horror, Mystery  ",86,2007,63,68,223700
+National Treasure: Book of Secrets,"Action, Adventure, Mystery  ",124,2007,65,48,222130
+P.S. I Love You,"Comedy, Drama, Romance  ",126,2007,70,39,202155
+Fracture,"Crime, Drama, Thriller  ",113,2007,72,68,190928
+Resident Evil: Extinction,"Action, Horror, Sci-Fi  ",93,2007,62,41,186187
+The Darjeeling Limited,"Adventure, Comedy, Drama  ",91,2007,72,67,184986
+The Golden Compass,"Adventure, Family, Fantasy  ",113,2007,61,51,181234
+Enchanted,"Comedy, Family, Fantasy  ",107,2007,70,75,179948
+Grindhouse,"Action, Horror, Thriller  ",191,2007,75,77,179417
+No Country for Old Men,"Crime, Drama, Thriller  ",122,2007,81,91,880162
+I Am Legend,"Action, Adventure, Drama  ",101,2007,72,65,699820
+Ratatouille,"Animation, Adventure, Comedy  ",111,2007,80,96,656100
+The Bourne Ultimatum,"Action, Mystery, Thriller  ",115,2007,80,85,610509
+Pirates of the Caribbean: At World's End,"Action, Adventure, Fantasy  ",169,2007,71,50,604942
+Transformers,"Action, Adventure, Sci-Fi  ",144,2007,70,61,604078
+Into the Wild,"Adventure, Biography, Drama  ",148,2007,81,73,585234
+Superbad,Comedy  ,113,2007,76,76,531673
+There Will Be Blood,Drama  ,158,2007,82,93,531270
+Harry Potter and the Order of the Phoenix,"Action, Adventure, Family  ",138,2007,75,71,523790
+Spider-Man 3,"Action, Adventure, Sci-Fi  ",139,2007,62,59,509839
+Juno,"Comedy, Drama  ",96,2007,74,81,497252
+Zodiac,"Crime, Drama, Mystery  ",157,2007,77,78,482306
+Hot Fuzz,"Action, Comedy, Mystery  ",121,2007,78,81,473512
+American Gangster,"Biography, Crime, Drama  ",157,2007,78,76,399737
+Live Free or Die Hard,"Action, Thriller  ",128,2007,71,69,392669
+Knocked Up,"Comedy, Romance  ",129,2007,69,85,354931
+Sweeney Todd: The Demon Barber of Fleet Street,"Drama, Horror, Musical  ",116,2007,73,83,348990
+Ocean's Thirteen,"Crime, Thriller  ",122,2007,69,62,326709
+Shooter,"Action, Drama, Thriller  ",124,2007,72,53,315747
+The Simpsons Movie,"Animation, Adventure, Comedy  ",87,2007,73,80,312968
+3:10 to Yuma,"Action, Crime, Drama  ",122,2007,77,76,293747
+Shrek the Third,"Animation, Adventure, Comedy  ",93,2007,61,58,286448
+The Mist,"Horror, Sci-Fi, Thriller  ",126,2007,71,58,285660
+28 Weeks Later,"Horror, Sci-Fi  ",100,2007,70,78,262240
+Stardust,"Adventure, Family, Fantasy  ",127,2007,76,66,259178
+1408,"Fantasy, Horror, Mystery  ",104,2007,68,64,258580
+Atonement,"Drama, Mystery, Romance  ",123,2007,78,85,257530
+Gone Baby Gone,"Crime, Drama, Mystery  ",114,2007,76,72,255078
+Fantastic 4: Rise of the Silver Surfer,"Action, Adventure, Fantasy  ",92,2007,56,45,253676
+Sunshine,"Sci-Fi, Thriller  ",107,2007,72,64,237380
+The Bucket List,"Adventure, Comedy, Drama  ",97,2007,74,42,234437
+Eastern Promises,"Action, Crime, Drama  ",100,2007,76,82,231381
+Ghost Rider,"Action, Fantasy, Thriller  ",110,2007,53,35,226588
+Disturbia,"Crime, Drama, Mystery  ",105,2007,68,62,224225
+Paranormal Activity,"Horror, Mystery  ",86,2007,63,68,223700
+National Treasure: Book of Secrets,"Action, Adventure, Mystery  ",124,2007,65,48,222130
+P.S. I Love You,"Comedy, Drama, Romance  ",126,2007,70,39,202155
+Fracture,"Crime, Drama, Thriller  ",113,2007,72,68,190928
+Resident Evil: Extinction,"Action, Horror, Sci-Fi  ",93,2007,62,41,186187
+The Darjeeling Limited,"Adventure, Comedy, Drama  ",91,2007,72,67,184986
+The Golden Compass,"Adventure, Family, Fantasy  ",113,2007,61,51,181234
+Enchanted,"Comedy, Family, Fantasy  ",107,2007,70,75,179948
+Grindhouse,"Action, Horror, Thriller  ",191,2007,75,77,179417
+No Country for Old Men,"Crime, Drama, Thriller  ",122,2007,81,91,880162
+I Am Legend,"Action, Adventure, Drama  ",101,2007,72,65,699820
+Ratatouille,"Animation, Adventure, Comedy  ",111,2007,80,96,656100
+The Bourne Ultimatum,"Action, Mystery, Thriller  ",115,2007,80,85,610509
+Pirates of the Caribbean: At World's End,"Action, Adventure, Fantasy  ",169,2007,71,50,604942
+Transformers,"Action, Adventure, Sci-Fi  ",144,2007,70,61,604078
+Into the Wild,"Adventure, Biography, Drama  ",148,2007,81,73,585234
+Superbad,Comedy  ,113,2007,76,76,531673
+There Will Be Blood,Drama  ,158,2007,82,93,531270
+Harry Potter and the Order of the Phoenix,"Action, Adventure, Family  ",138,2007,75,71,523790
+Spider-Man 3,"Action, Adventure, Sci-Fi  ",139,2007,62,59,509839
+Juno,"Comedy, Drama  ",96,2007,74,81,497252
+Zodiac,"Crime, Drama, Mystery  ",157,2007,77,78,482306
+Hot Fuzz,"Action, Comedy, Mystery  ",121,2007,78,81,473512
+American Gangster,"Biography, Crime, Drama  ",157,2007,78,76,399737
+Live Free or Die Hard,"Action, Thriller  ",128,2007,71,69,392669
+Knocked Up,"Comedy, Romance  ",129,2007,69,85,354931
+Sweeney Todd: The Demon Barber of Fleet Street,"Drama, Horror, Musical  ",116,2007,73,83,348990
+Ocean's Thirteen,"Crime, Thriller  ",122,2007,69,62,326709
+Shooter,"Action, Drama, Thriller  ",124,2007,72,53,315747
+The Simpsons Movie,"Animation, Adventure, Comedy  ",87,2007,73,80,312968
+3:10 to Yuma,"Action, Crime, Drama  ",122,2007,77,76,293747
+Shrek the Third,"Animation, Adventure, Comedy  ",93,2007,61,58,286448
+The Mist,"Horror, Sci-Fi, Thriller  ",126,2007,71,58,285660
+28 Weeks Later,"Horror, Sci-Fi  ",100,2007,70,78,262240
+Stardust,"Adventure, Family, Fantasy  ",127,2007,76,66,259178
+1408,"Fantasy, Horror, Mystery  ",104,2007,68,64,258580
+Atonement,"Drama, Mystery, Romance  ",123,2007,78,85,257530
+Gone Baby Gone,"Crime, Drama, Mystery  ",114,2007,76,72,255078
+Fantastic 4: Rise of the Silver Surfer,"Action, Adventure, Fantasy  ",92,2007,56,45,253676
+Sunshine,"Sci-Fi, Thriller  ",107,2007,72,64,237380
+The Bucket List,"Adventure, Comedy, Drama  ",97,2007,74,42,234437
+Eastern Promises,"Action, Crime, Drama  ",100,2007,76,82,231381
+Ghost Rider,"Action, Fantasy, Thriller  ",110,2007,53,35,226588
+Disturbia,"Crime, Drama, Mystery  ",105,2007,68,62,224225
+Paranormal Activity,"Horror, Mystery  ",86,2007,63,68,223700
+National Treasure: Book of Secrets,"Action, Adventure, Mystery  ",124,2007,65,48,222130
+P.S. I Love You,"Comedy, Drama, Romance  ",126,2007,70,39,202155
+Fracture,"Crime, Drama, Thriller  ",113,2007,72,68,190928
+Resident Evil: Extinction,"Action, Horror, Sci-Fi  ",93,2007,62,41,186187
+The Darjeeling Limited,"Adventure, Comedy, Drama  ",91,2007,72,67,184986
+The Golden Compass,"Adventure, Family, Fantasy  ",113,2007,61,51,181234
+Enchanted,"Comedy, Family, Fantasy  ",107,2007,70,75,179948
+Grindhouse,"Action, Horror, Thriller  ",191,2007,75,77,179417
+No Country for Old Men,"Crime, Drama, Thriller  ",122,2007,81,91,880162
+I Am Legend,"Action, Adventure, Drama  ",101,2007,72,65,699820
+Ratatouille,"Animation, Adventure, Comedy  ",111,2007,80,96,656100
+The Bourne Ultimatum,"Action, Mystery, Thriller  ",115,2007,80,85,610509
+Pirates of the Caribbean: At World's End,"Action, Adventure, Fantasy  ",169,2007,71,50,604942
+Transformers,"Action, Adventure, Sci-Fi  ",144,2007,70,61,604078
+Into the Wild,"Adventure, Biography, Drama  ",148,2007,81,73,585234
+Superbad,Comedy  ,113,2007,76,76,531673
+There Will Be Blood,Drama  ,158,2007,82,93,531270
+Harry Potter and the Order of the Phoenix,"Action, Adventure, Family  ",138,2007,75,71,523790
+Spider-Man 3,"Action, Adventure, Sci-Fi  ",139,2007,62,59,509839
+Juno,"Comedy, Drama  ",96,2007,74,81,497252
+Zodiac,"Crime, Drama, Mystery  ",157,2007,77,78,482306
+Hot Fuzz,"Action, Comedy, Mystery  ",121,2007,78,81,473512
+American Gangster,"Biography, Crime, Drama  ",157,2007,78,76,399737
+Live Free or Die Hard,"Action, Thriller  ",128,2007,71,69,392669
+Knocked Up,"Comedy, Romance  ",129,2007,69,85,354931
+Sweeney Todd: The Demon Barber of Fleet Street,"Drama, Horror, Musical  ",116,2007,73,83,348990
+Ocean's Thirteen,"Crime, Thriller  ",122,2007,69,62,326709
+Shooter,"Action, Drama, Thriller  ",124,2007,72,53,315747
+The Simpsons Movie,"Animation, Adventure, Comedy  ",87,2007,73,80,312968
+3:10 to Yuma,"Action, Crime, Drama  ",122,2007,77,76,293747
+Shrek the Third,"Animation, Adventure, Comedy  ",93,2007,61,58,286448
+The Mist,"Horror, Sci-Fi, Thriller  ",126,2007,71,58,285660
+28 Weeks Later,"Horror, Sci-Fi  ",100,2007,70,78,262240
+Stardust,"Adventure, Family, Fantasy  ",127,2007,76,66,259178
+1408,"Fantasy, Horror, Mystery  ",104,2007,68,64,258580
+Atonement,"Drama, Mystery, Romance  ",123,2007,78,85,257530
+Gone Baby Gone,"Crime, Drama, Mystery  ",114,2007,76,72,255078
+Fantastic 4: Rise of the Silver Surfer,"Action, Adventure, Fantasy  ",92,2007,56,45,253676
+Sunshine,"Sci-Fi, Thriller  ",107,2007,72,64,237380
+The Bucket List,"Adventure, Comedy, Drama  ",97,2007,74,42,234437
+Eastern Promises,"Action, Crime, Drama  ",100,2007,76,82,231381
+Ghost Rider,"Action, Fantasy, Thriller  ",110,2007,53,35,226588
+Disturbia,"Crime, Drama, Mystery  ",105,2007,68,62,224225
+Paranormal Activity,"Horror, Mystery  ",86,2007,63,68,223700
+National Treasure: Book of Secrets,"Action, Adventure, Mystery  ",124,2007,65,48,222130
+P.S. I Love You,"Comedy, Drama, Romance  ",126,2007,70,39,202155
+Fracture,"Crime, Drama, Thriller  ",113,2007,72,68,190928
+Resident Evil: Extinction,"Action, Horror, Sci-Fi  ",93,2007,62,41,186187
+The Darjeeling Limited,"Adventure, Comedy, Drama  ",91,2007,72,67,184986
+The Golden Compass,"Adventure, Family, Fantasy  ",113,2007,61,51,181234
+Enchanted,"Comedy, Family, Fantasy  ",107,2007,70,75,179948
+Grindhouse,"Action, Horror, Thriller  ",191,2007,75,77,179417

@@ -1,0 +1,463 @@
+Movie,Genre,Duration,Year,Imdb_rating,Metascore_rating,Votes
+Logan,"Action, Drama, Sci-Fi  ",137,2017,81,77,669005
+Thor: Ragnarok,"Action, Adventure, Comedy  ",130,2017,79,74,617799
+Wonder Woman,"Action, Adventure, Fantasy  ",141,2017,74,76,595615
+Guardians of the Galaxy Vol. 2,"Action, Adventure, Comedy  ",136,2017,76,67,590620
+Star Wars: Episode VIII - The Last Jedi,"Action, Adventure, Fantasy  ",152,2017,70,84,577822
+Dunkirk,"Action, Drama, History  ",106,2017,78,94,576684
+Spider-Man: Homecoming,"Action, Adventure, Sci-Fi  ",133,2017,74,73,534280
+Get Out,"Horror, Mystery, Thriller  ",104,2017,77,85,511623
+Blade Runner 2049,"Action, Drama, Mystery  ",164,2017,80,81,481245
+It,Horror  ,135,2017,73,69,473128
+Baby Driver,"Action, Crime, Drama  ",113,2017,76,86,459548
+"Three Billboards Outside Ebbing, Missouri","Comedy, Crime, Drama  ",115,2017,81,88,452143
+Justice League,"Action, Adventure, Fantasy  ",120,2017,61,45,416044
+Coco,"Animation, Adventure, Drama  ",105,2017,84,81,409483
+The Shape of Water,"Adventure, Drama, Fantasy  ",123,2017,73,87,383628
+John Wick: Chapter 2,"Action, Crime, Thriller  ",122,2017,75,75,380962
+Jumanji: Welcome to the Jungle,"Action, Adventure, Comedy  ",119,2017,69,58,331891
+Kong: Skull Island,"Action, Adventure, Fantasy  ",118,2017,66,62,290212
+Kingsman: The Golden Circle,"Action, Adventure, Comedy  ",141,2017,67,44,282913
+Beauty and the Beast,"Family, Fantasy, Musical  ",129,2017,71,65,281363
+Pirates of the Caribbean: Dead Men Tell No Tales,"Action, Adventure, Fantasy  ",129,2017,65,39,272598
+Alien: Covenant,"Horror, Sci-Fi, Thriller  ",122,2017,64,65,259982
+Lady Bird,"Comedy, Drama  ",94,2017,74,94,251937
+The Greatest Showman,"Biography, Drama, Musical  ",105,2017,76,48,248324
+War for the Planet of the Apes,"Action, Adventure, Drama  ",140,2017,74,82,233724
+Call Me by Your Name,"Drama, Romance  ",132,2017,79,93,225222
+Murder on the Orient Express,"Crime, Drama, Mystery  ",114,2017,65,52,219408
+Wind River,"Crime, Drama, Mystery  ",107,2017,77,73,215338
+Life,"Horror, Sci-Fi, Thriller  ",104,2017,66,54,212103
+The Fate of the Furious,"Action, Adventure, Crime  ",136,2017,66,56,211104
+Ghost in the Shell,"Action, Crime, Drama  ",107,2017,63,52,200690
+King Arthur: Legend of the Sword,"Action, Adventure, Drama  ",126,2017,67,41,198063
+Mother!,"Drama, Horror, Mystery  ",121,2017,66,75,197341
+The Hitman's Bodyguard,"Action, Comedy, Crime  ",118,2017,69,47,195519
+"I, Tonya","Biography, Comedy, Drama  ",119,2017,75,77,190436
+Atomic Blonde,"Action, Thriller  ",115,2017,67,63,180653
+Darkest Hour,"Biography, Drama, History  ",125,2017,74,75,177724
+The Mummy,"Action, Adventure, Fantasy  ",110,2017,54,34,176295
+Bright,"Action, Fantasy, Thriller  ",117,2017,63,29,173190
+Baywatch,"Action, Comedy, Crime  ",116,2017,55,37,167506
+Valerian and the City of a Thousand Planets,"Action, Adventure, Fantasy  ",136,2017,65,51,166935
+American Made,"Action, Comedy, Crime  ",115,2017,72,65,163996
+Logan,"Action, Drama, Sci-Fi  ",137,2017,81,77,669005
+Thor: Ragnarok,"Action, Adventure, Comedy  ",130,2017,79,74,617799
+Wonder Woman,"Action, Adventure, Fantasy  ",141,2017,74,76,595615
+Guardians of the Galaxy Vol. 2,"Action, Adventure, Comedy  ",136,2017,76,67,590620
+Star Wars: Episode VIII - The Last Jedi,"Action, Adventure, Fantasy  ",152,2017,70,84,577822
+Dunkirk,"Action, Drama, History  ",106,2017,78,94,576684
+Spider-Man: Homecoming,"Action, Adventure, Sci-Fi  ",133,2017,74,73,534280
+Get Out,"Horror, Mystery, Thriller  ",104,2017,77,85,511623
+Blade Runner 2049,"Action, Drama, Mystery  ",164,2017,80,81,481245
+It,Horror  ,135,2017,73,69,473128
+Baby Driver,"Action, Crime, Drama  ",113,2017,76,86,459548
+"Three Billboards Outside Ebbing, Missouri","Comedy, Crime, Drama  ",115,2017,81,88,452143
+Justice League,"Action, Adventure, Fantasy  ",120,2017,61,45,416044
+Coco,"Animation, Adventure, Drama  ",105,2017,84,81,409483
+The Shape of Water,"Adventure, Drama, Fantasy  ",123,2017,73,87,383628
+John Wick: Chapter 2,"Action, Crime, Thriller  ",122,2017,75,75,380962
+Jumanji: Welcome to the Jungle,"Action, Adventure, Comedy  ",119,2017,69,58,331891
+Kong: Skull Island,"Action, Adventure, Fantasy  ",118,2017,66,62,290212
+Kingsman: The Golden Circle,"Action, Adventure, Comedy  ",141,2017,67,44,282913
+Beauty and the Beast,"Family, Fantasy, Musical  ",129,2017,71,65,281363
+Pirates of the Caribbean: Dead Men Tell No Tales,"Action, Adventure, Fantasy  ",129,2017,65,39,272598
+Alien: Covenant,"Horror, Sci-Fi, Thriller  ",122,2017,64,65,259982
+Lady Bird,"Comedy, Drama  ",94,2017,74,94,251937
+The Greatest Showman,"Biography, Drama, Musical  ",105,2017,76,48,248324
+War for the Planet of the Apes,"Action, Adventure, Drama  ",140,2017,74,82,233724
+Call Me by Your Name,"Drama, Romance  ",132,2017,79,93,225222
+Murder on the Orient Express,"Crime, Drama, Mystery  ",114,2017,65,52,219408
+Wind River,"Crime, Drama, Mystery  ",107,2017,77,73,215338
+Life,"Horror, Sci-Fi, Thriller  ",104,2017,66,54,212103
+The Fate of the Furious,"Action, Adventure, Crime  ",136,2017,66,56,211104
+Ghost in the Shell,"Action, Crime, Drama  ",107,2017,63,52,200690
+King Arthur: Legend of the Sword,"Action, Adventure, Drama  ",126,2017,67,41,198063
+Mother!,"Drama, Horror, Mystery  ",121,2017,66,75,197341
+The Hitman's Bodyguard,"Action, Comedy, Crime  ",118,2017,69,47,195519
+"I, Tonya","Biography, Comedy, Drama  ",119,2017,75,77,190436
+Atomic Blonde,"Action, Thriller  ",115,2017,67,63,180653
+Darkest Hour,"Biography, Drama, History  ",125,2017,74,75,177724
+The Mummy,"Action, Adventure, Fantasy  ",110,2017,54,34,176295
+Bright,"Action, Fantasy, Thriller  ",117,2017,63,29,173190
+Baywatch,"Action, Comedy, Crime  ",116,2017,55,37,167506
+Valerian and the City of a Thousand Planets,"Action, Adventure, Fantasy  ",136,2017,65,51,166935
+American Made,"Action, Comedy, Crime  ",115,2017,72,65,163996
+Logan,"Action, Drama, Sci-Fi  ",137,2017,81,77,669005
+Thor: Ragnarok,"Action, Adventure, Comedy  ",130,2017,79,74,617799
+Wonder Woman,"Action, Adventure, Fantasy  ",141,2017,74,76,595615
+Guardians of the Galaxy Vol. 2,"Action, Adventure, Comedy  ",136,2017,76,67,590620
+Star Wars: Episode VIII - The Last Jedi,"Action, Adventure, Fantasy  ",152,2017,70,84,577822
+Dunkirk,"Action, Drama, History  ",106,2017,78,94,576684
+Spider-Man: Homecoming,"Action, Adventure, Sci-Fi  ",133,2017,74,73,534280
+Get Out,"Horror, Mystery, Thriller  ",104,2017,77,85,511623
+Blade Runner 2049,"Action, Drama, Mystery  ",164,2017,80,81,481245
+It,Horror  ,135,2017,73,69,473128
+Baby Driver,"Action, Crime, Drama  ",113,2017,76,86,459548
+"Three Billboards Outside Ebbing, Missouri","Comedy, Crime, Drama  ",115,2017,81,88,452143
+Justice League,"Action, Adventure, Fantasy  ",120,2017,61,45,416044
+Coco,"Animation, Adventure, Drama  ",105,2017,84,81,409483
+The Shape of Water,"Adventure, Drama, Fantasy  ",123,2017,73,87,383628
+John Wick: Chapter 2,"Action, Crime, Thriller  ",122,2017,75,75,380962
+Jumanji: Welcome to the Jungle,"Action, Adventure, Comedy  ",119,2017,69,58,331891
+Kong: Skull Island,"Action, Adventure, Fantasy  ",118,2017,66,62,290212
+Kingsman: The Golden Circle,"Action, Adventure, Comedy  ",141,2017,67,44,282913
+Beauty and the Beast,"Family, Fantasy, Musical  ",129,2017,71,65,281363
+Pirates of the Caribbean: Dead Men Tell No Tales,"Action, Adventure, Fantasy  ",129,2017,65,39,272598
+Alien: Covenant,"Horror, Sci-Fi, Thriller  ",122,2017,64,65,259982
+Lady Bird,"Comedy, Drama  ",94,2017,74,94,251937
+The Greatest Showman,"Biography, Drama, Musical  ",105,2017,76,48,248324
+War for the Planet of the Apes,"Action, Adventure, Drama  ",140,2017,74,82,233724
+Call Me by Your Name,"Drama, Romance  ",132,2017,79,93,225222
+Murder on the Orient Express,"Crime, Drama, Mystery  ",114,2017,65,52,219408
+Wind River,"Crime, Drama, Mystery  ",107,2017,77,73,215338
+Life,"Horror, Sci-Fi, Thriller  ",104,2017,66,54,212103
+The Fate of the Furious,"Action, Adventure, Crime  ",136,2017,66,56,211104
+Ghost in the Shell,"Action, Crime, Drama  ",107,2017,63,52,200690
+King Arthur: Legend of the Sword,"Action, Adventure, Drama  ",126,2017,67,41,198063
+Mother!,"Drama, Horror, Mystery  ",121,2017,66,75,197341
+The Hitman's Bodyguard,"Action, Comedy, Crime  ",118,2017,69,47,195519
+"I, Tonya","Biography, Comedy, Drama  ",119,2017,75,77,190436
+Atomic Blonde,"Action, Thriller  ",115,2017,67,63,180653
+Darkest Hour,"Biography, Drama, History  ",125,2017,74,75,177724
+The Mummy,"Action, Adventure, Fantasy  ",110,2017,54,34,176295
+Bright,"Action, Fantasy, Thriller  ",117,2017,63,29,173190
+Baywatch,"Action, Comedy, Crime  ",116,2017,55,37,167506
+Valerian and the City of a Thousand Planets,"Action, Adventure, Fantasy  ",136,2017,65,51,166935
+American Made,"Action, Comedy, Crime  ",115,2017,72,65,163996
+Logan,"Action, Drama, Sci-Fi  ",137,2017,81,77,669005
+Thor: Ragnarok,"Action, Adventure, Comedy  ",130,2017,79,74,617799
+Wonder Woman,"Action, Adventure, Fantasy  ",141,2017,74,76,595615
+Guardians of the Galaxy Vol. 2,"Action, Adventure, Comedy  ",136,2017,76,67,590620
+Star Wars: Episode VIII - The Last Jedi,"Action, Adventure, Fantasy  ",152,2017,70,84,577822
+Dunkirk,"Action, Drama, History  ",106,2017,78,94,576684
+Spider-Man: Homecoming,"Action, Adventure, Sci-Fi  ",133,2017,74,73,534280
+Get Out,"Horror, Mystery, Thriller  ",104,2017,77,85,511623
+Blade Runner 2049,"Action, Drama, Mystery  ",164,2017,80,81,481245
+It,Horror  ,135,2017,73,69,473128
+Baby Driver,"Action, Crime, Drama  ",113,2017,76,86,459548
+"Three Billboards Outside Ebbing, Missouri","Comedy, Crime, Drama  ",115,2017,81,88,452143
+Justice League,"Action, Adventure, Fantasy  ",120,2017,61,45,416044
+Coco,"Animation, Adventure, Drama  ",105,2017,84,81,409483
+The Shape of Water,"Adventure, Drama, Fantasy  ",123,2017,73,87,383628
+John Wick: Chapter 2,"Action, Crime, Thriller  ",122,2017,75,75,380962
+Jumanji: Welcome to the Jungle,"Action, Adventure, Comedy  ",119,2017,69,58,331891
+Kong: Skull Island,"Action, Adventure, Fantasy  ",118,2017,66,62,290212
+Kingsman: The Golden Circle,"Action, Adventure, Comedy  ",141,2017,67,44,282913
+Beauty and the Beast,"Family, Fantasy, Musical  ",129,2017,71,65,281363
+Pirates of the Caribbean: Dead Men Tell No Tales,"Action, Adventure, Fantasy  ",129,2017,65,39,272598
+Alien: Covenant,"Horror, Sci-Fi, Thriller  ",122,2017,64,65,259982
+Lady Bird,"Comedy, Drama  ",94,2017,74,94,251937
+The Greatest Showman,"Biography, Drama, Musical  ",105,2017,76,48,248324
+War for the Planet of the Apes,"Action, Adventure, Drama  ",140,2017,74,82,233724
+Call Me by Your Name,"Drama, Romance  ",132,2017,79,93,225222
+Murder on the Orient Express,"Crime, Drama, Mystery  ",114,2017,65,52,219408
+Wind River,"Crime, Drama, Mystery  ",107,2017,77,73,215338
+Life,"Horror, Sci-Fi, Thriller  ",104,2017,66,54,212103
+The Fate of the Furious,"Action, Adventure, Crime  ",136,2017,66,56,211104
+Ghost in the Shell,"Action, Crime, Drama  ",107,2017,63,52,200690
+King Arthur: Legend of the Sword,"Action, Adventure, Drama  ",126,2017,67,41,198063
+Mother!,"Drama, Horror, Mystery  ",121,2017,66,75,197341
+The Hitman's Bodyguard,"Action, Comedy, Crime  ",118,2017,69,47,195519
+"I, Tonya","Biography, Comedy, Drama  ",119,2017,75,77,190436
+Atomic Blonde,"Action, Thriller  ",115,2017,67,63,180653
+Darkest Hour,"Biography, Drama, History  ",125,2017,74,75,177724
+The Mummy,"Action, Adventure, Fantasy  ",110,2017,54,34,176295
+Bright,"Action, Fantasy, Thriller  ",117,2017,63,29,173190
+Baywatch,"Action, Comedy, Crime  ",116,2017,55,37,167506
+Valerian and the City of a Thousand Planets,"Action, Adventure, Fantasy  ",136,2017,65,51,166935
+American Made,"Action, Comedy, Crime  ",115,2017,72,65,163996
+Logan,"Action, Drama, Sci-Fi  ",137,2017,81,77,669005
+Thor: Ragnarok,"Action, Adventure, Comedy  ",130,2017,79,74,617799
+Wonder Woman,"Action, Adventure, Fantasy  ",141,2017,74,76,595615
+Guardians of the Galaxy Vol. 2,"Action, Adventure, Comedy  ",136,2017,76,67,590620
+Star Wars: Episode VIII - The Last Jedi,"Action, Adventure, Fantasy  ",152,2017,70,84,577822
+Dunkirk,"Action, Drama, History  ",106,2017,78,94,576684
+Spider-Man: Homecoming,"Action, Adventure, Sci-Fi  ",133,2017,74,73,534280
+Get Out,"Horror, Mystery, Thriller  ",104,2017,77,85,511623
+Blade Runner 2049,"Action, Drama, Mystery  ",164,2017,80,81,481245
+It,Horror  ,135,2017,73,69,473128
+Baby Driver,"Action, Crime, Drama  ",113,2017,76,86,459548
+"Three Billboards Outside Ebbing, Missouri","Comedy, Crime, Drama  ",115,2017,81,88,452143
+Justice League,"Action, Adventure, Fantasy  ",120,2017,61,45,416044
+Coco,"Animation, Adventure, Drama  ",105,2017,84,81,409483
+The Shape of Water,"Adventure, Drama, Fantasy  ",123,2017,73,87,383628
+John Wick: Chapter 2,"Action, Crime, Thriller  ",122,2017,75,75,380962
+Jumanji: Welcome to the Jungle,"Action, Adventure, Comedy  ",119,2017,69,58,331891
+Kong: Skull Island,"Action, Adventure, Fantasy  ",118,2017,66,62,290212
+Kingsman: The Golden Circle,"Action, Adventure, Comedy  ",141,2017,67,44,282913
+Beauty and the Beast,"Family, Fantasy, Musical  ",129,2017,71,65,281363
+Pirates of the Caribbean: Dead Men Tell No Tales,"Action, Adventure, Fantasy  ",129,2017,65,39,272598
+Alien: Covenant,"Horror, Sci-Fi, Thriller  ",122,2017,64,65,259982
+Lady Bird,"Comedy, Drama  ",94,2017,74,94,251937
+The Greatest Showman,"Biography, Drama, Musical  ",105,2017,76,48,248324
+War for the Planet of the Apes,"Action, Adventure, Drama  ",140,2017,74,82,233724
+Call Me by Your Name,"Drama, Romance  ",132,2017,79,93,225222
+Murder on the Orient Express,"Crime, Drama, Mystery  ",114,2017,65,52,219408
+Wind River,"Crime, Drama, Mystery  ",107,2017,77,73,215338
+Life,"Horror, Sci-Fi, Thriller  ",104,2017,66,54,212103
+The Fate of the Furious,"Action, Adventure, Crime  ",136,2017,66,56,211104
+Ghost in the Shell,"Action, Crime, Drama  ",107,2017,63,52,200690
+King Arthur: Legend of the Sword,"Action, Adventure, Drama  ",126,2017,67,41,198063
+Mother!,"Drama, Horror, Mystery  ",121,2017,66,75,197341
+The Hitman's Bodyguard,"Action, Comedy, Crime  ",118,2017,69,47,195519
+"I, Tonya","Biography, Comedy, Drama  ",119,2017,75,77,190436
+Atomic Blonde,"Action, Thriller  ",115,2017,67,63,180653
+Darkest Hour,"Biography, Drama, History  ",125,2017,74,75,177724
+The Mummy,"Action, Adventure, Fantasy  ",110,2017,54,34,176295
+Bright,"Action, Fantasy, Thriller  ",117,2017,63,29,173190
+Baywatch,"Action, Comedy, Crime  ",116,2017,55,37,167506
+Valerian and the City of a Thousand Planets,"Action, Adventure, Fantasy  ",136,2017,65,51,166935
+American Made,"Action, Comedy, Crime  ",115,2017,72,65,163996
+Logan,"Action, Drama, Sci-Fi  ",137,2017,81,77,669005
+Thor: Ragnarok,"Action, Adventure, Comedy  ",130,2017,79,74,617799
+Wonder Woman,"Action, Adventure, Fantasy  ",141,2017,74,76,595615
+Guardians of the Galaxy Vol. 2,"Action, Adventure, Comedy  ",136,2017,76,67,590620
+Star Wars: Episode VIII - The Last Jedi,"Action, Adventure, Fantasy  ",152,2017,70,84,577822
+Dunkirk,"Action, Drama, History  ",106,2017,78,94,576684
+Spider-Man: Homecoming,"Action, Adventure, Sci-Fi  ",133,2017,74,73,534280
+Get Out,"Horror, Mystery, Thriller  ",104,2017,77,85,511623
+Blade Runner 2049,"Action, Drama, Mystery  ",164,2017,80,81,481245
+It,Horror  ,135,2017,73,69,473128
+Baby Driver,"Action, Crime, Drama  ",113,2017,76,86,459548
+"Three Billboards Outside Ebbing, Missouri","Comedy, Crime, Drama  ",115,2017,81,88,452143
+Justice League,"Action, Adventure, Fantasy  ",120,2017,61,45,416044
+Coco,"Animation, Adventure, Drama  ",105,2017,84,81,409483
+The Shape of Water,"Adventure, Drama, Fantasy  ",123,2017,73,87,383628
+John Wick: Chapter 2,"Action, Crime, Thriller  ",122,2017,75,75,380962
+Jumanji: Welcome to the Jungle,"Action, Adventure, Comedy  ",119,2017,69,58,331891
+Kong: Skull Island,"Action, Adventure, Fantasy  ",118,2017,66,62,290212
+Kingsman: The Golden Circle,"Action, Adventure, Comedy  ",141,2017,67,44,282913
+Beauty and the Beast,"Family, Fantasy, Musical  ",129,2017,71,65,281363
+Pirates of the Caribbean: Dead Men Tell No Tales,"Action, Adventure, Fantasy  ",129,2017,65,39,272598
+Alien: Covenant,"Horror, Sci-Fi, Thriller  ",122,2017,64,65,259982
+Lady Bird,"Comedy, Drama  ",94,2017,74,94,251937
+The Greatest Showman,"Biography, Drama, Musical  ",105,2017,76,48,248324
+War for the Planet of the Apes,"Action, Adventure, Drama  ",140,2017,74,82,233724
+Call Me by Your Name,"Drama, Romance  ",132,2017,79,93,225222
+Murder on the Orient Express,"Crime, Drama, Mystery  ",114,2017,65,52,219408
+Wind River,"Crime, Drama, Mystery  ",107,2017,77,73,215338
+Life,"Horror, Sci-Fi, Thriller  ",104,2017,66,54,212103
+The Fate of the Furious,"Action, Adventure, Crime  ",136,2017,66,56,211104
+Ghost in the Shell,"Action, Crime, Drama  ",107,2017,63,52,200690
+King Arthur: Legend of the Sword,"Action, Adventure, Drama  ",126,2017,67,41,198063
+Mother!,"Drama, Horror, Mystery  ",121,2017,66,75,197341
+The Hitman's Bodyguard,"Action, Comedy, Crime  ",118,2017,69,47,195519
+"I, Tonya","Biography, Comedy, Drama  ",119,2017,75,77,190436
+Atomic Blonde,"Action, Thriller  ",115,2017,67,63,180653
+Darkest Hour,"Biography, Drama, History  ",125,2017,74,75,177724
+The Mummy,"Action, Adventure, Fantasy  ",110,2017,54,34,176295
+Bright,"Action, Fantasy, Thriller  ",117,2017,63,29,173190
+Baywatch,"Action, Comedy, Crime  ",116,2017,55,37,167506
+Valerian and the City of a Thousand Planets,"Action, Adventure, Fantasy  ",136,2017,65,51,166935
+American Made,"Action, Comedy, Crime  ",115,2017,72,65,163996
+Logan,"Action, Drama, Sci-Fi  ",137,2017,81,77,669005
+Thor: Ragnarok,"Action, Adventure, Comedy  ",130,2017,79,74,617799
+Wonder Woman,"Action, Adventure, Fantasy  ",141,2017,74,76,595615
+Guardians of the Galaxy Vol. 2,"Action, Adventure, Comedy  ",136,2017,76,67,590620
+Star Wars: Episode VIII - The Last Jedi,"Action, Adventure, Fantasy  ",152,2017,70,84,577822
+Dunkirk,"Action, Drama, History  ",106,2017,78,94,576684
+Spider-Man: Homecoming,"Action, Adventure, Sci-Fi  ",133,2017,74,73,534280
+Get Out,"Horror, Mystery, Thriller  ",104,2017,77,85,511623
+Blade Runner 2049,"Action, Drama, Mystery  ",164,2017,80,81,481245
+It,Horror  ,135,2017,73,69,473128
+Baby Driver,"Action, Crime, Drama  ",113,2017,76,86,459548
+"Three Billboards Outside Ebbing, Missouri","Comedy, Crime, Drama  ",115,2017,81,88,452143
+Justice League,"Action, Adventure, Fantasy  ",120,2017,61,45,416044
+Coco,"Animation, Adventure, Drama  ",105,2017,84,81,409483
+The Shape of Water,"Adventure, Drama, Fantasy  ",123,2017,73,87,383628
+John Wick: Chapter 2,"Action, Crime, Thriller  ",122,2017,75,75,380962
+Jumanji: Welcome to the Jungle,"Action, Adventure, Comedy  ",119,2017,69,58,331891
+Kong: Skull Island,"Action, Adventure, Fantasy  ",118,2017,66,62,290212
+Kingsman: The Golden Circle,"Action, Adventure, Comedy  ",141,2017,67,44,282913
+Beauty and the Beast,"Family, Fantasy, Musical  ",129,2017,71,65,281363
+Pirates of the Caribbean: Dead Men Tell No Tales,"Action, Adventure, Fantasy  ",129,2017,65,39,272598
+Alien: Covenant,"Horror, Sci-Fi, Thriller  ",122,2017,64,65,259982
+Lady Bird,"Comedy, Drama  ",94,2017,74,94,251937
+The Greatest Showman,"Biography, Drama, Musical  ",105,2017,76,48,248324
+War for the Planet of the Apes,"Action, Adventure, Drama  ",140,2017,74,82,233724
+Call Me by Your Name,"Drama, Romance  ",132,2017,79,93,225222
+Murder on the Orient Express,"Crime, Drama, Mystery  ",114,2017,65,52,219408
+Wind River,"Crime, Drama, Mystery  ",107,2017,77,73,215338
+Life,"Horror, Sci-Fi, Thriller  ",104,2017,66,54,212103
+The Fate of the Furious,"Action, Adventure, Crime  ",136,2017,66,56,211104
+Ghost in the Shell,"Action, Crime, Drama  ",107,2017,63,52,200690
+King Arthur: Legend of the Sword,"Action, Adventure, Drama  ",126,2017,67,41,198063
+Mother!,"Drama, Horror, Mystery  ",121,2017,66,75,197341
+The Hitman's Bodyguard,"Action, Comedy, Crime  ",118,2017,69,47,195519
+"I, Tonya","Biography, Comedy, Drama  ",119,2017,75,77,190436
+Atomic Blonde,"Action, Thriller  ",115,2017,67,63,180653
+Darkest Hour,"Biography, Drama, History  ",125,2017,74,75,177724
+The Mummy,"Action, Adventure, Fantasy  ",110,2017,54,34,176295
+Bright,"Action, Fantasy, Thriller  ",117,2017,63,29,173190
+Baywatch,"Action, Comedy, Crime  ",116,2017,55,37,167506
+Valerian and the City of a Thousand Planets,"Action, Adventure, Fantasy  ",136,2017,65,51,166935
+American Made,"Action, Comedy, Crime  ",115,2017,72,65,163996
+Logan,"Action, Drama, Sci-Fi  ",137,2017,81,77,669005
+Thor: Ragnarok,"Action, Adventure, Comedy  ",130,2017,79,74,617799
+Wonder Woman,"Action, Adventure, Fantasy  ",141,2017,74,76,595615
+Guardians of the Galaxy Vol. 2,"Action, Adventure, Comedy  ",136,2017,76,67,590620
+Star Wars: Episode VIII - The Last Jedi,"Action, Adventure, Fantasy  ",152,2017,70,84,577822
+Dunkirk,"Action, Drama, History  ",106,2017,78,94,576684
+Spider-Man: Homecoming,"Action, Adventure, Sci-Fi  ",133,2017,74,73,534280
+Get Out,"Horror, Mystery, Thriller  ",104,2017,77,85,511623
+Blade Runner 2049,"Action, Drama, Mystery  ",164,2017,80,81,481245
+It,Horror  ,135,2017,73,69,473128
+Baby Driver,"Action, Crime, Drama  ",113,2017,76,86,459548
+"Three Billboards Outside Ebbing, Missouri","Comedy, Crime, Drama  ",115,2017,81,88,452143
+Justice League,"Action, Adventure, Fantasy  ",120,2017,61,45,416044
+Coco,"Animation, Adventure, Drama  ",105,2017,84,81,409483
+The Shape of Water,"Adventure, Drama, Fantasy  ",123,2017,73,87,383628
+John Wick: Chapter 2,"Action, Crime, Thriller  ",122,2017,75,75,380962
+Jumanji: Welcome to the Jungle,"Action, Adventure, Comedy  ",119,2017,69,58,331891
+Kong: Skull Island,"Action, Adventure, Fantasy  ",118,2017,66,62,290212
+Kingsman: The Golden Circle,"Action, Adventure, Comedy  ",141,2017,67,44,282913
+Beauty and the Beast,"Family, Fantasy, Musical  ",129,2017,71,65,281363
+Pirates of the Caribbean: Dead Men Tell No Tales,"Action, Adventure, Fantasy  ",129,2017,65,39,272598
+Alien: Covenant,"Horror, Sci-Fi, Thriller  ",122,2017,64,65,259982
+Lady Bird,"Comedy, Drama  ",94,2017,74,94,251937
+The Greatest Showman,"Biography, Drama, Musical  ",105,2017,76,48,248324
+War for the Planet of the Apes,"Action, Adventure, Drama  ",140,2017,74,82,233724
+Call Me by Your Name,"Drama, Romance  ",132,2017,79,93,225222
+Murder on the Orient Express,"Crime, Drama, Mystery  ",114,2017,65,52,219408
+Wind River,"Crime, Drama, Mystery  ",107,2017,77,73,215338
+Life,"Horror, Sci-Fi, Thriller  ",104,2017,66,54,212103
+The Fate of the Furious,"Action, Adventure, Crime  ",136,2017,66,56,211104
+Ghost in the Shell,"Action, Crime, Drama  ",107,2017,63,52,200690
+King Arthur: Legend of the Sword,"Action, Adventure, Drama  ",126,2017,67,41,198063
+Mother!,"Drama, Horror, Mystery  ",121,2017,66,75,197341
+The Hitman's Bodyguard,"Action, Comedy, Crime  ",118,2017,69,47,195519
+"I, Tonya","Biography, Comedy, Drama  ",119,2017,75,77,190436
+Atomic Blonde,"Action, Thriller  ",115,2017,67,63,180653
+Darkest Hour,"Biography, Drama, History  ",125,2017,74,75,177724
+The Mummy,"Action, Adventure, Fantasy  ",110,2017,54,34,176295
+Bright,"Action, Fantasy, Thriller  ",117,2017,63,29,173190
+Baywatch,"Action, Comedy, Crime  ",116,2017,55,37,167506
+Valerian and the City of a Thousand Planets,"Action, Adventure, Fantasy  ",136,2017,65,51,166935
+American Made,"Action, Comedy, Crime  ",115,2017,72,65,163996
+Logan,"Action, Drama, Sci-Fi  ",137,2017,81,77,669005
+Thor: Ragnarok,"Action, Adventure, Comedy  ",130,2017,79,74,617799
+Wonder Woman,"Action, Adventure, Fantasy  ",141,2017,74,76,595615
+Guardians of the Galaxy Vol. 2,"Action, Adventure, Comedy  ",136,2017,76,67,590620
+Star Wars: Episode VIII - The Last Jedi,"Action, Adventure, Fantasy  ",152,2017,70,84,577822
+Dunkirk,"Action, Drama, History  ",106,2017,78,94,576684
+Spider-Man: Homecoming,"Action, Adventure, Sci-Fi  ",133,2017,74,73,534280
+Get Out,"Horror, Mystery, Thriller  ",104,2017,77,85,511623
+Blade Runner 2049,"Action, Drama, Mystery  ",164,2017,80,81,481245
+It,Horror  ,135,2017,73,69,473128
+Baby Driver,"Action, Crime, Drama  ",113,2017,76,86,459548
+"Three Billboards Outside Ebbing, Missouri","Comedy, Crime, Drama  ",115,2017,81,88,452143
+Justice League,"Action, Adventure, Fantasy  ",120,2017,61,45,416044
+Coco,"Animation, Adventure, Drama  ",105,2017,84,81,409483
+The Shape of Water,"Adventure, Drama, Fantasy  ",123,2017,73,87,383628
+John Wick: Chapter 2,"Action, Crime, Thriller  ",122,2017,75,75,380962
+Jumanji: Welcome to the Jungle,"Action, Adventure, Comedy  ",119,2017,69,58,331891
+Kong: Skull Island,"Action, Adventure, Fantasy  ",118,2017,66,62,290212
+Kingsman: The Golden Circle,"Action, Adventure, Comedy  ",141,2017,67,44,282913
+Beauty and the Beast,"Family, Fantasy, Musical  ",129,2017,71,65,281363
+Pirates of the Caribbean: Dead Men Tell No Tales,"Action, Adventure, Fantasy  ",129,2017,65,39,272598
+Alien: Covenant,"Horror, Sci-Fi, Thriller  ",122,2017,64,65,259982
+Lady Bird,"Comedy, Drama  ",94,2017,74,94,251937
+The Greatest Showman,"Biography, Drama, Musical  ",105,2017,76,48,248324
+War for the Planet of the Apes,"Action, Adventure, Drama  ",140,2017,74,82,233724
+Call Me by Your Name,"Drama, Romance  ",132,2017,79,93,225222
+Murder on the Orient Express,"Crime, Drama, Mystery  ",114,2017,65,52,219408
+Wind River,"Crime, Drama, Mystery  ",107,2017,77,73,215338
+Life,"Horror, Sci-Fi, Thriller  ",104,2017,66,54,212103
+The Fate of the Furious,"Action, Adventure, Crime  ",136,2017,66,56,211104
+Ghost in the Shell,"Action, Crime, Drama  ",107,2017,63,52,200690
+King Arthur: Legend of the Sword,"Action, Adventure, Drama  ",126,2017,67,41,198063
+Mother!,"Drama, Horror, Mystery  ",121,2017,66,75,197341
+The Hitman's Bodyguard,"Action, Comedy, Crime  ",118,2017,69,47,195519
+"I, Tonya","Biography, Comedy, Drama  ",119,2017,75,77,190436
+Atomic Blonde,"Action, Thriller  ",115,2017,67,63,180653
+Darkest Hour,"Biography, Drama, History  ",125,2017,74,75,177724
+The Mummy,"Action, Adventure, Fantasy  ",110,2017,54,34,176295
+Bright,"Action, Fantasy, Thriller  ",117,2017,63,29,173190
+Baywatch,"Action, Comedy, Crime  ",116,2017,55,37,167506
+Valerian and the City of a Thousand Planets,"Action, Adventure, Fantasy  ",136,2017,65,51,166935
+American Made,"Action, Comedy, Crime  ",115,2017,72,65,163996
+Logan,"Action, Drama, Sci-Fi  ",137,2017,81,77,669005
+Thor: Ragnarok,"Action, Adventure, Comedy  ",130,2017,79,74,617799
+Wonder Woman,"Action, Adventure, Fantasy  ",141,2017,74,76,595615
+Guardians of the Galaxy Vol. 2,"Action, Adventure, Comedy  ",136,2017,76,67,590620
+Star Wars: Episode VIII - The Last Jedi,"Action, Adventure, Fantasy  ",152,2017,70,84,577822
+Dunkirk,"Action, Drama, History  ",106,2017,78,94,576684
+Spider-Man: Homecoming,"Action, Adventure, Sci-Fi  ",133,2017,74,73,534280
+Get Out,"Horror, Mystery, Thriller  ",104,2017,77,85,511623
+Blade Runner 2049,"Action, Drama, Mystery  ",164,2017,80,81,481245
+It,Horror  ,135,2017,73,69,473128
+Baby Driver,"Action, Crime, Drama  ",113,2017,76,86,459548
+"Three Billboards Outside Ebbing, Missouri","Comedy, Crime, Drama  ",115,2017,81,88,452143
+Justice League,"Action, Adventure, Fantasy  ",120,2017,61,45,416044
+Coco,"Animation, Adventure, Drama  ",105,2017,84,81,409483
+The Shape of Water,"Adventure, Drama, Fantasy  ",123,2017,73,87,383628
+John Wick: Chapter 2,"Action, Crime, Thriller  ",122,2017,75,75,380962
+Jumanji: Welcome to the Jungle,"Action, Adventure, Comedy  ",119,2017,69,58,331891
+Kong: Skull Island,"Action, Adventure, Fantasy  ",118,2017,66,62,290212
+Kingsman: The Golden Circle,"Action, Adventure, Comedy  ",141,2017,67,44,282913
+Beauty and the Beast,"Family, Fantasy, Musical  ",129,2017,71,65,281363
+Pirates of the Caribbean: Dead Men Tell No Tales,"Action, Adventure, Fantasy  ",129,2017,65,39,272598
+Alien: Covenant,"Horror, Sci-Fi, Thriller  ",122,2017,64,65,259982
+Lady Bird,"Comedy, Drama  ",94,2017,74,94,251937
+The Greatest Showman,"Biography, Drama, Musical  ",105,2017,76,48,248324
+War for the Planet of the Apes,"Action, Adventure, Drama  ",140,2017,74,82,233724
+Call Me by Your Name,"Drama, Romance  ",132,2017,79,93,225222
+Murder on the Orient Express,"Crime, Drama, Mystery  ",114,2017,65,52,219408
+Wind River,"Crime, Drama, Mystery  ",107,2017,77,73,215338
+Life,"Horror, Sci-Fi, Thriller  ",104,2017,66,54,212103
+The Fate of the Furious,"Action, Adventure, Crime  ",136,2017,66,56,211104
+Ghost in the Shell,"Action, Crime, Drama  ",107,2017,63,52,200690
+King Arthur: Legend of the Sword,"Action, Adventure, Drama  ",126,2017,67,41,198063
+Mother!,"Drama, Horror, Mystery  ",121,2017,66,75,197341
+The Hitman's Bodyguard,"Action, Comedy, Crime  ",118,2017,69,47,195519
+"I, Tonya","Biography, Comedy, Drama  ",119,2017,75,77,190436
+Atomic Blonde,"Action, Thriller  ",115,2017,67,63,180653
+Darkest Hour,"Biography, Drama, History  ",125,2017,74,75,177724
+The Mummy,"Action, Adventure, Fantasy  ",110,2017,54,34,176295
+Bright,"Action, Fantasy, Thriller  ",117,2017,63,29,173190
+Baywatch,"Action, Comedy, Crime  ",116,2017,55,37,167506
+Valerian and the City of a Thousand Planets,"Action, Adventure, Fantasy  ",136,2017,65,51,166935
+American Made,"Action, Comedy, Crime  ",115,2017,72,65,163996
+Logan,"Action, Drama, Sci-Fi  ",137,2017,81,77,669005
+Thor: Ragnarok,"Action, Adventure, Comedy  ",130,2017,79,74,617799
+Wonder Woman,"Action, Adventure, Fantasy  ",141,2017,74,76,595615
+Guardians of the Galaxy Vol. 2,"Action, Adventure, Comedy  ",136,2017,76,67,590620
+Star Wars: Episode VIII - The Last Jedi,"Action, Adventure, Fantasy  ",152,2017,70,84,577822
+Dunkirk,"Action, Drama, History  ",106,2017,78,94,576684
+Spider-Man: Homecoming,"Action, Adventure, Sci-Fi  ",133,2017,74,73,534280
+Get Out,"Horror, Mystery, Thriller  ",104,2017,77,85,511623
+Blade Runner 2049,"Action, Drama, Mystery  ",164,2017,80,81,481245
+It,Horror  ,135,2017,73,69,473128
+Baby Driver,"Action, Crime, Drama  ",113,2017,76,86,459548
+"Three Billboards Outside Ebbing, Missouri","Comedy, Crime, Drama  ",115,2017,81,88,452143
+Justice League,"Action, Adventure, Fantasy  ",120,2017,61,45,416044
+Coco,"Animation, Adventure, Drama  ",105,2017,84,81,409483
+The Shape of Water,"Adventure, Drama, Fantasy  ",123,2017,73,87,383628
+John Wick: Chapter 2,"Action, Crime, Thriller  ",122,2017,75,75,380962
+Jumanji: Welcome to the Jungle,"Action, Adventure, Comedy  ",119,2017,69,58,331891
+Kong: Skull Island,"Action, Adventure, Fantasy  ",118,2017,66,62,290212
+Kingsman: The Golden Circle,"Action, Adventure, Comedy  ",141,2017,67,44,282913
+Beauty and the Beast,"Family, Fantasy, Musical  ",129,2017,71,65,281363
+Pirates of the Caribbean: Dead Men Tell No Tales,"Action, Adventure, Fantasy  ",129,2017,65,39,272598
+Alien: Covenant,"Horror, Sci-Fi, Thriller  ",122,2017,64,65,259982
+Lady Bird,"Comedy, Drama  ",94,2017,74,94,251937
+The Greatest Showman,"Biography, Drama, Musical  ",105,2017,76,48,248324
+War for the Planet of the Apes,"Action, Adventure, Drama  ",140,2017,74,82,233724
+Call Me by Your Name,"Drama, Romance  ",132,2017,79,93,225222
+Murder on the Orient Express,"Crime, Drama, Mystery  ",114,2017,65,52,219408
+Wind River,"Crime, Drama, Mystery  ",107,2017,77,73,215338
+Life,"Horror, Sci-Fi, Thriller  ",104,2017,66,54,212103
+The Fate of the Furious,"Action, Adventure, Crime  ",136,2017,66,56,211104
+Ghost in the Shell,"Action, Crime, Drama  ",107,2017,63,52,200690
+King Arthur: Legend of the Sword,"Action, Adventure, Drama  ",126,2017,67,41,198063
+Mother!,"Drama, Horror, Mystery  ",121,2017,66,75,197341
+The Hitman's Bodyguard,"Action, Comedy, Crime  ",118,2017,69,47,195519
+"I, Tonya","Biography, Comedy, Drama  ",119,2017,75,77,190436
+Atomic Blonde,"Action, Thriller  ",115,2017,67,63,180653
+Darkest Hour,"Biography, Drama, History  ",125,2017,74,75,177724
+The Mummy,"Action, Adventure, Fantasy  ",110,2017,54,34,176295
+Bright,"Action, Fantasy, Thriller  ",117,2017,63,29,173190
+Baywatch,"Action, Comedy, Crime  ",116,2017,55,37,167506
+Valerian and the City of a Thousand Planets,"Action, Adventure, Fantasy  ",136,2017,65,51,166935
+American Made,"Action, Comedy, Crime  ",115,2017,72,65,163996

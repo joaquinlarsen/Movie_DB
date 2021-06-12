@@ -1,0 +1,507 @@
+Movie,Genre,Duration,Year,Imdb_rating,Metascore_rating,Votes
+Inception,"Action, Adventure, Sci-Fi  ",148,2010,88,74,2122240
+Shutter Island,"Mystery, Thriller  ",138,2010,82,63,1165067
+Toy Story 3,"Animation, Adventure, Comedy  ",103,2010,82,92,771931
+Iron Man 2,"Action, Adventure, Sci-Fi  ",124,2010,70,57,740966
+Black Swan,"Drama, Thriller  ",108,2010,80,79,712355
+How to Train Your Dragon,"Animation, Action, Adventure  ",98,2010,81,75,680773
+The King's Speech,"Biography, Drama, History  ",118,2010,80,88,649205
+The Social Network,"Biography, Drama  ",120,2010,77,95,641103
+Kick-Ass,"Action, Comedy, Crime  ",117,2010,76,66,532321
+Despicable Me,"Animation, Comedy, Crime  ",95,2010,76,72,509162
+Harry Potter and the Deathly Hallows: Part 1,"Adventure, Family, Fantasy  ",146,2010,77,65,491687
+Tangled,"Animation, Adventure, Comedy  ",100,2010,77,71,414470
+Scott Pilgrim vs. the World,"Action, Comedy, Fantasy  ",112,2010,75,69,391072
+Alice in Wonderland,"Adventure, Family, Fantasy  ",108,2010,64,53,390032
+Easy A,"Comedy, Drama, Romance  ",92,2010,70,72,366095
+The Town,"Crime, Drama, Thriller  ",125,2010,75,74,360646
+127 Hours,"Biography, Drama  ",94,2010,75,82,354198
+The Fighter,"Biography, Drama, Sport  ",116,2010,78,79,346455
+The Expendables,"Action, Adventure, Thriller  ",103,2010,65,45,330035
+Due Date,"Comedy, Drama  ",95,2010,65,51,328077
+True Grit,"Drama, Western  ",110,2010,76,80,318092
+TRON: Legacy,"Action, Adventure, Sci-Fi  ",125,2010,68,49,317812
+Salt,"Action, Thriller  ",100,2010,64,65,299895
+The Book of Eli,"Action, Adventure, Drama  ",118,2010,69,53,298570
+RED,"Action, Comedy, Crime  ",111,2010,70,60,294087
+Insidious,"Horror, Mystery, Thriller  ",103,2010,68,52,284776
+Prince of Persia: The Sands of Time,"Action, Adventure, Fantasy  ",116,2010,66,50,275515
+Clash of the Titans,"Action, Adventure, Fantasy  ",106,2010,58,39,273205
+Robin Hood,"Action, Adventure, Drama  ",140,2010,66,53,256490
+The A-Team,"Action, Adventure, Thriller  ",117,2010,67,47,248795
+The Other Guys,"Action, Comedy, Crime  ",107,2010,66,64,247668
+Megamind,"Animation, Action, Comedy  ",95,2010,72,63,234449
+Grown Ups,Comedy  ,102,2010,59,30,232135
+The Twilight Saga: Eclipse,"Action, Adventure, Drama  ",124,2010,50,58,231814
+The Tourist,"Action, Thriller  ",103,2010,60,37,228721
+Predators,"Action, Adventure, Sci-Fi  ",107,2010,64,51,214768
+Machete,"Action, Crime, Thriller  ",105,2010,66,60,191764
+Shrek Forever After,"Animation, Adventure, Comedy  ",93,2010,63,58,189329
+The Next Three Days,"Action, Crime, Drama  ",133,2010,73,52,188285
+Unstoppable,"Action, Thriller  ",98,2010,68,69,187991
+Blue Valentine,"Drama, Romance  ",112,2010,73,81,187709
+Love & Other Drugs,"Comedy, Drama, Romance  ",112,2010,67,55,184913
+Knight and Day,"Action, Adventure, Comedy  ",109,2010,63,46,182878
+Percy Jackson & the Olympians: The Lightning Thief,"Adventure, Family, Fantasy  ",118,2010,59,47,179710
+Get Him to the Greek,"Comedy, Music  ",109,2010,63,65,171618
+Tucker and Dale vs Evil,"Comedy, Horror  ",89,2010,75,65,168092
+Inception,"Action, Adventure, Sci-Fi  ",148,2010,88,74,2122240
+Shutter Island,"Mystery, Thriller  ",138,2010,82,63,1165067
+Toy Story 3,"Animation, Adventure, Comedy  ",103,2010,82,92,771931
+Iron Man 2,"Action, Adventure, Sci-Fi  ",124,2010,70,57,740966
+Black Swan,"Drama, Thriller  ",108,2010,80,79,712355
+How to Train Your Dragon,"Animation, Action, Adventure  ",98,2010,81,75,680773
+The King's Speech,"Biography, Drama, History  ",118,2010,80,88,649205
+The Social Network,"Biography, Drama  ",120,2010,77,95,641103
+Kick-Ass,"Action, Comedy, Crime  ",117,2010,76,66,532321
+Despicable Me,"Animation, Comedy, Crime  ",95,2010,76,72,509162
+Harry Potter and the Deathly Hallows: Part 1,"Adventure, Family, Fantasy  ",146,2010,77,65,491687
+Tangled,"Animation, Adventure, Comedy  ",100,2010,77,71,414470
+Scott Pilgrim vs. the World,"Action, Comedy, Fantasy  ",112,2010,75,69,391072
+Alice in Wonderland,"Adventure, Family, Fantasy  ",108,2010,64,53,390032
+Easy A,"Comedy, Drama, Romance  ",92,2010,70,72,366095
+The Town,"Crime, Drama, Thriller  ",125,2010,75,74,360646
+127 Hours,"Biography, Drama  ",94,2010,75,82,354198
+The Fighter,"Biography, Drama, Sport  ",116,2010,78,79,346455
+The Expendables,"Action, Adventure, Thriller  ",103,2010,65,45,330035
+Due Date,"Comedy, Drama  ",95,2010,65,51,328077
+True Grit,"Drama, Western  ",110,2010,76,80,318092
+TRON: Legacy,"Action, Adventure, Sci-Fi  ",125,2010,68,49,317812
+Salt,"Action, Thriller  ",100,2010,64,65,299895
+The Book of Eli,"Action, Adventure, Drama  ",118,2010,69,53,298570
+RED,"Action, Comedy, Crime  ",111,2010,70,60,294087
+Insidious,"Horror, Mystery, Thriller  ",103,2010,68,52,284776
+Prince of Persia: The Sands of Time,"Action, Adventure, Fantasy  ",116,2010,66,50,275515
+Clash of the Titans,"Action, Adventure, Fantasy  ",106,2010,58,39,273205
+Robin Hood,"Action, Adventure, Drama  ",140,2010,66,53,256490
+The A-Team,"Action, Adventure, Thriller  ",117,2010,67,47,248795
+The Other Guys,"Action, Comedy, Crime  ",107,2010,66,64,247668
+Megamind,"Animation, Action, Comedy  ",95,2010,72,63,234449
+Grown Ups,Comedy  ,102,2010,59,30,232135
+The Twilight Saga: Eclipse,"Action, Adventure, Drama  ",124,2010,50,58,231814
+The Tourist,"Action, Thriller  ",103,2010,60,37,228721
+Predators,"Action, Adventure, Sci-Fi  ",107,2010,64,51,214768
+Machete,"Action, Crime, Thriller  ",105,2010,66,60,191764
+Shrek Forever After,"Animation, Adventure, Comedy  ",93,2010,63,58,189329
+The Next Three Days,"Action, Crime, Drama  ",133,2010,73,52,188285
+Unstoppable,"Action, Thriller  ",98,2010,68,69,187991
+Blue Valentine,"Drama, Romance  ",112,2010,73,81,187709
+Love & Other Drugs,"Comedy, Drama, Romance  ",112,2010,67,55,184913
+Knight and Day,"Action, Adventure, Comedy  ",109,2010,63,46,182878
+Percy Jackson & the Olympians: The Lightning Thief,"Adventure, Family, Fantasy  ",118,2010,59,47,179710
+Get Him to the Greek,"Comedy, Music  ",109,2010,63,65,171618
+Tucker and Dale vs Evil,"Comedy, Horror  ",89,2010,75,65,168092
+Inception,"Action, Adventure, Sci-Fi  ",148,2010,88,74,2122240
+Shutter Island,"Mystery, Thriller  ",138,2010,82,63,1165067
+Toy Story 3,"Animation, Adventure, Comedy  ",103,2010,82,92,771931
+Iron Man 2,"Action, Adventure, Sci-Fi  ",124,2010,70,57,740966
+Black Swan,"Drama, Thriller  ",108,2010,80,79,712355
+How to Train Your Dragon,"Animation, Action, Adventure  ",98,2010,81,75,680773
+The King's Speech,"Biography, Drama, History  ",118,2010,80,88,649205
+The Social Network,"Biography, Drama  ",120,2010,77,95,641103
+Kick-Ass,"Action, Comedy, Crime  ",117,2010,76,66,532321
+Despicable Me,"Animation, Comedy, Crime  ",95,2010,76,72,509162
+Harry Potter and the Deathly Hallows: Part 1,"Adventure, Family, Fantasy  ",146,2010,77,65,491687
+Tangled,"Animation, Adventure, Comedy  ",100,2010,77,71,414470
+Scott Pilgrim vs. the World,"Action, Comedy, Fantasy  ",112,2010,75,69,391072
+Alice in Wonderland,"Adventure, Family, Fantasy  ",108,2010,64,53,390032
+Easy A,"Comedy, Drama, Romance  ",92,2010,70,72,366095
+The Town,"Crime, Drama, Thriller  ",125,2010,75,74,360646
+127 Hours,"Biography, Drama  ",94,2010,75,82,354198
+The Fighter,"Biography, Drama, Sport  ",116,2010,78,79,346455
+The Expendables,"Action, Adventure, Thriller  ",103,2010,65,45,330035
+Due Date,"Comedy, Drama  ",95,2010,65,51,328077
+True Grit,"Drama, Western  ",110,2010,76,80,318092
+TRON: Legacy,"Action, Adventure, Sci-Fi  ",125,2010,68,49,317812
+Salt,"Action, Thriller  ",100,2010,64,65,299895
+The Book of Eli,"Action, Adventure, Drama  ",118,2010,69,53,298570
+RED,"Action, Comedy, Crime  ",111,2010,70,60,294087
+Insidious,"Horror, Mystery, Thriller  ",103,2010,68,52,284776
+Prince of Persia: The Sands of Time,"Action, Adventure, Fantasy  ",116,2010,66,50,275515
+Clash of the Titans,"Action, Adventure, Fantasy  ",106,2010,58,39,273205
+Robin Hood,"Action, Adventure, Drama  ",140,2010,66,53,256490
+The A-Team,"Action, Adventure, Thriller  ",117,2010,67,47,248795
+The Other Guys,"Action, Comedy, Crime  ",107,2010,66,64,247668
+Megamind,"Animation, Action, Comedy  ",95,2010,72,63,234449
+Grown Ups,Comedy  ,102,2010,59,30,232135
+The Twilight Saga: Eclipse,"Action, Adventure, Drama  ",124,2010,50,58,231814
+The Tourist,"Action, Thriller  ",103,2010,60,37,228721
+Predators,"Action, Adventure, Sci-Fi  ",107,2010,64,51,214768
+Machete,"Action, Crime, Thriller  ",105,2010,66,60,191764
+Shrek Forever After,"Animation, Adventure, Comedy  ",93,2010,63,58,189329
+The Next Three Days,"Action, Crime, Drama  ",133,2010,73,52,188285
+Unstoppable,"Action, Thriller  ",98,2010,68,69,187991
+Blue Valentine,"Drama, Romance  ",112,2010,73,81,187709
+Love & Other Drugs,"Comedy, Drama, Romance  ",112,2010,67,55,184913
+Knight and Day,"Action, Adventure, Comedy  ",109,2010,63,46,182878
+Percy Jackson & the Olympians: The Lightning Thief,"Adventure, Family, Fantasy  ",118,2010,59,47,179710
+Get Him to the Greek,"Comedy, Music  ",109,2010,63,65,171618
+Tucker and Dale vs Evil,"Comedy, Horror  ",89,2010,75,65,168092
+Inception,"Action, Adventure, Sci-Fi  ",148,2010,88,74,2122240
+Shutter Island,"Mystery, Thriller  ",138,2010,82,63,1165067
+Toy Story 3,"Animation, Adventure, Comedy  ",103,2010,82,92,771931
+Iron Man 2,"Action, Adventure, Sci-Fi  ",124,2010,70,57,740966
+Black Swan,"Drama, Thriller  ",108,2010,80,79,712355
+How to Train Your Dragon,"Animation, Action, Adventure  ",98,2010,81,75,680773
+The King's Speech,"Biography, Drama, History  ",118,2010,80,88,649205
+The Social Network,"Biography, Drama  ",120,2010,77,95,641103
+Kick-Ass,"Action, Comedy, Crime  ",117,2010,76,66,532321
+Despicable Me,"Animation, Comedy, Crime  ",95,2010,76,72,509162
+Harry Potter and the Deathly Hallows: Part 1,"Adventure, Family, Fantasy  ",146,2010,77,65,491687
+Tangled,"Animation, Adventure, Comedy  ",100,2010,77,71,414470
+Scott Pilgrim vs. the World,"Action, Comedy, Fantasy  ",112,2010,75,69,391072
+Alice in Wonderland,"Adventure, Family, Fantasy  ",108,2010,64,53,390032
+Easy A,"Comedy, Drama, Romance  ",92,2010,70,72,366095
+The Town,"Crime, Drama, Thriller  ",125,2010,75,74,360646
+127 Hours,"Biography, Drama  ",94,2010,75,82,354198
+The Fighter,"Biography, Drama, Sport  ",116,2010,78,79,346455
+The Expendables,"Action, Adventure, Thriller  ",103,2010,65,45,330035
+Due Date,"Comedy, Drama  ",95,2010,65,51,328077
+True Grit,"Drama, Western  ",110,2010,76,80,318092
+TRON: Legacy,"Action, Adventure, Sci-Fi  ",125,2010,68,49,317812
+Salt,"Action, Thriller  ",100,2010,64,65,299895
+The Book of Eli,"Action, Adventure, Drama  ",118,2010,69,53,298570
+RED,"Action, Comedy, Crime  ",111,2010,70,60,294087
+Insidious,"Horror, Mystery, Thriller  ",103,2010,68,52,284776
+Prince of Persia: The Sands of Time,"Action, Adventure, Fantasy  ",116,2010,66,50,275515
+Clash of the Titans,"Action, Adventure, Fantasy  ",106,2010,58,39,273205
+Robin Hood,"Action, Adventure, Drama  ",140,2010,66,53,256490
+The A-Team,"Action, Adventure, Thriller  ",117,2010,67,47,248795
+The Other Guys,"Action, Comedy, Crime  ",107,2010,66,64,247668
+Megamind,"Animation, Action, Comedy  ",95,2010,72,63,234449
+Grown Ups,Comedy  ,102,2010,59,30,232135
+The Twilight Saga: Eclipse,"Action, Adventure, Drama  ",124,2010,50,58,231814
+The Tourist,"Action, Thriller  ",103,2010,60,37,228721
+Predators,"Action, Adventure, Sci-Fi  ",107,2010,64,51,214768
+Machete,"Action, Crime, Thriller  ",105,2010,66,60,191764
+Shrek Forever After,"Animation, Adventure, Comedy  ",93,2010,63,58,189329
+The Next Three Days,"Action, Crime, Drama  ",133,2010,73,52,188285
+Unstoppable,"Action, Thriller  ",98,2010,68,69,187991
+Blue Valentine,"Drama, Romance  ",112,2010,73,81,187709
+Love & Other Drugs,"Comedy, Drama, Romance  ",112,2010,67,55,184913
+Knight and Day,"Action, Adventure, Comedy  ",109,2010,63,46,182878
+Percy Jackson & the Olympians: The Lightning Thief,"Adventure, Family, Fantasy  ",118,2010,59,47,179710
+Get Him to the Greek,"Comedy, Music  ",109,2010,63,65,171618
+Tucker and Dale vs Evil,"Comedy, Horror  ",89,2010,75,65,168092
+Inception,"Action, Adventure, Sci-Fi  ",148,2010,88,74,2122240
+Shutter Island,"Mystery, Thriller  ",138,2010,82,63,1165067
+Toy Story 3,"Animation, Adventure, Comedy  ",103,2010,82,92,771931
+Iron Man 2,"Action, Adventure, Sci-Fi  ",124,2010,70,57,740966
+Black Swan,"Drama, Thriller  ",108,2010,80,79,712355
+How to Train Your Dragon,"Animation, Action, Adventure  ",98,2010,81,75,680773
+The King's Speech,"Biography, Drama, History  ",118,2010,80,88,649205
+The Social Network,"Biography, Drama  ",120,2010,77,95,641103
+Kick-Ass,"Action, Comedy, Crime  ",117,2010,76,66,532321
+Despicable Me,"Animation, Comedy, Crime  ",95,2010,76,72,509162
+Harry Potter and the Deathly Hallows: Part 1,"Adventure, Family, Fantasy  ",146,2010,77,65,491687
+Tangled,"Animation, Adventure, Comedy  ",100,2010,77,71,414470
+Scott Pilgrim vs. the World,"Action, Comedy, Fantasy  ",112,2010,75,69,391072
+Alice in Wonderland,"Adventure, Family, Fantasy  ",108,2010,64,53,390032
+Easy A,"Comedy, Drama, Romance  ",92,2010,70,72,366095
+The Town,"Crime, Drama, Thriller  ",125,2010,75,74,360646
+127 Hours,"Biography, Drama  ",94,2010,75,82,354198
+The Fighter,"Biography, Drama, Sport  ",116,2010,78,79,346455
+The Expendables,"Action, Adventure, Thriller  ",103,2010,65,45,330035
+Due Date,"Comedy, Drama  ",95,2010,65,51,328077
+True Grit,"Drama, Western  ",110,2010,76,80,318092
+TRON: Legacy,"Action, Adventure, Sci-Fi  ",125,2010,68,49,317812
+Salt,"Action, Thriller  ",100,2010,64,65,299895
+The Book of Eli,"Action, Adventure, Drama  ",118,2010,69,53,298570
+RED,"Action, Comedy, Crime  ",111,2010,70,60,294087
+Insidious,"Horror, Mystery, Thriller  ",103,2010,68,52,284776
+Prince of Persia: The Sands of Time,"Action, Adventure, Fantasy  ",116,2010,66,50,275515
+Clash of the Titans,"Action, Adventure, Fantasy  ",106,2010,58,39,273205
+Robin Hood,"Action, Adventure, Drama  ",140,2010,66,53,256490
+The A-Team,"Action, Adventure, Thriller  ",117,2010,67,47,248795
+The Other Guys,"Action, Comedy, Crime  ",107,2010,66,64,247668
+Megamind,"Animation, Action, Comedy  ",95,2010,72,63,234449
+Grown Ups,Comedy  ,102,2010,59,30,232135
+The Twilight Saga: Eclipse,"Action, Adventure, Drama  ",124,2010,50,58,231814
+The Tourist,"Action, Thriller  ",103,2010,60,37,228721
+Predators,"Action, Adventure, Sci-Fi  ",107,2010,64,51,214768
+Machete,"Action, Crime, Thriller  ",105,2010,66,60,191764
+Shrek Forever After,"Animation, Adventure, Comedy  ",93,2010,63,58,189329
+The Next Three Days,"Action, Crime, Drama  ",133,2010,73,52,188285
+Unstoppable,"Action, Thriller  ",98,2010,68,69,187991
+Blue Valentine,"Drama, Romance  ",112,2010,73,81,187709
+Love & Other Drugs,"Comedy, Drama, Romance  ",112,2010,67,55,184913
+Knight and Day,"Action, Adventure, Comedy  ",109,2010,63,46,182878
+Percy Jackson & the Olympians: The Lightning Thief,"Adventure, Family, Fantasy  ",118,2010,59,47,179710
+Get Him to the Greek,"Comedy, Music  ",109,2010,63,65,171618
+Tucker and Dale vs Evil,"Comedy, Horror  ",89,2010,75,65,168092
+Inception,"Action, Adventure, Sci-Fi  ",148,2010,88,74,2122240
+Shutter Island,"Mystery, Thriller  ",138,2010,82,63,1165067
+Toy Story 3,"Animation, Adventure, Comedy  ",103,2010,82,92,771931
+Iron Man 2,"Action, Adventure, Sci-Fi  ",124,2010,70,57,740966
+Black Swan,"Drama, Thriller  ",108,2010,80,79,712355
+How to Train Your Dragon,"Animation, Action, Adventure  ",98,2010,81,75,680773
+The King's Speech,"Biography, Drama, History  ",118,2010,80,88,649205
+The Social Network,"Biography, Drama  ",120,2010,77,95,641103
+Kick-Ass,"Action, Comedy, Crime  ",117,2010,76,66,532321
+Despicable Me,"Animation, Comedy, Crime  ",95,2010,76,72,509162
+Harry Potter and the Deathly Hallows: Part 1,"Adventure, Family, Fantasy  ",146,2010,77,65,491687
+Tangled,"Animation, Adventure, Comedy  ",100,2010,77,71,414470
+Scott Pilgrim vs. the World,"Action, Comedy, Fantasy  ",112,2010,75,69,391072
+Alice in Wonderland,"Adventure, Family, Fantasy  ",108,2010,64,53,390032
+Easy A,"Comedy, Drama, Romance  ",92,2010,70,72,366095
+The Town,"Crime, Drama, Thriller  ",125,2010,75,74,360646
+127 Hours,"Biography, Drama  ",94,2010,75,82,354198
+The Fighter,"Biography, Drama, Sport  ",116,2010,78,79,346455
+The Expendables,"Action, Adventure, Thriller  ",103,2010,65,45,330035
+Due Date,"Comedy, Drama  ",95,2010,65,51,328077
+True Grit,"Drama, Western  ",110,2010,76,80,318092
+TRON: Legacy,"Action, Adventure, Sci-Fi  ",125,2010,68,49,317812
+Salt,"Action, Thriller  ",100,2010,64,65,299895
+The Book of Eli,"Action, Adventure, Drama  ",118,2010,69,53,298570
+RED,"Action, Comedy, Crime  ",111,2010,70,60,294087
+Insidious,"Horror, Mystery, Thriller  ",103,2010,68,52,284776
+Prince of Persia: The Sands of Time,"Action, Adventure, Fantasy  ",116,2010,66,50,275515
+Clash of the Titans,"Action, Adventure, Fantasy  ",106,2010,58,39,273205
+Robin Hood,"Action, Adventure, Drama  ",140,2010,66,53,256490
+The A-Team,"Action, Adventure, Thriller  ",117,2010,67,47,248795
+The Other Guys,"Action, Comedy, Crime  ",107,2010,66,64,247668
+Megamind,"Animation, Action, Comedy  ",95,2010,72,63,234449
+Grown Ups,Comedy  ,102,2010,59,30,232135
+The Twilight Saga: Eclipse,"Action, Adventure, Drama  ",124,2010,50,58,231814
+The Tourist,"Action, Thriller  ",103,2010,60,37,228721
+Predators,"Action, Adventure, Sci-Fi  ",107,2010,64,51,214768
+Machete,"Action, Crime, Thriller  ",105,2010,66,60,191764
+Shrek Forever After,"Animation, Adventure, Comedy  ",93,2010,63,58,189329
+The Next Three Days,"Action, Crime, Drama  ",133,2010,73,52,188285
+Unstoppable,"Action, Thriller  ",98,2010,68,69,187991
+Blue Valentine,"Drama, Romance  ",112,2010,73,81,187709
+Love & Other Drugs,"Comedy, Drama, Romance  ",112,2010,67,55,184913
+Knight and Day,"Action, Adventure, Comedy  ",109,2010,63,46,182878
+Percy Jackson & the Olympians: The Lightning Thief,"Adventure, Family, Fantasy  ",118,2010,59,47,179710
+Get Him to the Greek,"Comedy, Music  ",109,2010,63,65,171618
+Tucker and Dale vs Evil,"Comedy, Horror  ",89,2010,75,65,168092
+Inception,"Action, Adventure, Sci-Fi  ",148,2010,88,74,2122240
+Shutter Island,"Mystery, Thriller  ",138,2010,82,63,1165067
+Toy Story 3,"Animation, Adventure, Comedy  ",103,2010,82,92,771931
+Iron Man 2,"Action, Adventure, Sci-Fi  ",124,2010,70,57,740966
+Black Swan,"Drama, Thriller  ",108,2010,80,79,712355
+How to Train Your Dragon,"Animation, Action, Adventure  ",98,2010,81,75,680773
+The King's Speech,"Biography, Drama, History  ",118,2010,80,88,649205
+The Social Network,"Biography, Drama  ",120,2010,77,95,641103
+Kick-Ass,"Action, Comedy, Crime  ",117,2010,76,66,532321
+Despicable Me,"Animation, Comedy, Crime  ",95,2010,76,72,509162
+Harry Potter and the Deathly Hallows: Part 1,"Adventure, Family, Fantasy  ",146,2010,77,65,491687
+Tangled,"Animation, Adventure, Comedy  ",100,2010,77,71,414470
+Scott Pilgrim vs. the World,"Action, Comedy, Fantasy  ",112,2010,75,69,391072
+Alice in Wonderland,"Adventure, Family, Fantasy  ",108,2010,64,53,390032
+Easy A,"Comedy, Drama, Romance  ",92,2010,70,72,366095
+The Town,"Crime, Drama, Thriller  ",125,2010,75,74,360646
+127 Hours,"Biography, Drama  ",94,2010,75,82,354198
+The Fighter,"Biography, Drama, Sport  ",116,2010,78,79,346455
+The Expendables,"Action, Adventure, Thriller  ",103,2010,65,45,330035
+Due Date,"Comedy, Drama  ",95,2010,65,51,328077
+True Grit,"Drama, Western  ",110,2010,76,80,318092
+TRON: Legacy,"Action, Adventure, Sci-Fi  ",125,2010,68,49,317812
+Salt,"Action, Thriller  ",100,2010,64,65,299895
+The Book of Eli,"Action, Adventure, Drama  ",118,2010,69,53,298570
+RED,"Action, Comedy, Crime  ",111,2010,70,60,294087
+Insidious,"Horror, Mystery, Thriller  ",103,2010,68,52,284776
+Prince of Persia: The Sands of Time,"Action, Adventure, Fantasy  ",116,2010,66,50,275515
+Clash of the Titans,"Action, Adventure, Fantasy  ",106,2010,58,39,273205
+Robin Hood,"Action, Adventure, Drama  ",140,2010,66,53,256490
+The A-Team,"Action, Adventure, Thriller  ",117,2010,67,47,248795
+The Other Guys,"Action, Comedy, Crime  ",107,2010,66,64,247668
+Megamind,"Animation, Action, Comedy  ",95,2010,72,63,234449
+Grown Ups,Comedy  ,102,2010,59,30,232135
+The Twilight Saga: Eclipse,"Action, Adventure, Drama  ",124,2010,50,58,231814
+The Tourist,"Action, Thriller  ",103,2010,60,37,228721
+Predators,"Action, Adventure, Sci-Fi  ",107,2010,64,51,214768
+Machete,"Action, Crime, Thriller  ",105,2010,66,60,191764
+Shrek Forever After,"Animation, Adventure, Comedy  ",93,2010,63,58,189329
+The Next Three Days,"Action, Crime, Drama  ",133,2010,73,52,188285
+Unstoppable,"Action, Thriller  ",98,2010,68,69,187991
+Blue Valentine,"Drama, Romance  ",112,2010,73,81,187709
+Love & Other Drugs,"Comedy, Drama, Romance  ",112,2010,67,55,184913
+Knight and Day,"Action, Adventure, Comedy  ",109,2010,63,46,182878
+Percy Jackson & the Olympians: The Lightning Thief,"Adventure, Family, Fantasy  ",118,2010,59,47,179710
+Get Him to the Greek,"Comedy, Music  ",109,2010,63,65,171618
+Tucker and Dale vs Evil,"Comedy, Horror  ",89,2010,75,65,168092
+Inception,"Action, Adventure, Sci-Fi  ",148,2010,88,74,2122240
+Shutter Island,"Mystery, Thriller  ",138,2010,82,63,1165067
+Toy Story 3,"Animation, Adventure, Comedy  ",103,2010,82,92,771931
+Iron Man 2,"Action, Adventure, Sci-Fi  ",124,2010,70,57,740966
+Black Swan,"Drama, Thriller  ",108,2010,80,79,712355
+How to Train Your Dragon,"Animation, Action, Adventure  ",98,2010,81,75,680773
+The King's Speech,"Biography, Drama, History  ",118,2010,80,88,649205
+The Social Network,"Biography, Drama  ",120,2010,77,95,641103
+Kick-Ass,"Action, Comedy, Crime  ",117,2010,76,66,532321
+Despicable Me,"Animation, Comedy, Crime  ",95,2010,76,72,509162
+Harry Potter and the Deathly Hallows: Part 1,"Adventure, Family, Fantasy  ",146,2010,77,65,491687
+Tangled,"Animation, Adventure, Comedy  ",100,2010,77,71,414470
+Scott Pilgrim vs. the World,"Action, Comedy, Fantasy  ",112,2010,75,69,391072
+Alice in Wonderland,"Adventure, Family, Fantasy  ",108,2010,64,53,390032
+Easy A,"Comedy, Drama, Romance  ",92,2010,70,72,366095
+The Town,"Crime, Drama, Thriller  ",125,2010,75,74,360646
+127 Hours,"Biography, Drama  ",94,2010,75,82,354198
+The Fighter,"Biography, Drama, Sport  ",116,2010,78,79,346455
+The Expendables,"Action, Adventure, Thriller  ",103,2010,65,45,330035
+Due Date,"Comedy, Drama  ",95,2010,65,51,328077
+True Grit,"Drama, Western  ",110,2010,76,80,318092
+TRON: Legacy,"Action, Adventure, Sci-Fi  ",125,2010,68,49,317812
+Salt,"Action, Thriller  ",100,2010,64,65,299895
+The Book of Eli,"Action, Adventure, Drama  ",118,2010,69,53,298570
+RED,"Action, Comedy, Crime  ",111,2010,70,60,294087
+Insidious,"Horror, Mystery, Thriller  ",103,2010,68,52,284776
+Prince of Persia: The Sands of Time,"Action, Adventure, Fantasy  ",116,2010,66,50,275515
+Clash of the Titans,"Action, Adventure, Fantasy  ",106,2010,58,39,273205
+Robin Hood,"Action, Adventure, Drama  ",140,2010,66,53,256490
+The A-Team,"Action, Adventure, Thriller  ",117,2010,67,47,248795
+The Other Guys,"Action, Comedy, Crime  ",107,2010,66,64,247668
+Megamind,"Animation, Action, Comedy  ",95,2010,72,63,234449
+Grown Ups,Comedy  ,102,2010,59,30,232135
+The Twilight Saga: Eclipse,"Action, Adventure, Drama  ",124,2010,50,58,231814
+The Tourist,"Action, Thriller  ",103,2010,60,37,228721
+Predators,"Action, Adventure, Sci-Fi  ",107,2010,64,51,214768
+Machete,"Action, Crime, Thriller  ",105,2010,66,60,191764
+Shrek Forever After,"Animation, Adventure, Comedy  ",93,2010,63,58,189329
+The Next Three Days,"Action, Crime, Drama  ",133,2010,73,52,188285
+Unstoppable,"Action, Thriller  ",98,2010,68,69,187991
+Blue Valentine,"Drama, Romance  ",112,2010,73,81,187709
+Love & Other Drugs,"Comedy, Drama, Romance  ",112,2010,67,55,184913
+Knight and Day,"Action, Adventure, Comedy  ",109,2010,63,46,182878
+Percy Jackson & the Olympians: The Lightning Thief,"Adventure, Family, Fantasy  ",118,2010,59,47,179710
+Get Him to the Greek,"Comedy, Music  ",109,2010,63,65,171618
+Tucker and Dale vs Evil,"Comedy, Horror  ",89,2010,75,65,168092
+Inception,"Action, Adventure, Sci-Fi  ",148,2010,88,74,2122240
+Shutter Island,"Mystery, Thriller  ",138,2010,82,63,1165067
+Toy Story 3,"Animation, Adventure, Comedy  ",103,2010,82,92,771931
+Iron Man 2,"Action, Adventure, Sci-Fi  ",124,2010,70,57,740966
+Black Swan,"Drama, Thriller  ",108,2010,80,79,712355
+How to Train Your Dragon,"Animation, Action, Adventure  ",98,2010,81,75,680773
+The King's Speech,"Biography, Drama, History  ",118,2010,80,88,649205
+The Social Network,"Biography, Drama  ",120,2010,77,95,641103
+Kick-Ass,"Action, Comedy, Crime  ",117,2010,76,66,532321
+Despicable Me,"Animation, Comedy, Crime  ",95,2010,76,72,509162
+Harry Potter and the Deathly Hallows: Part 1,"Adventure, Family, Fantasy  ",146,2010,77,65,491687
+Tangled,"Animation, Adventure, Comedy  ",100,2010,77,71,414470
+Scott Pilgrim vs. the World,"Action, Comedy, Fantasy  ",112,2010,75,69,391072
+Alice in Wonderland,"Adventure, Family, Fantasy  ",108,2010,64,53,390032
+Easy A,"Comedy, Drama, Romance  ",92,2010,70,72,366095
+The Town,"Crime, Drama, Thriller  ",125,2010,75,74,360646
+127 Hours,"Biography, Drama  ",94,2010,75,82,354198
+The Fighter,"Biography, Drama, Sport  ",116,2010,78,79,346455
+The Expendables,"Action, Adventure, Thriller  ",103,2010,65,45,330035
+Due Date,"Comedy, Drama  ",95,2010,65,51,328077
+True Grit,"Drama, Western  ",110,2010,76,80,318092
+TRON: Legacy,"Action, Adventure, Sci-Fi  ",125,2010,68,49,317812
+Salt,"Action, Thriller  ",100,2010,64,65,299895
+The Book of Eli,"Action, Adventure, Drama  ",118,2010,69,53,298570
+RED,"Action, Comedy, Crime  ",111,2010,70,60,294087
+Insidious,"Horror, Mystery, Thriller  ",103,2010,68,52,284776
+Prince of Persia: The Sands of Time,"Action, Adventure, Fantasy  ",116,2010,66,50,275515
+Clash of the Titans,"Action, Adventure, Fantasy  ",106,2010,58,39,273205
+Robin Hood,"Action, Adventure, Drama  ",140,2010,66,53,256490
+The A-Team,"Action, Adventure, Thriller  ",117,2010,67,47,248795
+The Other Guys,"Action, Comedy, Crime  ",107,2010,66,64,247668
+Megamind,"Animation, Action, Comedy  ",95,2010,72,63,234449
+Grown Ups,Comedy  ,102,2010,59,30,232135
+The Twilight Saga: Eclipse,"Action, Adventure, Drama  ",124,2010,50,58,231814
+The Tourist,"Action, Thriller  ",103,2010,60,37,228721
+Predators,"Action, Adventure, Sci-Fi  ",107,2010,64,51,214768
+Machete,"Action, Crime, Thriller  ",105,2010,66,60,191764
+Shrek Forever After,"Animation, Adventure, Comedy  ",93,2010,63,58,189329
+The Next Three Days,"Action, Crime, Drama  ",133,2010,73,52,188285
+Unstoppable,"Action, Thriller  ",98,2010,68,69,187991
+Blue Valentine,"Drama, Romance  ",112,2010,73,81,187709
+Love & Other Drugs,"Comedy, Drama, Romance  ",112,2010,67,55,184913
+Knight and Day,"Action, Adventure, Comedy  ",109,2010,63,46,182878
+Percy Jackson & the Olympians: The Lightning Thief,"Adventure, Family, Fantasy  ",118,2010,59,47,179710
+Get Him to the Greek,"Comedy, Music  ",109,2010,63,65,171618
+Tucker and Dale vs Evil,"Comedy, Horror  ",89,2010,75,65,168092
+Inception,"Action, Adventure, Sci-Fi  ",148,2010,88,74,2122240
+Shutter Island,"Mystery, Thriller  ",138,2010,82,63,1165067
+Toy Story 3,"Animation, Adventure, Comedy  ",103,2010,82,92,771931
+Iron Man 2,"Action, Adventure, Sci-Fi  ",124,2010,70,57,740966
+Black Swan,"Drama, Thriller  ",108,2010,80,79,712355
+How to Train Your Dragon,"Animation, Action, Adventure  ",98,2010,81,75,680773
+The King's Speech,"Biography, Drama, History  ",118,2010,80,88,649205
+The Social Network,"Biography, Drama  ",120,2010,77,95,641103
+Kick-Ass,"Action, Comedy, Crime  ",117,2010,76,66,532321
+Despicable Me,"Animation, Comedy, Crime  ",95,2010,76,72,509162
+Harry Potter and the Deathly Hallows: Part 1,"Adventure, Family, Fantasy  ",146,2010,77,65,491687
+Tangled,"Animation, Adventure, Comedy  ",100,2010,77,71,414470
+Scott Pilgrim vs. the World,"Action, Comedy, Fantasy  ",112,2010,75,69,391072
+Alice in Wonderland,"Adventure, Family, Fantasy  ",108,2010,64,53,390032
+Easy A,"Comedy, Drama, Romance  ",92,2010,70,72,366095
+The Town,"Crime, Drama, Thriller  ",125,2010,75,74,360646
+127 Hours,"Biography, Drama  ",94,2010,75,82,354198
+The Fighter,"Biography, Drama, Sport  ",116,2010,78,79,346455
+The Expendables,"Action, Adventure, Thriller  ",103,2010,65,45,330035
+Due Date,"Comedy, Drama  ",95,2010,65,51,328077
+True Grit,"Drama, Western  ",110,2010,76,80,318092
+TRON: Legacy,"Action, Adventure, Sci-Fi  ",125,2010,68,49,317812
+Salt,"Action, Thriller  ",100,2010,64,65,299895
+The Book of Eli,"Action, Adventure, Drama  ",118,2010,69,53,298570
+RED,"Action, Comedy, Crime  ",111,2010,70,60,294087
+Insidious,"Horror, Mystery, Thriller  ",103,2010,68,52,284776
+Prince of Persia: The Sands of Time,"Action, Adventure, Fantasy  ",116,2010,66,50,275515
+Clash of the Titans,"Action, Adventure, Fantasy  ",106,2010,58,39,273205
+Robin Hood,"Action, Adventure, Drama  ",140,2010,66,53,256490
+The A-Team,"Action, Adventure, Thriller  ",117,2010,67,47,248795
+The Other Guys,"Action, Comedy, Crime  ",107,2010,66,64,247668
+Megamind,"Animation, Action, Comedy  ",95,2010,72,63,234449
+Grown Ups,Comedy  ,102,2010,59,30,232135
+The Twilight Saga: Eclipse,"Action, Adventure, Drama  ",124,2010,50,58,231814
+The Tourist,"Action, Thriller  ",103,2010,60,37,228721
+Predators,"Action, Adventure, Sci-Fi  ",107,2010,64,51,214768
+Machete,"Action, Crime, Thriller  ",105,2010,66,60,191764
+Shrek Forever After,"Animation, Adventure, Comedy  ",93,2010,63,58,189329
+The Next Three Days,"Action, Crime, Drama  ",133,2010,73,52,188285
+Unstoppable,"Action, Thriller  ",98,2010,68,69,187991
+Blue Valentine,"Drama, Romance  ",112,2010,73,81,187709
+Love & Other Drugs,"Comedy, Drama, Romance  ",112,2010,67,55,184913
+Knight and Day,"Action, Adventure, Comedy  ",109,2010,63,46,182878
+Percy Jackson & the Olympians: The Lightning Thief,"Adventure, Family, Fantasy  ",118,2010,59,47,179710
+Get Him to the Greek,"Comedy, Music  ",109,2010,63,65,171618
+Tucker and Dale vs Evil,"Comedy, Horror  ",89,2010,75,65,168092
+Inception,"Action, Adventure, Sci-Fi  ",148,2010,88,74,2122240
+Shutter Island,"Mystery, Thriller  ",138,2010,82,63,1165067
+Toy Story 3,"Animation, Adventure, Comedy  ",103,2010,82,92,771931
+Iron Man 2,"Action, Adventure, Sci-Fi  ",124,2010,70,57,740966
+Black Swan,"Drama, Thriller  ",108,2010,80,79,712355
+How to Train Your Dragon,"Animation, Action, Adventure  ",98,2010,81,75,680773
+The King's Speech,"Biography, Drama, History  ",118,2010,80,88,649205
+The Social Network,"Biography, Drama  ",120,2010,77,95,641103
+Kick-Ass,"Action, Comedy, Crime  ",117,2010,76,66,532321
+Despicable Me,"Animation, Comedy, Crime  ",95,2010,76,72,509162
+Harry Potter and the Deathly Hallows: Part 1,"Adventure, Family, Fantasy  ",146,2010,77,65,491687
+Tangled,"Animation, Adventure, Comedy  ",100,2010,77,71,414470
+Scott Pilgrim vs. the World,"Action, Comedy, Fantasy  ",112,2010,75,69,391072
+Alice in Wonderland,"Adventure, Family, Fantasy  ",108,2010,64,53,390032
+Easy A,"Comedy, Drama, Romance  ",92,2010,70,72,366095
+The Town,"Crime, Drama, Thriller  ",125,2010,75,74,360646
+127 Hours,"Biography, Drama  ",94,2010,75,82,354198
+The Fighter,"Biography, Drama, Sport  ",116,2010,78,79,346455
+The Expendables,"Action, Adventure, Thriller  ",103,2010,65,45,330035
+Due Date,"Comedy, Drama  ",95,2010,65,51,328077
+True Grit,"Drama, Western  ",110,2010,76,80,318092
+TRON: Legacy,"Action, Adventure, Sci-Fi  ",125,2010,68,49,317812
+Salt,"Action, Thriller  ",100,2010,64,65,299895
+The Book of Eli,"Action, Adventure, Drama  ",118,2010,69,53,298570
+RED,"Action, Comedy, Crime  ",111,2010,70,60,294087
+Insidious,"Horror, Mystery, Thriller  ",103,2010,68,52,284776
+Prince of Persia: The Sands of Time,"Action, Adventure, Fantasy  ",116,2010,66,50,275515
+Clash of the Titans,"Action, Adventure, Fantasy  ",106,2010,58,39,273205
+Robin Hood,"Action, Adventure, Drama  ",140,2010,66,53,256490
+The A-Team,"Action, Adventure, Thriller  ",117,2010,67,47,248795
+The Other Guys,"Action, Comedy, Crime  ",107,2010,66,64,247668
+Megamind,"Animation, Action, Comedy  ",95,2010,72,63,234449
+Grown Ups,Comedy  ,102,2010,59,30,232135
+The Twilight Saga: Eclipse,"Action, Adventure, Drama  ",124,2010,50,58,231814
+The Tourist,"Action, Thriller  ",103,2010,60,37,228721
+Predators,"Action, Adventure, Sci-Fi  ",107,2010,64,51,214768
+Machete,"Action, Crime, Thriller  ",105,2010,66,60,191764
+Shrek Forever After,"Animation, Adventure, Comedy  ",93,2010,63,58,189329
+The Next Three Days,"Action, Crime, Drama  ",133,2010,73,52,188285
+Unstoppable,"Action, Thriller  ",98,2010,68,69,187991
+Blue Valentine,"Drama, Romance  ",112,2010,73,81,187709
+Love & Other Drugs,"Comedy, Drama, Romance  ",112,2010,67,55,184913
+Knight and Day,"Action, Adventure, Comedy  ",109,2010,63,46,182878
+Percy Jackson & the Olympians: The Lightning Thief,"Adventure, Family, Fantasy  ",118,2010,59,47,179710
+Get Him to the Greek,"Comedy, Music  ",109,2010,63,65,171618
+Tucker and Dale vs Evil,"Comedy, Horror  ",89,2010,75,65,168092

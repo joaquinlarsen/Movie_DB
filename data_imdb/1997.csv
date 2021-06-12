@@ -1,0 +1,507 @@
+Movie,Genre,Duration,Year,Imdb_rating,Metascore_rating,Votes
+Titanic,"Drama, Romance  ",194,1997,78,75,1072285
+Good Will Hunting,"Drama, Romance  ",126,1997,83,70,882633
+Life Is Beautiful,"Comedy, Drama, Romance  ",116,1997,86,59,638656
+L.A. Confidential,"Crime, Drama, Mystery  ",138,1997,82,90,541978
+Men in Black,"Action, Adventure, Comedy  ",98,1997,73,71,525446
+The Fifth Element,"Action, Adventure, Sci-Fi  ",126,1997,77,52,441890
+The Lost World: Jurassic Park,"Action, Adventure, Sci-Fi  ",129,1997,66,59,385802
+The Game,"Drama, Mystery, Thriller  ",129,1997,78,61,357560
+Face/Off,"Action, Crime, Sci-Fi  ",138,1997,72,82,355019
+Princess Mononoke,"Animation, Action, Adventure  ",134,1997,84,76,354013
+The Devil's Advocate,"Drama, Mystery, Thriller  ",144,1997,75,60,339992
+Jackie Brown,"Crime, Drama, Thriller  ",154,1997,75,64,323363
+Liar Liar,"Comedy, Fantasy  ",86,1997,69,70,287629
+Donnie Brasco,"Biography, Crime, Drama  ",127,1997,77,76,285956
+Gattaca,"Drama, Sci-Fi, Thriller  ",106,1997,78,64,285546
+Con Air,"Action, Crime, Thriller  ",115,1997,69,52,280903
+As Good as It Gets,"Comedy, Drama, Romance  ",139,1997,77,67,280653
+Starship Troopers,"Action, Adventure, Sci-Fi  ",129,1997,72,51,274479
+Contact,"Drama, Mystery, Sci-Fi  ",150,1997,75,62,259133
+Boogie Nights,Drama  ,155,1997,79,85,244247
+Batman & Robin,"Action, Sci-Fi  ",125,1997,38,28,237514
+Alien: Resurrection,"Action, Horror, Sci-Fi  ",109,1997,62,63,233141
+Austin Powers: International Man of Mystery,"Adventure, Comedy  ",89,1997,70,51,225392
+Cube,"Drama, Mystery, Sci-Fi  ",90,1997,72,61,216879
+Hercules,"Animation, Adventure, Comedy  ",93,1997,73,74,211263
+Tomorrow Never Dies,"Action, Adventure, Thriller  ",119,1997,65,52,183952
+Air Force One,"Action, Drama, Thriller  ",124,1997,65,61,183553
+Event Horizon,"Horror, Sci-Fi, Thriller  ",96,1997,67,35,163269
+Scream 2,"Horror, Mystery  ",120,1997,62,63,160333
+I Know What You Did Last Summer,"Horror, Mystery  ",101,1997,57,52,135736
+Lost Highway,"Mystery, Thriller  ",134,1997,76,52,133794
+Chasing Amy,"Comedy, Drama, Romance  ",113,1997,72,71,133498
+Seven Years in Tibet,"Adventure, Biography, Drama  ",136,1997,71,55,133440
+My Best Friend's Wedding,"Comedy, Drama, Romance  ",105,1997,63,50,132865
+Anastasia,"Animation, Adventure, Drama  ",94,1997,72,61,114550
+The Jackal,"Action, Crime, Drama  ",124,1997,64,36,108808
+The Full Monty,"Comedy, Drama  ",91,1997,72,75,100491
+Bean,"Adventure, Comedy, Family  ",89,1997,65,52,99391
+Anaconda,"Action, Adventure, Horror  ",89,1997,48,37,98529
+Conspiracy Theory,"Action, Mystery, Thriller  ",135,1997,67,49,95374
+Grosse Pointe Blank,"Action, Comedy, Crime  ",107,1997,73,76,89572
+Cop Land,"Crime, Drama, Thriller  ",105,1997,69,64,88298
+Flubber,"Comedy, Family, Sci-Fi  ",93,1997,53,37,85626
+Dante's Peak,"Action, Adventure, Thriller  ",108,1997,60,43,84264
+Wag the Dog,"Comedy, Drama  ",97,1997,71,73,80128
+Speed 2: Cruise Control,"Action, Adventure, Crime  ",121,1997,39,23,76126
+Titanic,"Drama, Romance  ",194,1997,78,75,1072285
+Good Will Hunting,"Drama, Romance  ",126,1997,83,70,882633
+Life Is Beautiful,"Comedy, Drama, Romance  ",116,1997,86,59,638656
+L.A. Confidential,"Crime, Drama, Mystery  ",138,1997,82,90,541978
+Men in Black,"Action, Adventure, Comedy  ",98,1997,73,71,525446
+The Fifth Element,"Action, Adventure, Sci-Fi  ",126,1997,77,52,441890
+The Lost World: Jurassic Park,"Action, Adventure, Sci-Fi  ",129,1997,66,59,385802
+The Game,"Drama, Mystery, Thriller  ",129,1997,78,61,357560
+Face/Off,"Action, Crime, Sci-Fi  ",138,1997,72,82,355019
+Princess Mononoke,"Animation, Action, Adventure  ",134,1997,84,76,354013
+The Devil's Advocate,"Drama, Mystery, Thriller  ",144,1997,75,60,339992
+Jackie Brown,"Crime, Drama, Thriller  ",154,1997,75,64,323363
+Liar Liar,"Comedy, Fantasy  ",86,1997,69,70,287629
+Donnie Brasco,"Biography, Crime, Drama  ",127,1997,77,76,285956
+Gattaca,"Drama, Sci-Fi, Thriller  ",106,1997,78,64,285546
+Con Air,"Action, Crime, Thriller  ",115,1997,69,52,280903
+As Good as It Gets,"Comedy, Drama, Romance  ",139,1997,77,67,280653
+Starship Troopers,"Action, Adventure, Sci-Fi  ",129,1997,72,51,274479
+Contact,"Drama, Mystery, Sci-Fi  ",150,1997,75,62,259133
+Boogie Nights,Drama  ,155,1997,79,85,244247
+Batman & Robin,"Action, Sci-Fi  ",125,1997,38,28,237514
+Alien: Resurrection,"Action, Horror, Sci-Fi  ",109,1997,62,63,233141
+Austin Powers: International Man of Mystery,"Adventure, Comedy  ",89,1997,70,51,225392
+Cube,"Drama, Mystery, Sci-Fi  ",90,1997,72,61,216879
+Hercules,"Animation, Adventure, Comedy  ",93,1997,73,74,211263
+Tomorrow Never Dies,"Action, Adventure, Thriller  ",119,1997,65,52,183952
+Air Force One,"Action, Drama, Thriller  ",124,1997,65,61,183553
+Event Horizon,"Horror, Sci-Fi, Thriller  ",96,1997,67,35,163269
+Scream 2,"Horror, Mystery  ",120,1997,62,63,160333
+I Know What You Did Last Summer,"Horror, Mystery  ",101,1997,57,52,135736
+Lost Highway,"Mystery, Thriller  ",134,1997,76,52,133794
+Chasing Amy,"Comedy, Drama, Romance  ",113,1997,72,71,133498
+Seven Years in Tibet,"Adventure, Biography, Drama  ",136,1997,71,55,133440
+My Best Friend's Wedding,"Comedy, Drama, Romance  ",105,1997,63,50,132865
+Anastasia,"Animation, Adventure, Drama  ",94,1997,72,61,114550
+The Jackal,"Action, Crime, Drama  ",124,1997,64,36,108808
+The Full Monty,"Comedy, Drama  ",91,1997,72,75,100491
+Bean,"Adventure, Comedy, Family  ",89,1997,65,52,99391
+Anaconda,"Action, Adventure, Horror  ",89,1997,48,37,98529
+Conspiracy Theory,"Action, Mystery, Thriller  ",135,1997,67,49,95374
+Grosse Pointe Blank,"Action, Comedy, Crime  ",107,1997,73,76,89572
+Cop Land,"Crime, Drama, Thriller  ",105,1997,69,64,88298
+Flubber,"Comedy, Family, Sci-Fi  ",93,1997,53,37,85626
+Dante's Peak,"Action, Adventure, Thriller  ",108,1997,60,43,84264
+Wag the Dog,"Comedy, Drama  ",97,1997,71,73,80128
+Speed 2: Cruise Control,"Action, Adventure, Crime  ",121,1997,39,23,76126
+Titanic,"Drama, Romance  ",194,1997,78,75,1072285
+Good Will Hunting,"Drama, Romance  ",126,1997,83,70,882633
+Life Is Beautiful,"Comedy, Drama, Romance  ",116,1997,86,59,638656
+L.A. Confidential,"Crime, Drama, Mystery  ",138,1997,82,90,541978
+Men in Black,"Action, Adventure, Comedy  ",98,1997,73,71,525446
+The Fifth Element,"Action, Adventure, Sci-Fi  ",126,1997,77,52,441890
+The Lost World: Jurassic Park,"Action, Adventure, Sci-Fi  ",129,1997,66,59,385802
+The Game,"Drama, Mystery, Thriller  ",129,1997,78,61,357560
+Face/Off,"Action, Crime, Sci-Fi  ",138,1997,72,82,355019
+Princess Mononoke,"Animation, Action, Adventure  ",134,1997,84,76,354013
+The Devil's Advocate,"Drama, Mystery, Thriller  ",144,1997,75,60,339992
+Jackie Brown,"Crime, Drama, Thriller  ",154,1997,75,64,323363
+Liar Liar,"Comedy, Fantasy  ",86,1997,69,70,287629
+Donnie Brasco,"Biography, Crime, Drama  ",127,1997,77,76,285956
+Gattaca,"Drama, Sci-Fi, Thriller  ",106,1997,78,64,285546
+Con Air,"Action, Crime, Thriller  ",115,1997,69,52,280903
+As Good as It Gets,"Comedy, Drama, Romance  ",139,1997,77,67,280653
+Starship Troopers,"Action, Adventure, Sci-Fi  ",129,1997,72,51,274479
+Contact,"Drama, Mystery, Sci-Fi  ",150,1997,75,62,259133
+Boogie Nights,Drama  ,155,1997,79,85,244247
+Batman & Robin,"Action, Sci-Fi  ",125,1997,38,28,237514
+Alien: Resurrection,"Action, Horror, Sci-Fi  ",109,1997,62,63,233141
+Austin Powers: International Man of Mystery,"Adventure, Comedy  ",89,1997,70,51,225392
+Cube,"Drama, Mystery, Sci-Fi  ",90,1997,72,61,216879
+Hercules,"Animation, Adventure, Comedy  ",93,1997,73,74,211263
+Tomorrow Never Dies,"Action, Adventure, Thriller  ",119,1997,65,52,183952
+Air Force One,"Action, Drama, Thriller  ",124,1997,65,61,183553
+Event Horizon,"Horror, Sci-Fi, Thriller  ",96,1997,67,35,163269
+Scream 2,"Horror, Mystery  ",120,1997,62,63,160333
+I Know What You Did Last Summer,"Horror, Mystery  ",101,1997,57,52,135736
+Lost Highway,"Mystery, Thriller  ",134,1997,76,52,133794
+Chasing Amy,"Comedy, Drama, Romance  ",113,1997,72,71,133498
+Seven Years in Tibet,"Adventure, Biography, Drama  ",136,1997,71,55,133440
+My Best Friend's Wedding,"Comedy, Drama, Romance  ",105,1997,63,50,132865
+Anastasia,"Animation, Adventure, Drama  ",94,1997,72,61,114550
+The Jackal,"Action, Crime, Drama  ",124,1997,64,36,108808
+The Full Monty,"Comedy, Drama  ",91,1997,72,75,100491
+Bean,"Adventure, Comedy, Family  ",89,1997,65,52,99391
+Anaconda,"Action, Adventure, Horror  ",89,1997,48,37,98529
+Conspiracy Theory,"Action, Mystery, Thriller  ",135,1997,67,49,95374
+Grosse Pointe Blank,"Action, Comedy, Crime  ",107,1997,73,76,89572
+Cop Land,"Crime, Drama, Thriller  ",105,1997,69,64,88298
+Flubber,"Comedy, Family, Sci-Fi  ",93,1997,53,37,85626
+Dante's Peak,"Action, Adventure, Thriller  ",108,1997,60,43,84264
+Wag the Dog,"Comedy, Drama  ",97,1997,71,73,80128
+Speed 2: Cruise Control,"Action, Adventure, Crime  ",121,1997,39,23,76126
+Titanic,"Drama, Romance  ",194,1997,78,75,1072285
+Good Will Hunting,"Drama, Romance  ",126,1997,83,70,882633
+Life Is Beautiful,"Comedy, Drama, Romance  ",116,1997,86,59,638656
+L.A. Confidential,"Crime, Drama, Mystery  ",138,1997,82,90,541978
+Men in Black,"Action, Adventure, Comedy  ",98,1997,73,71,525446
+The Fifth Element,"Action, Adventure, Sci-Fi  ",126,1997,77,52,441890
+The Lost World: Jurassic Park,"Action, Adventure, Sci-Fi  ",129,1997,66,59,385802
+The Game,"Drama, Mystery, Thriller  ",129,1997,78,61,357560
+Face/Off,"Action, Crime, Sci-Fi  ",138,1997,72,82,355019
+Princess Mononoke,"Animation, Action, Adventure  ",134,1997,84,76,354013
+The Devil's Advocate,"Drama, Mystery, Thriller  ",144,1997,75,60,339992
+Jackie Brown,"Crime, Drama, Thriller  ",154,1997,75,64,323363
+Liar Liar,"Comedy, Fantasy  ",86,1997,69,70,287629
+Donnie Brasco,"Biography, Crime, Drama  ",127,1997,77,76,285956
+Gattaca,"Drama, Sci-Fi, Thriller  ",106,1997,78,64,285546
+Con Air,"Action, Crime, Thriller  ",115,1997,69,52,280903
+As Good as It Gets,"Comedy, Drama, Romance  ",139,1997,77,67,280653
+Starship Troopers,"Action, Adventure, Sci-Fi  ",129,1997,72,51,274479
+Contact,"Drama, Mystery, Sci-Fi  ",150,1997,75,62,259133
+Boogie Nights,Drama  ,155,1997,79,85,244247
+Batman & Robin,"Action, Sci-Fi  ",125,1997,38,28,237514
+Alien: Resurrection,"Action, Horror, Sci-Fi  ",109,1997,62,63,233141
+Austin Powers: International Man of Mystery,"Adventure, Comedy  ",89,1997,70,51,225392
+Cube,"Drama, Mystery, Sci-Fi  ",90,1997,72,61,216879
+Hercules,"Animation, Adventure, Comedy  ",93,1997,73,74,211263
+Tomorrow Never Dies,"Action, Adventure, Thriller  ",119,1997,65,52,183952
+Air Force One,"Action, Drama, Thriller  ",124,1997,65,61,183553
+Event Horizon,"Horror, Sci-Fi, Thriller  ",96,1997,67,35,163269
+Scream 2,"Horror, Mystery  ",120,1997,62,63,160333
+I Know What You Did Last Summer,"Horror, Mystery  ",101,1997,57,52,135736
+Lost Highway,"Mystery, Thriller  ",134,1997,76,52,133794
+Chasing Amy,"Comedy, Drama, Romance  ",113,1997,72,71,133498
+Seven Years in Tibet,"Adventure, Biography, Drama  ",136,1997,71,55,133440
+My Best Friend's Wedding,"Comedy, Drama, Romance  ",105,1997,63,50,132865
+Anastasia,"Animation, Adventure, Drama  ",94,1997,72,61,114550
+The Jackal,"Action, Crime, Drama  ",124,1997,64,36,108808
+The Full Monty,"Comedy, Drama  ",91,1997,72,75,100491
+Bean,"Adventure, Comedy, Family  ",89,1997,65,52,99391
+Anaconda,"Action, Adventure, Horror  ",89,1997,48,37,98529
+Conspiracy Theory,"Action, Mystery, Thriller  ",135,1997,67,49,95374
+Grosse Pointe Blank,"Action, Comedy, Crime  ",107,1997,73,76,89572
+Cop Land,"Crime, Drama, Thriller  ",105,1997,69,64,88298
+Flubber,"Comedy, Family, Sci-Fi  ",93,1997,53,37,85626
+Dante's Peak,"Action, Adventure, Thriller  ",108,1997,60,43,84264
+Wag the Dog,"Comedy, Drama  ",97,1997,71,73,80128
+Speed 2: Cruise Control,"Action, Adventure, Crime  ",121,1997,39,23,76126
+Titanic,"Drama, Romance  ",194,1997,78,75,1072285
+Good Will Hunting,"Drama, Romance  ",126,1997,83,70,882633
+Life Is Beautiful,"Comedy, Drama, Romance  ",116,1997,86,59,638656
+L.A. Confidential,"Crime, Drama, Mystery  ",138,1997,82,90,541978
+Men in Black,"Action, Adventure, Comedy  ",98,1997,73,71,525446
+The Fifth Element,"Action, Adventure, Sci-Fi  ",126,1997,77,52,441890
+The Lost World: Jurassic Park,"Action, Adventure, Sci-Fi  ",129,1997,66,59,385802
+The Game,"Drama, Mystery, Thriller  ",129,1997,78,61,357560
+Face/Off,"Action, Crime, Sci-Fi  ",138,1997,72,82,355019
+Princess Mononoke,"Animation, Action, Adventure  ",134,1997,84,76,354013
+The Devil's Advocate,"Drama, Mystery, Thriller  ",144,1997,75,60,339992
+Jackie Brown,"Crime, Drama, Thriller  ",154,1997,75,64,323363
+Liar Liar,"Comedy, Fantasy  ",86,1997,69,70,287629
+Donnie Brasco,"Biography, Crime, Drama  ",127,1997,77,76,285956
+Gattaca,"Drama, Sci-Fi, Thriller  ",106,1997,78,64,285546
+Con Air,"Action, Crime, Thriller  ",115,1997,69,52,280903
+As Good as It Gets,"Comedy, Drama, Romance  ",139,1997,77,67,280653
+Starship Troopers,"Action, Adventure, Sci-Fi  ",129,1997,72,51,274479
+Contact,"Drama, Mystery, Sci-Fi  ",150,1997,75,62,259133
+Boogie Nights,Drama  ,155,1997,79,85,244247
+Batman & Robin,"Action, Sci-Fi  ",125,1997,38,28,237514
+Alien: Resurrection,"Action, Horror, Sci-Fi  ",109,1997,62,63,233141
+Austin Powers: International Man of Mystery,"Adventure, Comedy  ",89,1997,70,51,225392
+Cube,"Drama, Mystery, Sci-Fi  ",90,1997,72,61,216879
+Hercules,"Animation, Adventure, Comedy  ",93,1997,73,74,211263
+Tomorrow Never Dies,"Action, Adventure, Thriller  ",119,1997,65,52,183952
+Air Force One,"Action, Drama, Thriller  ",124,1997,65,61,183553
+Event Horizon,"Horror, Sci-Fi, Thriller  ",96,1997,67,35,163269
+Scream 2,"Horror, Mystery  ",120,1997,62,63,160333
+I Know What You Did Last Summer,"Horror, Mystery  ",101,1997,57,52,135736
+Lost Highway,"Mystery, Thriller  ",134,1997,76,52,133794
+Chasing Amy,"Comedy, Drama, Romance  ",113,1997,72,71,133498
+Seven Years in Tibet,"Adventure, Biography, Drama  ",136,1997,71,55,133440
+My Best Friend's Wedding,"Comedy, Drama, Romance  ",105,1997,63,50,132865
+Anastasia,"Animation, Adventure, Drama  ",94,1997,72,61,114550
+The Jackal,"Action, Crime, Drama  ",124,1997,64,36,108808
+The Full Monty,"Comedy, Drama  ",91,1997,72,75,100491
+Bean,"Adventure, Comedy, Family  ",89,1997,65,52,99391
+Anaconda,"Action, Adventure, Horror  ",89,1997,48,37,98529
+Conspiracy Theory,"Action, Mystery, Thriller  ",135,1997,67,49,95374
+Grosse Pointe Blank,"Action, Comedy, Crime  ",107,1997,73,76,89572
+Cop Land,"Crime, Drama, Thriller  ",105,1997,69,64,88298
+Flubber,"Comedy, Family, Sci-Fi  ",93,1997,53,37,85626
+Dante's Peak,"Action, Adventure, Thriller  ",108,1997,60,43,84264
+Wag the Dog,"Comedy, Drama  ",97,1997,71,73,80128
+Speed 2: Cruise Control,"Action, Adventure, Crime  ",121,1997,39,23,76126
+Titanic,"Drama, Romance  ",194,1997,78,75,1072285
+Good Will Hunting,"Drama, Romance  ",126,1997,83,70,882633
+Life Is Beautiful,"Comedy, Drama, Romance  ",116,1997,86,59,638656
+L.A. Confidential,"Crime, Drama, Mystery  ",138,1997,82,90,541978
+Men in Black,"Action, Adventure, Comedy  ",98,1997,73,71,525446
+The Fifth Element,"Action, Adventure, Sci-Fi  ",126,1997,77,52,441890
+The Lost World: Jurassic Park,"Action, Adventure, Sci-Fi  ",129,1997,66,59,385802
+The Game,"Drama, Mystery, Thriller  ",129,1997,78,61,357560
+Face/Off,"Action, Crime, Sci-Fi  ",138,1997,72,82,355019
+Princess Mononoke,"Animation, Action, Adventure  ",134,1997,84,76,354013
+The Devil's Advocate,"Drama, Mystery, Thriller  ",144,1997,75,60,339992
+Jackie Brown,"Crime, Drama, Thriller  ",154,1997,75,64,323363
+Liar Liar,"Comedy, Fantasy  ",86,1997,69,70,287629
+Donnie Brasco,"Biography, Crime, Drama  ",127,1997,77,76,285956
+Gattaca,"Drama, Sci-Fi, Thriller  ",106,1997,78,64,285546
+Con Air,"Action, Crime, Thriller  ",115,1997,69,52,280903
+As Good as It Gets,"Comedy, Drama, Romance  ",139,1997,77,67,280653
+Starship Troopers,"Action, Adventure, Sci-Fi  ",129,1997,72,51,274479
+Contact,"Drama, Mystery, Sci-Fi  ",150,1997,75,62,259133
+Boogie Nights,Drama  ,155,1997,79,85,244247
+Batman & Robin,"Action, Sci-Fi  ",125,1997,38,28,237514
+Alien: Resurrection,"Action, Horror, Sci-Fi  ",109,1997,62,63,233141
+Austin Powers: International Man of Mystery,"Adventure, Comedy  ",89,1997,70,51,225392
+Cube,"Drama, Mystery, Sci-Fi  ",90,1997,72,61,216879
+Hercules,"Animation, Adventure, Comedy  ",93,1997,73,74,211263
+Tomorrow Never Dies,"Action, Adventure, Thriller  ",119,1997,65,52,183952
+Air Force One,"Action, Drama, Thriller  ",124,1997,65,61,183553
+Event Horizon,"Horror, Sci-Fi, Thriller  ",96,1997,67,35,163269
+Scream 2,"Horror, Mystery  ",120,1997,62,63,160333
+I Know What You Did Last Summer,"Horror, Mystery  ",101,1997,57,52,135736
+Lost Highway,"Mystery, Thriller  ",134,1997,76,52,133794
+Chasing Amy,"Comedy, Drama, Romance  ",113,1997,72,71,133498
+Seven Years in Tibet,"Adventure, Biography, Drama  ",136,1997,71,55,133440
+My Best Friend's Wedding,"Comedy, Drama, Romance  ",105,1997,63,50,132865
+Anastasia,"Animation, Adventure, Drama  ",94,1997,72,61,114550
+The Jackal,"Action, Crime, Drama  ",124,1997,64,36,108808
+The Full Monty,"Comedy, Drama  ",91,1997,72,75,100491
+Bean,"Adventure, Comedy, Family  ",89,1997,65,52,99391
+Anaconda,"Action, Adventure, Horror  ",89,1997,48,37,98529
+Conspiracy Theory,"Action, Mystery, Thriller  ",135,1997,67,49,95374
+Grosse Pointe Blank,"Action, Comedy, Crime  ",107,1997,73,76,89572
+Cop Land,"Crime, Drama, Thriller  ",105,1997,69,64,88298
+Flubber,"Comedy, Family, Sci-Fi  ",93,1997,53,37,85626
+Dante's Peak,"Action, Adventure, Thriller  ",108,1997,60,43,84264
+Wag the Dog,"Comedy, Drama  ",97,1997,71,73,80128
+Speed 2: Cruise Control,"Action, Adventure, Crime  ",121,1997,39,23,76126
+Titanic,"Drama, Romance  ",194,1997,78,75,1072285
+Good Will Hunting,"Drama, Romance  ",126,1997,83,70,882633
+Life Is Beautiful,"Comedy, Drama, Romance  ",116,1997,86,59,638656
+L.A. Confidential,"Crime, Drama, Mystery  ",138,1997,82,90,541978
+Men in Black,"Action, Adventure, Comedy  ",98,1997,73,71,525446
+The Fifth Element,"Action, Adventure, Sci-Fi  ",126,1997,77,52,441890
+The Lost World: Jurassic Park,"Action, Adventure, Sci-Fi  ",129,1997,66,59,385802
+The Game,"Drama, Mystery, Thriller  ",129,1997,78,61,357560
+Face/Off,"Action, Crime, Sci-Fi  ",138,1997,72,82,355019
+Princess Mononoke,"Animation, Action, Adventure  ",134,1997,84,76,354013
+The Devil's Advocate,"Drama, Mystery, Thriller  ",144,1997,75,60,339992
+Jackie Brown,"Crime, Drama, Thriller  ",154,1997,75,64,323363
+Liar Liar,"Comedy, Fantasy  ",86,1997,69,70,287629
+Donnie Brasco,"Biography, Crime, Drama  ",127,1997,77,76,285956
+Gattaca,"Drama, Sci-Fi, Thriller  ",106,1997,78,64,285546
+Con Air,"Action, Crime, Thriller  ",115,1997,69,52,280903
+As Good as It Gets,"Comedy, Drama, Romance  ",139,1997,77,67,280653
+Starship Troopers,"Action, Adventure, Sci-Fi  ",129,1997,72,51,274479
+Contact,"Drama, Mystery, Sci-Fi  ",150,1997,75,62,259133
+Boogie Nights,Drama  ,155,1997,79,85,244247
+Batman & Robin,"Action, Sci-Fi  ",125,1997,38,28,237514
+Alien: Resurrection,"Action, Horror, Sci-Fi  ",109,1997,62,63,233141
+Austin Powers: International Man of Mystery,"Adventure, Comedy  ",89,1997,70,51,225392
+Cube,"Drama, Mystery, Sci-Fi  ",90,1997,72,61,216879
+Hercules,"Animation, Adventure, Comedy  ",93,1997,73,74,211263
+Tomorrow Never Dies,"Action, Adventure, Thriller  ",119,1997,65,52,183952
+Air Force One,"Action, Drama, Thriller  ",124,1997,65,61,183553
+Event Horizon,"Horror, Sci-Fi, Thriller  ",96,1997,67,35,163269
+Scream 2,"Horror, Mystery  ",120,1997,62,63,160333
+I Know What You Did Last Summer,"Horror, Mystery  ",101,1997,57,52,135736
+Lost Highway,"Mystery, Thriller  ",134,1997,76,52,133794
+Chasing Amy,"Comedy, Drama, Romance  ",113,1997,72,71,133498
+Seven Years in Tibet,"Adventure, Biography, Drama  ",136,1997,71,55,133440
+My Best Friend's Wedding,"Comedy, Drama, Romance  ",105,1997,63,50,132865
+Anastasia,"Animation, Adventure, Drama  ",94,1997,72,61,114550
+The Jackal,"Action, Crime, Drama  ",124,1997,64,36,108808
+The Full Monty,"Comedy, Drama  ",91,1997,72,75,100491
+Bean,"Adventure, Comedy, Family  ",89,1997,65,52,99391
+Anaconda,"Action, Adventure, Horror  ",89,1997,48,37,98529
+Conspiracy Theory,"Action, Mystery, Thriller  ",135,1997,67,49,95374
+Grosse Pointe Blank,"Action, Comedy, Crime  ",107,1997,73,76,89572
+Cop Land,"Crime, Drama, Thriller  ",105,1997,69,64,88298
+Flubber,"Comedy, Family, Sci-Fi  ",93,1997,53,37,85626
+Dante's Peak,"Action, Adventure, Thriller  ",108,1997,60,43,84264
+Wag the Dog,"Comedy, Drama  ",97,1997,71,73,80128
+Speed 2: Cruise Control,"Action, Adventure, Crime  ",121,1997,39,23,76126
+Titanic,"Drama, Romance  ",194,1997,78,75,1072285
+Good Will Hunting,"Drama, Romance  ",126,1997,83,70,882633
+Life Is Beautiful,"Comedy, Drama, Romance  ",116,1997,86,59,638656
+L.A. Confidential,"Crime, Drama, Mystery  ",138,1997,82,90,541978
+Men in Black,"Action, Adventure, Comedy  ",98,1997,73,71,525446
+The Fifth Element,"Action, Adventure, Sci-Fi  ",126,1997,77,52,441890
+The Lost World: Jurassic Park,"Action, Adventure, Sci-Fi  ",129,1997,66,59,385802
+The Game,"Drama, Mystery, Thriller  ",129,1997,78,61,357560
+Face/Off,"Action, Crime, Sci-Fi  ",138,1997,72,82,355019
+Princess Mononoke,"Animation, Action, Adventure  ",134,1997,84,76,354013
+The Devil's Advocate,"Drama, Mystery, Thriller  ",144,1997,75,60,339992
+Jackie Brown,"Crime, Drama, Thriller  ",154,1997,75,64,323363
+Liar Liar,"Comedy, Fantasy  ",86,1997,69,70,287629
+Donnie Brasco,"Biography, Crime, Drama  ",127,1997,77,76,285956
+Gattaca,"Drama, Sci-Fi, Thriller  ",106,1997,78,64,285546
+Con Air,"Action, Crime, Thriller  ",115,1997,69,52,280903
+As Good as It Gets,"Comedy, Drama, Romance  ",139,1997,77,67,280653
+Starship Troopers,"Action, Adventure, Sci-Fi  ",129,1997,72,51,274479
+Contact,"Drama, Mystery, Sci-Fi  ",150,1997,75,62,259133
+Boogie Nights,Drama  ,155,1997,79,85,244247
+Batman & Robin,"Action, Sci-Fi  ",125,1997,38,28,237514
+Alien: Resurrection,"Action, Horror, Sci-Fi  ",109,1997,62,63,233141
+Austin Powers: International Man of Mystery,"Adventure, Comedy  ",89,1997,70,51,225392
+Cube,"Drama, Mystery, Sci-Fi  ",90,1997,72,61,216879
+Hercules,"Animation, Adventure, Comedy  ",93,1997,73,74,211263
+Tomorrow Never Dies,"Action, Adventure, Thriller  ",119,1997,65,52,183952
+Air Force One,"Action, Drama, Thriller  ",124,1997,65,61,183553
+Event Horizon,"Horror, Sci-Fi, Thriller  ",96,1997,67,35,163269
+Scream 2,"Horror, Mystery  ",120,1997,62,63,160333
+I Know What You Did Last Summer,"Horror, Mystery  ",101,1997,57,52,135736
+Lost Highway,"Mystery, Thriller  ",134,1997,76,52,133794
+Chasing Amy,"Comedy, Drama, Romance  ",113,1997,72,71,133498
+Seven Years in Tibet,"Adventure, Biography, Drama  ",136,1997,71,55,133440
+My Best Friend's Wedding,"Comedy, Drama, Romance  ",105,1997,63,50,132865
+Anastasia,"Animation, Adventure, Drama  ",94,1997,72,61,114550
+The Jackal,"Action, Crime, Drama  ",124,1997,64,36,108808
+The Full Monty,"Comedy, Drama  ",91,1997,72,75,100491
+Bean,"Adventure, Comedy, Family  ",89,1997,65,52,99391
+Anaconda,"Action, Adventure, Horror  ",89,1997,48,37,98529
+Conspiracy Theory,"Action, Mystery, Thriller  ",135,1997,67,49,95374
+Grosse Pointe Blank,"Action, Comedy, Crime  ",107,1997,73,76,89572
+Cop Land,"Crime, Drama, Thriller  ",105,1997,69,64,88298
+Flubber,"Comedy, Family, Sci-Fi  ",93,1997,53,37,85626
+Dante's Peak,"Action, Adventure, Thriller  ",108,1997,60,43,84264
+Wag the Dog,"Comedy, Drama  ",97,1997,71,73,80128
+Speed 2: Cruise Control,"Action, Adventure, Crime  ",121,1997,39,23,76126
+Titanic,"Drama, Romance  ",194,1997,78,75,1072285
+Good Will Hunting,"Drama, Romance  ",126,1997,83,70,882633
+Life Is Beautiful,"Comedy, Drama, Romance  ",116,1997,86,59,638656
+L.A. Confidential,"Crime, Drama, Mystery  ",138,1997,82,90,541978
+Men in Black,"Action, Adventure, Comedy  ",98,1997,73,71,525446
+The Fifth Element,"Action, Adventure, Sci-Fi  ",126,1997,77,52,441890
+The Lost World: Jurassic Park,"Action, Adventure, Sci-Fi  ",129,1997,66,59,385802
+The Game,"Drama, Mystery, Thriller  ",129,1997,78,61,357560
+Face/Off,"Action, Crime, Sci-Fi  ",138,1997,72,82,355019
+Princess Mononoke,"Animation, Action, Adventure  ",134,1997,84,76,354013
+The Devil's Advocate,"Drama, Mystery, Thriller  ",144,1997,75,60,339992
+Jackie Brown,"Crime, Drama, Thriller  ",154,1997,75,64,323363
+Liar Liar,"Comedy, Fantasy  ",86,1997,69,70,287629
+Donnie Brasco,"Biography, Crime, Drama  ",127,1997,77,76,285956
+Gattaca,"Drama, Sci-Fi, Thriller  ",106,1997,78,64,285546
+Con Air,"Action, Crime, Thriller  ",115,1997,69,52,280903
+As Good as It Gets,"Comedy, Drama, Romance  ",139,1997,77,67,280653
+Starship Troopers,"Action, Adventure, Sci-Fi  ",129,1997,72,51,274479
+Contact,"Drama, Mystery, Sci-Fi  ",150,1997,75,62,259133
+Boogie Nights,Drama  ,155,1997,79,85,244247
+Batman & Robin,"Action, Sci-Fi  ",125,1997,38,28,237514
+Alien: Resurrection,"Action, Horror, Sci-Fi  ",109,1997,62,63,233141
+Austin Powers: International Man of Mystery,"Adventure, Comedy  ",89,1997,70,51,225392
+Cube,"Drama, Mystery, Sci-Fi  ",90,1997,72,61,216879
+Hercules,"Animation, Adventure, Comedy  ",93,1997,73,74,211263
+Tomorrow Never Dies,"Action, Adventure, Thriller  ",119,1997,65,52,183952
+Air Force One,"Action, Drama, Thriller  ",124,1997,65,61,183553
+Event Horizon,"Horror, Sci-Fi, Thriller  ",96,1997,67,35,163269
+Scream 2,"Horror, Mystery  ",120,1997,62,63,160333
+I Know What You Did Last Summer,"Horror, Mystery  ",101,1997,57,52,135736
+Lost Highway,"Mystery, Thriller  ",134,1997,76,52,133794
+Chasing Amy,"Comedy, Drama, Romance  ",113,1997,72,71,133498
+Seven Years in Tibet,"Adventure, Biography, Drama  ",136,1997,71,55,133440
+My Best Friend's Wedding,"Comedy, Drama, Romance  ",105,1997,63,50,132865
+Anastasia,"Animation, Adventure, Drama  ",94,1997,72,61,114550
+The Jackal,"Action, Crime, Drama  ",124,1997,64,36,108808
+The Full Monty,"Comedy, Drama  ",91,1997,72,75,100491
+Bean,"Adventure, Comedy, Family  ",89,1997,65,52,99391
+Anaconda,"Action, Adventure, Horror  ",89,1997,48,37,98529
+Conspiracy Theory,"Action, Mystery, Thriller  ",135,1997,67,49,95374
+Grosse Pointe Blank,"Action, Comedy, Crime  ",107,1997,73,76,89572
+Cop Land,"Crime, Drama, Thriller  ",105,1997,69,64,88298
+Flubber,"Comedy, Family, Sci-Fi  ",93,1997,53,37,85626
+Dante's Peak,"Action, Adventure, Thriller  ",108,1997,60,43,84264
+Wag the Dog,"Comedy, Drama  ",97,1997,71,73,80128
+Speed 2: Cruise Control,"Action, Adventure, Crime  ",121,1997,39,23,76126
+Titanic,"Drama, Romance  ",194,1997,78,75,1072285
+Good Will Hunting,"Drama, Romance  ",126,1997,83,70,882633
+Life Is Beautiful,"Comedy, Drama, Romance  ",116,1997,86,59,638656
+L.A. Confidential,"Crime, Drama, Mystery  ",138,1997,82,90,541978
+Men in Black,"Action, Adventure, Comedy  ",98,1997,73,71,525446
+The Fifth Element,"Action, Adventure, Sci-Fi  ",126,1997,77,52,441890
+The Lost World: Jurassic Park,"Action, Adventure, Sci-Fi  ",129,1997,66,59,385802
+The Game,"Drama, Mystery, Thriller  ",129,1997,78,61,357560
+Face/Off,"Action, Crime, Sci-Fi  ",138,1997,72,82,355019
+Princess Mononoke,"Animation, Action, Adventure  ",134,1997,84,76,354013
+The Devil's Advocate,"Drama, Mystery, Thriller  ",144,1997,75,60,339992
+Jackie Brown,"Crime, Drama, Thriller  ",154,1997,75,64,323363
+Liar Liar,"Comedy, Fantasy  ",86,1997,69,70,287629
+Donnie Brasco,"Biography, Crime, Drama  ",127,1997,77,76,285956
+Gattaca,"Drama, Sci-Fi, Thriller  ",106,1997,78,64,285546
+Con Air,"Action, Crime, Thriller  ",115,1997,69,52,280903
+As Good as It Gets,"Comedy, Drama, Romance  ",139,1997,77,67,280653
+Starship Troopers,"Action, Adventure, Sci-Fi  ",129,1997,72,51,274479
+Contact,"Drama, Mystery, Sci-Fi  ",150,1997,75,62,259133
+Boogie Nights,Drama  ,155,1997,79,85,244247
+Batman & Robin,"Action, Sci-Fi  ",125,1997,38,28,237514
+Alien: Resurrection,"Action, Horror, Sci-Fi  ",109,1997,62,63,233141
+Austin Powers: International Man of Mystery,"Adventure, Comedy  ",89,1997,70,51,225392
+Cube,"Drama, Mystery, Sci-Fi  ",90,1997,72,61,216879
+Hercules,"Animation, Adventure, Comedy  ",93,1997,73,74,211263
+Tomorrow Never Dies,"Action, Adventure, Thriller  ",119,1997,65,52,183952
+Air Force One,"Action, Drama, Thriller  ",124,1997,65,61,183553
+Event Horizon,"Horror, Sci-Fi, Thriller  ",96,1997,67,35,163269
+Scream 2,"Horror, Mystery  ",120,1997,62,63,160333
+I Know What You Did Last Summer,"Horror, Mystery  ",101,1997,57,52,135736
+Lost Highway,"Mystery, Thriller  ",134,1997,76,52,133794
+Chasing Amy,"Comedy, Drama, Romance  ",113,1997,72,71,133498
+Seven Years in Tibet,"Adventure, Biography, Drama  ",136,1997,71,55,133440
+My Best Friend's Wedding,"Comedy, Drama, Romance  ",105,1997,63,50,132865
+Anastasia,"Animation, Adventure, Drama  ",94,1997,72,61,114550
+The Jackal,"Action, Crime, Drama  ",124,1997,64,36,108808
+The Full Monty,"Comedy, Drama  ",91,1997,72,75,100491
+Bean,"Adventure, Comedy, Family  ",89,1997,65,52,99391
+Anaconda,"Action, Adventure, Horror  ",89,1997,48,37,98529
+Conspiracy Theory,"Action, Mystery, Thriller  ",135,1997,67,49,95374
+Grosse Pointe Blank,"Action, Comedy, Crime  ",107,1997,73,76,89572
+Cop Land,"Crime, Drama, Thriller  ",105,1997,69,64,88298
+Flubber,"Comedy, Family, Sci-Fi  ",93,1997,53,37,85626
+Dante's Peak,"Action, Adventure, Thriller  ",108,1997,60,43,84264
+Wag the Dog,"Comedy, Drama  ",97,1997,71,73,80128
+Speed 2: Cruise Control,"Action, Adventure, Crime  ",121,1997,39,23,76126
+Titanic,"Drama, Romance  ",194,1997,78,75,1072285
+Good Will Hunting,"Drama, Romance  ",126,1997,83,70,882633
+Life Is Beautiful,"Comedy, Drama, Romance  ",116,1997,86,59,638656
+L.A. Confidential,"Crime, Drama, Mystery  ",138,1997,82,90,541978
+Men in Black,"Action, Adventure, Comedy  ",98,1997,73,71,525446
+The Fifth Element,"Action, Adventure, Sci-Fi  ",126,1997,77,52,441890
+The Lost World: Jurassic Park,"Action, Adventure, Sci-Fi  ",129,1997,66,59,385802
+The Game,"Drama, Mystery, Thriller  ",129,1997,78,61,357560
+Face/Off,"Action, Crime, Sci-Fi  ",138,1997,72,82,355019
+Princess Mononoke,"Animation, Action, Adventure  ",134,1997,84,76,354013
+The Devil's Advocate,"Drama, Mystery, Thriller  ",144,1997,75,60,339992
+Jackie Brown,"Crime, Drama, Thriller  ",154,1997,75,64,323363
+Liar Liar,"Comedy, Fantasy  ",86,1997,69,70,287629
+Donnie Brasco,"Biography, Crime, Drama  ",127,1997,77,76,285956
+Gattaca,"Drama, Sci-Fi, Thriller  ",106,1997,78,64,285546
+Con Air,"Action, Crime, Thriller  ",115,1997,69,52,280903
+As Good as It Gets,"Comedy, Drama, Romance  ",139,1997,77,67,280653
+Starship Troopers,"Action, Adventure, Sci-Fi  ",129,1997,72,51,274479
+Contact,"Drama, Mystery, Sci-Fi  ",150,1997,75,62,259133
+Boogie Nights,Drama  ,155,1997,79,85,244247
+Batman & Robin,"Action, Sci-Fi  ",125,1997,38,28,237514
+Alien: Resurrection,"Action, Horror, Sci-Fi  ",109,1997,62,63,233141
+Austin Powers: International Man of Mystery,"Adventure, Comedy  ",89,1997,70,51,225392
+Cube,"Drama, Mystery, Sci-Fi  ",90,1997,72,61,216879
+Hercules,"Animation, Adventure, Comedy  ",93,1997,73,74,211263
+Tomorrow Never Dies,"Action, Adventure, Thriller  ",119,1997,65,52,183952
+Air Force One,"Action, Drama, Thriller  ",124,1997,65,61,183553
+Event Horizon,"Horror, Sci-Fi, Thriller  ",96,1997,67,35,163269
+Scream 2,"Horror, Mystery  ",120,1997,62,63,160333
+I Know What You Did Last Summer,"Horror, Mystery  ",101,1997,57,52,135736
+Lost Highway,"Mystery, Thriller  ",134,1997,76,52,133794
+Chasing Amy,"Comedy, Drama, Romance  ",113,1997,72,71,133498
+Seven Years in Tibet,"Adventure, Biography, Drama  ",136,1997,71,55,133440
+My Best Friend's Wedding,"Comedy, Drama, Romance  ",105,1997,63,50,132865
+Anastasia,"Animation, Adventure, Drama  ",94,1997,72,61,114550
+The Jackal,"Action, Crime, Drama  ",124,1997,64,36,108808
+The Full Monty,"Comedy, Drama  ",91,1997,72,75,100491
+Bean,"Adventure, Comedy, Family  ",89,1997,65,52,99391
+Anaconda,"Action, Adventure, Horror  ",89,1997,48,37,98529
+Conspiracy Theory,"Action, Mystery, Thriller  ",135,1997,67,49,95374
+Grosse Pointe Blank,"Action, Comedy, Crime  ",107,1997,73,76,89572
+Cop Land,"Crime, Drama, Thriller  ",105,1997,69,64,88298
+Flubber,"Comedy, Family, Sci-Fi  ",93,1997,53,37,85626
+Dante's Peak,"Action, Adventure, Thriller  ",108,1997,60,43,84264
+Wag the Dog,"Comedy, Drama  ",97,1997,71,73,80128
+Speed 2: Cruise Control,"Action, Adventure, Crime  ",121,1997,39,23,76126

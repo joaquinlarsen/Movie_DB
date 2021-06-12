@@ -1,0 +1,496 @@
+Movie,Genre,Duration,Year,Imdb_rating,Metascore_rating,Votes
+Harry Potter and the Deathly Hallows: Part 2,"Adventure, Drama, Fantasy  ",130,2011,81,85,785189
+The Intouchables,"Biography, Comedy, Drama  ",112,2011,85,57,780928
+Thor,"Action, Adventure, Fantasy  ",115,2011,70,57,766070
+Captain America: The First Avenger,"Action, Adventure, Sci-Fi  ",124,2011,69,66,763114
+X-Men: First Class,"Action, Adventure, Sci-Fi  ",131,2011,77,65,654697
+Drive,"Crime, Drama  ",100,2011,78,78,584097
+Limitless,"Sci-Fi, Thriller  ",105,2011,74,59,535328
+Rise of the Planet of the Apes,"Action, Drama, Sci-Fi  ",105,2011,75,68,502050
+Source Code,"Action, Drama, Mystery  ",93,2011,75,74,492755
+Pirates of the Caribbean: On Stranger Tides,"Action, Adventure, Fantasy  ",136,2011,66,45,489419
+"Crazy, Stupid, Love.","Comedy, Drama, Romance  ",118,2011,74,68,484198
+The Hangover Part II,Comedy  ,102,2011,64,44,470517
+Mission: Impossible - Ghost Protocol,"Action, Adventure, Thriller  ",132,2011,74,73,463830
+Warrior,"Action, Drama, Sport  ",140,2011,81,71,443374
+The Help,Drama  ,146,2011,80,62,434818
+The Girl with the Dragon Tattoo,"Crime, Drama, Mystery  ",158,2011,78,71,432407
+Sherlock Holmes: A Game of Shadows,"Action, Adventure, Mystery  ",129,2011,75,48,427391
+Horrible Bosses,"Comedy, Crime  ",98,2011,68,57,426675
+Midnight in Paris,"Comedy, Fantasy, Romance  ",100,2011,77,81,395430
+Transformers: Dark of the Moon,"Action, Adventure, Sci-Fi  ",154,2011,62,42,389038
+The Cabin in the Woods,"Horror, Mystery, Thriller  ",95,2011,70,72,384165
+Moneyball,"Biography, Drama, Sport  ",133,2011,76,87,381320
+In Time,"Action, Sci-Fi, Thriller  ",109,2011,67,53,377555
+Fast Five,"Action, Adventure, Crime  ",130,2011,73,66,358896
+Friends with Benefits,"Comedy, Romance  ",109,2011,65,63,346408
+Super 8,"Mystery, Sci-Fi, Thriller  ",112,2011,70,72,341957
+50/50,"Comedy, Drama, Romance  ",100,2011,76,72,318671
+Hugo,"Drama, Family, Fantasy  ",126,2011,75,83,309299
+Real Steel,"Action, Drama, Sci-Fi  ",127,2011,70,56,303269
+Contagion,"Drama, Thriller  ",106,2011,67,70,288517
+Bridesmaids,"Comedy, Romance  ",125,2011,68,75,274684
+Green Lantern,"Action, Adventure, Sci-Fi  ",114,2011,55,39,270662
+Kung Fu Panda 2,"Animation, Action, Adventure  ",90,2011,72,67,259819
+Unknown,"Action, Mystery, Thriller  ",113,2011,68,56,252351
+The Adjustment Bureau,"Romance, Sci-Fi, Thriller  ",106,2011,70,60,247481
+The Grey,"Action, Adventure, Drama  ",117,2011,68,64,243354
+Rango,"Animation, Adventure, Comedy  ",107,2011,72,75,243052
+Paul,"Adventure, Comedy, Sci-Fi  ",104,2011,70,57,239287
+Sucker Punch,"Action, Adventure, Fantasy  ",110,2011,60,33,234793
+The Descendants,"Comedy, Drama  ",115,2011,73,84,234776
+The Artist,"Comedy, Drama, Romance  ",100,2011,79,89,233493
+I Am Number Four,"Action, Adventure, Sci-Fi  ",111,2011,61,36,229495
+The Twilight Saga: Breaking Dawn - Part 1,"Adventure, Drama, Fantasy  ",117,2011,49,45,227443
+Just Go with It,"Comedy, Romance  ",117,2011,64,33,225938
+A Separation,Drama  ,123,2011,83,95,225882
+Harry Potter and the Deathly Hallows: Part 2,"Adventure, Drama, Fantasy  ",130,2011,81,85,785189
+The Intouchables,"Biography, Comedy, Drama  ",112,2011,85,57,780928
+Thor,"Action, Adventure, Fantasy  ",115,2011,70,57,766070
+Captain America: The First Avenger,"Action, Adventure, Sci-Fi  ",124,2011,69,66,763114
+X-Men: First Class,"Action, Adventure, Sci-Fi  ",131,2011,77,65,654697
+Drive,"Crime, Drama  ",100,2011,78,78,584097
+Limitless,"Sci-Fi, Thriller  ",105,2011,74,59,535328
+Rise of the Planet of the Apes,"Action, Drama, Sci-Fi  ",105,2011,75,68,502050
+Source Code,"Action, Drama, Mystery  ",93,2011,75,74,492755
+Pirates of the Caribbean: On Stranger Tides,"Action, Adventure, Fantasy  ",136,2011,66,45,489419
+"Crazy, Stupid, Love.","Comedy, Drama, Romance  ",118,2011,74,68,484198
+The Hangover Part II,Comedy  ,102,2011,64,44,470517
+Mission: Impossible - Ghost Protocol,"Action, Adventure, Thriller  ",132,2011,74,73,463830
+Warrior,"Action, Drama, Sport  ",140,2011,81,71,443374
+The Help,Drama  ,146,2011,80,62,434818
+The Girl with the Dragon Tattoo,"Crime, Drama, Mystery  ",158,2011,78,71,432407
+Sherlock Holmes: A Game of Shadows,"Action, Adventure, Mystery  ",129,2011,75,48,427391
+Horrible Bosses,"Comedy, Crime  ",98,2011,68,57,426675
+Midnight in Paris,"Comedy, Fantasy, Romance  ",100,2011,77,81,395430
+Transformers: Dark of the Moon,"Action, Adventure, Sci-Fi  ",154,2011,62,42,389038
+The Cabin in the Woods,"Horror, Mystery, Thriller  ",95,2011,70,72,384165
+Moneyball,"Biography, Drama, Sport  ",133,2011,76,87,381320
+In Time,"Action, Sci-Fi, Thriller  ",109,2011,67,53,377555
+Fast Five,"Action, Adventure, Crime  ",130,2011,73,66,358896
+Friends with Benefits,"Comedy, Romance  ",109,2011,65,63,346408
+Super 8,"Mystery, Sci-Fi, Thriller  ",112,2011,70,72,341957
+50/50,"Comedy, Drama, Romance  ",100,2011,76,72,318671
+Hugo,"Drama, Family, Fantasy  ",126,2011,75,83,309299
+Real Steel,"Action, Drama, Sci-Fi  ",127,2011,70,56,303269
+Contagion,"Drama, Thriller  ",106,2011,67,70,288517
+Bridesmaids,"Comedy, Romance  ",125,2011,68,75,274684
+Green Lantern,"Action, Adventure, Sci-Fi  ",114,2011,55,39,270662
+Kung Fu Panda 2,"Animation, Action, Adventure  ",90,2011,72,67,259819
+Unknown,"Action, Mystery, Thriller  ",113,2011,68,56,252351
+The Adjustment Bureau,"Romance, Sci-Fi, Thriller  ",106,2011,70,60,247481
+The Grey,"Action, Adventure, Drama  ",117,2011,68,64,243354
+Rango,"Animation, Adventure, Comedy  ",107,2011,72,75,243052
+Paul,"Adventure, Comedy, Sci-Fi  ",104,2011,70,57,239287
+Sucker Punch,"Action, Adventure, Fantasy  ",110,2011,60,33,234793
+The Descendants,"Comedy, Drama  ",115,2011,73,84,234776
+The Artist,"Comedy, Drama, Romance  ",100,2011,79,89,233493
+I Am Number Four,"Action, Adventure, Sci-Fi  ",111,2011,61,36,229495
+The Twilight Saga: Breaking Dawn - Part 1,"Adventure, Drama, Fantasy  ",117,2011,49,45,227443
+Just Go with It,"Comedy, Romance  ",117,2011,64,33,225938
+A Separation,Drama  ,123,2011,83,95,225882
+Harry Potter and the Deathly Hallows: Part 2,"Adventure, Drama, Fantasy  ",130,2011,81,85,785189
+The Intouchables,"Biography, Comedy, Drama  ",112,2011,85,57,780928
+Thor,"Action, Adventure, Fantasy  ",115,2011,70,57,766070
+Captain America: The First Avenger,"Action, Adventure, Sci-Fi  ",124,2011,69,66,763114
+X-Men: First Class,"Action, Adventure, Sci-Fi  ",131,2011,77,65,654697
+Drive,"Crime, Drama  ",100,2011,78,78,584097
+Limitless,"Sci-Fi, Thriller  ",105,2011,74,59,535328
+Rise of the Planet of the Apes,"Action, Drama, Sci-Fi  ",105,2011,75,68,502050
+Source Code,"Action, Drama, Mystery  ",93,2011,75,74,492755
+Pirates of the Caribbean: On Stranger Tides,"Action, Adventure, Fantasy  ",136,2011,66,45,489419
+"Crazy, Stupid, Love.","Comedy, Drama, Romance  ",118,2011,74,68,484198
+The Hangover Part II,Comedy  ,102,2011,64,44,470517
+Mission: Impossible - Ghost Protocol,"Action, Adventure, Thriller  ",132,2011,74,73,463830
+Warrior,"Action, Drama, Sport  ",140,2011,81,71,443374
+The Help,Drama  ,146,2011,80,62,434818
+The Girl with the Dragon Tattoo,"Crime, Drama, Mystery  ",158,2011,78,71,432407
+Sherlock Holmes: A Game of Shadows,"Action, Adventure, Mystery  ",129,2011,75,48,427391
+Horrible Bosses,"Comedy, Crime  ",98,2011,68,57,426675
+Midnight in Paris,"Comedy, Fantasy, Romance  ",100,2011,77,81,395430
+Transformers: Dark of the Moon,"Action, Adventure, Sci-Fi  ",154,2011,62,42,389038
+The Cabin in the Woods,"Horror, Mystery, Thriller  ",95,2011,70,72,384165
+Moneyball,"Biography, Drama, Sport  ",133,2011,76,87,381320
+In Time,"Action, Sci-Fi, Thriller  ",109,2011,67,53,377555
+Fast Five,"Action, Adventure, Crime  ",130,2011,73,66,358896
+Friends with Benefits,"Comedy, Romance  ",109,2011,65,63,346408
+Super 8,"Mystery, Sci-Fi, Thriller  ",112,2011,70,72,341957
+50/50,"Comedy, Drama, Romance  ",100,2011,76,72,318671
+Hugo,"Drama, Family, Fantasy  ",126,2011,75,83,309299
+Real Steel,"Action, Drama, Sci-Fi  ",127,2011,70,56,303269
+Contagion,"Drama, Thriller  ",106,2011,67,70,288517
+Bridesmaids,"Comedy, Romance  ",125,2011,68,75,274684
+Green Lantern,"Action, Adventure, Sci-Fi  ",114,2011,55,39,270662
+Kung Fu Panda 2,"Animation, Action, Adventure  ",90,2011,72,67,259819
+Unknown,"Action, Mystery, Thriller  ",113,2011,68,56,252351
+The Adjustment Bureau,"Romance, Sci-Fi, Thriller  ",106,2011,70,60,247481
+The Grey,"Action, Adventure, Drama  ",117,2011,68,64,243354
+Rango,"Animation, Adventure, Comedy  ",107,2011,72,75,243052
+Paul,"Adventure, Comedy, Sci-Fi  ",104,2011,70,57,239287
+Sucker Punch,"Action, Adventure, Fantasy  ",110,2011,60,33,234793
+The Descendants,"Comedy, Drama  ",115,2011,73,84,234776
+The Artist,"Comedy, Drama, Romance  ",100,2011,79,89,233493
+I Am Number Four,"Action, Adventure, Sci-Fi  ",111,2011,61,36,229495
+The Twilight Saga: Breaking Dawn - Part 1,"Adventure, Drama, Fantasy  ",117,2011,49,45,227443
+Just Go with It,"Comedy, Romance  ",117,2011,64,33,225938
+A Separation,Drama  ,123,2011,83,95,225882
+Harry Potter and the Deathly Hallows: Part 2,"Adventure, Drama, Fantasy  ",130,2011,81,85,785189
+The Intouchables,"Biography, Comedy, Drama  ",112,2011,85,57,780928
+Thor,"Action, Adventure, Fantasy  ",115,2011,70,57,766070
+Captain America: The First Avenger,"Action, Adventure, Sci-Fi  ",124,2011,69,66,763114
+X-Men: First Class,"Action, Adventure, Sci-Fi  ",131,2011,77,65,654697
+Drive,"Crime, Drama  ",100,2011,78,78,584097
+Limitless,"Sci-Fi, Thriller  ",105,2011,74,59,535328
+Rise of the Planet of the Apes,"Action, Drama, Sci-Fi  ",105,2011,75,68,502050
+Source Code,"Action, Drama, Mystery  ",93,2011,75,74,492755
+Pirates of the Caribbean: On Stranger Tides,"Action, Adventure, Fantasy  ",136,2011,66,45,489419
+"Crazy, Stupid, Love.","Comedy, Drama, Romance  ",118,2011,74,68,484198
+The Hangover Part II,Comedy  ,102,2011,64,44,470517
+Mission: Impossible - Ghost Protocol,"Action, Adventure, Thriller  ",132,2011,74,73,463830
+Warrior,"Action, Drama, Sport  ",140,2011,81,71,443374
+The Help,Drama  ,146,2011,80,62,434818
+The Girl with the Dragon Tattoo,"Crime, Drama, Mystery  ",158,2011,78,71,432407
+Sherlock Holmes: A Game of Shadows,"Action, Adventure, Mystery  ",129,2011,75,48,427391
+Horrible Bosses,"Comedy, Crime  ",98,2011,68,57,426675
+Midnight in Paris,"Comedy, Fantasy, Romance  ",100,2011,77,81,395430
+Transformers: Dark of the Moon,"Action, Adventure, Sci-Fi  ",154,2011,62,42,389038
+The Cabin in the Woods,"Horror, Mystery, Thriller  ",95,2011,70,72,384165
+Moneyball,"Biography, Drama, Sport  ",133,2011,76,87,381320
+In Time,"Action, Sci-Fi, Thriller  ",109,2011,67,53,377555
+Fast Five,"Action, Adventure, Crime  ",130,2011,73,66,358896
+Friends with Benefits,"Comedy, Romance  ",109,2011,65,63,346408
+Super 8,"Mystery, Sci-Fi, Thriller  ",112,2011,70,72,341957
+50/50,"Comedy, Drama, Romance  ",100,2011,76,72,318671
+Hugo,"Drama, Family, Fantasy  ",126,2011,75,83,309299
+Real Steel,"Action, Drama, Sci-Fi  ",127,2011,70,56,303269
+Contagion,"Drama, Thriller  ",106,2011,67,70,288517
+Bridesmaids,"Comedy, Romance  ",125,2011,68,75,274684
+Green Lantern,"Action, Adventure, Sci-Fi  ",114,2011,55,39,270662
+Kung Fu Panda 2,"Animation, Action, Adventure  ",90,2011,72,67,259819
+Unknown,"Action, Mystery, Thriller  ",113,2011,68,56,252351
+The Adjustment Bureau,"Romance, Sci-Fi, Thriller  ",106,2011,70,60,247481
+The Grey,"Action, Adventure, Drama  ",117,2011,68,64,243354
+Rango,"Animation, Adventure, Comedy  ",107,2011,72,75,243052
+Paul,"Adventure, Comedy, Sci-Fi  ",104,2011,70,57,239287
+Sucker Punch,"Action, Adventure, Fantasy  ",110,2011,60,33,234793
+The Descendants,"Comedy, Drama  ",115,2011,73,84,234776
+The Artist,"Comedy, Drama, Romance  ",100,2011,79,89,233493
+I Am Number Four,"Action, Adventure, Sci-Fi  ",111,2011,61,36,229495
+The Twilight Saga: Breaking Dawn - Part 1,"Adventure, Drama, Fantasy  ",117,2011,49,45,227443
+Just Go with It,"Comedy, Romance  ",117,2011,64,33,225938
+A Separation,Drama  ,123,2011,83,95,225882
+Harry Potter and the Deathly Hallows: Part 2,"Adventure, Drama, Fantasy  ",130,2011,81,85,785189
+The Intouchables,"Biography, Comedy, Drama  ",112,2011,85,57,780928
+Thor,"Action, Adventure, Fantasy  ",115,2011,70,57,766070
+Captain America: The First Avenger,"Action, Adventure, Sci-Fi  ",124,2011,69,66,763114
+X-Men: First Class,"Action, Adventure, Sci-Fi  ",131,2011,77,65,654697
+Drive,"Crime, Drama  ",100,2011,78,78,584097
+Limitless,"Sci-Fi, Thriller  ",105,2011,74,59,535328
+Rise of the Planet of the Apes,"Action, Drama, Sci-Fi  ",105,2011,75,68,502050
+Source Code,"Action, Drama, Mystery  ",93,2011,75,74,492755
+Pirates of the Caribbean: On Stranger Tides,"Action, Adventure, Fantasy  ",136,2011,66,45,489419
+"Crazy, Stupid, Love.","Comedy, Drama, Romance  ",118,2011,74,68,484198
+The Hangover Part II,Comedy  ,102,2011,64,44,470517
+Mission: Impossible - Ghost Protocol,"Action, Adventure, Thriller  ",132,2011,74,73,463830
+Warrior,"Action, Drama, Sport  ",140,2011,81,71,443374
+The Help,Drama  ,146,2011,80,62,434818
+The Girl with the Dragon Tattoo,"Crime, Drama, Mystery  ",158,2011,78,71,432407
+Sherlock Holmes: A Game of Shadows,"Action, Adventure, Mystery  ",129,2011,75,48,427391
+Horrible Bosses,"Comedy, Crime  ",98,2011,68,57,426675
+Midnight in Paris,"Comedy, Fantasy, Romance  ",100,2011,77,81,395430
+Transformers: Dark of the Moon,"Action, Adventure, Sci-Fi  ",154,2011,62,42,389038
+The Cabin in the Woods,"Horror, Mystery, Thriller  ",95,2011,70,72,384165
+Moneyball,"Biography, Drama, Sport  ",133,2011,76,87,381320
+In Time,"Action, Sci-Fi, Thriller  ",109,2011,67,53,377555
+Fast Five,"Action, Adventure, Crime  ",130,2011,73,66,358896
+Friends with Benefits,"Comedy, Romance  ",109,2011,65,63,346408
+Super 8,"Mystery, Sci-Fi, Thriller  ",112,2011,70,72,341957
+50/50,"Comedy, Drama, Romance  ",100,2011,76,72,318671
+Hugo,"Drama, Family, Fantasy  ",126,2011,75,83,309299
+Real Steel,"Action, Drama, Sci-Fi  ",127,2011,70,56,303269
+Contagion,"Drama, Thriller  ",106,2011,67,70,288517
+Bridesmaids,"Comedy, Romance  ",125,2011,68,75,274684
+Green Lantern,"Action, Adventure, Sci-Fi  ",114,2011,55,39,270662
+Kung Fu Panda 2,"Animation, Action, Adventure  ",90,2011,72,67,259819
+Unknown,"Action, Mystery, Thriller  ",113,2011,68,56,252351
+The Adjustment Bureau,"Romance, Sci-Fi, Thriller  ",106,2011,70,60,247481
+The Grey,"Action, Adventure, Drama  ",117,2011,68,64,243354
+Rango,"Animation, Adventure, Comedy  ",107,2011,72,75,243052
+Paul,"Adventure, Comedy, Sci-Fi  ",104,2011,70,57,239287
+Sucker Punch,"Action, Adventure, Fantasy  ",110,2011,60,33,234793
+The Descendants,"Comedy, Drama  ",115,2011,73,84,234776
+The Artist,"Comedy, Drama, Romance  ",100,2011,79,89,233493
+I Am Number Four,"Action, Adventure, Sci-Fi  ",111,2011,61,36,229495
+The Twilight Saga: Breaking Dawn - Part 1,"Adventure, Drama, Fantasy  ",117,2011,49,45,227443
+Just Go with It,"Comedy, Romance  ",117,2011,64,33,225938
+A Separation,Drama  ,123,2011,83,95,225882
+Harry Potter and the Deathly Hallows: Part 2,"Adventure, Drama, Fantasy  ",130,2011,81,85,785189
+The Intouchables,"Biography, Comedy, Drama  ",112,2011,85,57,780928
+Thor,"Action, Adventure, Fantasy  ",115,2011,70,57,766070
+Captain America: The First Avenger,"Action, Adventure, Sci-Fi  ",124,2011,69,66,763114
+X-Men: First Class,"Action, Adventure, Sci-Fi  ",131,2011,77,65,654697
+Drive,"Crime, Drama  ",100,2011,78,78,584097
+Limitless,"Sci-Fi, Thriller  ",105,2011,74,59,535328
+Rise of the Planet of the Apes,"Action, Drama, Sci-Fi  ",105,2011,75,68,502050
+Source Code,"Action, Drama, Mystery  ",93,2011,75,74,492755
+Pirates of the Caribbean: On Stranger Tides,"Action, Adventure, Fantasy  ",136,2011,66,45,489419
+"Crazy, Stupid, Love.","Comedy, Drama, Romance  ",118,2011,74,68,484198
+The Hangover Part II,Comedy  ,102,2011,64,44,470517
+Mission: Impossible - Ghost Protocol,"Action, Adventure, Thriller  ",132,2011,74,73,463830
+Warrior,"Action, Drama, Sport  ",140,2011,81,71,443374
+The Help,Drama  ,146,2011,80,62,434818
+The Girl with the Dragon Tattoo,"Crime, Drama, Mystery  ",158,2011,78,71,432407
+Sherlock Holmes: A Game of Shadows,"Action, Adventure, Mystery  ",129,2011,75,48,427391
+Horrible Bosses,"Comedy, Crime  ",98,2011,68,57,426675
+Midnight in Paris,"Comedy, Fantasy, Romance  ",100,2011,77,81,395430
+Transformers: Dark of the Moon,"Action, Adventure, Sci-Fi  ",154,2011,62,42,389038
+The Cabin in the Woods,"Horror, Mystery, Thriller  ",95,2011,70,72,384165
+Moneyball,"Biography, Drama, Sport  ",133,2011,76,87,381320
+In Time,"Action, Sci-Fi, Thriller  ",109,2011,67,53,377555
+Fast Five,"Action, Adventure, Crime  ",130,2011,73,66,358896
+Friends with Benefits,"Comedy, Romance  ",109,2011,65,63,346408
+Super 8,"Mystery, Sci-Fi, Thriller  ",112,2011,70,72,341957
+50/50,"Comedy, Drama, Romance  ",100,2011,76,72,318671
+Hugo,"Drama, Family, Fantasy  ",126,2011,75,83,309299
+Real Steel,"Action, Drama, Sci-Fi  ",127,2011,70,56,303269
+Contagion,"Drama, Thriller  ",106,2011,67,70,288517
+Bridesmaids,"Comedy, Romance  ",125,2011,68,75,274684
+Green Lantern,"Action, Adventure, Sci-Fi  ",114,2011,55,39,270662
+Kung Fu Panda 2,"Animation, Action, Adventure  ",90,2011,72,67,259819
+Unknown,"Action, Mystery, Thriller  ",113,2011,68,56,252351
+The Adjustment Bureau,"Romance, Sci-Fi, Thriller  ",106,2011,70,60,247481
+The Grey,"Action, Adventure, Drama  ",117,2011,68,64,243354
+Rango,"Animation, Adventure, Comedy  ",107,2011,72,75,243052
+Paul,"Adventure, Comedy, Sci-Fi  ",104,2011,70,57,239287
+Sucker Punch,"Action, Adventure, Fantasy  ",110,2011,60,33,234793
+The Descendants,"Comedy, Drama  ",115,2011,73,84,234776
+The Artist,"Comedy, Drama, Romance  ",100,2011,79,89,233493
+I Am Number Four,"Action, Adventure, Sci-Fi  ",111,2011,61,36,229495
+The Twilight Saga: Breaking Dawn - Part 1,"Adventure, Drama, Fantasy  ",117,2011,49,45,227443
+Just Go with It,"Comedy, Romance  ",117,2011,64,33,225938
+A Separation,Drama  ,123,2011,83,95,225882
+Harry Potter and the Deathly Hallows: Part 2,"Adventure, Drama, Fantasy  ",130,2011,81,85,785189
+The Intouchables,"Biography, Comedy, Drama  ",112,2011,85,57,780928
+Thor,"Action, Adventure, Fantasy  ",115,2011,70,57,766070
+Captain America: The First Avenger,"Action, Adventure, Sci-Fi  ",124,2011,69,66,763114
+X-Men: First Class,"Action, Adventure, Sci-Fi  ",131,2011,77,65,654697
+Drive,"Crime, Drama  ",100,2011,78,78,584097
+Limitless,"Sci-Fi, Thriller  ",105,2011,74,59,535328
+Rise of the Planet of the Apes,"Action, Drama, Sci-Fi  ",105,2011,75,68,502050
+Source Code,"Action, Drama, Mystery  ",93,2011,75,74,492755
+Pirates of the Caribbean: On Stranger Tides,"Action, Adventure, Fantasy  ",136,2011,66,45,489419
+"Crazy, Stupid, Love.","Comedy, Drama, Romance  ",118,2011,74,68,484198
+The Hangover Part II,Comedy  ,102,2011,64,44,470517
+Mission: Impossible - Ghost Protocol,"Action, Adventure, Thriller  ",132,2011,74,73,463830
+Warrior,"Action, Drama, Sport  ",140,2011,81,71,443374
+The Help,Drama  ,146,2011,80,62,434818
+The Girl with the Dragon Tattoo,"Crime, Drama, Mystery  ",158,2011,78,71,432407
+Sherlock Holmes: A Game of Shadows,"Action, Adventure, Mystery  ",129,2011,75,48,427391
+Horrible Bosses,"Comedy, Crime  ",98,2011,68,57,426675
+Midnight in Paris,"Comedy, Fantasy, Romance  ",100,2011,77,81,395430
+Transformers: Dark of the Moon,"Action, Adventure, Sci-Fi  ",154,2011,62,42,389038
+The Cabin in the Woods,"Horror, Mystery, Thriller  ",95,2011,70,72,384165
+Moneyball,"Biography, Drama, Sport  ",133,2011,76,87,381320
+In Time,"Action, Sci-Fi, Thriller  ",109,2011,67,53,377555
+Fast Five,"Action, Adventure, Crime  ",130,2011,73,66,358896
+Friends with Benefits,"Comedy, Romance  ",109,2011,65,63,346408
+Super 8,"Mystery, Sci-Fi, Thriller  ",112,2011,70,72,341957
+50/50,"Comedy, Drama, Romance  ",100,2011,76,72,318671
+Hugo,"Drama, Family, Fantasy  ",126,2011,75,83,309299
+Real Steel,"Action, Drama, Sci-Fi  ",127,2011,70,56,303269
+Contagion,"Drama, Thriller  ",106,2011,67,70,288517
+Bridesmaids,"Comedy, Romance  ",125,2011,68,75,274684
+Green Lantern,"Action, Adventure, Sci-Fi  ",114,2011,55,39,270662
+Kung Fu Panda 2,"Animation, Action, Adventure  ",90,2011,72,67,259819
+Unknown,"Action, Mystery, Thriller  ",113,2011,68,56,252351
+The Adjustment Bureau,"Romance, Sci-Fi, Thriller  ",106,2011,70,60,247481
+The Grey,"Action, Adventure, Drama  ",117,2011,68,64,243354
+Rango,"Animation, Adventure, Comedy  ",107,2011,72,75,243052
+Paul,"Adventure, Comedy, Sci-Fi  ",104,2011,70,57,239287
+Sucker Punch,"Action, Adventure, Fantasy  ",110,2011,60,33,234793
+The Descendants,"Comedy, Drama  ",115,2011,73,84,234776
+The Artist,"Comedy, Drama, Romance  ",100,2011,79,89,233493
+I Am Number Four,"Action, Adventure, Sci-Fi  ",111,2011,61,36,229495
+The Twilight Saga: Breaking Dawn - Part 1,"Adventure, Drama, Fantasy  ",117,2011,49,45,227443
+Just Go with It,"Comedy, Romance  ",117,2011,64,33,225938
+A Separation,Drama  ,123,2011,83,95,225882
+Harry Potter and the Deathly Hallows: Part 2,"Adventure, Drama, Fantasy  ",130,2011,81,85,785189
+The Intouchables,"Biography, Comedy, Drama  ",112,2011,85,57,780928
+Thor,"Action, Adventure, Fantasy  ",115,2011,70,57,766070
+Captain America: The First Avenger,"Action, Adventure, Sci-Fi  ",124,2011,69,66,763114
+X-Men: First Class,"Action, Adventure, Sci-Fi  ",131,2011,77,65,654697
+Drive,"Crime, Drama  ",100,2011,78,78,584097
+Limitless,"Sci-Fi, Thriller  ",105,2011,74,59,535328
+Rise of the Planet of the Apes,"Action, Drama, Sci-Fi  ",105,2011,75,68,502050
+Source Code,"Action, Drama, Mystery  ",93,2011,75,74,492755
+Pirates of the Caribbean: On Stranger Tides,"Action, Adventure, Fantasy  ",136,2011,66,45,489419
+"Crazy, Stupid, Love.","Comedy, Drama, Romance  ",118,2011,74,68,484198
+The Hangover Part II,Comedy  ,102,2011,64,44,470517
+Mission: Impossible - Ghost Protocol,"Action, Adventure, Thriller  ",132,2011,74,73,463830
+Warrior,"Action, Drama, Sport  ",140,2011,81,71,443374
+The Help,Drama  ,146,2011,80,62,434818
+The Girl with the Dragon Tattoo,"Crime, Drama, Mystery  ",158,2011,78,71,432407
+Sherlock Holmes: A Game of Shadows,"Action, Adventure, Mystery  ",129,2011,75,48,427391
+Horrible Bosses,"Comedy, Crime  ",98,2011,68,57,426675
+Midnight in Paris,"Comedy, Fantasy, Romance  ",100,2011,77,81,395430
+Transformers: Dark of the Moon,"Action, Adventure, Sci-Fi  ",154,2011,62,42,389038
+The Cabin in the Woods,"Horror, Mystery, Thriller  ",95,2011,70,72,384165
+Moneyball,"Biography, Drama, Sport  ",133,2011,76,87,381320
+In Time,"Action, Sci-Fi, Thriller  ",109,2011,67,53,377555
+Fast Five,"Action, Adventure, Crime  ",130,2011,73,66,358896
+Friends with Benefits,"Comedy, Romance  ",109,2011,65,63,346408
+Super 8,"Mystery, Sci-Fi, Thriller  ",112,2011,70,72,341957
+50/50,"Comedy, Drama, Romance  ",100,2011,76,72,318671
+Hugo,"Drama, Family, Fantasy  ",126,2011,75,83,309299
+Real Steel,"Action, Drama, Sci-Fi  ",127,2011,70,56,303269
+Contagion,"Drama, Thriller  ",106,2011,67,70,288517
+Bridesmaids,"Comedy, Romance  ",125,2011,68,75,274684
+Green Lantern,"Action, Adventure, Sci-Fi  ",114,2011,55,39,270662
+Kung Fu Panda 2,"Animation, Action, Adventure  ",90,2011,72,67,259819
+Unknown,"Action, Mystery, Thriller  ",113,2011,68,56,252351
+The Adjustment Bureau,"Romance, Sci-Fi, Thriller  ",106,2011,70,60,247481
+The Grey,"Action, Adventure, Drama  ",117,2011,68,64,243354
+Rango,"Animation, Adventure, Comedy  ",107,2011,72,75,243052
+Paul,"Adventure, Comedy, Sci-Fi  ",104,2011,70,57,239287
+Sucker Punch,"Action, Adventure, Fantasy  ",110,2011,60,33,234793
+The Descendants,"Comedy, Drama  ",115,2011,73,84,234776
+The Artist,"Comedy, Drama, Romance  ",100,2011,79,89,233493
+I Am Number Four,"Action, Adventure, Sci-Fi  ",111,2011,61,36,229495
+The Twilight Saga: Breaking Dawn - Part 1,"Adventure, Drama, Fantasy  ",117,2011,49,45,227443
+Just Go with It,"Comedy, Romance  ",117,2011,64,33,225938
+A Separation,Drama  ,123,2011,83,95,225882
+Harry Potter and the Deathly Hallows: Part 2,"Adventure, Drama, Fantasy  ",130,2011,81,85,785189
+The Intouchables,"Biography, Comedy, Drama  ",112,2011,85,57,780928
+Thor,"Action, Adventure, Fantasy  ",115,2011,70,57,766070
+Captain America: The First Avenger,"Action, Adventure, Sci-Fi  ",124,2011,69,66,763114
+X-Men: First Class,"Action, Adventure, Sci-Fi  ",131,2011,77,65,654697
+Drive,"Crime, Drama  ",100,2011,78,78,584097
+Limitless,"Sci-Fi, Thriller  ",105,2011,74,59,535328
+Rise of the Planet of the Apes,"Action, Drama, Sci-Fi  ",105,2011,75,68,502050
+Source Code,"Action, Drama, Mystery  ",93,2011,75,74,492755
+Pirates of the Caribbean: On Stranger Tides,"Action, Adventure, Fantasy  ",136,2011,66,45,489419
+"Crazy, Stupid, Love.","Comedy, Drama, Romance  ",118,2011,74,68,484198
+The Hangover Part II,Comedy  ,102,2011,64,44,470517
+Mission: Impossible - Ghost Protocol,"Action, Adventure, Thriller  ",132,2011,74,73,463830
+Warrior,"Action, Drama, Sport  ",140,2011,81,71,443374
+The Help,Drama  ,146,2011,80,62,434818
+The Girl with the Dragon Tattoo,"Crime, Drama, Mystery  ",158,2011,78,71,432407
+Sherlock Holmes: A Game of Shadows,"Action, Adventure, Mystery  ",129,2011,75,48,427391
+Horrible Bosses,"Comedy, Crime  ",98,2011,68,57,426675
+Midnight in Paris,"Comedy, Fantasy, Romance  ",100,2011,77,81,395430
+Transformers: Dark of the Moon,"Action, Adventure, Sci-Fi  ",154,2011,62,42,389038
+The Cabin in the Woods,"Horror, Mystery, Thriller  ",95,2011,70,72,384165
+Moneyball,"Biography, Drama, Sport  ",133,2011,76,87,381320
+In Time,"Action, Sci-Fi, Thriller  ",109,2011,67,53,377555
+Fast Five,"Action, Adventure, Crime  ",130,2011,73,66,358896
+Friends with Benefits,"Comedy, Romance  ",109,2011,65,63,346408
+Super 8,"Mystery, Sci-Fi, Thriller  ",112,2011,70,72,341957
+50/50,"Comedy, Drama, Romance  ",100,2011,76,72,318671
+Hugo,"Drama, Family, Fantasy  ",126,2011,75,83,309299
+Real Steel,"Action, Drama, Sci-Fi  ",127,2011,70,56,303269
+Contagion,"Drama, Thriller  ",106,2011,67,70,288517
+Bridesmaids,"Comedy, Romance  ",125,2011,68,75,274684
+Green Lantern,"Action, Adventure, Sci-Fi  ",114,2011,55,39,270662
+Kung Fu Panda 2,"Animation, Action, Adventure  ",90,2011,72,67,259819
+Unknown,"Action, Mystery, Thriller  ",113,2011,68,56,252351
+The Adjustment Bureau,"Romance, Sci-Fi, Thriller  ",106,2011,70,60,247481
+The Grey,"Action, Adventure, Drama  ",117,2011,68,64,243354
+Rango,"Animation, Adventure, Comedy  ",107,2011,72,75,243052
+Paul,"Adventure, Comedy, Sci-Fi  ",104,2011,70,57,239287
+Sucker Punch,"Action, Adventure, Fantasy  ",110,2011,60,33,234793
+The Descendants,"Comedy, Drama  ",115,2011,73,84,234776
+The Artist,"Comedy, Drama, Romance  ",100,2011,79,89,233493
+I Am Number Four,"Action, Adventure, Sci-Fi  ",111,2011,61,36,229495
+The Twilight Saga: Breaking Dawn - Part 1,"Adventure, Drama, Fantasy  ",117,2011,49,45,227443
+Just Go with It,"Comedy, Romance  ",117,2011,64,33,225938
+A Separation,Drama  ,123,2011,83,95,225882
+Harry Potter and the Deathly Hallows: Part 2,"Adventure, Drama, Fantasy  ",130,2011,81,85,785189
+The Intouchables,"Biography, Comedy, Drama  ",112,2011,85,57,780928
+Thor,"Action, Adventure, Fantasy  ",115,2011,70,57,766070
+Captain America: The First Avenger,"Action, Adventure, Sci-Fi  ",124,2011,69,66,763114
+X-Men: First Class,"Action, Adventure, Sci-Fi  ",131,2011,77,65,654697
+Drive,"Crime, Drama  ",100,2011,78,78,584097
+Limitless,"Sci-Fi, Thriller  ",105,2011,74,59,535328
+Rise of the Planet of the Apes,"Action, Drama, Sci-Fi  ",105,2011,75,68,502050
+Source Code,"Action, Drama, Mystery  ",93,2011,75,74,492755
+Pirates of the Caribbean: On Stranger Tides,"Action, Adventure, Fantasy  ",136,2011,66,45,489419
+"Crazy, Stupid, Love.","Comedy, Drama, Romance  ",118,2011,74,68,484198
+The Hangover Part II,Comedy  ,102,2011,64,44,470517
+Mission: Impossible - Ghost Protocol,"Action, Adventure, Thriller  ",132,2011,74,73,463830
+Warrior,"Action, Drama, Sport  ",140,2011,81,71,443374
+The Help,Drama  ,146,2011,80,62,434818
+The Girl with the Dragon Tattoo,"Crime, Drama, Mystery  ",158,2011,78,71,432407
+Sherlock Holmes: A Game of Shadows,"Action, Adventure, Mystery  ",129,2011,75,48,427391
+Horrible Bosses,"Comedy, Crime  ",98,2011,68,57,426675
+Midnight in Paris,"Comedy, Fantasy, Romance  ",100,2011,77,81,395430
+Transformers: Dark of the Moon,"Action, Adventure, Sci-Fi  ",154,2011,62,42,389038
+The Cabin in the Woods,"Horror, Mystery, Thriller  ",95,2011,70,72,384165
+Moneyball,"Biography, Drama, Sport  ",133,2011,76,87,381320
+In Time,"Action, Sci-Fi, Thriller  ",109,2011,67,53,377555
+Fast Five,"Action, Adventure, Crime  ",130,2011,73,66,358896
+Friends with Benefits,"Comedy, Romance  ",109,2011,65,63,346408
+Super 8,"Mystery, Sci-Fi, Thriller  ",112,2011,70,72,341957
+50/50,"Comedy, Drama, Romance  ",100,2011,76,72,318671
+Hugo,"Drama, Family, Fantasy  ",126,2011,75,83,309299
+Real Steel,"Action, Drama, Sci-Fi  ",127,2011,70,56,303269
+Contagion,"Drama, Thriller  ",106,2011,67,70,288517
+Bridesmaids,"Comedy, Romance  ",125,2011,68,75,274684
+Green Lantern,"Action, Adventure, Sci-Fi  ",114,2011,55,39,270662
+Kung Fu Panda 2,"Animation, Action, Adventure  ",90,2011,72,67,259819
+Unknown,"Action, Mystery, Thriller  ",113,2011,68,56,252351
+The Adjustment Bureau,"Romance, Sci-Fi, Thriller  ",106,2011,70,60,247481
+The Grey,"Action, Adventure, Drama  ",117,2011,68,64,243354
+Rango,"Animation, Adventure, Comedy  ",107,2011,72,75,243052
+Paul,"Adventure, Comedy, Sci-Fi  ",104,2011,70,57,239287
+Sucker Punch,"Action, Adventure, Fantasy  ",110,2011,60,33,234793
+The Descendants,"Comedy, Drama  ",115,2011,73,84,234776
+The Artist,"Comedy, Drama, Romance  ",100,2011,79,89,233493
+I Am Number Four,"Action, Adventure, Sci-Fi  ",111,2011,61,36,229495
+The Twilight Saga: Breaking Dawn - Part 1,"Adventure, Drama, Fantasy  ",117,2011,49,45,227443
+Just Go with It,"Comedy, Romance  ",117,2011,64,33,225938
+A Separation,Drama  ,123,2011,83,95,225882
+Harry Potter and the Deathly Hallows: Part 2,"Adventure, Drama, Fantasy  ",130,2011,81,85,785189
+The Intouchables,"Biography, Comedy, Drama  ",112,2011,85,57,780928
+Thor,"Action, Adventure, Fantasy  ",115,2011,70,57,766070
+Captain America: The First Avenger,"Action, Adventure, Sci-Fi  ",124,2011,69,66,763114
+X-Men: First Class,"Action, Adventure, Sci-Fi  ",131,2011,77,65,654697
+Drive,"Crime, Drama  ",100,2011,78,78,584097
+Limitless,"Sci-Fi, Thriller  ",105,2011,74,59,535328
+Rise of the Planet of the Apes,"Action, Drama, Sci-Fi  ",105,2011,75,68,502050
+Source Code,"Action, Drama, Mystery  ",93,2011,75,74,492755
+Pirates of the Caribbean: On Stranger Tides,"Action, Adventure, Fantasy  ",136,2011,66,45,489419
+"Crazy, Stupid, Love.","Comedy, Drama, Romance  ",118,2011,74,68,484198
+The Hangover Part II,Comedy  ,102,2011,64,44,470517
+Mission: Impossible - Ghost Protocol,"Action, Adventure, Thriller  ",132,2011,74,73,463830
+Warrior,"Action, Drama, Sport  ",140,2011,81,71,443374
+The Help,Drama  ,146,2011,80,62,434818
+The Girl with the Dragon Tattoo,"Crime, Drama, Mystery  ",158,2011,78,71,432407
+Sherlock Holmes: A Game of Shadows,"Action, Adventure, Mystery  ",129,2011,75,48,427391
+Horrible Bosses,"Comedy, Crime  ",98,2011,68,57,426675
+Midnight in Paris,"Comedy, Fantasy, Romance  ",100,2011,77,81,395430
+Transformers: Dark of the Moon,"Action, Adventure, Sci-Fi  ",154,2011,62,42,389038
+The Cabin in the Woods,"Horror, Mystery, Thriller  ",95,2011,70,72,384165
+Moneyball,"Biography, Drama, Sport  ",133,2011,76,87,381320
+In Time,"Action, Sci-Fi, Thriller  ",109,2011,67,53,377555
+Fast Five,"Action, Adventure, Crime  ",130,2011,73,66,358896
+Friends with Benefits,"Comedy, Romance  ",109,2011,65,63,346408
+Super 8,"Mystery, Sci-Fi, Thriller  ",112,2011,70,72,341957
+50/50,"Comedy, Drama, Romance  ",100,2011,76,72,318671
+Hugo,"Drama, Family, Fantasy  ",126,2011,75,83,309299
+Real Steel,"Action, Drama, Sci-Fi  ",127,2011,70,56,303269
+Contagion,"Drama, Thriller  ",106,2011,67,70,288517
+Bridesmaids,"Comedy, Romance  ",125,2011,68,75,274684
+Green Lantern,"Action, Adventure, Sci-Fi  ",114,2011,55,39,270662
+Kung Fu Panda 2,"Animation, Action, Adventure  ",90,2011,72,67,259819
+Unknown,"Action, Mystery, Thriller  ",113,2011,68,56,252351
+The Adjustment Bureau,"Romance, Sci-Fi, Thriller  ",106,2011,70,60,247481
+The Grey,"Action, Adventure, Drama  ",117,2011,68,64,243354
+Rango,"Animation, Adventure, Comedy  ",107,2011,72,75,243052
+Paul,"Adventure, Comedy, Sci-Fi  ",104,2011,70,57,239287
+Sucker Punch,"Action, Adventure, Fantasy  ",110,2011,60,33,234793
+The Descendants,"Comedy, Drama  ",115,2011,73,84,234776
+The Artist,"Comedy, Drama, Romance  ",100,2011,79,89,233493
+I Am Number Four,"Action, Adventure, Sci-Fi  ",111,2011,61,36,229495
+The Twilight Saga: Breaking Dawn - Part 1,"Adventure, Drama, Fantasy  ",117,2011,49,45,227443
+Just Go with It,"Comedy, Romance  ",117,2011,64,33,225938
+A Separation,Drama  ,123,2011,83,95,225882

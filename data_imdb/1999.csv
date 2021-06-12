@@ -1,0 +1,507 @@
+Movie,Genre,Duration,Year,Imdb_rating,Metascore_rating,Votes
+Fight Club,Drama  ,139,1999,88,66,1898688
+The Matrix,"Action, Sci-Fi  ",136,1999,87,73,1716224
+The Green Mile,"Crime, Drama, Fantasy  ",189,1999,86,61,1177517
+American Beauty,Drama  ,122,1999,83,84,1087235
+The Sixth Sense,"Drama, Mystery, Thriller  ",107,1999,81,64,926461
+Star Wars: Episode I - The Phantom Menace,"Action, Adventure, Fantasy  ",136,1999,65,51,744700
+Toy Story 2,"Animation, Adventure, Comedy  ",92,1999,79,88,537162
+The Mummy,"Action, Adventure, Fantasy  ",124,1999,70,48,398278
+American Pie,Comedy  ,95,1999,70,58,382806
+Sleepy Hollow,"Fantasy, Horror, Mystery  ",105,1999,73,65,337105
+Being John Malkovich,"Comedy, Drama, Fantasy  ",113,1999,77,90,317661
+Eyes Wide Shut,"Drama, Mystery, Thriller  ",159,1999,74,68,310736
+10 Things I Hate About You,"Comedy, Drama, Romance  ",97,1999,73,70,306439
+Magnolia,Drama  ,188,1999,80,77,293772
+Notting Hill,"Comedy, Drama, Romance  ",124,1999,71,68,283824
+Office Space,Comedy  ,89,1999,77,68,246863
+The Blair Witch Project,"Horror, Mystery  ",81,1999,65,81,237470
+The Boondock Saints,"Action, Crime, Thriller  ",108,1999,78,44,229702
+Austin Powers: The Spy Who Shagged Me,"Action, Adventure, Comedy  ",95,1999,66,59,219996
+Dogma,"Adventure, Comedy, Drama  ",130,1999,73,62,209790
+Tarzan,"Animation, Adventure, Family  ",88,1999,73,79,208390
+Big Daddy,"Comedy, Drama  ",93,1999,64,41,203436
+"South Park: Bigger, Longer & Uncut","Animation, Comedy, Fantasy  ",81,1999,77,73,194247
+The World Is Not Enough,"Action, Adventure, Crime  ",128,1999,64,57,190825
+The Talented Mr. Ripley,"Crime, Drama, Thriller  ",139,1999,74,76,185859
+Cruel Intentions,"Drama, Romance  ",97,1999,68,56,182278
+The Iron Giant,"Animation, Action, Adventure  ",86,1999,80,85,176075
+The Ninth Gate,"Mystery, Thriller  ",133,1999,67,44,171070
+"Girl, Interrupted","Biography, Drama  ",127,1999,73,51,168266
+The Insider,"Biography, Drama, Thriller  ",157,1999,78,84,162274
+Three Kings,"Action, Adventure, Comedy  ",114,1999,71,82,162159
+The Bone Collector,"Crime, Drama, Mystery  ",118,1999,67,45,158029
+Wild Wild West,"Action, Comedy, Sci-Fi  ",106,1999,49,38,154570
+Galaxy Quest,"Adventure, Comedy, Sci-Fi  ",102,1999,73,70,153516
+Analyze This,"Comedy, Crime  ",109,1999,67,61,147633
+The Virgin Suicides,"Drama, Romance  ",97,1999,72,76,146689
+Payback,"Action, Crime, Drama  ",100,1999,71,46,133072
+Stuart Little,"Adventure, Comedy, Family  ",84,1999,59,61,127654
+Deep Blue Sea,"Action, Adventure, Sci-Fi  ",105,1999,59,54,126961
+8MM,"Crime, Drama, Mystery  ",123,1999,65,19,126023
+Man on the Moon,"Biography, Comedy, Drama  ",118,1999,74,58,125800
+The 13th Warrior,"Action, Adventure, History  ",102,1999,66,42,118223
+Any Given Sunday,"Drama, Sport  ",162,1999,69,52,113584
+Bicentennial Man,"Comedy, Drama, Sci-Fi  ",132,1999,69,42,112047
+Entrapment,"Action, Crime, Romance  ",113,1999,63,54,109497
+End of Days,"Action, Fantasy, Horror  ",122,1999,58,33,106448
+Fight Club,Drama  ,139,1999,88,66,1898688
+The Matrix,"Action, Sci-Fi  ",136,1999,87,73,1716224
+The Green Mile,"Crime, Drama, Fantasy  ",189,1999,86,61,1177517
+American Beauty,Drama  ,122,1999,83,84,1087235
+The Sixth Sense,"Drama, Mystery, Thriller  ",107,1999,81,64,926461
+Star Wars: Episode I - The Phantom Menace,"Action, Adventure, Fantasy  ",136,1999,65,51,744700
+Toy Story 2,"Animation, Adventure, Comedy  ",92,1999,79,88,537162
+The Mummy,"Action, Adventure, Fantasy  ",124,1999,70,48,398278
+American Pie,Comedy  ,95,1999,70,58,382806
+Sleepy Hollow,"Fantasy, Horror, Mystery  ",105,1999,73,65,337105
+Being John Malkovich,"Comedy, Drama, Fantasy  ",113,1999,77,90,317661
+Eyes Wide Shut,"Drama, Mystery, Thriller  ",159,1999,74,68,310736
+10 Things I Hate About You,"Comedy, Drama, Romance  ",97,1999,73,70,306439
+Magnolia,Drama  ,188,1999,80,77,293772
+Notting Hill,"Comedy, Drama, Romance  ",124,1999,71,68,283824
+Office Space,Comedy  ,89,1999,77,68,246863
+The Blair Witch Project,"Horror, Mystery  ",81,1999,65,81,237470
+The Boondock Saints,"Action, Crime, Thriller  ",108,1999,78,44,229702
+Austin Powers: The Spy Who Shagged Me,"Action, Adventure, Comedy  ",95,1999,66,59,219996
+Dogma,"Adventure, Comedy, Drama  ",130,1999,73,62,209790
+Tarzan,"Animation, Adventure, Family  ",88,1999,73,79,208390
+Big Daddy,"Comedy, Drama  ",93,1999,64,41,203436
+"South Park: Bigger, Longer & Uncut","Animation, Comedy, Fantasy  ",81,1999,77,73,194247
+The World Is Not Enough,"Action, Adventure, Crime  ",128,1999,64,57,190825
+The Talented Mr. Ripley,"Crime, Drama, Thriller  ",139,1999,74,76,185859
+Cruel Intentions,"Drama, Romance  ",97,1999,68,56,182278
+The Iron Giant,"Animation, Action, Adventure  ",86,1999,80,85,176075
+The Ninth Gate,"Mystery, Thriller  ",133,1999,67,44,171070
+"Girl, Interrupted","Biography, Drama  ",127,1999,73,51,168266
+The Insider,"Biography, Drama, Thriller  ",157,1999,78,84,162274
+Three Kings,"Action, Adventure, Comedy  ",114,1999,71,82,162159
+The Bone Collector,"Crime, Drama, Mystery  ",118,1999,67,45,158029
+Wild Wild West,"Action, Comedy, Sci-Fi  ",106,1999,49,38,154570
+Galaxy Quest,"Adventure, Comedy, Sci-Fi  ",102,1999,73,70,153516
+Analyze This,"Comedy, Crime  ",109,1999,67,61,147633
+The Virgin Suicides,"Drama, Romance  ",97,1999,72,76,146689
+Payback,"Action, Crime, Drama  ",100,1999,71,46,133072
+Stuart Little,"Adventure, Comedy, Family  ",84,1999,59,61,127654
+Deep Blue Sea,"Action, Adventure, Sci-Fi  ",105,1999,59,54,126961
+8MM,"Crime, Drama, Mystery  ",123,1999,65,19,126023
+Man on the Moon,"Biography, Comedy, Drama  ",118,1999,74,58,125800
+The 13th Warrior,"Action, Adventure, History  ",102,1999,66,42,118223
+Any Given Sunday,"Drama, Sport  ",162,1999,69,52,113584
+Bicentennial Man,"Comedy, Drama, Sci-Fi  ",132,1999,69,42,112047
+Entrapment,"Action, Crime, Romance  ",113,1999,63,54,109497
+End of Days,"Action, Fantasy, Horror  ",122,1999,58,33,106448
+Fight Club,Drama  ,139,1999,88,66,1898688
+The Matrix,"Action, Sci-Fi  ",136,1999,87,73,1716224
+The Green Mile,"Crime, Drama, Fantasy  ",189,1999,86,61,1177517
+American Beauty,Drama  ,122,1999,83,84,1087235
+The Sixth Sense,"Drama, Mystery, Thriller  ",107,1999,81,64,926461
+Star Wars: Episode I - The Phantom Menace,"Action, Adventure, Fantasy  ",136,1999,65,51,744700
+Toy Story 2,"Animation, Adventure, Comedy  ",92,1999,79,88,537162
+The Mummy,"Action, Adventure, Fantasy  ",124,1999,70,48,398278
+American Pie,Comedy  ,95,1999,70,58,382806
+Sleepy Hollow,"Fantasy, Horror, Mystery  ",105,1999,73,65,337105
+Being John Malkovich,"Comedy, Drama, Fantasy  ",113,1999,77,90,317661
+Eyes Wide Shut,"Drama, Mystery, Thriller  ",159,1999,74,68,310736
+10 Things I Hate About You,"Comedy, Drama, Romance  ",97,1999,73,70,306439
+Magnolia,Drama  ,188,1999,80,77,293772
+Notting Hill,"Comedy, Drama, Romance  ",124,1999,71,68,283824
+Office Space,Comedy  ,89,1999,77,68,246863
+The Blair Witch Project,"Horror, Mystery  ",81,1999,65,81,237470
+The Boondock Saints,"Action, Crime, Thriller  ",108,1999,78,44,229702
+Austin Powers: The Spy Who Shagged Me,"Action, Adventure, Comedy  ",95,1999,66,59,219996
+Dogma,"Adventure, Comedy, Drama  ",130,1999,73,62,209790
+Tarzan,"Animation, Adventure, Family  ",88,1999,73,79,208390
+Big Daddy,"Comedy, Drama  ",93,1999,64,41,203436
+"South Park: Bigger, Longer & Uncut","Animation, Comedy, Fantasy  ",81,1999,77,73,194247
+The World Is Not Enough,"Action, Adventure, Crime  ",128,1999,64,57,190825
+The Talented Mr. Ripley,"Crime, Drama, Thriller  ",139,1999,74,76,185859
+Cruel Intentions,"Drama, Romance  ",97,1999,68,56,182278
+The Iron Giant,"Animation, Action, Adventure  ",86,1999,80,85,176075
+The Ninth Gate,"Mystery, Thriller  ",133,1999,67,44,171070
+"Girl, Interrupted","Biography, Drama  ",127,1999,73,51,168266
+The Insider,"Biography, Drama, Thriller  ",157,1999,78,84,162274
+Three Kings,"Action, Adventure, Comedy  ",114,1999,71,82,162159
+The Bone Collector,"Crime, Drama, Mystery  ",118,1999,67,45,158029
+Wild Wild West,"Action, Comedy, Sci-Fi  ",106,1999,49,38,154570
+Galaxy Quest,"Adventure, Comedy, Sci-Fi  ",102,1999,73,70,153516
+Analyze This,"Comedy, Crime  ",109,1999,67,61,147633
+The Virgin Suicides,"Drama, Romance  ",97,1999,72,76,146689
+Payback,"Action, Crime, Drama  ",100,1999,71,46,133072
+Stuart Little,"Adventure, Comedy, Family  ",84,1999,59,61,127654
+Deep Blue Sea,"Action, Adventure, Sci-Fi  ",105,1999,59,54,126961
+8MM,"Crime, Drama, Mystery  ",123,1999,65,19,126023
+Man on the Moon,"Biography, Comedy, Drama  ",118,1999,74,58,125800
+The 13th Warrior,"Action, Adventure, History  ",102,1999,66,42,118223
+Any Given Sunday,"Drama, Sport  ",162,1999,69,52,113584
+Bicentennial Man,"Comedy, Drama, Sci-Fi  ",132,1999,69,42,112047
+Entrapment,"Action, Crime, Romance  ",113,1999,63,54,109497
+End of Days,"Action, Fantasy, Horror  ",122,1999,58,33,106448
+Fight Club,Drama  ,139,1999,88,66,1898688
+The Matrix,"Action, Sci-Fi  ",136,1999,87,73,1716224
+The Green Mile,"Crime, Drama, Fantasy  ",189,1999,86,61,1177517
+American Beauty,Drama  ,122,1999,83,84,1087235
+The Sixth Sense,"Drama, Mystery, Thriller  ",107,1999,81,64,926461
+Star Wars: Episode I - The Phantom Menace,"Action, Adventure, Fantasy  ",136,1999,65,51,744700
+Toy Story 2,"Animation, Adventure, Comedy  ",92,1999,79,88,537162
+The Mummy,"Action, Adventure, Fantasy  ",124,1999,70,48,398278
+American Pie,Comedy  ,95,1999,70,58,382806
+Sleepy Hollow,"Fantasy, Horror, Mystery  ",105,1999,73,65,337105
+Being John Malkovich,"Comedy, Drama, Fantasy  ",113,1999,77,90,317661
+Eyes Wide Shut,"Drama, Mystery, Thriller  ",159,1999,74,68,310736
+10 Things I Hate About You,"Comedy, Drama, Romance  ",97,1999,73,70,306439
+Magnolia,Drama  ,188,1999,80,77,293772
+Notting Hill,"Comedy, Drama, Romance  ",124,1999,71,68,283824
+Office Space,Comedy  ,89,1999,77,68,246863
+The Blair Witch Project,"Horror, Mystery  ",81,1999,65,81,237470
+The Boondock Saints,"Action, Crime, Thriller  ",108,1999,78,44,229702
+Austin Powers: The Spy Who Shagged Me,"Action, Adventure, Comedy  ",95,1999,66,59,219996
+Dogma,"Adventure, Comedy, Drama  ",130,1999,73,62,209790
+Tarzan,"Animation, Adventure, Family  ",88,1999,73,79,208390
+Big Daddy,"Comedy, Drama  ",93,1999,64,41,203436
+"South Park: Bigger, Longer & Uncut","Animation, Comedy, Fantasy  ",81,1999,77,73,194247
+The World Is Not Enough,"Action, Adventure, Crime  ",128,1999,64,57,190825
+The Talented Mr. Ripley,"Crime, Drama, Thriller  ",139,1999,74,76,185859
+Cruel Intentions,"Drama, Romance  ",97,1999,68,56,182278
+The Iron Giant,"Animation, Action, Adventure  ",86,1999,80,85,176075
+The Ninth Gate,"Mystery, Thriller  ",133,1999,67,44,171070
+"Girl, Interrupted","Biography, Drama  ",127,1999,73,51,168266
+The Insider,"Biography, Drama, Thriller  ",157,1999,78,84,162274
+Three Kings,"Action, Adventure, Comedy  ",114,1999,71,82,162159
+The Bone Collector,"Crime, Drama, Mystery  ",118,1999,67,45,158029
+Wild Wild West,"Action, Comedy, Sci-Fi  ",106,1999,49,38,154570
+Galaxy Quest,"Adventure, Comedy, Sci-Fi  ",102,1999,73,70,153516
+Analyze This,"Comedy, Crime  ",109,1999,67,61,147633
+The Virgin Suicides,"Drama, Romance  ",97,1999,72,76,146689
+Payback,"Action, Crime, Drama  ",100,1999,71,46,133072
+Stuart Little,"Adventure, Comedy, Family  ",84,1999,59,61,127654
+Deep Blue Sea,"Action, Adventure, Sci-Fi  ",105,1999,59,54,126961
+8MM,"Crime, Drama, Mystery  ",123,1999,65,19,126023
+Man on the Moon,"Biography, Comedy, Drama  ",118,1999,74,58,125800
+The 13th Warrior,"Action, Adventure, History  ",102,1999,66,42,118223
+Any Given Sunday,"Drama, Sport  ",162,1999,69,52,113584
+Bicentennial Man,"Comedy, Drama, Sci-Fi  ",132,1999,69,42,112047
+Entrapment,"Action, Crime, Romance  ",113,1999,63,54,109497
+End of Days,"Action, Fantasy, Horror  ",122,1999,58,33,106448
+Fight Club,Drama  ,139,1999,88,66,1898688
+The Matrix,"Action, Sci-Fi  ",136,1999,87,73,1716224
+The Green Mile,"Crime, Drama, Fantasy  ",189,1999,86,61,1177517
+American Beauty,Drama  ,122,1999,83,84,1087235
+The Sixth Sense,"Drama, Mystery, Thriller  ",107,1999,81,64,926461
+Star Wars: Episode I - The Phantom Menace,"Action, Adventure, Fantasy  ",136,1999,65,51,744700
+Toy Story 2,"Animation, Adventure, Comedy  ",92,1999,79,88,537162
+The Mummy,"Action, Adventure, Fantasy  ",124,1999,70,48,398278
+American Pie,Comedy  ,95,1999,70,58,382806
+Sleepy Hollow,"Fantasy, Horror, Mystery  ",105,1999,73,65,337105
+Being John Malkovich,"Comedy, Drama, Fantasy  ",113,1999,77,90,317661
+Eyes Wide Shut,"Drama, Mystery, Thriller  ",159,1999,74,68,310736
+10 Things I Hate About You,"Comedy, Drama, Romance  ",97,1999,73,70,306439
+Magnolia,Drama  ,188,1999,80,77,293772
+Notting Hill,"Comedy, Drama, Romance  ",124,1999,71,68,283824
+Office Space,Comedy  ,89,1999,77,68,246863
+The Blair Witch Project,"Horror, Mystery  ",81,1999,65,81,237470
+The Boondock Saints,"Action, Crime, Thriller  ",108,1999,78,44,229702
+Austin Powers: The Spy Who Shagged Me,"Action, Adventure, Comedy  ",95,1999,66,59,219996
+Dogma,"Adventure, Comedy, Drama  ",130,1999,73,62,209790
+Tarzan,"Animation, Adventure, Family  ",88,1999,73,79,208390
+Big Daddy,"Comedy, Drama  ",93,1999,64,41,203436
+"South Park: Bigger, Longer & Uncut","Animation, Comedy, Fantasy  ",81,1999,77,73,194247
+The World Is Not Enough,"Action, Adventure, Crime  ",128,1999,64,57,190825
+The Talented Mr. Ripley,"Crime, Drama, Thriller  ",139,1999,74,76,185859
+Cruel Intentions,"Drama, Romance  ",97,1999,68,56,182278
+The Iron Giant,"Animation, Action, Adventure  ",86,1999,80,85,176075
+The Ninth Gate,"Mystery, Thriller  ",133,1999,67,44,171070
+"Girl, Interrupted","Biography, Drama  ",127,1999,73,51,168266
+The Insider,"Biography, Drama, Thriller  ",157,1999,78,84,162274
+Three Kings,"Action, Adventure, Comedy  ",114,1999,71,82,162159
+The Bone Collector,"Crime, Drama, Mystery  ",118,1999,67,45,158029
+Wild Wild West,"Action, Comedy, Sci-Fi  ",106,1999,49,38,154570
+Galaxy Quest,"Adventure, Comedy, Sci-Fi  ",102,1999,73,70,153516
+Analyze This,"Comedy, Crime  ",109,1999,67,61,147633
+The Virgin Suicides,"Drama, Romance  ",97,1999,72,76,146689
+Payback,"Action, Crime, Drama  ",100,1999,71,46,133072
+Stuart Little,"Adventure, Comedy, Family  ",84,1999,59,61,127654
+Deep Blue Sea,"Action, Adventure, Sci-Fi  ",105,1999,59,54,126961
+8MM,"Crime, Drama, Mystery  ",123,1999,65,19,126023
+Man on the Moon,"Biography, Comedy, Drama  ",118,1999,74,58,125800
+The 13th Warrior,"Action, Adventure, History  ",102,1999,66,42,118223
+Any Given Sunday,"Drama, Sport  ",162,1999,69,52,113584
+Bicentennial Man,"Comedy, Drama, Sci-Fi  ",132,1999,69,42,112047
+Entrapment,"Action, Crime, Romance  ",113,1999,63,54,109497
+End of Days,"Action, Fantasy, Horror  ",122,1999,58,33,106448
+Fight Club,Drama  ,139,1999,88,66,1898688
+The Matrix,"Action, Sci-Fi  ",136,1999,87,73,1716224
+The Green Mile,"Crime, Drama, Fantasy  ",189,1999,86,61,1177517
+American Beauty,Drama  ,122,1999,83,84,1087235
+The Sixth Sense,"Drama, Mystery, Thriller  ",107,1999,81,64,926461
+Star Wars: Episode I - The Phantom Menace,"Action, Adventure, Fantasy  ",136,1999,65,51,744700
+Toy Story 2,"Animation, Adventure, Comedy  ",92,1999,79,88,537162
+The Mummy,"Action, Adventure, Fantasy  ",124,1999,70,48,398278
+American Pie,Comedy  ,95,1999,70,58,382806
+Sleepy Hollow,"Fantasy, Horror, Mystery  ",105,1999,73,65,337105
+Being John Malkovich,"Comedy, Drama, Fantasy  ",113,1999,77,90,317661
+Eyes Wide Shut,"Drama, Mystery, Thriller  ",159,1999,74,68,310736
+10 Things I Hate About You,"Comedy, Drama, Romance  ",97,1999,73,70,306439
+Magnolia,Drama  ,188,1999,80,77,293772
+Notting Hill,"Comedy, Drama, Romance  ",124,1999,71,68,283824
+Office Space,Comedy  ,89,1999,77,68,246863
+The Blair Witch Project,"Horror, Mystery  ",81,1999,65,81,237470
+The Boondock Saints,"Action, Crime, Thriller  ",108,1999,78,44,229702
+Austin Powers: The Spy Who Shagged Me,"Action, Adventure, Comedy  ",95,1999,66,59,219996
+Dogma,"Adventure, Comedy, Drama  ",130,1999,73,62,209790
+Tarzan,"Animation, Adventure, Family  ",88,1999,73,79,208390
+Big Daddy,"Comedy, Drama  ",93,1999,64,41,203436
+"South Park: Bigger, Longer & Uncut","Animation, Comedy, Fantasy  ",81,1999,77,73,194247
+The World Is Not Enough,"Action, Adventure, Crime  ",128,1999,64,57,190825
+The Talented Mr. Ripley,"Crime, Drama, Thriller  ",139,1999,74,76,185859
+Cruel Intentions,"Drama, Romance  ",97,1999,68,56,182278
+The Iron Giant,"Animation, Action, Adventure  ",86,1999,80,85,176075
+The Ninth Gate,"Mystery, Thriller  ",133,1999,67,44,171070
+"Girl, Interrupted","Biography, Drama  ",127,1999,73,51,168266
+The Insider,"Biography, Drama, Thriller  ",157,1999,78,84,162274
+Three Kings,"Action, Adventure, Comedy  ",114,1999,71,82,162159
+The Bone Collector,"Crime, Drama, Mystery  ",118,1999,67,45,158029
+Wild Wild West,"Action, Comedy, Sci-Fi  ",106,1999,49,38,154570
+Galaxy Quest,"Adventure, Comedy, Sci-Fi  ",102,1999,73,70,153516
+Analyze This,"Comedy, Crime  ",109,1999,67,61,147633
+The Virgin Suicides,"Drama, Romance  ",97,1999,72,76,146689
+Payback,"Action, Crime, Drama  ",100,1999,71,46,133072
+Stuart Little,"Adventure, Comedy, Family  ",84,1999,59,61,127654
+Deep Blue Sea,"Action, Adventure, Sci-Fi  ",105,1999,59,54,126961
+8MM,"Crime, Drama, Mystery  ",123,1999,65,19,126023
+Man on the Moon,"Biography, Comedy, Drama  ",118,1999,74,58,125800
+The 13th Warrior,"Action, Adventure, History  ",102,1999,66,42,118223
+Any Given Sunday,"Drama, Sport  ",162,1999,69,52,113584
+Bicentennial Man,"Comedy, Drama, Sci-Fi  ",132,1999,69,42,112047
+Entrapment,"Action, Crime, Romance  ",113,1999,63,54,109497
+End of Days,"Action, Fantasy, Horror  ",122,1999,58,33,106448
+Fight Club,Drama  ,139,1999,88,66,1898688
+The Matrix,"Action, Sci-Fi  ",136,1999,87,73,1716224
+The Green Mile,"Crime, Drama, Fantasy  ",189,1999,86,61,1177517
+American Beauty,Drama  ,122,1999,83,84,1087235
+The Sixth Sense,"Drama, Mystery, Thriller  ",107,1999,81,64,926461
+Star Wars: Episode I - The Phantom Menace,"Action, Adventure, Fantasy  ",136,1999,65,51,744700
+Toy Story 2,"Animation, Adventure, Comedy  ",92,1999,79,88,537162
+The Mummy,"Action, Adventure, Fantasy  ",124,1999,70,48,398278
+American Pie,Comedy  ,95,1999,70,58,382806
+Sleepy Hollow,"Fantasy, Horror, Mystery  ",105,1999,73,65,337105
+Being John Malkovich,"Comedy, Drama, Fantasy  ",113,1999,77,90,317661
+Eyes Wide Shut,"Drama, Mystery, Thriller  ",159,1999,74,68,310736
+10 Things I Hate About You,"Comedy, Drama, Romance  ",97,1999,73,70,306439
+Magnolia,Drama  ,188,1999,80,77,293772
+Notting Hill,"Comedy, Drama, Romance  ",124,1999,71,68,283824
+Office Space,Comedy  ,89,1999,77,68,246863
+The Blair Witch Project,"Horror, Mystery  ",81,1999,65,81,237470
+The Boondock Saints,"Action, Crime, Thriller  ",108,1999,78,44,229702
+Austin Powers: The Spy Who Shagged Me,"Action, Adventure, Comedy  ",95,1999,66,59,219996
+Dogma,"Adventure, Comedy, Drama  ",130,1999,73,62,209790
+Tarzan,"Animation, Adventure, Family  ",88,1999,73,79,208390
+Big Daddy,"Comedy, Drama  ",93,1999,64,41,203436
+"South Park: Bigger, Longer & Uncut","Animation, Comedy, Fantasy  ",81,1999,77,73,194247
+The World Is Not Enough,"Action, Adventure, Crime  ",128,1999,64,57,190825
+The Talented Mr. Ripley,"Crime, Drama, Thriller  ",139,1999,74,76,185859
+Cruel Intentions,"Drama, Romance  ",97,1999,68,56,182278
+The Iron Giant,"Animation, Action, Adventure  ",86,1999,80,85,176075
+The Ninth Gate,"Mystery, Thriller  ",133,1999,67,44,171070
+"Girl, Interrupted","Biography, Drama  ",127,1999,73,51,168266
+The Insider,"Biography, Drama, Thriller  ",157,1999,78,84,162274
+Three Kings,"Action, Adventure, Comedy  ",114,1999,71,82,162159
+The Bone Collector,"Crime, Drama, Mystery  ",118,1999,67,45,158029
+Wild Wild West,"Action, Comedy, Sci-Fi  ",106,1999,49,38,154570
+Galaxy Quest,"Adventure, Comedy, Sci-Fi  ",102,1999,73,70,153516
+Analyze This,"Comedy, Crime  ",109,1999,67,61,147633
+The Virgin Suicides,"Drama, Romance  ",97,1999,72,76,146689
+Payback,"Action, Crime, Drama  ",100,1999,71,46,133072
+Stuart Little,"Adventure, Comedy, Family  ",84,1999,59,61,127654
+Deep Blue Sea,"Action, Adventure, Sci-Fi  ",105,1999,59,54,126961
+8MM,"Crime, Drama, Mystery  ",123,1999,65,19,126023
+Man on the Moon,"Biography, Comedy, Drama  ",118,1999,74,58,125800
+The 13th Warrior,"Action, Adventure, History  ",102,1999,66,42,118223
+Any Given Sunday,"Drama, Sport  ",162,1999,69,52,113584
+Bicentennial Man,"Comedy, Drama, Sci-Fi  ",132,1999,69,42,112047
+Entrapment,"Action, Crime, Romance  ",113,1999,63,54,109497
+End of Days,"Action, Fantasy, Horror  ",122,1999,58,33,106448
+Fight Club,Drama  ,139,1999,88,66,1898688
+The Matrix,"Action, Sci-Fi  ",136,1999,87,73,1716224
+The Green Mile,"Crime, Drama, Fantasy  ",189,1999,86,61,1177517
+American Beauty,Drama  ,122,1999,83,84,1087235
+The Sixth Sense,"Drama, Mystery, Thriller  ",107,1999,81,64,926461
+Star Wars: Episode I - The Phantom Menace,"Action, Adventure, Fantasy  ",136,1999,65,51,744700
+Toy Story 2,"Animation, Adventure, Comedy  ",92,1999,79,88,537162
+The Mummy,"Action, Adventure, Fantasy  ",124,1999,70,48,398278
+American Pie,Comedy  ,95,1999,70,58,382806
+Sleepy Hollow,"Fantasy, Horror, Mystery  ",105,1999,73,65,337105
+Being John Malkovich,"Comedy, Drama, Fantasy  ",113,1999,77,90,317661
+Eyes Wide Shut,"Drama, Mystery, Thriller  ",159,1999,74,68,310736
+10 Things I Hate About You,"Comedy, Drama, Romance  ",97,1999,73,70,306439
+Magnolia,Drama  ,188,1999,80,77,293772
+Notting Hill,"Comedy, Drama, Romance  ",124,1999,71,68,283824
+Office Space,Comedy  ,89,1999,77,68,246863
+The Blair Witch Project,"Horror, Mystery  ",81,1999,65,81,237470
+The Boondock Saints,"Action, Crime, Thriller  ",108,1999,78,44,229702
+Austin Powers: The Spy Who Shagged Me,"Action, Adventure, Comedy  ",95,1999,66,59,219996
+Dogma,"Adventure, Comedy, Drama  ",130,1999,73,62,209790
+Tarzan,"Animation, Adventure, Family  ",88,1999,73,79,208390
+Big Daddy,"Comedy, Drama  ",93,1999,64,41,203436
+"South Park: Bigger, Longer & Uncut","Animation, Comedy, Fantasy  ",81,1999,77,73,194247
+The World Is Not Enough,"Action, Adventure, Crime  ",128,1999,64,57,190825
+The Talented Mr. Ripley,"Crime, Drama, Thriller  ",139,1999,74,76,185859
+Cruel Intentions,"Drama, Romance  ",97,1999,68,56,182278
+The Iron Giant,"Animation, Action, Adventure  ",86,1999,80,85,176075
+The Ninth Gate,"Mystery, Thriller  ",133,1999,67,44,171070
+"Girl, Interrupted","Biography, Drama  ",127,1999,73,51,168266
+The Insider,"Biography, Drama, Thriller  ",157,1999,78,84,162274
+Three Kings,"Action, Adventure, Comedy  ",114,1999,71,82,162159
+The Bone Collector,"Crime, Drama, Mystery  ",118,1999,67,45,158029
+Wild Wild West,"Action, Comedy, Sci-Fi  ",106,1999,49,38,154570
+Galaxy Quest,"Adventure, Comedy, Sci-Fi  ",102,1999,73,70,153516
+Analyze This,"Comedy, Crime  ",109,1999,67,61,147633
+The Virgin Suicides,"Drama, Romance  ",97,1999,72,76,146689
+Payback,"Action, Crime, Drama  ",100,1999,71,46,133072
+Stuart Little,"Adventure, Comedy, Family  ",84,1999,59,61,127654
+Deep Blue Sea,"Action, Adventure, Sci-Fi  ",105,1999,59,54,126961
+8MM,"Crime, Drama, Mystery  ",123,1999,65,19,126023
+Man on the Moon,"Biography, Comedy, Drama  ",118,1999,74,58,125800
+The 13th Warrior,"Action, Adventure, History  ",102,1999,66,42,118223
+Any Given Sunday,"Drama, Sport  ",162,1999,69,52,113584
+Bicentennial Man,"Comedy, Drama, Sci-Fi  ",132,1999,69,42,112047
+Entrapment,"Action, Crime, Romance  ",113,1999,63,54,109497
+End of Days,"Action, Fantasy, Horror  ",122,1999,58,33,106448
+Fight Club,Drama  ,139,1999,88,66,1898688
+The Matrix,"Action, Sci-Fi  ",136,1999,87,73,1716224
+The Green Mile,"Crime, Drama, Fantasy  ",189,1999,86,61,1177517
+American Beauty,Drama  ,122,1999,83,84,1087235
+The Sixth Sense,"Drama, Mystery, Thriller  ",107,1999,81,64,926461
+Star Wars: Episode I - The Phantom Menace,"Action, Adventure, Fantasy  ",136,1999,65,51,744700
+Toy Story 2,"Animation, Adventure, Comedy  ",92,1999,79,88,537162
+The Mummy,"Action, Adventure, Fantasy  ",124,1999,70,48,398278
+American Pie,Comedy  ,95,1999,70,58,382806
+Sleepy Hollow,"Fantasy, Horror, Mystery  ",105,1999,73,65,337105
+Being John Malkovich,"Comedy, Drama, Fantasy  ",113,1999,77,90,317661
+Eyes Wide Shut,"Drama, Mystery, Thriller  ",159,1999,74,68,310736
+10 Things I Hate About You,"Comedy, Drama, Romance  ",97,1999,73,70,306439
+Magnolia,Drama  ,188,1999,80,77,293772
+Notting Hill,"Comedy, Drama, Romance  ",124,1999,71,68,283824
+Office Space,Comedy  ,89,1999,77,68,246863
+The Blair Witch Project,"Horror, Mystery  ",81,1999,65,81,237470
+The Boondock Saints,"Action, Crime, Thriller  ",108,1999,78,44,229702
+Austin Powers: The Spy Who Shagged Me,"Action, Adventure, Comedy  ",95,1999,66,59,219996
+Dogma,"Adventure, Comedy, Drama  ",130,1999,73,62,209790
+Tarzan,"Animation, Adventure, Family  ",88,1999,73,79,208390
+Big Daddy,"Comedy, Drama  ",93,1999,64,41,203436
+"South Park: Bigger, Longer & Uncut","Animation, Comedy, Fantasy  ",81,1999,77,73,194247
+The World Is Not Enough,"Action, Adventure, Crime  ",128,1999,64,57,190825
+The Talented Mr. Ripley,"Crime, Drama, Thriller  ",139,1999,74,76,185859
+Cruel Intentions,"Drama, Romance  ",97,1999,68,56,182278
+The Iron Giant,"Animation, Action, Adventure  ",86,1999,80,85,176075
+The Ninth Gate,"Mystery, Thriller  ",133,1999,67,44,171070
+"Girl, Interrupted","Biography, Drama  ",127,1999,73,51,168266
+The Insider,"Biography, Drama, Thriller  ",157,1999,78,84,162274
+Three Kings,"Action, Adventure, Comedy  ",114,1999,71,82,162159
+The Bone Collector,"Crime, Drama, Mystery  ",118,1999,67,45,158029
+Wild Wild West,"Action, Comedy, Sci-Fi  ",106,1999,49,38,154570
+Galaxy Quest,"Adventure, Comedy, Sci-Fi  ",102,1999,73,70,153516
+Analyze This,"Comedy, Crime  ",109,1999,67,61,147633
+The Virgin Suicides,"Drama, Romance  ",97,1999,72,76,146689
+Payback,"Action, Crime, Drama  ",100,1999,71,46,133072
+Stuart Little,"Adventure, Comedy, Family  ",84,1999,59,61,127654
+Deep Blue Sea,"Action, Adventure, Sci-Fi  ",105,1999,59,54,126961
+8MM,"Crime, Drama, Mystery  ",123,1999,65,19,126023
+Man on the Moon,"Biography, Comedy, Drama  ",118,1999,74,58,125800
+The 13th Warrior,"Action, Adventure, History  ",102,1999,66,42,118223
+Any Given Sunday,"Drama, Sport  ",162,1999,69,52,113584
+Bicentennial Man,"Comedy, Drama, Sci-Fi  ",132,1999,69,42,112047
+Entrapment,"Action, Crime, Romance  ",113,1999,63,54,109497
+End of Days,"Action, Fantasy, Horror  ",122,1999,58,33,106448
+Fight Club,Drama  ,139,1999,88,66,1898688
+The Matrix,"Action, Sci-Fi  ",136,1999,87,73,1716224
+The Green Mile,"Crime, Drama, Fantasy  ",189,1999,86,61,1177517
+American Beauty,Drama  ,122,1999,83,84,1087235
+The Sixth Sense,"Drama, Mystery, Thriller  ",107,1999,81,64,926461
+Star Wars: Episode I - The Phantom Menace,"Action, Adventure, Fantasy  ",136,1999,65,51,744700
+Toy Story 2,"Animation, Adventure, Comedy  ",92,1999,79,88,537162
+The Mummy,"Action, Adventure, Fantasy  ",124,1999,70,48,398278
+American Pie,Comedy  ,95,1999,70,58,382806
+Sleepy Hollow,"Fantasy, Horror, Mystery  ",105,1999,73,65,337105
+Being John Malkovich,"Comedy, Drama, Fantasy  ",113,1999,77,90,317661
+Eyes Wide Shut,"Drama, Mystery, Thriller  ",159,1999,74,68,310736
+10 Things I Hate About You,"Comedy, Drama, Romance  ",97,1999,73,70,306439
+Magnolia,Drama  ,188,1999,80,77,293772
+Notting Hill,"Comedy, Drama, Romance  ",124,1999,71,68,283824
+Office Space,Comedy  ,89,1999,77,68,246863
+The Blair Witch Project,"Horror, Mystery  ",81,1999,65,81,237470
+The Boondock Saints,"Action, Crime, Thriller  ",108,1999,78,44,229702
+Austin Powers: The Spy Who Shagged Me,"Action, Adventure, Comedy  ",95,1999,66,59,219996
+Dogma,"Adventure, Comedy, Drama  ",130,1999,73,62,209790
+Tarzan,"Animation, Adventure, Family  ",88,1999,73,79,208390
+Big Daddy,"Comedy, Drama  ",93,1999,64,41,203436
+"South Park: Bigger, Longer & Uncut","Animation, Comedy, Fantasy  ",81,1999,77,73,194247
+The World Is Not Enough,"Action, Adventure, Crime  ",128,1999,64,57,190825
+The Talented Mr. Ripley,"Crime, Drama, Thriller  ",139,1999,74,76,185859
+Cruel Intentions,"Drama, Romance  ",97,1999,68,56,182278
+The Iron Giant,"Animation, Action, Adventure  ",86,1999,80,85,176075
+The Ninth Gate,"Mystery, Thriller  ",133,1999,67,44,171070
+"Girl, Interrupted","Biography, Drama  ",127,1999,73,51,168266
+The Insider,"Biography, Drama, Thriller  ",157,1999,78,84,162274
+Three Kings,"Action, Adventure, Comedy  ",114,1999,71,82,162159
+The Bone Collector,"Crime, Drama, Mystery  ",118,1999,67,45,158029
+Wild Wild West,"Action, Comedy, Sci-Fi  ",106,1999,49,38,154570
+Galaxy Quest,"Adventure, Comedy, Sci-Fi  ",102,1999,73,70,153516
+Analyze This,"Comedy, Crime  ",109,1999,67,61,147633
+The Virgin Suicides,"Drama, Romance  ",97,1999,72,76,146689
+Payback,"Action, Crime, Drama  ",100,1999,71,46,133072
+Stuart Little,"Adventure, Comedy, Family  ",84,1999,59,61,127654
+Deep Blue Sea,"Action, Adventure, Sci-Fi  ",105,1999,59,54,126961
+8MM,"Crime, Drama, Mystery  ",123,1999,65,19,126023
+Man on the Moon,"Biography, Comedy, Drama  ",118,1999,74,58,125800
+The 13th Warrior,"Action, Adventure, History  ",102,1999,66,42,118223
+Any Given Sunday,"Drama, Sport  ",162,1999,69,52,113584
+Bicentennial Man,"Comedy, Drama, Sci-Fi  ",132,1999,69,42,112047
+Entrapment,"Action, Crime, Romance  ",113,1999,63,54,109497
+End of Days,"Action, Fantasy, Horror  ",122,1999,58,33,106448
+Fight Club,Drama  ,139,1999,88,66,1898688
+The Matrix,"Action, Sci-Fi  ",136,1999,87,73,1716224
+The Green Mile,"Crime, Drama, Fantasy  ",189,1999,86,61,1177517
+American Beauty,Drama  ,122,1999,83,84,1087235
+The Sixth Sense,"Drama, Mystery, Thriller  ",107,1999,81,64,926461
+Star Wars: Episode I - The Phantom Menace,"Action, Adventure, Fantasy  ",136,1999,65,51,744700
+Toy Story 2,"Animation, Adventure, Comedy  ",92,1999,79,88,537162
+The Mummy,"Action, Adventure, Fantasy  ",124,1999,70,48,398278
+American Pie,Comedy  ,95,1999,70,58,382806
+Sleepy Hollow,"Fantasy, Horror, Mystery  ",105,1999,73,65,337105
+Being John Malkovich,"Comedy, Drama, Fantasy  ",113,1999,77,90,317661
+Eyes Wide Shut,"Drama, Mystery, Thriller  ",159,1999,74,68,310736
+10 Things I Hate About You,"Comedy, Drama, Romance  ",97,1999,73,70,306439
+Magnolia,Drama  ,188,1999,80,77,293772
+Notting Hill,"Comedy, Drama, Romance  ",124,1999,71,68,283824
+Office Space,Comedy  ,89,1999,77,68,246863
+The Blair Witch Project,"Horror, Mystery  ",81,1999,65,81,237470
+The Boondock Saints,"Action, Crime, Thriller  ",108,1999,78,44,229702
+Austin Powers: The Spy Who Shagged Me,"Action, Adventure, Comedy  ",95,1999,66,59,219996
+Dogma,"Adventure, Comedy, Drama  ",130,1999,73,62,209790
+Tarzan,"Animation, Adventure, Family  ",88,1999,73,79,208390
+Big Daddy,"Comedy, Drama  ",93,1999,64,41,203436
+"South Park: Bigger, Longer & Uncut","Animation, Comedy, Fantasy  ",81,1999,77,73,194247
+The World Is Not Enough,"Action, Adventure, Crime  ",128,1999,64,57,190825
+The Talented Mr. Ripley,"Crime, Drama, Thriller  ",139,1999,74,76,185859
+Cruel Intentions,"Drama, Romance  ",97,1999,68,56,182278
+The Iron Giant,"Animation, Action, Adventure  ",86,1999,80,85,176075
+The Ninth Gate,"Mystery, Thriller  ",133,1999,67,44,171070
+"Girl, Interrupted","Biography, Drama  ",127,1999,73,51,168266
+The Insider,"Biography, Drama, Thriller  ",157,1999,78,84,162274
+Three Kings,"Action, Adventure, Comedy  ",114,1999,71,82,162159
+The Bone Collector,"Crime, Drama, Mystery  ",118,1999,67,45,158029
+Wild Wild West,"Action, Comedy, Sci-Fi  ",106,1999,49,38,154570
+Galaxy Quest,"Adventure, Comedy, Sci-Fi  ",102,1999,73,70,153516
+Analyze This,"Comedy, Crime  ",109,1999,67,61,147633
+The Virgin Suicides,"Drama, Romance  ",97,1999,72,76,146689
+Payback,"Action, Crime, Drama  ",100,1999,71,46,133072
+Stuart Little,"Adventure, Comedy, Family  ",84,1999,59,61,127654
+Deep Blue Sea,"Action, Adventure, Sci-Fi  ",105,1999,59,54,126961
+8MM,"Crime, Drama, Mystery  ",123,1999,65,19,126023
+Man on the Moon,"Biography, Comedy, Drama  ",118,1999,74,58,125800
+The 13th Warrior,"Action, Adventure, History  ",102,1999,66,42,118223
+Any Given Sunday,"Drama, Sport  ",162,1999,69,52,113584
+Bicentennial Man,"Comedy, Drama, Sci-Fi  ",132,1999,69,42,112047
+Entrapment,"Action, Crime, Romance  ",113,1999,63,54,109497
+End of Days,"Action, Fantasy, Horror  ",122,1999,58,33,106448

@@ -1,0 +1,463 @@
+Movie,Genre,Duration,Year,Imdb_rating,Metascore_rating,Votes
+The Wolf of Wall Street,"Biography, Crime, Drama  ",180,2013,82,75,1229536
+Gravity,"Drama, Sci-Fi, Thriller  ",91,2013,77,96,780712
+Iron Man 3,"Action, Adventure, Sci-Fi  ",130,2013,71,62,774025
+Man of Steel,"Action, Adventure, Sci-Fi  ",143,2013,70,55,717985
+12 Years a Slave,"Biography, Drama, History  ",134,2013,81,96,654226
+The Hunger Games: Catching Fire,"Action, Adventure, Mystery  ",146,2013,75,76,622930
+Prisoners,"Crime, Drama, Mystery  ",153,2013,81,70,620132
+World War Z,"Action, Adventure, Horror  ",116,2013,70,63,614006
+Thor: The Dark World,"Action, Adventure, Fantasy  ",112,2013,69,54,612699
+The Hobbit: The Desolation of Smaug,"Adventure, Fantasy  ",161,2013,78,66,611792
+Now You See Me,"Crime, Mystery, Thriller  ",115,2013,72,50,608272
+Frozen,"Animation, Adventure, Comedy  ",102,2013,74,75,582139
+Her,"Drama, Romance, Sci-Fi  ",126,2013,80,90,555490
+Oblivion,"Action, Adventure, Sci-Fi  ",124,2013,70,54,493422
+The Great Gatsby,"Drama, Romance  ",143,2013,72,55,491530
+Pacific Rim,"Action, Adventure, Sci-Fi  ",131,2013,69,65,473151
+Star Trek Into Darkness,"Action, Adventure, Sci-Fi  ",132,2013,77,72,467286
+American Hustle,"Crime, Drama  ",138,2013,72,90,456233
+The Conjuring,"Horror, Mystery, Thriller  ",112,2013,75,68,456176
+Dallas Buyers Club,"Biography, Drama  ",117,2013,80,80,452503
+Rush,"Action, Biography, Drama  ",123,2013,81,74,443987
+The Wolverine,"Action, Sci-Fi  ",126,2013,67,61,437186
+Captain Phillips,"Adventure, Biography, Crime  ",134,2013,78,82,429311
+Elysium,"Action, Drama, Sci-Fi  ",109,2013,66,61,424397
+We're the Millers,"Comedy, Crime  ",110,2013,70,44,412527
+This Is the End,Comedy  ,107,2013,66,67,389837
+Despicable Me 2,"Animation, Adventure, Comedy  ",98,2013,73,62,375481
+Fast & Furious 6,"Action, Adventure, Thriller  ",130,2013,70,61,374406
+Snowpiercer,"Action, Drama, Sci-Fi  ",126,2013,71,84,332572
+Monsters University,"Animation, Adventure, Comedy  ",104,2013,72,65,329921
+About Time,"Comedy, Drama, Fantasy  ",123,2013,78,55,314460
+The Secret Life of Walter Mitty,"Adventure, Comedy, Drama  ",114,2013,73,54,298482
+The Hangover Part III,"Comedy, Crime  ",100,2013,58,30,297721
+Lone Survivor,"Action, Biography, Drama  ",121,2013,75,60,271055
+The World's End,"Comedy, Sci-Fi  ",109,2013,70,81,264697
+Olympus Has Fallen,"Action, Thriller  ",119,2013,65,41,261689
+Kick-Ass 2,"Action, Comedy, Crime  ",103,2013,65,41,258415
+Don Jon,"Comedy, Drama, Romance  ",90,2013,65,66,231604
+Escape Plan,"Action, Thriller  ",115,2013,67,49,230999
+Ender's Game,"Action, Adventure, Fantasy  ",114,2013,66,51,227172
+The Lone Ranger,"Action, Adventure, Western  ",150,2013,64,37,224584
+Warm Bodies,"Comedy, Horror, Romance  ",98,2013,68,60,221879
+The Wolf of Wall Street,"Biography, Crime, Drama  ",180,2013,82,75,1229536
+Gravity,"Drama, Sci-Fi, Thriller  ",91,2013,77,96,780712
+Iron Man 3,"Action, Adventure, Sci-Fi  ",130,2013,71,62,774025
+Man of Steel,"Action, Adventure, Sci-Fi  ",143,2013,70,55,717985
+12 Years a Slave,"Biography, Drama, History  ",134,2013,81,96,654226
+The Hunger Games: Catching Fire,"Action, Adventure, Mystery  ",146,2013,75,76,622930
+Prisoners,"Crime, Drama, Mystery  ",153,2013,81,70,620132
+World War Z,"Action, Adventure, Horror  ",116,2013,70,63,614006
+Thor: The Dark World,"Action, Adventure, Fantasy  ",112,2013,69,54,612699
+The Hobbit: The Desolation of Smaug,"Adventure, Fantasy  ",161,2013,78,66,611792
+Now You See Me,"Crime, Mystery, Thriller  ",115,2013,72,50,608272
+Frozen,"Animation, Adventure, Comedy  ",102,2013,74,75,582139
+Her,"Drama, Romance, Sci-Fi  ",126,2013,80,90,555490
+Oblivion,"Action, Adventure, Sci-Fi  ",124,2013,70,54,493422
+The Great Gatsby,"Drama, Romance  ",143,2013,72,55,491530
+Pacific Rim,"Action, Adventure, Sci-Fi  ",131,2013,69,65,473151
+Star Trek Into Darkness,"Action, Adventure, Sci-Fi  ",132,2013,77,72,467286
+American Hustle,"Crime, Drama  ",138,2013,72,90,456233
+The Conjuring,"Horror, Mystery, Thriller  ",112,2013,75,68,456176
+Dallas Buyers Club,"Biography, Drama  ",117,2013,80,80,452503
+Rush,"Action, Biography, Drama  ",123,2013,81,74,443987
+The Wolverine,"Action, Sci-Fi  ",126,2013,67,61,437186
+Captain Phillips,"Adventure, Biography, Crime  ",134,2013,78,82,429311
+Elysium,"Action, Drama, Sci-Fi  ",109,2013,66,61,424397
+We're the Millers,"Comedy, Crime  ",110,2013,70,44,412527
+This Is the End,Comedy  ,107,2013,66,67,389837
+Despicable Me 2,"Animation, Adventure, Comedy  ",98,2013,73,62,375481
+Fast & Furious 6,"Action, Adventure, Thriller  ",130,2013,70,61,374406
+Snowpiercer,"Action, Drama, Sci-Fi  ",126,2013,71,84,332572
+Monsters University,"Animation, Adventure, Comedy  ",104,2013,72,65,329921
+About Time,"Comedy, Drama, Fantasy  ",123,2013,78,55,314460
+The Secret Life of Walter Mitty,"Adventure, Comedy, Drama  ",114,2013,73,54,298482
+The Hangover Part III,"Comedy, Crime  ",100,2013,58,30,297721
+Lone Survivor,"Action, Biography, Drama  ",121,2013,75,60,271055
+The World's End,"Comedy, Sci-Fi  ",109,2013,70,81,264697
+Olympus Has Fallen,"Action, Thriller  ",119,2013,65,41,261689
+Kick-Ass 2,"Action, Comedy, Crime  ",103,2013,65,41,258415
+Don Jon,"Comedy, Drama, Romance  ",90,2013,65,66,231604
+Escape Plan,"Action, Thriller  ",115,2013,67,49,230999
+Ender's Game,"Action, Adventure, Fantasy  ",114,2013,66,51,227172
+The Lone Ranger,"Action, Adventure, Western  ",150,2013,64,37,224584
+Warm Bodies,"Comedy, Horror, Romance  ",98,2013,68,60,221879
+The Wolf of Wall Street,"Biography, Crime, Drama  ",180,2013,82,75,1229536
+Gravity,"Drama, Sci-Fi, Thriller  ",91,2013,77,96,780712
+Iron Man 3,"Action, Adventure, Sci-Fi  ",130,2013,71,62,774025
+Man of Steel,"Action, Adventure, Sci-Fi  ",143,2013,70,55,717985
+12 Years a Slave,"Biography, Drama, History  ",134,2013,81,96,654226
+The Hunger Games: Catching Fire,"Action, Adventure, Mystery  ",146,2013,75,76,622930
+Prisoners,"Crime, Drama, Mystery  ",153,2013,81,70,620132
+World War Z,"Action, Adventure, Horror  ",116,2013,70,63,614006
+Thor: The Dark World,"Action, Adventure, Fantasy  ",112,2013,69,54,612699
+The Hobbit: The Desolation of Smaug,"Adventure, Fantasy  ",161,2013,78,66,611792
+Now You See Me,"Crime, Mystery, Thriller  ",115,2013,72,50,608272
+Frozen,"Animation, Adventure, Comedy  ",102,2013,74,75,582139
+Her,"Drama, Romance, Sci-Fi  ",126,2013,80,90,555490
+Oblivion,"Action, Adventure, Sci-Fi  ",124,2013,70,54,493422
+The Great Gatsby,"Drama, Romance  ",143,2013,72,55,491530
+Pacific Rim,"Action, Adventure, Sci-Fi  ",131,2013,69,65,473151
+Star Trek Into Darkness,"Action, Adventure, Sci-Fi  ",132,2013,77,72,467286
+American Hustle,"Crime, Drama  ",138,2013,72,90,456233
+The Conjuring,"Horror, Mystery, Thriller  ",112,2013,75,68,456176
+Dallas Buyers Club,"Biography, Drama  ",117,2013,80,80,452503
+Rush,"Action, Biography, Drama  ",123,2013,81,74,443987
+The Wolverine,"Action, Sci-Fi  ",126,2013,67,61,437186
+Captain Phillips,"Adventure, Biography, Crime  ",134,2013,78,82,429311
+Elysium,"Action, Drama, Sci-Fi  ",109,2013,66,61,424397
+We're the Millers,"Comedy, Crime  ",110,2013,70,44,412527
+This Is the End,Comedy  ,107,2013,66,67,389837
+Despicable Me 2,"Animation, Adventure, Comedy  ",98,2013,73,62,375481
+Fast & Furious 6,"Action, Adventure, Thriller  ",130,2013,70,61,374406
+Snowpiercer,"Action, Drama, Sci-Fi  ",126,2013,71,84,332572
+Monsters University,"Animation, Adventure, Comedy  ",104,2013,72,65,329921
+About Time,"Comedy, Drama, Fantasy  ",123,2013,78,55,314460
+The Secret Life of Walter Mitty,"Adventure, Comedy, Drama  ",114,2013,73,54,298482
+The Hangover Part III,"Comedy, Crime  ",100,2013,58,30,297721
+Lone Survivor,"Action, Biography, Drama  ",121,2013,75,60,271055
+The World's End,"Comedy, Sci-Fi  ",109,2013,70,81,264697
+Olympus Has Fallen,"Action, Thriller  ",119,2013,65,41,261689
+Kick-Ass 2,"Action, Comedy, Crime  ",103,2013,65,41,258415
+Don Jon,"Comedy, Drama, Romance  ",90,2013,65,66,231604
+Escape Plan,"Action, Thriller  ",115,2013,67,49,230999
+Ender's Game,"Action, Adventure, Fantasy  ",114,2013,66,51,227172
+The Lone Ranger,"Action, Adventure, Western  ",150,2013,64,37,224584
+Warm Bodies,"Comedy, Horror, Romance  ",98,2013,68,60,221879
+The Wolf of Wall Street,"Biography, Crime, Drama  ",180,2013,82,75,1229536
+Gravity,"Drama, Sci-Fi, Thriller  ",91,2013,77,96,780712
+Iron Man 3,"Action, Adventure, Sci-Fi  ",130,2013,71,62,774025
+Man of Steel,"Action, Adventure, Sci-Fi  ",143,2013,70,55,717985
+12 Years a Slave,"Biography, Drama, History  ",134,2013,81,96,654226
+The Hunger Games: Catching Fire,"Action, Adventure, Mystery  ",146,2013,75,76,622930
+Prisoners,"Crime, Drama, Mystery  ",153,2013,81,70,620132
+World War Z,"Action, Adventure, Horror  ",116,2013,70,63,614006
+Thor: The Dark World,"Action, Adventure, Fantasy  ",112,2013,69,54,612699
+The Hobbit: The Desolation of Smaug,"Adventure, Fantasy  ",161,2013,78,66,611792
+Now You See Me,"Crime, Mystery, Thriller  ",115,2013,72,50,608272
+Frozen,"Animation, Adventure, Comedy  ",102,2013,74,75,582139
+Her,"Drama, Romance, Sci-Fi  ",126,2013,80,90,555490
+Oblivion,"Action, Adventure, Sci-Fi  ",124,2013,70,54,493422
+The Great Gatsby,"Drama, Romance  ",143,2013,72,55,491530
+Pacific Rim,"Action, Adventure, Sci-Fi  ",131,2013,69,65,473151
+Star Trek Into Darkness,"Action, Adventure, Sci-Fi  ",132,2013,77,72,467286
+American Hustle,"Crime, Drama  ",138,2013,72,90,456233
+The Conjuring,"Horror, Mystery, Thriller  ",112,2013,75,68,456176
+Dallas Buyers Club,"Biography, Drama  ",117,2013,80,80,452503
+Rush,"Action, Biography, Drama  ",123,2013,81,74,443987
+The Wolverine,"Action, Sci-Fi  ",126,2013,67,61,437186
+Captain Phillips,"Adventure, Biography, Crime  ",134,2013,78,82,429311
+Elysium,"Action, Drama, Sci-Fi  ",109,2013,66,61,424397
+We're the Millers,"Comedy, Crime  ",110,2013,70,44,412527
+This Is the End,Comedy  ,107,2013,66,67,389837
+Despicable Me 2,"Animation, Adventure, Comedy  ",98,2013,73,62,375481
+Fast & Furious 6,"Action, Adventure, Thriller  ",130,2013,70,61,374406
+Snowpiercer,"Action, Drama, Sci-Fi  ",126,2013,71,84,332572
+Monsters University,"Animation, Adventure, Comedy  ",104,2013,72,65,329921
+About Time,"Comedy, Drama, Fantasy  ",123,2013,78,55,314460
+The Secret Life of Walter Mitty,"Adventure, Comedy, Drama  ",114,2013,73,54,298482
+The Hangover Part III,"Comedy, Crime  ",100,2013,58,30,297721
+Lone Survivor,"Action, Biography, Drama  ",121,2013,75,60,271055
+The World's End,"Comedy, Sci-Fi  ",109,2013,70,81,264697
+Olympus Has Fallen,"Action, Thriller  ",119,2013,65,41,261689
+Kick-Ass 2,"Action, Comedy, Crime  ",103,2013,65,41,258415
+Don Jon,"Comedy, Drama, Romance  ",90,2013,65,66,231604
+Escape Plan,"Action, Thriller  ",115,2013,67,49,230999
+Ender's Game,"Action, Adventure, Fantasy  ",114,2013,66,51,227172
+The Lone Ranger,"Action, Adventure, Western  ",150,2013,64,37,224584
+Warm Bodies,"Comedy, Horror, Romance  ",98,2013,68,60,221879
+The Wolf of Wall Street,"Biography, Crime, Drama  ",180,2013,82,75,1229536
+Gravity,"Drama, Sci-Fi, Thriller  ",91,2013,77,96,780712
+Iron Man 3,"Action, Adventure, Sci-Fi  ",130,2013,71,62,774025
+Man of Steel,"Action, Adventure, Sci-Fi  ",143,2013,70,55,717985
+12 Years a Slave,"Biography, Drama, History  ",134,2013,81,96,654226
+The Hunger Games: Catching Fire,"Action, Adventure, Mystery  ",146,2013,75,76,622930
+Prisoners,"Crime, Drama, Mystery  ",153,2013,81,70,620132
+World War Z,"Action, Adventure, Horror  ",116,2013,70,63,614006
+Thor: The Dark World,"Action, Adventure, Fantasy  ",112,2013,69,54,612699
+The Hobbit: The Desolation of Smaug,"Adventure, Fantasy  ",161,2013,78,66,611792
+Now You See Me,"Crime, Mystery, Thriller  ",115,2013,72,50,608272
+Frozen,"Animation, Adventure, Comedy  ",102,2013,74,75,582139
+Her,"Drama, Romance, Sci-Fi  ",126,2013,80,90,555490
+Oblivion,"Action, Adventure, Sci-Fi  ",124,2013,70,54,493422
+The Great Gatsby,"Drama, Romance  ",143,2013,72,55,491530
+Pacific Rim,"Action, Adventure, Sci-Fi  ",131,2013,69,65,473151
+Star Trek Into Darkness,"Action, Adventure, Sci-Fi  ",132,2013,77,72,467286
+American Hustle,"Crime, Drama  ",138,2013,72,90,456233
+The Conjuring,"Horror, Mystery, Thriller  ",112,2013,75,68,456176
+Dallas Buyers Club,"Biography, Drama  ",117,2013,80,80,452503
+Rush,"Action, Biography, Drama  ",123,2013,81,74,443987
+The Wolverine,"Action, Sci-Fi  ",126,2013,67,61,437186
+Captain Phillips,"Adventure, Biography, Crime  ",134,2013,78,82,429311
+Elysium,"Action, Drama, Sci-Fi  ",109,2013,66,61,424397
+We're the Millers,"Comedy, Crime  ",110,2013,70,44,412527
+This Is the End,Comedy  ,107,2013,66,67,389837
+Despicable Me 2,"Animation, Adventure, Comedy  ",98,2013,73,62,375481
+Fast & Furious 6,"Action, Adventure, Thriller  ",130,2013,70,61,374406
+Snowpiercer,"Action, Drama, Sci-Fi  ",126,2013,71,84,332572
+Monsters University,"Animation, Adventure, Comedy  ",104,2013,72,65,329921
+About Time,"Comedy, Drama, Fantasy  ",123,2013,78,55,314460
+The Secret Life of Walter Mitty,"Adventure, Comedy, Drama  ",114,2013,73,54,298482
+The Hangover Part III,"Comedy, Crime  ",100,2013,58,30,297721
+Lone Survivor,"Action, Biography, Drama  ",121,2013,75,60,271055
+The World's End,"Comedy, Sci-Fi  ",109,2013,70,81,264697
+Olympus Has Fallen,"Action, Thriller  ",119,2013,65,41,261689
+Kick-Ass 2,"Action, Comedy, Crime  ",103,2013,65,41,258415
+Don Jon,"Comedy, Drama, Romance  ",90,2013,65,66,231604
+Escape Plan,"Action, Thriller  ",115,2013,67,49,230999
+Ender's Game,"Action, Adventure, Fantasy  ",114,2013,66,51,227172
+The Lone Ranger,"Action, Adventure, Western  ",150,2013,64,37,224584
+Warm Bodies,"Comedy, Horror, Romance  ",98,2013,68,60,221879
+The Wolf of Wall Street,"Biography, Crime, Drama  ",180,2013,82,75,1229536
+Gravity,"Drama, Sci-Fi, Thriller  ",91,2013,77,96,780712
+Iron Man 3,"Action, Adventure, Sci-Fi  ",130,2013,71,62,774025
+Man of Steel,"Action, Adventure, Sci-Fi  ",143,2013,70,55,717985
+12 Years a Slave,"Biography, Drama, History  ",134,2013,81,96,654226
+The Hunger Games: Catching Fire,"Action, Adventure, Mystery  ",146,2013,75,76,622930
+Prisoners,"Crime, Drama, Mystery  ",153,2013,81,70,620132
+World War Z,"Action, Adventure, Horror  ",116,2013,70,63,614006
+Thor: The Dark World,"Action, Adventure, Fantasy  ",112,2013,69,54,612699
+The Hobbit: The Desolation of Smaug,"Adventure, Fantasy  ",161,2013,78,66,611792
+Now You See Me,"Crime, Mystery, Thriller  ",115,2013,72,50,608272
+Frozen,"Animation, Adventure, Comedy  ",102,2013,74,75,582139
+Her,"Drama, Romance, Sci-Fi  ",126,2013,80,90,555490
+Oblivion,"Action, Adventure, Sci-Fi  ",124,2013,70,54,493422
+The Great Gatsby,"Drama, Romance  ",143,2013,72,55,491530
+Pacific Rim,"Action, Adventure, Sci-Fi  ",131,2013,69,65,473151
+Star Trek Into Darkness,"Action, Adventure, Sci-Fi  ",132,2013,77,72,467286
+American Hustle,"Crime, Drama  ",138,2013,72,90,456233
+The Conjuring,"Horror, Mystery, Thriller  ",112,2013,75,68,456176
+Dallas Buyers Club,"Biography, Drama  ",117,2013,80,80,452503
+Rush,"Action, Biography, Drama  ",123,2013,81,74,443987
+The Wolverine,"Action, Sci-Fi  ",126,2013,67,61,437186
+Captain Phillips,"Adventure, Biography, Crime  ",134,2013,78,82,429311
+Elysium,"Action, Drama, Sci-Fi  ",109,2013,66,61,424397
+We're the Millers,"Comedy, Crime  ",110,2013,70,44,412527
+This Is the End,Comedy  ,107,2013,66,67,389837
+Despicable Me 2,"Animation, Adventure, Comedy  ",98,2013,73,62,375481
+Fast & Furious 6,"Action, Adventure, Thriller  ",130,2013,70,61,374406
+Snowpiercer,"Action, Drama, Sci-Fi  ",126,2013,71,84,332572
+Monsters University,"Animation, Adventure, Comedy  ",104,2013,72,65,329921
+About Time,"Comedy, Drama, Fantasy  ",123,2013,78,55,314460
+The Secret Life of Walter Mitty,"Adventure, Comedy, Drama  ",114,2013,73,54,298482
+The Hangover Part III,"Comedy, Crime  ",100,2013,58,30,297721
+Lone Survivor,"Action, Biography, Drama  ",121,2013,75,60,271055
+The World's End,"Comedy, Sci-Fi  ",109,2013,70,81,264697
+Olympus Has Fallen,"Action, Thriller  ",119,2013,65,41,261689
+Kick-Ass 2,"Action, Comedy, Crime  ",103,2013,65,41,258415
+Don Jon,"Comedy, Drama, Romance  ",90,2013,65,66,231604
+Escape Plan,"Action, Thriller  ",115,2013,67,49,230999
+Ender's Game,"Action, Adventure, Fantasy  ",114,2013,66,51,227172
+The Lone Ranger,"Action, Adventure, Western  ",150,2013,64,37,224584
+Warm Bodies,"Comedy, Horror, Romance  ",98,2013,68,60,221879
+The Wolf of Wall Street,"Biography, Crime, Drama  ",180,2013,82,75,1229536
+Gravity,"Drama, Sci-Fi, Thriller  ",91,2013,77,96,780712
+Iron Man 3,"Action, Adventure, Sci-Fi  ",130,2013,71,62,774025
+Man of Steel,"Action, Adventure, Sci-Fi  ",143,2013,70,55,717985
+12 Years a Slave,"Biography, Drama, History  ",134,2013,81,96,654226
+The Hunger Games: Catching Fire,"Action, Adventure, Mystery  ",146,2013,75,76,622930
+Prisoners,"Crime, Drama, Mystery  ",153,2013,81,70,620132
+World War Z,"Action, Adventure, Horror  ",116,2013,70,63,614006
+Thor: The Dark World,"Action, Adventure, Fantasy  ",112,2013,69,54,612699
+The Hobbit: The Desolation of Smaug,"Adventure, Fantasy  ",161,2013,78,66,611792
+Now You See Me,"Crime, Mystery, Thriller  ",115,2013,72,50,608272
+Frozen,"Animation, Adventure, Comedy  ",102,2013,74,75,582139
+Her,"Drama, Romance, Sci-Fi  ",126,2013,80,90,555490
+Oblivion,"Action, Adventure, Sci-Fi  ",124,2013,70,54,493422
+The Great Gatsby,"Drama, Romance  ",143,2013,72,55,491530
+Pacific Rim,"Action, Adventure, Sci-Fi  ",131,2013,69,65,473151
+Star Trek Into Darkness,"Action, Adventure, Sci-Fi  ",132,2013,77,72,467286
+American Hustle,"Crime, Drama  ",138,2013,72,90,456233
+The Conjuring,"Horror, Mystery, Thriller  ",112,2013,75,68,456176
+Dallas Buyers Club,"Biography, Drama  ",117,2013,80,80,452503
+Rush,"Action, Biography, Drama  ",123,2013,81,74,443987
+The Wolverine,"Action, Sci-Fi  ",126,2013,67,61,437186
+Captain Phillips,"Adventure, Biography, Crime  ",134,2013,78,82,429311
+Elysium,"Action, Drama, Sci-Fi  ",109,2013,66,61,424397
+We're the Millers,"Comedy, Crime  ",110,2013,70,44,412527
+This Is the End,Comedy  ,107,2013,66,67,389837
+Despicable Me 2,"Animation, Adventure, Comedy  ",98,2013,73,62,375481
+Fast & Furious 6,"Action, Adventure, Thriller  ",130,2013,70,61,374406
+Snowpiercer,"Action, Drama, Sci-Fi  ",126,2013,71,84,332572
+Monsters University,"Animation, Adventure, Comedy  ",104,2013,72,65,329921
+About Time,"Comedy, Drama, Fantasy  ",123,2013,78,55,314460
+The Secret Life of Walter Mitty,"Adventure, Comedy, Drama  ",114,2013,73,54,298482
+The Hangover Part III,"Comedy, Crime  ",100,2013,58,30,297721
+Lone Survivor,"Action, Biography, Drama  ",121,2013,75,60,271055
+The World's End,"Comedy, Sci-Fi  ",109,2013,70,81,264697
+Olympus Has Fallen,"Action, Thriller  ",119,2013,65,41,261689
+Kick-Ass 2,"Action, Comedy, Crime  ",103,2013,65,41,258415
+Don Jon,"Comedy, Drama, Romance  ",90,2013,65,66,231604
+Escape Plan,"Action, Thriller  ",115,2013,67,49,230999
+Ender's Game,"Action, Adventure, Fantasy  ",114,2013,66,51,227172
+The Lone Ranger,"Action, Adventure, Western  ",150,2013,64,37,224584
+Warm Bodies,"Comedy, Horror, Romance  ",98,2013,68,60,221879
+The Wolf of Wall Street,"Biography, Crime, Drama  ",180,2013,82,75,1229536
+Gravity,"Drama, Sci-Fi, Thriller  ",91,2013,77,96,780712
+Iron Man 3,"Action, Adventure, Sci-Fi  ",130,2013,71,62,774025
+Man of Steel,"Action, Adventure, Sci-Fi  ",143,2013,70,55,717985
+12 Years a Slave,"Biography, Drama, History  ",134,2013,81,96,654226
+The Hunger Games: Catching Fire,"Action, Adventure, Mystery  ",146,2013,75,76,622930
+Prisoners,"Crime, Drama, Mystery  ",153,2013,81,70,620132
+World War Z,"Action, Adventure, Horror  ",116,2013,70,63,614006
+Thor: The Dark World,"Action, Adventure, Fantasy  ",112,2013,69,54,612699
+The Hobbit: The Desolation of Smaug,"Adventure, Fantasy  ",161,2013,78,66,611792
+Now You See Me,"Crime, Mystery, Thriller  ",115,2013,72,50,608272
+Frozen,"Animation, Adventure, Comedy  ",102,2013,74,75,582139
+Her,"Drama, Romance, Sci-Fi  ",126,2013,80,90,555490
+Oblivion,"Action, Adventure, Sci-Fi  ",124,2013,70,54,493422
+The Great Gatsby,"Drama, Romance  ",143,2013,72,55,491530
+Pacific Rim,"Action, Adventure, Sci-Fi  ",131,2013,69,65,473151
+Star Trek Into Darkness,"Action, Adventure, Sci-Fi  ",132,2013,77,72,467286
+American Hustle,"Crime, Drama  ",138,2013,72,90,456233
+The Conjuring,"Horror, Mystery, Thriller  ",112,2013,75,68,456176
+Dallas Buyers Club,"Biography, Drama  ",117,2013,80,80,452503
+Rush,"Action, Biography, Drama  ",123,2013,81,74,443987
+The Wolverine,"Action, Sci-Fi  ",126,2013,67,61,437186
+Captain Phillips,"Adventure, Biography, Crime  ",134,2013,78,82,429311
+Elysium,"Action, Drama, Sci-Fi  ",109,2013,66,61,424397
+We're the Millers,"Comedy, Crime  ",110,2013,70,44,412527
+This Is the End,Comedy  ,107,2013,66,67,389837
+Despicable Me 2,"Animation, Adventure, Comedy  ",98,2013,73,62,375481
+Fast & Furious 6,"Action, Adventure, Thriller  ",130,2013,70,61,374406
+Snowpiercer,"Action, Drama, Sci-Fi  ",126,2013,71,84,332572
+Monsters University,"Animation, Adventure, Comedy  ",104,2013,72,65,329921
+About Time,"Comedy, Drama, Fantasy  ",123,2013,78,55,314460
+The Secret Life of Walter Mitty,"Adventure, Comedy, Drama  ",114,2013,73,54,298482
+The Hangover Part III,"Comedy, Crime  ",100,2013,58,30,297721
+Lone Survivor,"Action, Biography, Drama  ",121,2013,75,60,271055
+The World's End,"Comedy, Sci-Fi  ",109,2013,70,81,264697
+Olympus Has Fallen,"Action, Thriller  ",119,2013,65,41,261689
+Kick-Ass 2,"Action, Comedy, Crime  ",103,2013,65,41,258415
+Don Jon,"Comedy, Drama, Romance  ",90,2013,65,66,231604
+Escape Plan,"Action, Thriller  ",115,2013,67,49,230999
+Ender's Game,"Action, Adventure, Fantasy  ",114,2013,66,51,227172
+The Lone Ranger,"Action, Adventure, Western  ",150,2013,64,37,224584
+Warm Bodies,"Comedy, Horror, Romance  ",98,2013,68,60,221879
+The Wolf of Wall Street,"Biography, Crime, Drama  ",180,2013,82,75,1229536
+Gravity,"Drama, Sci-Fi, Thriller  ",91,2013,77,96,780712
+Iron Man 3,"Action, Adventure, Sci-Fi  ",130,2013,71,62,774025
+Man of Steel,"Action, Adventure, Sci-Fi  ",143,2013,70,55,717985
+12 Years a Slave,"Biography, Drama, History  ",134,2013,81,96,654226
+The Hunger Games: Catching Fire,"Action, Adventure, Mystery  ",146,2013,75,76,622930
+Prisoners,"Crime, Drama, Mystery  ",153,2013,81,70,620132
+World War Z,"Action, Adventure, Horror  ",116,2013,70,63,614006
+Thor: The Dark World,"Action, Adventure, Fantasy  ",112,2013,69,54,612699
+The Hobbit: The Desolation of Smaug,"Adventure, Fantasy  ",161,2013,78,66,611792
+Now You See Me,"Crime, Mystery, Thriller  ",115,2013,72,50,608272
+Frozen,"Animation, Adventure, Comedy  ",102,2013,74,75,582139
+Her,"Drama, Romance, Sci-Fi  ",126,2013,80,90,555490
+Oblivion,"Action, Adventure, Sci-Fi  ",124,2013,70,54,493422
+The Great Gatsby,"Drama, Romance  ",143,2013,72,55,491530
+Pacific Rim,"Action, Adventure, Sci-Fi  ",131,2013,69,65,473151
+Star Trek Into Darkness,"Action, Adventure, Sci-Fi  ",132,2013,77,72,467286
+American Hustle,"Crime, Drama  ",138,2013,72,90,456233
+The Conjuring,"Horror, Mystery, Thriller  ",112,2013,75,68,456176
+Dallas Buyers Club,"Biography, Drama  ",117,2013,80,80,452503
+Rush,"Action, Biography, Drama  ",123,2013,81,74,443987
+The Wolverine,"Action, Sci-Fi  ",126,2013,67,61,437186
+Captain Phillips,"Adventure, Biography, Crime  ",134,2013,78,82,429311
+Elysium,"Action, Drama, Sci-Fi  ",109,2013,66,61,424397
+We're the Millers,"Comedy, Crime  ",110,2013,70,44,412527
+This Is the End,Comedy  ,107,2013,66,67,389837
+Despicable Me 2,"Animation, Adventure, Comedy  ",98,2013,73,62,375481
+Fast & Furious 6,"Action, Adventure, Thriller  ",130,2013,70,61,374406
+Snowpiercer,"Action, Drama, Sci-Fi  ",126,2013,71,84,332572
+Monsters University,"Animation, Adventure, Comedy  ",104,2013,72,65,329921
+About Time,"Comedy, Drama, Fantasy  ",123,2013,78,55,314460
+The Secret Life of Walter Mitty,"Adventure, Comedy, Drama  ",114,2013,73,54,298482
+The Hangover Part III,"Comedy, Crime  ",100,2013,58,30,297721
+Lone Survivor,"Action, Biography, Drama  ",121,2013,75,60,271055
+The World's End,"Comedy, Sci-Fi  ",109,2013,70,81,264697
+Olympus Has Fallen,"Action, Thriller  ",119,2013,65,41,261689
+Kick-Ass 2,"Action, Comedy, Crime  ",103,2013,65,41,258415
+Don Jon,"Comedy, Drama, Romance  ",90,2013,65,66,231604
+Escape Plan,"Action, Thriller  ",115,2013,67,49,230999
+Ender's Game,"Action, Adventure, Fantasy  ",114,2013,66,51,227172
+The Lone Ranger,"Action, Adventure, Western  ",150,2013,64,37,224584
+Warm Bodies,"Comedy, Horror, Romance  ",98,2013,68,60,221879
+The Wolf of Wall Street,"Biography, Crime, Drama  ",180,2013,82,75,1229536
+Gravity,"Drama, Sci-Fi, Thriller  ",91,2013,77,96,780712
+Iron Man 3,"Action, Adventure, Sci-Fi  ",130,2013,71,62,774025
+Man of Steel,"Action, Adventure, Sci-Fi  ",143,2013,70,55,717985
+12 Years a Slave,"Biography, Drama, History  ",134,2013,81,96,654226
+The Hunger Games: Catching Fire,"Action, Adventure, Mystery  ",146,2013,75,76,622930
+Prisoners,"Crime, Drama, Mystery  ",153,2013,81,70,620132
+World War Z,"Action, Adventure, Horror  ",116,2013,70,63,614006
+Thor: The Dark World,"Action, Adventure, Fantasy  ",112,2013,69,54,612699
+The Hobbit: The Desolation of Smaug,"Adventure, Fantasy  ",161,2013,78,66,611792
+Now You See Me,"Crime, Mystery, Thriller  ",115,2013,72,50,608272
+Frozen,"Animation, Adventure, Comedy  ",102,2013,74,75,582139
+Her,"Drama, Romance, Sci-Fi  ",126,2013,80,90,555490
+Oblivion,"Action, Adventure, Sci-Fi  ",124,2013,70,54,493422
+The Great Gatsby,"Drama, Romance  ",143,2013,72,55,491530
+Pacific Rim,"Action, Adventure, Sci-Fi  ",131,2013,69,65,473151
+Star Trek Into Darkness,"Action, Adventure, Sci-Fi  ",132,2013,77,72,467286
+American Hustle,"Crime, Drama  ",138,2013,72,90,456233
+The Conjuring,"Horror, Mystery, Thriller  ",112,2013,75,68,456176
+Dallas Buyers Club,"Biography, Drama  ",117,2013,80,80,452503
+Rush,"Action, Biography, Drama  ",123,2013,81,74,443987
+The Wolverine,"Action, Sci-Fi  ",126,2013,67,61,437186
+Captain Phillips,"Adventure, Biography, Crime  ",134,2013,78,82,429311
+Elysium,"Action, Drama, Sci-Fi  ",109,2013,66,61,424397
+We're the Millers,"Comedy, Crime  ",110,2013,70,44,412527
+This Is the End,Comedy  ,107,2013,66,67,389837
+Despicable Me 2,"Animation, Adventure, Comedy  ",98,2013,73,62,375481
+Fast & Furious 6,"Action, Adventure, Thriller  ",130,2013,70,61,374406
+Snowpiercer,"Action, Drama, Sci-Fi  ",126,2013,71,84,332572
+Monsters University,"Animation, Adventure, Comedy  ",104,2013,72,65,329921
+About Time,"Comedy, Drama, Fantasy  ",123,2013,78,55,314460
+The Secret Life of Walter Mitty,"Adventure, Comedy, Drama  ",114,2013,73,54,298482
+The Hangover Part III,"Comedy, Crime  ",100,2013,58,30,297721
+Lone Survivor,"Action, Biography, Drama  ",121,2013,75,60,271055
+The World's End,"Comedy, Sci-Fi  ",109,2013,70,81,264697
+Olympus Has Fallen,"Action, Thriller  ",119,2013,65,41,261689
+Kick-Ass 2,"Action, Comedy, Crime  ",103,2013,65,41,258415
+Don Jon,"Comedy, Drama, Romance  ",90,2013,65,66,231604
+Escape Plan,"Action, Thriller  ",115,2013,67,49,230999
+Ender's Game,"Action, Adventure, Fantasy  ",114,2013,66,51,227172
+The Lone Ranger,"Action, Adventure, Western  ",150,2013,64,37,224584
+Warm Bodies,"Comedy, Horror, Romance  ",98,2013,68,60,221879
+The Wolf of Wall Street,"Biography, Crime, Drama  ",180,2013,82,75,1229536
+Gravity,"Drama, Sci-Fi, Thriller  ",91,2013,77,96,780712
+Iron Man 3,"Action, Adventure, Sci-Fi  ",130,2013,71,62,774025
+Man of Steel,"Action, Adventure, Sci-Fi  ",143,2013,70,55,717985
+12 Years a Slave,"Biography, Drama, History  ",134,2013,81,96,654226
+The Hunger Games: Catching Fire,"Action, Adventure, Mystery  ",146,2013,75,76,622930
+Prisoners,"Crime, Drama, Mystery  ",153,2013,81,70,620132
+World War Z,"Action, Adventure, Horror  ",116,2013,70,63,614006
+Thor: The Dark World,"Action, Adventure, Fantasy  ",112,2013,69,54,612699
+The Hobbit: The Desolation of Smaug,"Adventure, Fantasy  ",161,2013,78,66,611792
+Now You See Me,"Crime, Mystery, Thriller  ",115,2013,72,50,608272
+Frozen,"Animation, Adventure, Comedy  ",102,2013,74,75,582139
+Her,"Drama, Romance, Sci-Fi  ",126,2013,80,90,555490
+Oblivion,"Action, Adventure, Sci-Fi  ",124,2013,70,54,493422
+The Great Gatsby,"Drama, Romance  ",143,2013,72,55,491530
+Pacific Rim,"Action, Adventure, Sci-Fi  ",131,2013,69,65,473151
+Star Trek Into Darkness,"Action, Adventure, Sci-Fi  ",132,2013,77,72,467286
+American Hustle,"Crime, Drama  ",138,2013,72,90,456233
+The Conjuring,"Horror, Mystery, Thriller  ",112,2013,75,68,456176
+Dallas Buyers Club,"Biography, Drama  ",117,2013,80,80,452503
+Rush,"Action, Biography, Drama  ",123,2013,81,74,443987
+The Wolverine,"Action, Sci-Fi  ",126,2013,67,61,437186
+Captain Phillips,"Adventure, Biography, Crime  ",134,2013,78,82,429311
+Elysium,"Action, Drama, Sci-Fi  ",109,2013,66,61,424397
+We're the Millers,"Comedy, Crime  ",110,2013,70,44,412527
+This Is the End,Comedy  ,107,2013,66,67,389837
+Despicable Me 2,"Animation, Adventure, Comedy  ",98,2013,73,62,375481
+Fast & Furious 6,"Action, Adventure, Thriller  ",130,2013,70,61,374406
+Snowpiercer,"Action, Drama, Sci-Fi  ",126,2013,71,84,332572
+Monsters University,"Animation, Adventure, Comedy  ",104,2013,72,65,329921
+About Time,"Comedy, Drama, Fantasy  ",123,2013,78,55,314460
+The Secret Life of Walter Mitty,"Adventure, Comedy, Drama  ",114,2013,73,54,298482
+The Hangover Part III,"Comedy, Crime  ",100,2013,58,30,297721
+Lone Survivor,"Action, Biography, Drama  ",121,2013,75,60,271055
+The World's End,"Comedy, Sci-Fi  ",109,2013,70,81,264697
+Olympus Has Fallen,"Action, Thriller  ",119,2013,65,41,261689
+Kick-Ass 2,"Action, Comedy, Crime  ",103,2013,65,41,258415
+Don Jon,"Comedy, Drama, Romance  ",90,2013,65,66,231604
+Escape Plan,"Action, Thriller  ",115,2013,67,49,230999
+Ender's Game,"Action, Adventure, Fantasy  ",114,2013,66,51,227172
+The Lone Ranger,"Action, Adventure, Western  ",150,2013,64,37,224584
+Warm Bodies,"Comedy, Horror, Romance  ",98,2013,68,60,221879

@@ -1,0 +1,529 @@
+Movie,Genre,Duration,Year,Imdb_rating,Metascore_rating,Votes
+The Lord of the Rings: The Two Towers,"Action, Adventure, Drama  ",179,2002,87,87,1516674
+Catch Me If You Can,"Biography, Crime, Drama  ",141,2002,81,75,860023
+The Pianist,"Biography, Drama, Music  ",150,2002,85,85,751698
+City of God,"Crime, Drama  ",130,2002,86,79,710972
+Spider-Man,"Action, Adventure, Sci-Fi  ",121,2002,73,73,701755
+Star Wars: Episode II - Attack of the Clones,"Action, Adventure, Fantasy  ",142,2002,65,54,655086
+Harry Potter and the Chamber of Secrets,"Adventure, Family, Fantasy  ",161,2002,74,63,568356
+Minority Report,"Action, Crime, Mystery  ",145,2002,76,80,516927
+The Bourne Identity,"Action, Mystery, Thriller  ",119,2002,79,68,516703
+Ice Age,"Animation, Adventure, Comedy  ",81,2002,75,60,450192
+Gangs of New York,"Crime, Drama  ",167,2002,75,72,413887
+28 Days Later...,"Drama, Horror, Sci-Fi  ",113,2002,76,73,383783
+Men in Black II,"Action, Adventure, Comedy  ",88,2002,62,49,349189
+Signs,"Drama, Mystery, Sci-Fi  ",106,2002,67,59,342108
+The Ring,"Horror, Mystery  ",115,2002,71,57,326434
+Equilibrium,"Action, Drama, Sci-Fi  ",107,2002,74,33,314854
+The Transporter,"Action, Crime, Thriller  ",92,2002,68,51,288706
+Insomnia,"Drama, Mystery, Thriller  ",118,2002,72,78,280033
+Panic Room,"Crime, Drama, Thriller  ",112,2002,68,65,264355
+Red Dragon,"Crime, Drama, Thriller  ",124,2002,72,60,257913
+8 Mile,"Drama, Music  ",110,2002,71,77,256357
+Phone Booth,"Crime, Thriller  ",81,2002,70,56,254183
+Resident Evil,"Action, Horror, Sci-Fi  ",100,2002,67,33,252523
+Road to Perdition,"Crime, Drama, Thriller  ",117,2002,77,72,251364
+Chicago,"Comedy, Crime, Musical  ",113,2002,72,81,219162
+Die Another Day,"Action, Adventure, Thriller  ",133,2002,61,56,207954
+Blade II,"Action, Fantasy, Horror  ",117,2002,67,52,203524
+A Walk to Remember,"Drama, Romance  ",101,2002,73,35,202104
+Austin Powers in Goldmember,"Action, Adventure, Comedy  ",94,2002,62,62,198504
+Adaptation.,"Comedy, Drama  ",115,2002,77,83,181561
+Hero,"Action, Adventure, History  ",120,2002,79,85,175566
+About a Boy,"Comedy, Drama, Romance  ",101,2002,71,75,175226
+xXx,"Action, Adventure, Thriller  ",124,2002,59,48,174643
+Lilo & Stitch,"Animation, Adventure, Comedy  ",92,2002,72,73,173003
+25th Hour,Drama  ,135,2002,76,68,171515
+Punch-Drunk Love,"Comedy, Drama, Romance  ",95,2002,73,78,150805
+Bowling for Columbine,"Documentary, Crime, Drama  ",120,2002,79,72,140643
+Mr. Deeds,"Comedy, Romance  ",96,2002,58,24,138067
+We Were Soldiers,"Action, Drama, History  ",140,2002,72,65,132804
+The Scorpion King,"Action, Adventure, Fantasy  ",92,2002,55,45,132146
+The Count of Monte Cristo,"Action, Adventure, Drama  ",131,2002,77,61,131081
+Reign of Fire,"Action, Adventure, Fantasy  ",101,2002,62,39,128529
+John Q,"Crime, Drama, Thriller  ",116,2002,71,30,126451
+The Hours,"Drama, Romance  ",110,2002,75,80,126325
+About Schmidt,"Comedy, Drama  ",125,2002,71,85,123762
+Irreversible,"Crime, Drama, Mystery  ",97,2002,74,51,123592
+My Big Fat Greek Wedding,"Comedy, Drama, Romance  ",95,2002,66,62,121776
+The Time Machine,"Action, Adventure, Sci-Fi  ",96,2002,60,42,119835
+The Lord of the Rings: The Two Towers,"Action, Adventure, Drama  ",179,2002,87,87,1516674
+Catch Me If You Can,"Biography, Crime, Drama  ",141,2002,81,75,860023
+The Pianist,"Biography, Drama, Music  ",150,2002,85,85,751698
+City of God,"Crime, Drama  ",130,2002,86,79,710972
+Spider-Man,"Action, Adventure, Sci-Fi  ",121,2002,73,73,701755
+Star Wars: Episode II - Attack of the Clones,"Action, Adventure, Fantasy  ",142,2002,65,54,655086
+Harry Potter and the Chamber of Secrets,"Adventure, Family, Fantasy  ",161,2002,74,63,568356
+Minority Report,"Action, Crime, Mystery  ",145,2002,76,80,516927
+The Bourne Identity,"Action, Mystery, Thriller  ",119,2002,79,68,516703
+Ice Age,"Animation, Adventure, Comedy  ",81,2002,75,60,450192
+Gangs of New York,"Crime, Drama  ",167,2002,75,72,413887
+28 Days Later...,"Drama, Horror, Sci-Fi  ",113,2002,76,73,383783
+Men in Black II,"Action, Adventure, Comedy  ",88,2002,62,49,349189
+Signs,"Drama, Mystery, Sci-Fi  ",106,2002,67,59,342108
+The Ring,"Horror, Mystery  ",115,2002,71,57,326434
+Equilibrium,"Action, Drama, Sci-Fi  ",107,2002,74,33,314854
+The Transporter,"Action, Crime, Thriller  ",92,2002,68,51,288706
+Insomnia,"Drama, Mystery, Thriller  ",118,2002,72,78,280033
+Panic Room,"Crime, Drama, Thriller  ",112,2002,68,65,264355
+Red Dragon,"Crime, Drama, Thriller  ",124,2002,72,60,257913
+8 Mile,"Drama, Music  ",110,2002,71,77,256357
+Phone Booth,"Crime, Thriller  ",81,2002,70,56,254183
+Resident Evil,"Action, Horror, Sci-Fi  ",100,2002,67,33,252523
+Road to Perdition,"Crime, Drama, Thriller  ",117,2002,77,72,251364
+Chicago,"Comedy, Crime, Musical  ",113,2002,72,81,219162
+Die Another Day,"Action, Adventure, Thriller  ",133,2002,61,56,207954
+Blade II,"Action, Fantasy, Horror  ",117,2002,67,52,203524
+A Walk to Remember,"Drama, Romance  ",101,2002,73,35,202104
+Austin Powers in Goldmember,"Action, Adventure, Comedy  ",94,2002,62,62,198504
+Adaptation.,"Comedy, Drama  ",115,2002,77,83,181561
+Hero,"Action, Adventure, History  ",120,2002,79,85,175566
+About a Boy,"Comedy, Drama, Romance  ",101,2002,71,75,175226
+xXx,"Action, Adventure, Thriller  ",124,2002,59,48,174643
+Lilo & Stitch,"Animation, Adventure, Comedy  ",92,2002,72,73,173003
+25th Hour,Drama  ,135,2002,76,68,171515
+Punch-Drunk Love,"Comedy, Drama, Romance  ",95,2002,73,78,150805
+Bowling for Columbine,"Documentary, Crime, Drama  ",120,2002,79,72,140643
+Mr. Deeds,"Comedy, Romance  ",96,2002,58,24,138067
+We Were Soldiers,"Action, Drama, History  ",140,2002,72,65,132804
+The Scorpion King,"Action, Adventure, Fantasy  ",92,2002,55,45,132146
+The Count of Monte Cristo,"Action, Adventure, Drama  ",131,2002,77,61,131081
+Reign of Fire,"Action, Adventure, Fantasy  ",101,2002,62,39,128529
+John Q,"Crime, Drama, Thriller  ",116,2002,71,30,126451
+The Hours,"Drama, Romance  ",110,2002,75,80,126325
+About Schmidt,"Comedy, Drama  ",125,2002,71,85,123762
+Irreversible,"Crime, Drama, Mystery  ",97,2002,74,51,123592
+My Big Fat Greek Wedding,"Comedy, Drama, Romance  ",95,2002,66,62,121776
+The Time Machine,"Action, Adventure, Sci-Fi  ",96,2002,60,42,119835
+The Lord of the Rings: The Two Towers,"Action, Adventure, Drama  ",179,2002,87,87,1516674
+Catch Me If You Can,"Biography, Crime, Drama  ",141,2002,81,75,860023
+The Pianist,"Biography, Drama, Music  ",150,2002,85,85,751698
+City of God,"Crime, Drama  ",130,2002,86,79,710972
+Spider-Man,"Action, Adventure, Sci-Fi  ",121,2002,73,73,701755
+Star Wars: Episode II - Attack of the Clones,"Action, Adventure, Fantasy  ",142,2002,65,54,655086
+Harry Potter and the Chamber of Secrets,"Adventure, Family, Fantasy  ",161,2002,74,63,568356
+Minority Report,"Action, Crime, Mystery  ",145,2002,76,80,516927
+The Bourne Identity,"Action, Mystery, Thriller  ",119,2002,79,68,516703
+Ice Age,"Animation, Adventure, Comedy  ",81,2002,75,60,450192
+Gangs of New York,"Crime, Drama  ",167,2002,75,72,413887
+28 Days Later...,"Drama, Horror, Sci-Fi  ",113,2002,76,73,383783
+Men in Black II,"Action, Adventure, Comedy  ",88,2002,62,49,349189
+Signs,"Drama, Mystery, Sci-Fi  ",106,2002,67,59,342108
+The Ring,"Horror, Mystery  ",115,2002,71,57,326434
+Equilibrium,"Action, Drama, Sci-Fi  ",107,2002,74,33,314854
+The Transporter,"Action, Crime, Thriller  ",92,2002,68,51,288706
+Insomnia,"Drama, Mystery, Thriller  ",118,2002,72,78,280033
+Panic Room,"Crime, Drama, Thriller  ",112,2002,68,65,264355
+Red Dragon,"Crime, Drama, Thriller  ",124,2002,72,60,257913
+8 Mile,"Drama, Music  ",110,2002,71,77,256357
+Phone Booth,"Crime, Thriller  ",81,2002,70,56,254183
+Resident Evil,"Action, Horror, Sci-Fi  ",100,2002,67,33,252523
+Road to Perdition,"Crime, Drama, Thriller  ",117,2002,77,72,251364
+Chicago,"Comedy, Crime, Musical  ",113,2002,72,81,219162
+Die Another Day,"Action, Adventure, Thriller  ",133,2002,61,56,207954
+Blade II,"Action, Fantasy, Horror  ",117,2002,67,52,203524
+A Walk to Remember,"Drama, Romance  ",101,2002,73,35,202104
+Austin Powers in Goldmember,"Action, Adventure, Comedy  ",94,2002,62,62,198504
+Adaptation.,"Comedy, Drama  ",115,2002,77,83,181561
+Hero,"Action, Adventure, History  ",120,2002,79,85,175566
+About a Boy,"Comedy, Drama, Romance  ",101,2002,71,75,175226
+xXx,"Action, Adventure, Thriller  ",124,2002,59,48,174643
+Lilo & Stitch,"Animation, Adventure, Comedy  ",92,2002,72,73,173003
+25th Hour,Drama  ,135,2002,76,68,171515
+Punch-Drunk Love,"Comedy, Drama, Romance  ",95,2002,73,78,150805
+Bowling for Columbine,"Documentary, Crime, Drama  ",120,2002,79,72,140643
+Mr. Deeds,"Comedy, Romance  ",96,2002,58,24,138067
+We Were Soldiers,"Action, Drama, History  ",140,2002,72,65,132804
+The Scorpion King,"Action, Adventure, Fantasy  ",92,2002,55,45,132146
+The Count of Monte Cristo,"Action, Adventure, Drama  ",131,2002,77,61,131081
+Reign of Fire,"Action, Adventure, Fantasy  ",101,2002,62,39,128529
+John Q,"Crime, Drama, Thriller  ",116,2002,71,30,126451
+The Hours,"Drama, Romance  ",110,2002,75,80,126325
+About Schmidt,"Comedy, Drama  ",125,2002,71,85,123762
+Irreversible,"Crime, Drama, Mystery  ",97,2002,74,51,123592
+My Big Fat Greek Wedding,"Comedy, Drama, Romance  ",95,2002,66,62,121776
+The Time Machine,"Action, Adventure, Sci-Fi  ",96,2002,60,42,119835
+The Lord of the Rings: The Two Towers,"Action, Adventure, Drama  ",179,2002,87,87,1516674
+Catch Me If You Can,"Biography, Crime, Drama  ",141,2002,81,75,860023
+The Pianist,"Biography, Drama, Music  ",150,2002,85,85,751698
+City of God,"Crime, Drama  ",130,2002,86,79,710972
+Spider-Man,"Action, Adventure, Sci-Fi  ",121,2002,73,73,701755
+Star Wars: Episode II - Attack of the Clones,"Action, Adventure, Fantasy  ",142,2002,65,54,655086
+Harry Potter and the Chamber of Secrets,"Adventure, Family, Fantasy  ",161,2002,74,63,568356
+Minority Report,"Action, Crime, Mystery  ",145,2002,76,80,516927
+The Bourne Identity,"Action, Mystery, Thriller  ",119,2002,79,68,516703
+Ice Age,"Animation, Adventure, Comedy  ",81,2002,75,60,450192
+Gangs of New York,"Crime, Drama  ",167,2002,75,72,413887
+28 Days Later...,"Drama, Horror, Sci-Fi  ",113,2002,76,73,383783
+Men in Black II,"Action, Adventure, Comedy  ",88,2002,62,49,349189
+Signs,"Drama, Mystery, Sci-Fi  ",106,2002,67,59,342108
+The Ring,"Horror, Mystery  ",115,2002,71,57,326434
+Equilibrium,"Action, Drama, Sci-Fi  ",107,2002,74,33,314854
+The Transporter,"Action, Crime, Thriller  ",92,2002,68,51,288706
+Insomnia,"Drama, Mystery, Thriller  ",118,2002,72,78,280033
+Panic Room,"Crime, Drama, Thriller  ",112,2002,68,65,264355
+Red Dragon,"Crime, Drama, Thriller  ",124,2002,72,60,257913
+8 Mile,"Drama, Music  ",110,2002,71,77,256357
+Phone Booth,"Crime, Thriller  ",81,2002,70,56,254183
+Resident Evil,"Action, Horror, Sci-Fi  ",100,2002,67,33,252523
+Road to Perdition,"Crime, Drama, Thriller  ",117,2002,77,72,251364
+Chicago,"Comedy, Crime, Musical  ",113,2002,72,81,219162
+Die Another Day,"Action, Adventure, Thriller  ",133,2002,61,56,207954
+Blade II,"Action, Fantasy, Horror  ",117,2002,67,52,203524
+A Walk to Remember,"Drama, Romance  ",101,2002,73,35,202104
+Austin Powers in Goldmember,"Action, Adventure, Comedy  ",94,2002,62,62,198504
+Adaptation.,"Comedy, Drama  ",115,2002,77,83,181561
+Hero,"Action, Adventure, History  ",120,2002,79,85,175566
+About a Boy,"Comedy, Drama, Romance  ",101,2002,71,75,175226
+xXx,"Action, Adventure, Thriller  ",124,2002,59,48,174643
+Lilo & Stitch,"Animation, Adventure, Comedy  ",92,2002,72,73,173003
+25th Hour,Drama  ,135,2002,76,68,171515
+Punch-Drunk Love,"Comedy, Drama, Romance  ",95,2002,73,78,150805
+Bowling for Columbine,"Documentary, Crime, Drama  ",120,2002,79,72,140643
+Mr. Deeds,"Comedy, Romance  ",96,2002,58,24,138067
+We Were Soldiers,"Action, Drama, History  ",140,2002,72,65,132804
+The Scorpion King,"Action, Adventure, Fantasy  ",92,2002,55,45,132146
+The Count of Monte Cristo,"Action, Adventure, Drama  ",131,2002,77,61,131081
+Reign of Fire,"Action, Adventure, Fantasy  ",101,2002,62,39,128529
+John Q,"Crime, Drama, Thriller  ",116,2002,71,30,126451
+The Hours,"Drama, Romance  ",110,2002,75,80,126325
+About Schmidt,"Comedy, Drama  ",125,2002,71,85,123762
+Irreversible,"Crime, Drama, Mystery  ",97,2002,74,51,123592
+My Big Fat Greek Wedding,"Comedy, Drama, Romance  ",95,2002,66,62,121776
+The Time Machine,"Action, Adventure, Sci-Fi  ",96,2002,60,42,119835
+The Lord of the Rings: The Two Towers,"Action, Adventure, Drama  ",179,2002,87,87,1516674
+Catch Me If You Can,"Biography, Crime, Drama  ",141,2002,81,75,860023
+The Pianist,"Biography, Drama, Music  ",150,2002,85,85,751698
+City of God,"Crime, Drama  ",130,2002,86,79,710972
+Spider-Man,"Action, Adventure, Sci-Fi  ",121,2002,73,73,701755
+Star Wars: Episode II - Attack of the Clones,"Action, Adventure, Fantasy  ",142,2002,65,54,655086
+Harry Potter and the Chamber of Secrets,"Adventure, Family, Fantasy  ",161,2002,74,63,568356
+Minority Report,"Action, Crime, Mystery  ",145,2002,76,80,516927
+The Bourne Identity,"Action, Mystery, Thriller  ",119,2002,79,68,516703
+Ice Age,"Animation, Adventure, Comedy  ",81,2002,75,60,450192
+Gangs of New York,"Crime, Drama  ",167,2002,75,72,413887
+28 Days Later...,"Drama, Horror, Sci-Fi  ",113,2002,76,73,383783
+Men in Black II,"Action, Adventure, Comedy  ",88,2002,62,49,349189
+Signs,"Drama, Mystery, Sci-Fi  ",106,2002,67,59,342108
+The Ring,"Horror, Mystery  ",115,2002,71,57,326434
+Equilibrium,"Action, Drama, Sci-Fi  ",107,2002,74,33,314854
+The Transporter,"Action, Crime, Thriller  ",92,2002,68,51,288706
+Insomnia,"Drama, Mystery, Thriller  ",118,2002,72,78,280033
+Panic Room,"Crime, Drama, Thriller  ",112,2002,68,65,264355
+Red Dragon,"Crime, Drama, Thriller  ",124,2002,72,60,257913
+8 Mile,"Drama, Music  ",110,2002,71,77,256357
+Phone Booth,"Crime, Thriller  ",81,2002,70,56,254183
+Resident Evil,"Action, Horror, Sci-Fi  ",100,2002,67,33,252523
+Road to Perdition,"Crime, Drama, Thriller  ",117,2002,77,72,251364
+Chicago,"Comedy, Crime, Musical  ",113,2002,72,81,219162
+Die Another Day,"Action, Adventure, Thriller  ",133,2002,61,56,207954
+Blade II,"Action, Fantasy, Horror  ",117,2002,67,52,203524
+A Walk to Remember,"Drama, Romance  ",101,2002,73,35,202104
+Austin Powers in Goldmember,"Action, Adventure, Comedy  ",94,2002,62,62,198504
+Adaptation.,"Comedy, Drama  ",115,2002,77,83,181561
+Hero,"Action, Adventure, History  ",120,2002,79,85,175566
+About a Boy,"Comedy, Drama, Romance  ",101,2002,71,75,175226
+xXx,"Action, Adventure, Thriller  ",124,2002,59,48,174643
+Lilo & Stitch,"Animation, Adventure, Comedy  ",92,2002,72,73,173003
+25th Hour,Drama  ,135,2002,76,68,171515
+Punch-Drunk Love,"Comedy, Drama, Romance  ",95,2002,73,78,150805
+Bowling for Columbine,"Documentary, Crime, Drama  ",120,2002,79,72,140643
+Mr. Deeds,"Comedy, Romance  ",96,2002,58,24,138067
+We Were Soldiers,"Action, Drama, History  ",140,2002,72,65,132804
+The Scorpion King,"Action, Adventure, Fantasy  ",92,2002,55,45,132146
+The Count of Monte Cristo,"Action, Adventure, Drama  ",131,2002,77,61,131081
+Reign of Fire,"Action, Adventure, Fantasy  ",101,2002,62,39,128529
+John Q,"Crime, Drama, Thriller  ",116,2002,71,30,126451
+The Hours,"Drama, Romance  ",110,2002,75,80,126325
+About Schmidt,"Comedy, Drama  ",125,2002,71,85,123762
+Irreversible,"Crime, Drama, Mystery  ",97,2002,74,51,123592
+My Big Fat Greek Wedding,"Comedy, Drama, Romance  ",95,2002,66,62,121776
+The Time Machine,"Action, Adventure, Sci-Fi  ",96,2002,60,42,119835
+The Lord of the Rings: The Two Towers,"Action, Adventure, Drama  ",179,2002,87,87,1516674
+Catch Me If You Can,"Biography, Crime, Drama  ",141,2002,81,75,860023
+The Pianist,"Biography, Drama, Music  ",150,2002,85,85,751698
+City of God,"Crime, Drama  ",130,2002,86,79,710972
+Spider-Man,"Action, Adventure, Sci-Fi  ",121,2002,73,73,701755
+Star Wars: Episode II - Attack of the Clones,"Action, Adventure, Fantasy  ",142,2002,65,54,655086
+Harry Potter and the Chamber of Secrets,"Adventure, Family, Fantasy  ",161,2002,74,63,568356
+Minority Report,"Action, Crime, Mystery  ",145,2002,76,80,516927
+The Bourne Identity,"Action, Mystery, Thriller  ",119,2002,79,68,516703
+Ice Age,"Animation, Adventure, Comedy  ",81,2002,75,60,450192
+Gangs of New York,"Crime, Drama  ",167,2002,75,72,413887
+28 Days Later...,"Drama, Horror, Sci-Fi  ",113,2002,76,73,383783
+Men in Black II,"Action, Adventure, Comedy  ",88,2002,62,49,349189
+Signs,"Drama, Mystery, Sci-Fi  ",106,2002,67,59,342108
+The Ring,"Horror, Mystery  ",115,2002,71,57,326434
+Equilibrium,"Action, Drama, Sci-Fi  ",107,2002,74,33,314854
+The Transporter,"Action, Crime, Thriller  ",92,2002,68,51,288706
+Insomnia,"Drama, Mystery, Thriller  ",118,2002,72,78,280033
+Panic Room,"Crime, Drama, Thriller  ",112,2002,68,65,264355
+Red Dragon,"Crime, Drama, Thriller  ",124,2002,72,60,257913
+8 Mile,"Drama, Music  ",110,2002,71,77,256357
+Phone Booth,"Crime, Thriller  ",81,2002,70,56,254183
+Resident Evil,"Action, Horror, Sci-Fi  ",100,2002,67,33,252523
+Road to Perdition,"Crime, Drama, Thriller  ",117,2002,77,72,251364
+Chicago,"Comedy, Crime, Musical  ",113,2002,72,81,219162
+Die Another Day,"Action, Adventure, Thriller  ",133,2002,61,56,207954
+Blade II,"Action, Fantasy, Horror  ",117,2002,67,52,203524
+A Walk to Remember,"Drama, Romance  ",101,2002,73,35,202104
+Austin Powers in Goldmember,"Action, Adventure, Comedy  ",94,2002,62,62,198504
+Adaptation.,"Comedy, Drama  ",115,2002,77,83,181561
+Hero,"Action, Adventure, History  ",120,2002,79,85,175566
+About a Boy,"Comedy, Drama, Romance  ",101,2002,71,75,175226
+xXx,"Action, Adventure, Thriller  ",124,2002,59,48,174643
+Lilo & Stitch,"Animation, Adventure, Comedy  ",92,2002,72,73,173003
+25th Hour,Drama  ,135,2002,76,68,171515
+Punch-Drunk Love,"Comedy, Drama, Romance  ",95,2002,73,78,150805
+Bowling for Columbine,"Documentary, Crime, Drama  ",120,2002,79,72,140643
+Mr. Deeds,"Comedy, Romance  ",96,2002,58,24,138067
+We Were Soldiers,"Action, Drama, History  ",140,2002,72,65,132804
+The Scorpion King,"Action, Adventure, Fantasy  ",92,2002,55,45,132146
+The Count of Monte Cristo,"Action, Adventure, Drama  ",131,2002,77,61,131081
+Reign of Fire,"Action, Adventure, Fantasy  ",101,2002,62,39,128529
+John Q,"Crime, Drama, Thriller  ",116,2002,71,30,126451
+The Hours,"Drama, Romance  ",110,2002,75,80,126325
+About Schmidt,"Comedy, Drama  ",125,2002,71,85,123762
+Irreversible,"Crime, Drama, Mystery  ",97,2002,74,51,123592
+My Big Fat Greek Wedding,"Comedy, Drama, Romance  ",95,2002,66,62,121776
+The Time Machine,"Action, Adventure, Sci-Fi  ",96,2002,60,42,119835
+The Lord of the Rings: The Two Towers,"Action, Adventure, Drama  ",179,2002,87,87,1516674
+Catch Me If You Can,"Biography, Crime, Drama  ",141,2002,81,75,860023
+The Pianist,"Biography, Drama, Music  ",150,2002,85,85,751698
+City of God,"Crime, Drama  ",130,2002,86,79,710972
+Spider-Man,"Action, Adventure, Sci-Fi  ",121,2002,73,73,701755
+Star Wars: Episode II - Attack of the Clones,"Action, Adventure, Fantasy  ",142,2002,65,54,655086
+Harry Potter and the Chamber of Secrets,"Adventure, Family, Fantasy  ",161,2002,74,63,568356
+Minority Report,"Action, Crime, Mystery  ",145,2002,76,80,516927
+The Bourne Identity,"Action, Mystery, Thriller  ",119,2002,79,68,516703
+Ice Age,"Animation, Adventure, Comedy  ",81,2002,75,60,450192
+Gangs of New York,"Crime, Drama  ",167,2002,75,72,413887
+28 Days Later...,"Drama, Horror, Sci-Fi  ",113,2002,76,73,383783
+Men in Black II,"Action, Adventure, Comedy  ",88,2002,62,49,349189
+Signs,"Drama, Mystery, Sci-Fi  ",106,2002,67,59,342108
+The Ring,"Horror, Mystery  ",115,2002,71,57,326434
+Equilibrium,"Action, Drama, Sci-Fi  ",107,2002,74,33,314854
+The Transporter,"Action, Crime, Thriller  ",92,2002,68,51,288706
+Insomnia,"Drama, Mystery, Thriller  ",118,2002,72,78,280033
+Panic Room,"Crime, Drama, Thriller  ",112,2002,68,65,264355
+Red Dragon,"Crime, Drama, Thriller  ",124,2002,72,60,257913
+8 Mile,"Drama, Music  ",110,2002,71,77,256357
+Phone Booth,"Crime, Thriller  ",81,2002,70,56,254183
+Resident Evil,"Action, Horror, Sci-Fi  ",100,2002,67,33,252523
+Road to Perdition,"Crime, Drama, Thriller  ",117,2002,77,72,251364
+Chicago,"Comedy, Crime, Musical  ",113,2002,72,81,219162
+Die Another Day,"Action, Adventure, Thriller  ",133,2002,61,56,207954
+Blade II,"Action, Fantasy, Horror  ",117,2002,67,52,203524
+A Walk to Remember,"Drama, Romance  ",101,2002,73,35,202104
+Austin Powers in Goldmember,"Action, Adventure, Comedy  ",94,2002,62,62,198504
+Adaptation.,"Comedy, Drama  ",115,2002,77,83,181561
+Hero,"Action, Adventure, History  ",120,2002,79,85,175566
+About a Boy,"Comedy, Drama, Romance  ",101,2002,71,75,175226
+xXx,"Action, Adventure, Thriller  ",124,2002,59,48,174643
+Lilo & Stitch,"Animation, Adventure, Comedy  ",92,2002,72,73,173003
+25th Hour,Drama  ,135,2002,76,68,171515
+Punch-Drunk Love,"Comedy, Drama, Romance  ",95,2002,73,78,150805
+Bowling for Columbine,"Documentary, Crime, Drama  ",120,2002,79,72,140643
+Mr. Deeds,"Comedy, Romance  ",96,2002,58,24,138067
+We Were Soldiers,"Action, Drama, History  ",140,2002,72,65,132804
+The Scorpion King,"Action, Adventure, Fantasy  ",92,2002,55,45,132146
+The Count of Monte Cristo,"Action, Adventure, Drama  ",131,2002,77,61,131081
+Reign of Fire,"Action, Adventure, Fantasy  ",101,2002,62,39,128529
+John Q,"Crime, Drama, Thriller  ",116,2002,71,30,126451
+The Hours,"Drama, Romance  ",110,2002,75,80,126325
+About Schmidt,"Comedy, Drama  ",125,2002,71,85,123762
+Irreversible,"Crime, Drama, Mystery  ",97,2002,74,51,123592
+My Big Fat Greek Wedding,"Comedy, Drama, Romance  ",95,2002,66,62,121776
+The Time Machine,"Action, Adventure, Sci-Fi  ",96,2002,60,42,119835
+The Lord of the Rings: The Two Towers,"Action, Adventure, Drama  ",179,2002,87,87,1516674
+Catch Me If You Can,"Biography, Crime, Drama  ",141,2002,81,75,860023
+The Pianist,"Biography, Drama, Music  ",150,2002,85,85,751698
+City of God,"Crime, Drama  ",130,2002,86,79,710972
+Spider-Man,"Action, Adventure, Sci-Fi  ",121,2002,73,73,701755
+Star Wars: Episode II - Attack of the Clones,"Action, Adventure, Fantasy  ",142,2002,65,54,655086
+Harry Potter and the Chamber of Secrets,"Adventure, Family, Fantasy  ",161,2002,74,63,568356
+Minority Report,"Action, Crime, Mystery  ",145,2002,76,80,516927
+The Bourne Identity,"Action, Mystery, Thriller  ",119,2002,79,68,516703
+Ice Age,"Animation, Adventure, Comedy  ",81,2002,75,60,450192
+Gangs of New York,"Crime, Drama  ",167,2002,75,72,413887
+28 Days Later...,"Drama, Horror, Sci-Fi  ",113,2002,76,73,383783
+Men in Black II,"Action, Adventure, Comedy  ",88,2002,62,49,349189
+Signs,"Drama, Mystery, Sci-Fi  ",106,2002,67,59,342108
+The Ring,"Horror, Mystery  ",115,2002,71,57,326434
+Equilibrium,"Action, Drama, Sci-Fi  ",107,2002,74,33,314854
+The Transporter,"Action, Crime, Thriller  ",92,2002,68,51,288706
+Insomnia,"Drama, Mystery, Thriller  ",118,2002,72,78,280033
+Panic Room,"Crime, Drama, Thriller  ",112,2002,68,65,264355
+Red Dragon,"Crime, Drama, Thriller  ",124,2002,72,60,257913
+8 Mile,"Drama, Music  ",110,2002,71,77,256357
+Phone Booth,"Crime, Thriller  ",81,2002,70,56,254183
+Resident Evil,"Action, Horror, Sci-Fi  ",100,2002,67,33,252523
+Road to Perdition,"Crime, Drama, Thriller  ",117,2002,77,72,251364
+Chicago,"Comedy, Crime, Musical  ",113,2002,72,81,219162
+Die Another Day,"Action, Adventure, Thriller  ",133,2002,61,56,207954
+Blade II,"Action, Fantasy, Horror  ",117,2002,67,52,203524
+A Walk to Remember,"Drama, Romance  ",101,2002,73,35,202104
+Austin Powers in Goldmember,"Action, Adventure, Comedy  ",94,2002,62,62,198504
+Adaptation.,"Comedy, Drama  ",115,2002,77,83,181561
+Hero,"Action, Adventure, History  ",120,2002,79,85,175566
+About a Boy,"Comedy, Drama, Romance  ",101,2002,71,75,175226
+xXx,"Action, Adventure, Thriller  ",124,2002,59,48,174643
+Lilo & Stitch,"Animation, Adventure, Comedy  ",92,2002,72,73,173003
+25th Hour,Drama  ,135,2002,76,68,171515
+Punch-Drunk Love,"Comedy, Drama, Romance  ",95,2002,73,78,150805
+Bowling for Columbine,"Documentary, Crime, Drama  ",120,2002,79,72,140643
+Mr. Deeds,"Comedy, Romance  ",96,2002,58,24,138067
+We Were Soldiers,"Action, Drama, History  ",140,2002,72,65,132804
+The Scorpion King,"Action, Adventure, Fantasy  ",92,2002,55,45,132146
+The Count of Monte Cristo,"Action, Adventure, Drama  ",131,2002,77,61,131081
+Reign of Fire,"Action, Adventure, Fantasy  ",101,2002,62,39,128529
+John Q,"Crime, Drama, Thriller  ",116,2002,71,30,126451
+The Hours,"Drama, Romance  ",110,2002,75,80,126325
+About Schmidt,"Comedy, Drama  ",125,2002,71,85,123762
+Irreversible,"Crime, Drama, Mystery  ",97,2002,74,51,123592
+My Big Fat Greek Wedding,"Comedy, Drama, Romance  ",95,2002,66,62,121776
+The Time Machine,"Action, Adventure, Sci-Fi  ",96,2002,60,42,119835
+The Lord of the Rings: The Two Towers,"Action, Adventure, Drama  ",179,2002,87,87,1516674
+Catch Me If You Can,"Biography, Crime, Drama  ",141,2002,81,75,860023
+The Pianist,"Biography, Drama, Music  ",150,2002,85,85,751698
+City of God,"Crime, Drama  ",130,2002,86,79,710972
+Spider-Man,"Action, Adventure, Sci-Fi  ",121,2002,73,73,701755
+Star Wars: Episode II - Attack of the Clones,"Action, Adventure, Fantasy  ",142,2002,65,54,655086
+Harry Potter and the Chamber of Secrets,"Adventure, Family, Fantasy  ",161,2002,74,63,568356
+Minority Report,"Action, Crime, Mystery  ",145,2002,76,80,516927
+The Bourne Identity,"Action, Mystery, Thriller  ",119,2002,79,68,516703
+Ice Age,"Animation, Adventure, Comedy  ",81,2002,75,60,450192
+Gangs of New York,"Crime, Drama  ",167,2002,75,72,413887
+28 Days Later...,"Drama, Horror, Sci-Fi  ",113,2002,76,73,383783
+Men in Black II,"Action, Adventure, Comedy  ",88,2002,62,49,349189
+Signs,"Drama, Mystery, Sci-Fi  ",106,2002,67,59,342108
+The Ring,"Horror, Mystery  ",115,2002,71,57,326434
+Equilibrium,"Action, Drama, Sci-Fi  ",107,2002,74,33,314854
+The Transporter,"Action, Crime, Thriller  ",92,2002,68,51,288706
+Insomnia,"Drama, Mystery, Thriller  ",118,2002,72,78,280033
+Panic Room,"Crime, Drama, Thriller  ",112,2002,68,65,264355
+Red Dragon,"Crime, Drama, Thriller  ",124,2002,72,60,257913
+8 Mile,"Drama, Music  ",110,2002,71,77,256357
+Phone Booth,"Crime, Thriller  ",81,2002,70,56,254183
+Resident Evil,"Action, Horror, Sci-Fi  ",100,2002,67,33,252523
+Road to Perdition,"Crime, Drama, Thriller  ",117,2002,77,72,251364
+Chicago,"Comedy, Crime, Musical  ",113,2002,72,81,219162
+Die Another Day,"Action, Adventure, Thriller  ",133,2002,61,56,207954
+Blade II,"Action, Fantasy, Horror  ",117,2002,67,52,203524
+A Walk to Remember,"Drama, Romance  ",101,2002,73,35,202104
+Austin Powers in Goldmember,"Action, Adventure, Comedy  ",94,2002,62,62,198504
+Adaptation.,"Comedy, Drama  ",115,2002,77,83,181561
+Hero,"Action, Adventure, History  ",120,2002,79,85,175566
+About a Boy,"Comedy, Drama, Romance  ",101,2002,71,75,175226
+xXx,"Action, Adventure, Thriller  ",124,2002,59,48,174643
+Lilo & Stitch,"Animation, Adventure, Comedy  ",92,2002,72,73,173003
+25th Hour,Drama  ,135,2002,76,68,171515
+Punch-Drunk Love,"Comedy, Drama, Romance  ",95,2002,73,78,150805
+Bowling for Columbine,"Documentary, Crime, Drama  ",120,2002,79,72,140643
+Mr. Deeds,"Comedy, Romance  ",96,2002,58,24,138067
+We Were Soldiers,"Action, Drama, History  ",140,2002,72,65,132804
+The Scorpion King,"Action, Adventure, Fantasy  ",92,2002,55,45,132146
+The Count of Monte Cristo,"Action, Adventure, Drama  ",131,2002,77,61,131081
+Reign of Fire,"Action, Adventure, Fantasy  ",101,2002,62,39,128529
+John Q,"Crime, Drama, Thriller  ",116,2002,71,30,126451
+The Hours,"Drama, Romance  ",110,2002,75,80,126325
+About Schmidt,"Comedy, Drama  ",125,2002,71,85,123762
+Irreversible,"Crime, Drama, Mystery  ",97,2002,74,51,123592
+My Big Fat Greek Wedding,"Comedy, Drama, Romance  ",95,2002,66,62,121776
+The Time Machine,"Action, Adventure, Sci-Fi  ",96,2002,60,42,119835
+The Lord of the Rings: The Two Towers,"Action, Adventure, Drama  ",179,2002,87,87,1516674
+Catch Me If You Can,"Biography, Crime, Drama  ",141,2002,81,75,860023
+The Pianist,"Biography, Drama, Music  ",150,2002,85,85,751698
+City of God,"Crime, Drama  ",130,2002,86,79,710972
+Spider-Man,"Action, Adventure, Sci-Fi  ",121,2002,73,73,701755
+Star Wars: Episode II - Attack of the Clones,"Action, Adventure, Fantasy  ",142,2002,65,54,655086
+Harry Potter and the Chamber of Secrets,"Adventure, Family, Fantasy  ",161,2002,74,63,568356
+Minority Report,"Action, Crime, Mystery  ",145,2002,76,80,516927
+The Bourne Identity,"Action, Mystery, Thriller  ",119,2002,79,68,516703
+Ice Age,"Animation, Adventure, Comedy  ",81,2002,75,60,450192
+Gangs of New York,"Crime, Drama  ",167,2002,75,72,413887
+28 Days Later...,"Drama, Horror, Sci-Fi  ",113,2002,76,73,383783
+Men in Black II,"Action, Adventure, Comedy  ",88,2002,62,49,349189
+Signs,"Drama, Mystery, Sci-Fi  ",106,2002,67,59,342108
+The Ring,"Horror, Mystery  ",115,2002,71,57,326434
+Equilibrium,"Action, Drama, Sci-Fi  ",107,2002,74,33,314854
+The Transporter,"Action, Crime, Thriller  ",92,2002,68,51,288706
+Insomnia,"Drama, Mystery, Thriller  ",118,2002,72,78,280033
+Panic Room,"Crime, Drama, Thriller  ",112,2002,68,65,264355
+Red Dragon,"Crime, Drama, Thriller  ",124,2002,72,60,257913
+8 Mile,"Drama, Music  ",110,2002,71,77,256357
+Phone Booth,"Crime, Thriller  ",81,2002,70,56,254183
+Resident Evil,"Action, Horror, Sci-Fi  ",100,2002,67,33,252523
+Road to Perdition,"Crime, Drama, Thriller  ",117,2002,77,72,251364
+Chicago,"Comedy, Crime, Musical  ",113,2002,72,81,219162
+Die Another Day,"Action, Adventure, Thriller  ",133,2002,61,56,207954
+Blade II,"Action, Fantasy, Horror  ",117,2002,67,52,203524
+A Walk to Remember,"Drama, Romance  ",101,2002,73,35,202104
+Austin Powers in Goldmember,"Action, Adventure, Comedy  ",94,2002,62,62,198504
+Adaptation.,"Comedy, Drama  ",115,2002,77,83,181561
+Hero,"Action, Adventure, History  ",120,2002,79,85,175566
+About a Boy,"Comedy, Drama, Romance  ",101,2002,71,75,175226
+xXx,"Action, Adventure, Thriller  ",124,2002,59,48,174643
+Lilo & Stitch,"Animation, Adventure, Comedy  ",92,2002,72,73,173003
+25th Hour,Drama  ,135,2002,76,68,171515
+Punch-Drunk Love,"Comedy, Drama, Romance  ",95,2002,73,78,150805
+Bowling for Columbine,"Documentary, Crime, Drama  ",120,2002,79,72,140643
+Mr. Deeds,"Comedy, Romance  ",96,2002,58,24,138067
+We Were Soldiers,"Action, Drama, History  ",140,2002,72,65,132804
+The Scorpion King,"Action, Adventure, Fantasy  ",92,2002,55,45,132146
+The Count of Monte Cristo,"Action, Adventure, Drama  ",131,2002,77,61,131081
+Reign of Fire,"Action, Adventure, Fantasy  ",101,2002,62,39,128529
+John Q,"Crime, Drama, Thriller  ",116,2002,71,30,126451
+The Hours,"Drama, Romance  ",110,2002,75,80,126325
+About Schmidt,"Comedy, Drama  ",125,2002,71,85,123762
+Irreversible,"Crime, Drama, Mystery  ",97,2002,74,51,123592
+My Big Fat Greek Wedding,"Comedy, Drama, Romance  ",95,2002,66,62,121776
+The Time Machine,"Action, Adventure, Sci-Fi  ",96,2002,60,42,119835
+The Lord of the Rings: The Two Towers,"Action, Adventure, Drama  ",179,2002,87,87,1516674
+Catch Me If You Can,"Biography, Crime, Drama  ",141,2002,81,75,860023
+The Pianist,"Biography, Drama, Music  ",150,2002,85,85,751698
+City of God,"Crime, Drama  ",130,2002,86,79,710972
+Spider-Man,"Action, Adventure, Sci-Fi  ",121,2002,73,73,701755
+Star Wars: Episode II - Attack of the Clones,"Action, Adventure, Fantasy  ",142,2002,65,54,655086
+Harry Potter and the Chamber of Secrets,"Adventure, Family, Fantasy  ",161,2002,74,63,568356
+Minority Report,"Action, Crime, Mystery  ",145,2002,76,80,516927
+The Bourne Identity,"Action, Mystery, Thriller  ",119,2002,79,68,516703
+Ice Age,"Animation, Adventure, Comedy  ",81,2002,75,60,450192
+Gangs of New York,"Crime, Drama  ",167,2002,75,72,413887
+28 Days Later...,"Drama, Horror, Sci-Fi  ",113,2002,76,73,383783
+Men in Black II,"Action, Adventure, Comedy  ",88,2002,62,49,349189
+Signs,"Drama, Mystery, Sci-Fi  ",106,2002,67,59,342108
+The Ring,"Horror, Mystery  ",115,2002,71,57,326434
+Equilibrium,"Action, Drama, Sci-Fi  ",107,2002,74,33,314854
+The Transporter,"Action, Crime, Thriller  ",92,2002,68,51,288706
+Insomnia,"Drama, Mystery, Thriller  ",118,2002,72,78,280033
+Panic Room,"Crime, Drama, Thriller  ",112,2002,68,65,264355
+Red Dragon,"Crime, Drama, Thriller  ",124,2002,72,60,257913
+8 Mile,"Drama, Music  ",110,2002,71,77,256357
+Phone Booth,"Crime, Thriller  ",81,2002,70,56,254183
+Resident Evil,"Action, Horror, Sci-Fi  ",100,2002,67,33,252523
+Road to Perdition,"Crime, Drama, Thriller  ",117,2002,77,72,251364
+Chicago,"Comedy, Crime, Musical  ",113,2002,72,81,219162
+Die Another Day,"Action, Adventure, Thriller  ",133,2002,61,56,207954
+Blade II,"Action, Fantasy, Horror  ",117,2002,67,52,203524
+A Walk to Remember,"Drama, Romance  ",101,2002,73,35,202104
+Austin Powers in Goldmember,"Action, Adventure, Comedy  ",94,2002,62,62,198504
+Adaptation.,"Comedy, Drama  ",115,2002,77,83,181561
+Hero,"Action, Adventure, History  ",120,2002,79,85,175566
+About a Boy,"Comedy, Drama, Romance  ",101,2002,71,75,175226
+xXx,"Action, Adventure, Thriller  ",124,2002,59,48,174643
+Lilo & Stitch,"Animation, Adventure, Comedy  ",92,2002,72,73,173003
+25th Hour,Drama  ,135,2002,76,68,171515
+Punch-Drunk Love,"Comedy, Drama, Romance  ",95,2002,73,78,150805
+Bowling for Columbine,"Documentary, Crime, Drama  ",120,2002,79,72,140643
+Mr. Deeds,"Comedy, Romance  ",96,2002,58,24,138067
+We Were Soldiers,"Action, Drama, History  ",140,2002,72,65,132804
+The Scorpion King,"Action, Adventure, Fantasy  ",92,2002,55,45,132146
+The Count of Monte Cristo,"Action, Adventure, Drama  ",131,2002,77,61,131081
+Reign of Fire,"Action, Adventure, Fantasy  ",101,2002,62,39,128529
+John Q,"Crime, Drama, Thriller  ",116,2002,71,30,126451
+The Hours,"Drama, Romance  ",110,2002,75,80,126325
+About Schmidt,"Comedy, Drama  ",125,2002,71,85,123762
+Irreversible,"Crime, Drama, Mystery  ",97,2002,74,51,123592
+My Big Fat Greek Wedding,"Comedy, Drama, Romance  ",95,2002,66,62,121776
+The Time Machine,"Action, Adventure, Sci-Fi  ",96,2002,60,42,119835

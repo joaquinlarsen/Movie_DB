@@ -1,0 +1,507 @@
+Movie,Genre,Duration,Year,Imdb_rating,Metascore_rating,Votes
+The Dark Knight,"Action, Crime, Drama  ",152,2008,90,84,2364753
+WALL·E,"Animation, Adventure, Family  ",98,2008,84,95,1022409
+Iron Man,"Action, Adventure, Sci-Fi  ",126,2008,79,79,962219
+Slumdog Millionaire,"Drama, Romance  ",120,2008,80,84,809472
+Gran Torino,Drama  ,116,2008,81,72,731466
+The Curious Case of Benjamin Button,"Drama, Fantasy, Romance  ",166,2008,78,70,602444
+Taken,"Action, Crime, Thriller  ",90,2008,78,51,572258
+Hancock,"Action, Drama, Fantasy  ",92,2008,64,49,451776
+The Incredible Hulk,"Action, Adventure, Sci-Fi  ",112,2008,67,61,444934
+Twilight,"Drama, Fantasy, Romance  ",122,2008,52,56,433377
+Indiana Jones and the Kingdom of the Crystal Skull,"Action, Adventure  ",122,2008,61,65,431439
+Kung Fu Panda,"Animation, Action, Adventure  ",92,2008,76,74,429211
+The Hurt Locker,"Drama, Thriller, War  ",131,2008,75,95,428656
+Quantum of Solace,"Action, Adventure, Thriller  ",106,2008,66,58,410839
+In Bruges,"Comedy, Crime, Drama  ",107,2008,79,67,396418
+Tropic Thunder,"Action, Comedy, War  ",107,2008,70,71,387077
+Cloverfield,"Action, Horror, Sci-Fi  ",85,2008,70,64,377659
+Wanted,"Action, Crime, Thriller  ",110,2008,67,64,366832
+Yes Man,"Comedy, Romance  ",104,2008,68,46,341558
+Pineapple Express,"Action, Comedy, Crime  ",111,2008,69,64,320860
+Burn After Reading,"Comedy, Crime, Drama  ",96,2008,70,63,315534
+The Wrestler,"Drama, Sport  ",109,2008,79,80,292567
+Jumper,"Action, Adventure, Sci-Fi  ",88,2008,61,35,290640
+Seven Pounds,Drama  ,123,2008,76,36,290295
+Step Brothers,Comedy  ,98,2008,69,51,272906
+Forgetting Sarah Marshall,"Comedy, Drama, Romance  ",111,2008,71,67,269474
+Hellboy II: The Golden Army,"Action, Adventure, Fantasy  ",120,2008,70,78,258801
+Vicky Cristina Barcelona,"Comedy, Drama, Romance  ",96,2008,71,70,245619
+Changeling,"Biography, Crime, Drama  ",141,2008,77,63,242921
+RocknRolla,"Action, Crime, Thriller  ",114,2008,73,53,239731
+21,"Crime, Drama, History  ",123,2008,68,48,233542
+The Reader,"Drama, Romance  ",124,2008,76,58,233311
+Valkyrie,"Drama, History, Thriller  ",121,2008,71,56,231778
+Role Models,Comedy  ,99,2008,68,61,222746
+Mamma Mia!,"Comedy, Musical, Romance  ",108,2008,64,51,221777
+Rambo,"Action, Thriller  ",92,2008,70,46,221067
+Body of Lies,"Action, Drama, Thriller  ",128,2008,71,57,216830
+Ip Man,"Action, Biography, Drama  ",106,2008,80,59,214047
+Madagascar: Escape 2 Africa,"Animation, Adventure, Comedy  ",89,2008,66,61,210374
+Let the Right One In,"Crime, Drama, Fantasy  ",114,2008,79,82,207823
+Get Smart,"Action, Adventure, Comedy  ",110,2008,65,54,206833
+Revolutionary Road,"Drama, Romance  ",119,2008,73,69,201285
+Death Race,"Action, Sci-Fi, Thriller  ",105,2008,63,43,200401
+The Chronicles of Narnia: Prince Caspian,"Action, Adventure, Family  ",150,2008,65,62,198130
+The Happening,"Drama, Mystery, Sci-Fi  ",91,2008,50,34,198029
+The Boy in the Striped Pajamas,"Drama, History, War  ",94,2008,78,55,195351
+The Dark Knight,"Action, Crime, Drama  ",152,2008,90,84,2364753
+WALL·E,"Animation, Adventure, Family  ",98,2008,84,95,1022409
+Iron Man,"Action, Adventure, Sci-Fi  ",126,2008,79,79,962219
+Slumdog Millionaire,"Drama, Romance  ",120,2008,80,84,809472
+Gran Torino,Drama  ,116,2008,81,72,731466
+The Curious Case of Benjamin Button,"Drama, Fantasy, Romance  ",166,2008,78,70,602444
+Taken,"Action, Crime, Thriller  ",90,2008,78,51,572258
+Hancock,"Action, Drama, Fantasy  ",92,2008,64,49,451776
+The Incredible Hulk,"Action, Adventure, Sci-Fi  ",112,2008,67,61,444934
+Twilight,"Drama, Fantasy, Romance  ",122,2008,52,56,433377
+Indiana Jones and the Kingdom of the Crystal Skull,"Action, Adventure  ",122,2008,61,65,431439
+Kung Fu Panda,"Animation, Action, Adventure  ",92,2008,76,74,429211
+The Hurt Locker,"Drama, Thriller, War  ",131,2008,75,95,428656
+Quantum of Solace,"Action, Adventure, Thriller  ",106,2008,66,58,410839
+In Bruges,"Comedy, Crime, Drama  ",107,2008,79,67,396418
+Tropic Thunder,"Action, Comedy, War  ",107,2008,70,71,387077
+Cloverfield,"Action, Horror, Sci-Fi  ",85,2008,70,64,377659
+Wanted,"Action, Crime, Thriller  ",110,2008,67,64,366832
+Yes Man,"Comedy, Romance  ",104,2008,68,46,341558
+Pineapple Express,"Action, Comedy, Crime  ",111,2008,69,64,320860
+Burn After Reading,"Comedy, Crime, Drama  ",96,2008,70,63,315534
+The Wrestler,"Drama, Sport  ",109,2008,79,80,292567
+Jumper,"Action, Adventure, Sci-Fi  ",88,2008,61,35,290640
+Seven Pounds,Drama  ,123,2008,76,36,290295
+Step Brothers,Comedy  ,98,2008,69,51,272906
+Forgetting Sarah Marshall,"Comedy, Drama, Romance  ",111,2008,71,67,269474
+Hellboy II: The Golden Army,"Action, Adventure, Fantasy  ",120,2008,70,78,258801
+Vicky Cristina Barcelona,"Comedy, Drama, Romance  ",96,2008,71,70,245619
+Changeling,"Biography, Crime, Drama  ",141,2008,77,63,242921
+RocknRolla,"Action, Crime, Thriller  ",114,2008,73,53,239731
+21,"Crime, Drama, History  ",123,2008,68,48,233542
+The Reader,"Drama, Romance  ",124,2008,76,58,233311
+Valkyrie,"Drama, History, Thriller  ",121,2008,71,56,231778
+Role Models,Comedy  ,99,2008,68,61,222746
+Mamma Mia!,"Comedy, Musical, Romance  ",108,2008,64,51,221777
+Rambo,"Action, Thriller  ",92,2008,70,46,221067
+Body of Lies,"Action, Drama, Thriller  ",128,2008,71,57,216830
+Ip Man,"Action, Biography, Drama  ",106,2008,80,59,214047
+Madagascar: Escape 2 Africa,"Animation, Adventure, Comedy  ",89,2008,66,61,210374
+Let the Right One In,"Crime, Drama, Fantasy  ",114,2008,79,82,207823
+Get Smart,"Action, Adventure, Comedy  ",110,2008,65,54,206833
+Revolutionary Road,"Drama, Romance  ",119,2008,73,69,201285
+Death Race,"Action, Sci-Fi, Thriller  ",105,2008,63,43,200401
+The Chronicles of Narnia: Prince Caspian,"Action, Adventure, Family  ",150,2008,65,62,198130
+The Happening,"Drama, Mystery, Sci-Fi  ",91,2008,50,34,198029
+The Boy in the Striped Pajamas,"Drama, History, War  ",94,2008,78,55,195351
+The Dark Knight,"Action, Crime, Drama  ",152,2008,90,84,2364753
+WALL·E,"Animation, Adventure, Family  ",98,2008,84,95,1022409
+Iron Man,"Action, Adventure, Sci-Fi  ",126,2008,79,79,962219
+Slumdog Millionaire,"Drama, Romance  ",120,2008,80,84,809472
+Gran Torino,Drama  ,116,2008,81,72,731466
+The Curious Case of Benjamin Button,"Drama, Fantasy, Romance  ",166,2008,78,70,602444
+Taken,"Action, Crime, Thriller  ",90,2008,78,51,572258
+Hancock,"Action, Drama, Fantasy  ",92,2008,64,49,451776
+The Incredible Hulk,"Action, Adventure, Sci-Fi  ",112,2008,67,61,444934
+Twilight,"Drama, Fantasy, Romance  ",122,2008,52,56,433377
+Indiana Jones and the Kingdom of the Crystal Skull,"Action, Adventure  ",122,2008,61,65,431439
+Kung Fu Panda,"Animation, Action, Adventure  ",92,2008,76,74,429211
+The Hurt Locker,"Drama, Thriller, War  ",131,2008,75,95,428656
+Quantum of Solace,"Action, Adventure, Thriller  ",106,2008,66,58,410839
+In Bruges,"Comedy, Crime, Drama  ",107,2008,79,67,396418
+Tropic Thunder,"Action, Comedy, War  ",107,2008,70,71,387077
+Cloverfield,"Action, Horror, Sci-Fi  ",85,2008,70,64,377659
+Wanted,"Action, Crime, Thriller  ",110,2008,67,64,366832
+Yes Man,"Comedy, Romance  ",104,2008,68,46,341558
+Pineapple Express,"Action, Comedy, Crime  ",111,2008,69,64,320860
+Burn After Reading,"Comedy, Crime, Drama  ",96,2008,70,63,315534
+The Wrestler,"Drama, Sport  ",109,2008,79,80,292567
+Jumper,"Action, Adventure, Sci-Fi  ",88,2008,61,35,290640
+Seven Pounds,Drama  ,123,2008,76,36,290295
+Step Brothers,Comedy  ,98,2008,69,51,272906
+Forgetting Sarah Marshall,"Comedy, Drama, Romance  ",111,2008,71,67,269474
+Hellboy II: The Golden Army,"Action, Adventure, Fantasy  ",120,2008,70,78,258801
+Vicky Cristina Barcelona,"Comedy, Drama, Romance  ",96,2008,71,70,245619
+Changeling,"Biography, Crime, Drama  ",141,2008,77,63,242921
+RocknRolla,"Action, Crime, Thriller  ",114,2008,73,53,239731
+21,"Crime, Drama, History  ",123,2008,68,48,233542
+The Reader,"Drama, Romance  ",124,2008,76,58,233311
+Valkyrie,"Drama, History, Thriller  ",121,2008,71,56,231778
+Role Models,Comedy  ,99,2008,68,61,222746
+Mamma Mia!,"Comedy, Musical, Romance  ",108,2008,64,51,221777
+Rambo,"Action, Thriller  ",92,2008,70,46,221067
+Body of Lies,"Action, Drama, Thriller  ",128,2008,71,57,216830
+Ip Man,"Action, Biography, Drama  ",106,2008,80,59,214047
+Madagascar: Escape 2 Africa,"Animation, Adventure, Comedy  ",89,2008,66,61,210374
+Let the Right One In,"Crime, Drama, Fantasy  ",114,2008,79,82,207823
+Get Smart,"Action, Adventure, Comedy  ",110,2008,65,54,206833
+Revolutionary Road,"Drama, Romance  ",119,2008,73,69,201285
+Death Race,"Action, Sci-Fi, Thriller  ",105,2008,63,43,200401
+The Chronicles of Narnia: Prince Caspian,"Action, Adventure, Family  ",150,2008,65,62,198130
+The Happening,"Drama, Mystery, Sci-Fi  ",91,2008,50,34,198029
+The Boy in the Striped Pajamas,"Drama, History, War  ",94,2008,78,55,195351
+The Dark Knight,"Action, Crime, Drama  ",152,2008,90,84,2364753
+WALL·E,"Animation, Adventure, Family  ",98,2008,84,95,1022409
+Iron Man,"Action, Adventure, Sci-Fi  ",126,2008,79,79,962219
+Slumdog Millionaire,"Drama, Romance  ",120,2008,80,84,809472
+Gran Torino,Drama  ,116,2008,81,72,731466
+The Curious Case of Benjamin Button,"Drama, Fantasy, Romance  ",166,2008,78,70,602444
+Taken,"Action, Crime, Thriller  ",90,2008,78,51,572258
+Hancock,"Action, Drama, Fantasy  ",92,2008,64,49,451776
+The Incredible Hulk,"Action, Adventure, Sci-Fi  ",112,2008,67,61,444934
+Twilight,"Drama, Fantasy, Romance  ",122,2008,52,56,433377
+Indiana Jones and the Kingdom of the Crystal Skull,"Action, Adventure  ",122,2008,61,65,431439
+Kung Fu Panda,"Animation, Action, Adventure  ",92,2008,76,74,429211
+The Hurt Locker,"Drama, Thriller, War  ",131,2008,75,95,428656
+Quantum of Solace,"Action, Adventure, Thriller  ",106,2008,66,58,410839
+In Bruges,"Comedy, Crime, Drama  ",107,2008,79,67,396418
+Tropic Thunder,"Action, Comedy, War  ",107,2008,70,71,387077
+Cloverfield,"Action, Horror, Sci-Fi  ",85,2008,70,64,377659
+Wanted,"Action, Crime, Thriller  ",110,2008,67,64,366832
+Yes Man,"Comedy, Romance  ",104,2008,68,46,341558
+Pineapple Express,"Action, Comedy, Crime  ",111,2008,69,64,320860
+Burn After Reading,"Comedy, Crime, Drama  ",96,2008,70,63,315534
+The Wrestler,"Drama, Sport  ",109,2008,79,80,292567
+Jumper,"Action, Adventure, Sci-Fi  ",88,2008,61,35,290640
+Seven Pounds,Drama  ,123,2008,76,36,290295
+Step Brothers,Comedy  ,98,2008,69,51,272906
+Forgetting Sarah Marshall,"Comedy, Drama, Romance  ",111,2008,71,67,269474
+Hellboy II: The Golden Army,"Action, Adventure, Fantasy  ",120,2008,70,78,258801
+Vicky Cristina Barcelona,"Comedy, Drama, Romance  ",96,2008,71,70,245619
+Changeling,"Biography, Crime, Drama  ",141,2008,77,63,242921
+RocknRolla,"Action, Crime, Thriller  ",114,2008,73,53,239731
+21,"Crime, Drama, History  ",123,2008,68,48,233542
+The Reader,"Drama, Romance  ",124,2008,76,58,233311
+Valkyrie,"Drama, History, Thriller  ",121,2008,71,56,231778
+Role Models,Comedy  ,99,2008,68,61,222746
+Mamma Mia!,"Comedy, Musical, Romance  ",108,2008,64,51,221777
+Rambo,"Action, Thriller  ",92,2008,70,46,221067
+Body of Lies,"Action, Drama, Thriller  ",128,2008,71,57,216830
+Ip Man,"Action, Biography, Drama  ",106,2008,80,59,214047
+Madagascar: Escape 2 Africa,"Animation, Adventure, Comedy  ",89,2008,66,61,210374
+Let the Right One In,"Crime, Drama, Fantasy  ",114,2008,79,82,207823
+Get Smart,"Action, Adventure, Comedy  ",110,2008,65,54,206833
+Revolutionary Road,"Drama, Romance  ",119,2008,73,69,201285
+Death Race,"Action, Sci-Fi, Thriller  ",105,2008,63,43,200401
+The Chronicles of Narnia: Prince Caspian,"Action, Adventure, Family  ",150,2008,65,62,198130
+The Happening,"Drama, Mystery, Sci-Fi  ",91,2008,50,34,198029
+The Boy in the Striped Pajamas,"Drama, History, War  ",94,2008,78,55,195351
+The Dark Knight,"Action, Crime, Drama  ",152,2008,90,84,2364753
+WALL·E,"Animation, Adventure, Family  ",98,2008,84,95,1022409
+Iron Man,"Action, Adventure, Sci-Fi  ",126,2008,79,79,962219
+Slumdog Millionaire,"Drama, Romance  ",120,2008,80,84,809472
+Gran Torino,Drama  ,116,2008,81,72,731466
+The Curious Case of Benjamin Button,"Drama, Fantasy, Romance  ",166,2008,78,70,602444
+Taken,"Action, Crime, Thriller  ",90,2008,78,51,572258
+Hancock,"Action, Drama, Fantasy  ",92,2008,64,49,451776
+The Incredible Hulk,"Action, Adventure, Sci-Fi  ",112,2008,67,61,444934
+Twilight,"Drama, Fantasy, Romance  ",122,2008,52,56,433377
+Indiana Jones and the Kingdom of the Crystal Skull,"Action, Adventure  ",122,2008,61,65,431439
+Kung Fu Panda,"Animation, Action, Adventure  ",92,2008,76,74,429211
+The Hurt Locker,"Drama, Thriller, War  ",131,2008,75,95,428656
+Quantum of Solace,"Action, Adventure, Thriller  ",106,2008,66,58,410839
+In Bruges,"Comedy, Crime, Drama  ",107,2008,79,67,396418
+Tropic Thunder,"Action, Comedy, War  ",107,2008,70,71,387077
+Cloverfield,"Action, Horror, Sci-Fi  ",85,2008,70,64,377659
+Wanted,"Action, Crime, Thriller  ",110,2008,67,64,366832
+Yes Man,"Comedy, Romance  ",104,2008,68,46,341558
+Pineapple Express,"Action, Comedy, Crime  ",111,2008,69,64,320860
+Burn After Reading,"Comedy, Crime, Drama  ",96,2008,70,63,315534
+The Wrestler,"Drama, Sport  ",109,2008,79,80,292567
+Jumper,"Action, Adventure, Sci-Fi  ",88,2008,61,35,290640
+Seven Pounds,Drama  ,123,2008,76,36,290295
+Step Brothers,Comedy  ,98,2008,69,51,272906
+Forgetting Sarah Marshall,"Comedy, Drama, Romance  ",111,2008,71,67,269474
+Hellboy II: The Golden Army,"Action, Adventure, Fantasy  ",120,2008,70,78,258801
+Vicky Cristina Barcelona,"Comedy, Drama, Romance  ",96,2008,71,70,245619
+Changeling,"Biography, Crime, Drama  ",141,2008,77,63,242921
+RocknRolla,"Action, Crime, Thriller  ",114,2008,73,53,239731
+21,"Crime, Drama, History  ",123,2008,68,48,233542
+The Reader,"Drama, Romance  ",124,2008,76,58,233311
+Valkyrie,"Drama, History, Thriller  ",121,2008,71,56,231778
+Role Models,Comedy  ,99,2008,68,61,222746
+Mamma Mia!,"Comedy, Musical, Romance  ",108,2008,64,51,221777
+Rambo,"Action, Thriller  ",92,2008,70,46,221067
+Body of Lies,"Action, Drama, Thriller  ",128,2008,71,57,216830
+Ip Man,"Action, Biography, Drama  ",106,2008,80,59,214047
+Madagascar: Escape 2 Africa,"Animation, Adventure, Comedy  ",89,2008,66,61,210374
+Let the Right One In,"Crime, Drama, Fantasy  ",114,2008,79,82,207823
+Get Smart,"Action, Adventure, Comedy  ",110,2008,65,54,206833
+Revolutionary Road,"Drama, Romance  ",119,2008,73,69,201285
+Death Race,"Action, Sci-Fi, Thriller  ",105,2008,63,43,200401
+The Chronicles of Narnia: Prince Caspian,"Action, Adventure, Family  ",150,2008,65,62,198130
+The Happening,"Drama, Mystery, Sci-Fi  ",91,2008,50,34,198029
+The Boy in the Striped Pajamas,"Drama, History, War  ",94,2008,78,55,195351
+The Dark Knight,"Action, Crime, Drama  ",152,2008,90,84,2364753
+WALL·E,"Animation, Adventure, Family  ",98,2008,84,95,1022409
+Iron Man,"Action, Adventure, Sci-Fi  ",126,2008,79,79,962219
+Slumdog Millionaire,"Drama, Romance  ",120,2008,80,84,809472
+Gran Torino,Drama  ,116,2008,81,72,731466
+The Curious Case of Benjamin Button,"Drama, Fantasy, Romance  ",166,2008,78,70,602444
+Taken,"Action, Crime, Thriller  ",90,2008,78,51,572258
+Hancock,"Action, Drama, Fantasy  ",92,2008,64,49,451776
+The Incredible Hulk,"Action, Adventure, Sci-Fi  ",112,2008,67,61,444934
+Twilight,"Drama, Fantasy, Romance  ",122,2008,52,56,433377
+Indiana Jones and the Kingdom of the Crystal Skull,"Action, Adventure  ",122,2008,61,65,431439
+Kung Fu Panda,"Animation, Action, Adventure  ",92,2008,76,74,429211
+The Hurt Locker,"Drama, Thriller, War  ",131,2008,75,95,428656
+Quantum of Solace,"Action, Adventure, Thriller  ",106,2008,66,58,410839
+In Bruges,"Comedy, Crime, Drama  ",107,2008,79,67,396418
+Tropic Thunder,"Action, Comedy, War  ",107,2008,70,71,387077
+Cloverfield,"Action, Horror, Sci-Fi  ",85,2008,70,64,377659
+Wanted,"Action, Crime, Thriller  ",110,2008,67,64,366832
+Yes Man,"Comedy, Romance  ",104,2008,68,46,341558
+Pineapple Express,"Action, Comedy, Crime  ",111,2008,69,64,320860
+Burn After Reading,"Comedy, Crime, Drama  ",96,2008,70,63,315534
+The Wrestler,"Drama, Sport  ",109,2008,79,80,292567
+Jumper,"Action, Adventure, Sci-Fi  ",88,2008,61,35,290640
+Seven Pounds,Drama  ,123,2008,76,36,290295
+Step Brothers,Comedy  ,98,2008,69,51,272906
+Forgetting Sarah Marshall,"Comedy, Drama, Romance  ",111,2008,71,67,269474
+Hellboy II: The Golden Army,"Action, Adventure, Fantasy  ",120,2008,70,78,258801
+Vicky Cristina Barcelona,"Comedy, Drama, Romance  ",96,2008,71,70,245619
+Changeling,"Biography, Crime, Drama  ",141,2008,77,63,242921
+RocknRolla,"Action, Crime, Thriller  ",114,2008,73,53,239731
+21,"Crime, Drama, History  ",123,2008,68,48,233542
+The Reader,"Drama, Romance  ",124,2008,76,58,233311
+Valkyrie,"Drama, History, Thriller  ",121,2008,71,56,231778
+Role Models,Comedy  ,99,2008,68,61,222746
+Mamma Mia!,"Comedy, Musical, Romance  ",108,2008,64,51,221777
+Rambo,"Action, Thriller  ",92,2008,70,46,221067
+Body of Lies,"Action, Drama, Thriller  ",128,2008,71,57,216830
+Ip Man,"Action, Biography, Drama  ",106,2008,80,59,214047
+Madagascar: Escape 2 Africa,"Animation, Adventure, Comedy  ",89,2008,66,61,210374
+Let the Right One In,"Crime, Drama, Fantasy  ",114,2008,79,82,207823
+Get Smart,"Action, Adventure, Comedy  ",110,2008,65,54,206833
+Revolutionary Road,"Drama, Romance  ",119,2008,73,69,201285
+Death Race,"Action, Sci-Fi, Thriller  ",105,2008,63,43,200401
+The Chronicles of Narnia: Prince Caspian,"Action, Adventure, Family  ",150,2008,65,62,198130
+The Happening,"Drama, Mystery, Sci-Fi  ",91,2008,50,34,198029
+The Boy in the Striped Pajamas,"Drama, History, War  ",94,2008,78,55,195351
+The Dark Knight,"Action, Crime, Drama  ",152,2008,90,84,2364753
+WALL·E,"Animation, Adventure, Family  ",98,2008,84,95,1022409
+Iron Man,"Action, Adventure, Sci-Fi  ",126,2008,79,79,962219
+Slumdog Millionaire,"Drama, Romance  ",120,2008,80,84,809472
+Gran Torino,Drama  ,116,2008,81,72,731466
+The Curious Case of Benjamin Button,"Drama, Fantasy, Romance  ",166,2008,78,70,602444
+Taken,"Action, Crime, Thriller  ",90,2008,78,51,572258
+Hancock,"Action, Drama, Fantasy  ",92,2008,64,49,451776
+The Incredible Hulk,"Action, Adventure, Sci-Fi  ",112,2008,67,61,444934
+Twilight,"Drama, Fantasy, Romance  ",122,2008,52,56,433377
+Indiana Jones and the Kingdom of the Crystal Skull,"Action, Adventure  ",122,2008,61,65,431439
+Kung Fu Panda,"Animation, Action, Adventure  ",92,2008,76,74,429211
+The Hurt Locker,"Drama, Thriller, War  ",131,2008,75,95,428656
+Quantum of Solace,"Action, Adventure, Thriller  ",106,2008,66,58,410839
+In Bruges,"Comedy, Crime, Drama  ",107,2008,79,67,396418
+Tropic Thunder,"Action, Comedy, War  ",107,2008,70,71,387077
+Cloverfield,"Action, Horror, Sci-Fi  ",85,2008,70,64,377659
+Wanted,"Action, Crime, Thriller  ",110,2008,67,64,366832
+Yes Man,"Comedy, Romance  ",104,2008,68,46,341558
+Pineapple Express,"Action, Comedy, Crime  ",111,2008,69,64,320860
+Burn After Reading,"Comedy, Crime, Drama  ",96,2008,70,63,315534
+The Wrestler,"Drama, Sport  ",109,2008,79,80,292567
+Jumper,"Action, Adventure, Sci-Fi  ",88,2008,61,35,290640
+Seven Pounds,Drama  ,123,2008,76,36,290295
+Step Brothers,Comedy  ,98,2008,69,51,272906
+Forgetting Sarah Marshall,"Comedy, Drama, Romance  ",111,2008,71,67,269474
+Hellboy II: The Golden Army,"Action, Adventure, Fantasy  ",120,2008,70,78,258801
+Vicky Cristina Barcelona,"Comedy, Drama, Romance  ",96,2008,71,70,245619
+Changeling,"Biography, Crime, Drama  ",141,2008,77,63,242921
+RocknRolla,"Action, Crime, Thriller  ",114,2008,73,53,239731
+21,"Crime, Drama, History  ",123,2008,68,48,233542
+The Reader,"Drama, Romance  ",124,2008,76,58,233311
+Valkyrie,"Drama, History, Thriller  ",121,2008,71,56,231778
+Role Models,Comedy  ,99,2008,68,61,222746
+Mamma Mia!,"Comedy, Musical, Romance  ",108,2008,64,51,221777
+Rambo,"Action, Thriller  ",92,2008,70,46,221067
+Body of Lies,"Action, Drama, Thriller  ",128,2008,71,57,216830
+Ip Man,"Action, Biography, Drama  ",106,2008,80,59,214047
+Madagascar: Escape 2 Africa,"Animation, Adventure, Comedy  ",89,2008,66,61,210374
+Let the Right One In,"Crime, Drama, Fantasy  ",114,2008,79,82,207823
+Get Smart,"Action, Adventure, Comedy  ",110,2008,65,54,206833
+Revolutionary Road,"Drama, Romance  ",119,2008,73,69,201285
+Death Race,"Action, Sci-Fi, Thriller  ",105,2008,63,43,200401
+The Chronicles of Narnia: Prince Caspian,"Action, Adventure, Family  ",150,2008,65,62,198130
+The Happening,"Drama, Mystery, Sci-Fi  ",91,2008,50,34,198029
+The Boy in the Striped Pajamas,"Drama, History, War  ",94,2008,78,55,195351
+The Dark Knight,"Action, Crime, Drama  ",152,2008,90,84,2364753
+WALL·E,"Animation, Adventure, Family  ",98,2008,84,95,1022409
+Iron Man,"Action, Adventure, Sci-Fi  ",126,2008,79,79,962219
+Slumdog Millionaire,"Drama, Romance  ",120,2008,80,84,809472
+Gran Torino,Drama  ,116,2008,81,72,731466
+The Curious Case of Benjamin Button,"Drama, Fantasy, Romance  ",166,2008,78,70,602444
+Taken,"Action, Crime, Thriller  ",90,2008,78,51,572258
+Hancock,"Action, Drama, Fantasy  ",92,2008,64,49,451776
+The Incredible Hulk,"Action, Adventure, Sci-Fi  ",112,2008,67,61,444934
+Twilight,"Drama, Fantasy, Romance  ",122,2008,52,56,433377
+Indiana Jones and the Kingdom of the Crystal Skull,"Action, Adventure  ",122,2008,61,65,431439
+Kung Fu Panda,"Animation, Action, Adventure  ",92,2008,76,74,429211
+The Hurt Locker,"Drama, Thriller, War  ",131,2008,75,95,428656
+Quantum of Solace,"Action, Adventure, Thriller  ",106,2008,66,58,410839
+In Bruges,"Comedy, Crime, Drama  ",107,2008,79,67,396418
+Tropic Thunder,"Action, Comedy, War  ",107,2008,70,71,387077
+Cloverfield,"Action, Horror, Sci-Fi  ",85,2008,70,64,377659
+Wanted,"Action, Crime, Thriller  ",110,2008,67,64,366832
+Yes Man,"Comedy, Romance  ",104,2008,68,46,341558
+Pineapple Express,"Action, Comedy, Crime  ",111,2008,69,64,320860
+Burn After Reading,"Comedy, Crime, Drama  ",96,2008,70,63,315534
+The Wrestler,"Drama, Sport  ",109,2008,79,80,292567
+Jumper,"Action, Adventure, Sci-Fi  ",88,2008,61,35,290640
+Seven Pounds,Drama  ,123,2008,76,36,290295
+Step Brothers,Comedy  ,98,2008,69,51,272906
+Forgetting Sarah Marshall,"Comedy, Drama, Romance  ",111,2008,71,67,269474
+Hellboy II: The Golden Army,"Action, Adventure, Fantasy  ",120,2008,70,78,258801
+Vicky Cristina Barcelona,"Comedy, Drama, Romance  ",96,2008,71,70,245619
+Changeling,"Biography, Crime, Drama  ",141,2008,77,63,242921
+RocknRolla,"Action, Crime, Thriller  ",114,2008,73,53,239731
+21,"Crime, Drama, History  ",123,2008,68,48,233542
+The Reader,"Drama, Romance  ",124,2008,76,58,233311
+Valkyrie,"Drama, History, Thriller  ",121,2008,71,56,231778
+Role Models,Comedy  ,99,2008,68,61,222746
+Mamma Mia!,"Comedy, Musical, Romance  ",108,2008,64,51,221777
+Rambo,"Action, Thriller  ",92,2008,70,46,221067
+Body of Lies,"Action, Drama, Thriller  ",128,2008,71,57,216830
+Ip Man,"Action, Biography, Drama  ",106,2008,80,59,214047
+Madagascar: Escape 2 Africa,"Animation, Adventure, Comedy  ",89,2008,66,61,210374
+Let the Right One In,"Crime, Drama, Fantasy  ",114,2008,79,82,207823
+Get Smart,"Action, Adventure, Comedy  ",110,2008,65,54,206833
+Revolutionary Road,"Drama, Romance  ",119,2008,73,69,201285
+Death Race,"Action, Sci-Fi, Thriller  ",105,2008,63,43,200401
+The Chronicles of Narnia: Prince Caspian,"Action, Adventure, Family  ",150,2008,65,62,198130
+The Happening,"Drama, Mystery, Sci-Fi  ",91,2008,50,34,198029
+The Boy in the Striped Pajamas,"Drama, History, War  ",94,2008,78,55,195351
+The Dark Knight,"Action, Crime, Drama  ",152,2008,90,84,2364753
+WALL·E,"Animation, Adventure, Family  ",98,2008,84,95,1022409
+Iron Man,"Action, Adventure, Sci-Fi  ",126,2008,79,79,962219
+Slumdog Millionaire,"Drama, Romance  ",120,2008,80,84,809472
+Gran Torino,Drama  ,116,2008,81,72,731466
+The Curious Case of Benjamin Button,"Drama, Fantasy, Romance  ",166,2008,78,70,602444
+Taken,"Action, Crime, Thriller  ",90,2008,78,51,572258
+Hancock,"Action, Drama, Fantasy  ",92,2008,64,49,451776
+The Incredible Hulk,"Action, Adventure, Sci-Fi  ",112,2008,67,61,444934
+Twilight,"Drama, Fantasy, Romance  ",122,2008,52,56,433377
+Indiana Jones and the Kingdom of the Crystal Skull,"Action, Adventure  ",122,2008,61,65,431439
+Kung Fu Panda,"Animation, Action, Adventure  ",92,2008,76,74,429211
+The Hurt Locker,"Drama, Thriller, War  ",131,2008,75,95,428656
+Quantum of Solace,"Action, Adventure, Thriller  ",106,2008,66,58,410839
+In Bruges,"Comedy, Crime, Drama  ",107,2008,79,67,396418
+Tropic Thunder,"Action, Comedy, War  ",107,2008,70,71,387077
+Cloverfield,"Action, Horror, Sci-Fi  ",85,2008,70,64,377659
+Wanted,"Action, Crime, Thriller  ",110,2008,67,64,366832
+Yes Man,"Comedy, Romance  ",104,2008,68,46,341558
+Pineapple Express,"Action, Comedy, Crime  ",111,2008,69,64,320860
+Burn After Reading,"Comedy, Crime, Drama  ",96,2008,70,63,315534
+The Wrestler,"Drama, Sport  ",109,2008,79,80,292567
+Jumper,"Action, Adventure, Sci-Fi  ",88,2008,61,35,290640
+Seven Pounds,Drama  ,123,2008,76,36,290295
+Step Brothers,Comedy  ,98,2008,69,51,272906
+Forgetting Sarah Marshall,"Comedy, Drama, Romance  ",111,2008,71,67,269474
+Hellboy II: The Golden Army,"Action, Adventure, Fantasy  ",120,2008,70,78,258801
+Vicky Cristina Barcelona,"Comedy, Drama, Romance  ",96,2008,71,70,245619
+Changeling,"Biography, Crime, Drama  ",141,2008,77,63,242921
+RocknRolla,"Action, Crime, Thriller  ",114,2008,73,53,239731
+21,"Crime, Drama, History  ",123,2008,68,48,233542
+The Reader,"Drama, Romance  ",124,2008,76,58,233311
+Valkyrie,"Drama, History, Thriller  ",121,2008,71,56,231778
+Role Models,Comedy  ,99,2008,68,61,222746
+Mamma Mia!,"Comedy, Musical, Romance  ",108,2008,64,51,221777
+Rambo,"Action, Thriller  ",92,2008,70,46,221067
+Body of Lies,"Action, Drama, Thriller  ",128,2008,71,57,216830
+Ip Man,"Action, Biography, Drama  ",106,2008,80,59,214047
+Madagascar: Escape 2 Africa,"Animation, Adventure, Comedy  ",89,2008,66,61,210374
+Let the Right One In,"Crime, Drama, Fantasy  ",114,2008,79,82,207823
+Get Smart,"Action, Adventure, Comedy  ",110,2008,65,54,206833
+Revolutionary Road,"Drama, Romance  ",119,2008,73,69,201285
+Death Race,"Action, Sci-Fi, Thriller  ",105,2008,63,43,200401
+The Chronicles of Narnia: Prince Caspian,"Action, Adventure, Family  ",150,2008,65,62,198130
+The Happening,"Drama, Mystery, Sci-Fi  ",91,2008,50,34,198029
+The Boy in the Striped Pajamas,"Drama, History, War  ",94,2008,78,55,195351
+The Dark Knight,"Action, Crime, Drama  ",152,2008,90,84,2364753
+WALL·E,"Animation, Adventure, Family  ",98,2008,84,95,1022409
+Iron Man,"Action, Adventure, Sci-Fi  ",126,2008,79,79,962219
+Slumdog Millionaire,"Drama, Romance  ",120,2008,80,84,809472
+Gran Torino,Drama  ,116,2008,81,72,731466
+The Curious Case of Benjamin Button,"Drama, Fantasy, Romance  ",166,2008,78,70,602444
+Taken,"Action, Crime, Thriller  ",90,2008,78,51,572258
+Hancock,"Action, Drama, Fantasy  ",92,2008,64,49,451776
+The Incredible Hulk,"Action, Adventure, Sci-Fi  ",112,2008,67,61,444934
+Twilight,"Drama, Fantasy, Romance  ",122,2008,52,56,433377
+Indiana Jones and the Kingdom of the Crystal Skull,"Action, Adventure  ",122,2008,61,65,431439
+Kung Fu Panda,"Animation, Action, Adventure  ",92,2008,76,74,429211
+The Hurt Locker,"Drama, Thriller, War  ",131,2008,75,95,428656
+Quantum of Solace,"Action, Adventure, Thriller  ",106,2008,66,58,410839
+In Bruges,"Comedy, Crime, Drama  ",107,2008,79,67,396418
+Tropic Thunder,"Action, Comedy, War  ",107,2008,70,71,387077
+Cloverfield,"Action, Horror, Sci-Fi  ",85,2008,70,64,377659
+Wanted,"Action, Crime, Thriller  ",110,2008,67,64,366832
+Yes Man,"Comedy, Romance  ",104,2008,68,46,341558
+Pineapple Express,"Action, Comedy, Crime  ",111,2008,69,64,320860
+Burn After Reading,"Comedy, Crime, Drama  ",96,2008,70,63,315534
+The Wrestler,"Drama, Sport  ",109,2008,79,80,292567
+Jumper,"Action, Adventure, Sci-Fi  ",88,2008,61,35,290640
+Seven Pounds,Drama  ,123,2008,76,36,290295
+Step Brothers,Comedy  ,98,2008,69,51,272906
+Forgetting Sarah Marshall,"Comedy, Drama, Romance  ",111,2008,71,67,269474
+Hellboy II: The Golden Army,"Action, Adventure, Fantasy  ",120,2008,70,78,258801
+Vicky Cristina Barcelona,"Comedy, Drama, Romance  ",96,2008,71,70,245619
+Changeling,"Biography, Crime, Drama  ",141,2008,77,63,242921
+RocknRolla,"Action, Crime, Thriller  ",114,2008,73,53,239731
+21,"Crime, Drama, History  ",123,2008,68,48,233542
+The Reader,"Drama, Romance  ",124,2008,76,58,233311
+Valkyrie,"Drama, History, Thriller  ",121,2008,71,56,231778
+Role Models,Comedy  ,99,2008,68,61,222746
+Mamma Mia!,"Comedy, Musical, Romance  ",108,2008,64,51,221777
+Rambo,"Action, Thriller  ",92,2008,70,46,221067
+Body of Lies,"Action, Drama, Thriller  ",128,2008,71,57,216830
+Ip Man,"Action, Biography, Drama  ",106,2008,80,59,214047
+Madagascar: Escape 2 Africa,"Animation, Adventure, Comedy  ",89,2008,66,61,210374
+Let the Right One In,"Crime, Drama, Fantasy  ",114,2008,79,82,207823
+Get Smart,"Action, Adventure, Comedy  ",110,2008,65,54,206833
+Revolutionary Road,"Drama, Romance  ",119,2008,73,69,201285
+Death Race,"Action, Sci-Fi, Thriller  ",105,2008,63,43,200401
+The Chronicles of Narnia: Prince Caspian,"Action, Adventure, Family  ",150,2008,65,62,198130
+The Happening,"Drama, Mystery, Sci-Fi  ",91,2008,50,34,198029
+The Boy in the Striped Pajamas,"Drama, History, War  ",94,2008,78,55,195351
+The Dark Knight,"Action, Crime, Drama  ",152,2008,90,84,2364753
+WALL·E,"Animation, Adventure, Family  ",98,2008,84,95,1022409
+Iron Man,"Action, Adventure, Sci-Fi  ",126,2008,79,79,962219
+Slumdog Millionaire,"Drama, Romance  ",120,2008,80,84,809472
+Gran Torino,Drama  ,116,2008,81,72,731466
+The Curious Case of Benjamin Button,"Drama, Fantasy, Romance  ",166,2008,78,70,602444
+Taken,"Action, Crime, Thriller  ",90,2008,78,51,572258
+Hancock,"Action, Drama, Fantasy  ",92,2008,64,49,451776
+The Incredible Hulk,"Action, Adventure, Sci-Fi  ",112,2008,67,61,444934
+Twilight,"Drama, Fantasy, Romance  ",122,2008,52,56,433377
+Indiana Jones and the Kingdom of the Crystal Skull,"Action, Adventure  ",122,2008,61,65,431439
+Kung Fu Panda,"Animation, Action, Adventure  ",92,2008,76,74,429211
+The Hurt Locker,"Drama, Thriller, War  ",131,2008,75,95,428656
+Quantum of Solace,"Action, Adventure, Thriller  ",106,2008,66,58,410839
+In Bruges,"Comedy, Crime, Drama  ",107,2008,79,67,396418
+Tropic Thunder,"Action, Comedy, War  ",107,2008,70,71,387077
+Cloverfield,"Action, Horror, Sci-Fi  ",85,2008,70,64,377659
+Wanted,"Action, Crime, Thriller  ",110,2008,67,64,366832
+Yes Man,"Comedy, Romance  ",104,2008,68,46,341558
+Pineapple Express,"Action, Comedy, Crime  ",111,2008,69,64,320860
+Burn After Reading,"Comedy, Crime, Drama  ",96,2008,70,63,315534
+The Wrestler,"Drama, Sport  ",109,2008,79,80,292567
+Jumper,"Action, Adventure, Sci-Fi  ",88,2008,61,35,290640
+Seven Pounds,Drama  ,123,2008,76,36,290295
+Step Brothers,Comedy  ,98,2008,69,51,272906
+Forgetting Sarah Marshall,"Comedy, Drama, Romance  ",111,2008,71,67,269474
+Hellboy II: The Golden Army,"Action, Adventure, Fantasy  ",120,2008,70,78,258801
+Vicky Cristina Barcelona,"Comedy, Drama, Romance  ",96,2008,71,70,245619
+Changeling,"Biography, Crime, Drama  ",141,2008,77,63,242921
+RocknRolla,"Action, Crime, Thriller  ",114,2008,73,53,239731
+21,"Crime, Drama, History  ",123,2008,68,48,233542
+The Reader,"Drama, Romance  ",124,2008,76,58,233311
+Valkyrie,"Drama, History, Thriller  ",121,2008,71,56,231778
+Role Models,Comedy  ,99,2008,68,61,222746
+Mamma Mia!,"Comedy, Musical, Romance  ",108,2008,64,51,221777
+Rambo,"Action, Thriller  ",92,2008,70,46,221067
+Body of Lies,"Action, Drama, Thriller  ",128,2008,71,57,216830
+Ip Man,"Action, Biography, Drama  ",106,2008,80,59,214047
+Madagascar: Escape 2 Africa,"Animation, Adventure, Comedy  ",89,2008,66,61,210374
+Let the Right One In,"Crime, Drama, Fantasy  ",114,2008,79,82,207823
+Get Smart,"Action, Adventure, Comedy  ",110,2008,65,54,206833
+Revolutionary Road,"Drama, Romance  ",119,2008,73,69,201285
+Death Race,"Action, Sci-Fi, Thriller  ",105,2008,63,43,200401
+The Chronicles of Narnia: Prince Caspian,"Action, Adventure, Family  ",150,2008,65,62,198130
+The Happening,"Drama, Mystery, Sci-Fi  ",91,2008,50,34,198029
+The Boy in the Striped Pajamas,"Drama, History, War  ",94,2008,78,55,195351

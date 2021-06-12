@@ -1,0 +1,529 @@
+Movie,Genre,Duration,Year,Imdb_rating,Metascore_rating,Votes
+Eternal Sunshine of the Spotless Mind,"Drama, Romance, Sci-Fi  ",108,2004,83,89,930324
+Kill Bill: Vol. 2,"Action, Crime, Thriller  ",137,2004,80,83,697043
+The Incredibles,"Animation, Action, Adventure  ",115,2004,80,90,669155
+Million Dollar Baby,"Drama, Sport  ",132,2004,81,86,647306
+Harry Potter and the Prisoner of Azkaban,"Adventure, Family, Fantasy  ",142,2004,79,82,566357
+Spider-Man 2,"Action, Adventure, Sci-Fi  ",127,2004,73,83,555966
+The Notebook,"Drama, Romance  ",123,2004,78,53,531507
+Shaun of the Dead,"Comedy, Horror  ",99,2004,79,76,522020
+"I, Robot","Action, Drama, Sci-Fi  ",115,2004,71,59,506187
+Troy,"Drama, History  ",163,2004,72,56,497383
+The Butterfly Effect,"Drama, Sci-Fi, Thriller  ",113,2004,76,30,458221
+The Bourne Supremacy,"Action, Mystery, Thriller  ",108,2004,77,73,440865
+Shrek 2,"Animation, Adventure, Comedy  ",93,2004,72,75,428854
+Crash,"Crime, Drama, Thriller  ",112,2004,77,66,423587
+The Day After Tomorrow,"Action, Adventure, Sci-Fi  ",124,2004,64,47,422221
+The Terminal,"Comedy, Drama, Romance  ",128,2004,74,55,417275
+Saw,"Horror, Mystery, Thriller  ",103,2004,76,46,388162
+Collateral,"Crime, Drama, Thriller  ",120,2004,75,71,369844
+Ocean's Twelve,"Crime, Thriller  ",125,2004,65,58,365356
+The Machinist,"Drama, Thriller  ",101,2004,77,61,364649
+Howl's Moving Castle,"Animation, Adventure, Family  ",119,2004,82,80,346667
+Mean Girls,Comedy  ,97,2004,70,66,344365
+The Aviator,"Biography, Drama  ",170,2004,75,77,340419
+Hotel Rwanda,"Biography, Drama, History  ",121,2004,81,79,339138
+Downfall,"Biography, Drama, History  ",156,2004,82,82,336828
+Anchorman: The Legend of Ron Burgundy,Comedy  ,94,2004,72,63,335099
+Man on Fire,"Action, Crime, Drama  ",146,2004,77,47,334818
+50 First Dates,"Comedy, Drama, Romance  ",99,2004,68,48,333219
+Hellboy,"Action, Fantasy, Horror  ",122,2004,68,72,310451
+National Treasure,"Action, Adventure, Mystery  ",131,2004,69,39,309461
+Meet the Fockers,"Comedy, Romance  ",115,2004,63,41,256412
+Van Helsing,"Action, Adventure, Fantasy  ",131,2004,61,35,249050
+The Village,"Drama, Mystery, Thriller  ",108,2004,65,44,246413
+Before Sunset,"Drama, Romance  ",80,2004,81,90,242480
+Dawn of the Dead,"Action, Horror  ",101,2004,73,59,241931
+Dodgeball: A True Underdog Story,"Comedy, Sport  ",92,2004,67,55,233057
+The Passion of the Christ,Drama  ,127,2004,72,47,220159
+The Chronicles of Riddick,"Action, Adventure, Sci-Fi  ",119,2004,67,38,217058
+Garden State,"Comedy, Drama, Romance  ",102,2004,74,67,208332
+Closer,"Drama, Romance  ",104,2004,72,65,206545
+The Girl Next Door,"Comedy, Drama, Romance  ",109,2004,67,47,205176
+Napoleon Dynamite,Comedy  ,96,2004,69,64,202486
+Finding Neverland,"Biography, Drama, Family  ",106,2004,77,67,200568
+EuroTrip,Comedy  ,92,2004,66,45,198958
+A Series of Unfortunate Events,"Adventure, Comedy, Family  ",108,2004,68,62,198785
+Resident Evil: Apocalypse,"Action, Horror, Sci-Fi  ",94,2004,62,35,189087
+Alien vs. Predator,"Action, Adventure, Horror  ",101,2004,56,29,187594
+Secret Window,"Drama, Mystery, Thriller  ",96,2004,65,46,185060
+Eternal Sunshine of the Spotless Mind,"Drama, Romance, Sci-Fi  ",108,2004,83,89,930324
+Kill Bill: Vol. 2,"Action, Crime, Thriller  ",137,2004,80,83,697043
+The Incredibles,"Animation, Action, Adventure  ",115,2004,80,90,669155
+Million Dollar Baby,"Drama, Sport  ",132,2004,81,86,647306
+Harry Potter and the Prisoner of Azkaban,"Adventure, Family, Fantasy  ",142,2004,79,82,566357
+Spider-Man 2,"Action, Adventure, Sci-Fi  ",127,2004,73,83,555966
+The Notebook,"Drama, Romance  ",123,2004,78,53,531507
+Shaun of the Dead,"Comedy, Horror  ",99,2004,79,76,522020
+"I, Robot","Action, Drama, Sci-Fi  ",115,2004,71,59,506187
+Troy,"Drama, History  ",163,2004,72,56,497383
+The Butterfly Effect,"Drama, Sci-Fi, Thriller  ",113,2004,76,30,458221
+The Bourne Supremacy,"Action, Mystery, Thriller  ",108,2004,77,73,440865
+Shrek 2,"Animation, Adventure, Comedy  ",93,2004,72,75,428854
+Crash,"Crime, Drama, Thriller  ",112,2004,77,66,423587
+The Day After Tomorrow,"Action, Adventure, Sci-Fi  ",124,2004,64,47,422221
+The Terminal,"Comedy, Drama, Romance  ",128,2004,74,55,417275
+Saw,"Horror, Mystery, Thriller  ",103,2004,76,46,388162
+Collateral,"Crime, Drama, Thriller  ",120,2004,75,71,369844
+Ocean's Twelve,"Crime, Thriller  ",125,2004,65,58,365356
+The Machinist,"Drama, Thriller  ",101,2004,77,61,364649
+Howl's Moving Castle,"Animation, Adventure, Family  ",119,2004,82,80,346667
+Mean Girls,Comedy  ,97,2004,70,66,344365
+The Aviator,"Biography, Drama  ",170,2004,75,77,340419
+Hotel Rwanda,"Biography, Drama, History  ",121,2004,81,79,339138
+Downfall,"Biography, Drama, History  ",156,2004,82,82,336828
+Anchorman: The Legend of Ron Burgundy,Comedy  ,94,2004,72,63,335099
+Man on Fire,"Action, Crime, Drama  ",146,2004,77,47,334818
+50 First Dates,"Comedy, Drama, Romance  ",99,2004,68,48,333219
+Hellboy,"Action, Fantasy, Horror  ",122,2004,68,72,310451
+National Treasure,"Action, Adventure, Mystery  ",131,2004,69,39,309461
+Meet the Fockers,"Comedy, Romance  ",115,2004,63,41,256412
+Van Helsing,"Action, Adventure, Fantasy  ",131,2004,61,35,249050
+The Village,"Drama, Mystery, Thriller  ",108,2004,65,44,246413
+Before Sunset,"Drama, Romance  ",80,2004,81,90,242480
+Dawn of the Dead,"Action, Horror  ",101,2004,73,59,241931
+Dodgeball: A True Underdog Story,"Comedy, Sport  ",92,2004,67,55,233057
+The Passion of the Christ,Drama  ,127,2004,72,47,220159
+The Chronicles of Riddick,"Action, Adventure, Sci-Fi  ",119,2004,67,38,217058
+Garden State,"Comedy, Drama, Romance  ",102,2004,74,67,208332
+Closer,"Drama, Romance  ",104,2004,72,65,206545
+The Girl Next Door,"Comedy, Drama, Romance  ",109,2004,67,47,205176
+Napoleon Dynamite,Comedy  ,96,2004,69,64,202486
+Finding Neverland,"Biography, Drama, Family  ",106,2004,77,67,200568
+EuroTrip,Comedy  ,92,2004,66,45,198958
+A Series of Unfortunate Events,"Adventure, Comedy, Family  ",108,2004,68,62,198785
+Resident Evil: Apocalypse,"Action, Horror, Sci-Fi  ",94,2004,62,35,189087
+Alien vs. Predator,"Action, Adventure, Horror  ",101,2004,56,29,187594
+Secret Window,"Drama, Mystery, Thriller  ",96,2004,65,46,185060
+Eternal Sunshine of the Spotless Mind,"Drama, Romance, Sci-Fi  ",108,2004,83,89,930324
+Kill Bill: Vol. 2,"Action, Crime, Thriller  ",137,2004,80,83,697043
+The Incredibles,"Animation, Action, Adventure  ",115,2004,80,90,669155
+Million Dollar Baby,"Drama, Sport  ",132,2004,81,86,647306
+Harry Potter and the Prisoner of Azkaban,"Adventure, Family, Fantasy  ",142,2004,79,82,566357
+Spider-Man 2,"Action, Adventure, Sci-Fi  ",127,2004,73,83,555966
+The Notebook,"Drama, Romance  ",123,2004,78,53,531507
+Shaun of the Dead,"Comedy, Horror  ",99,2004,79,76,522020
+"I, Robot","Action, Drama, Sci-Fi  ",115,2004,71,59,506187
+Troy,"Drama, History  ",163,2004,72,56,497383
+The Butterfly Effect,"Drama, Sci-Fi, Thriller  ",113,2004,76,30,458221
+The Bourne Supremacy,"Action, Mystery, Thriller  ",108,2004,77,73,440865
+Shrek 2,"Animation, Adventure, Comedy  ",93,2004,72,75,428854
+Crash,"Crime, Drama, Thriller  ",112,2004,77,66,423587
+The Day After Tomorrow,"Action, Adventure, Sci-Fi  ",124,2004,64,47,422221
+The Terminal,"Comedy, Drama, Romance  ",128,2004,74,55,417275
+Saw,"Horror, Mystery, Thriller  ",103,2004,76,46,388162
+Collateral,"Crime, Drama, Thriller  ",120,2004,75,71,369844
+Ocean's Twelve,"Crime, Thriller  ",125,2004,65,58,365356
+The Machinist,"Drama, Thriller  ",101,2004,77,61,364649
+Howl's Moving Castle,"Animation, Adventure, Family  ",119,2004,82,80,346667
+Mean Girls,Comedy  ,97,2004,70,66,344365
+The Aviator,"Biography, Drama  ",170,2004,75,77,340419
+Hotel Rwanda,"Biography, Drama, History  ",121,2004,81,79,339138
+Downfall,"Biography, Drama, History  ",156,2004,82,82,336828
+Anchorman: The Legend of Ron Burgundy,Comedy  ,94,2004,72,63,335099
+Man on Fire,"Action, Crime, Drama  ",146,2004,77,47,334818
+50 First Dates,"Comedy, Drama, Romance  ",99,2004,68,48,333219
+Hellboy,"Action, Fantasy, Horror  ",122,2004,68,72,310451
+National Treasure,"Action, Adventure, Mystery  ",131,2004,69,39,309461
+Meet the Fockers,"Comedy, Romance  ",115,2004,63,41,256412
+Van Helsing,"Action, Adventure, Fantasy  ",131,2004,61,35,249050
+The Village,"Drama, Mystery, Thriller  ",108,2004,65,44,246413
+Before Sunset,"Drama, Romance  ",80,2004,81,90,242480
+Dawn of the Dead,"Action, Horror  ",101,2004,73,59,241931
+Dodgeball: A True Underdog Story,"Comedy, Sport  ",92,2004,67,55,233057
+The Passion of the Christ,Drama  ,127,2004,72,47,220159
+The Chronicles of Riddick,"Action, Adventure, Sci-Fi  ",119,2004,67,38,217058
+Garden State,"Comedy, Drama, Romance  ",102,2004,74,67,208332
+Closer,"Drama, Romance  ",104,2004,72,65,206545
+The Girl Next Door,"Comedy, Drama, Romance  ",109,2004,67,47,205176
+Napoleon Dynamite,Comedy  ,96,2004,69,64,202486
+Finding Neverland,"Biography, Drama, Family  ",106,2004,77,67,200568
+EuroTrip,Comedy  ,92,2004,66,45,198958
+A Series of Unfortunate Events,"Adventure, Comedy, Family  ",108,2004,68,62,198785
+Resident Evil: Apocalypse,"Action, Horror, Sci-Fi  ",94,2004,62,35,189087
+Alien vs. Predator,"Action, Adventure, Horror  ",101,2004,56,29,187594
+Secret Window,"Drama, Mystery, Thriller  ",96,2004,65,46,185060
+Eternal Sunshine of the Spotless Mind,"Drama, Romance, Sci-Fi  ",108,2004,83,89,930324
+Kill Bill: Vol. 2,"Action, Crime, Thriller  ",137,2004,80,83,697043
+The Incredibles,"Animation, Action, Adventure  ",115,2004,80,90,669155
+Million Dollar Baby,"Drama, Sport  ",132,2004,81,86,647306
+Harry Potter and the Prisoner of Azkaban,"Adventure, Family, Fantasy  ",142,2004,79,82,566357
+Spider-Man 2,"Action, Adventure, Sci-Fi  ",127,2004,73,83,555966
+The Notebook,"Drama, Romance  ",123,2004,78,53,531507
+Shaun of the Dead,"Comedy, Horror  ",99,2004,79,76,522020
+"I, Robot","Action, Drama, Sci-Fi  ",115,2004,71,59,506187
+Troy,"Drama, History  ",163,2004,72,56,497383
+The Butterfly Effect,"Drama, Sci-Fi, Thriller  ",113,2004,76,30,458221
+The Bourne Supremacy,"Action, Mystery, Thriller  ",108,2004,77,73,440865
+Shrek 2,"Animation, Adventure, Comedy  ",93,2004,72,75,428854
+Crash,"Crime, Drama, Thriller  ",112,2004,77,66,423587
+The Day After Tomorrow,"Action, Adventure, Sci-Fi  ",124,2004,64,47,422221
+The Terminal,"Comedy, Drama, Romance  ",128,2004,74,55,417275
+Saw,"Horror, Mystery, Thriller  ",103,2004,76,46,388162
+Collateral,"Crime, Drama, Thriller  ",120,2004,75,71,369844
+Ocean's Twelve,"Crime, Thriller  ",125,2004,65,58,365356
+The Machinist,"Drama, Thriller  ",101,2004,77,61,364649
+Howl's Moving Castle,"Animation, Adventure, Family  ",119,2004,82,80,346667
+Mean Girls,Comedy  ,97,2004,70,66,344365
+The Aviator,"Biography, Drama  ",170,2004,75,77,340419
+Hotel Rwanda,"Biography, Drama, History  ",121,2004,81,79,339138
+Downfall,"Biography, Drama, History  ",156,2004,82,82,336828
+Anchorman: The Legend of Ron Burgundy,Comedy  ,94,2004,72,63,335099
+Man on Fire,"Action, Crime, Drama  ",146,2004,77,47,334818
+50 First Dates,"Comedy, Drama, Romance  ",99,2004,68,48,333219
+Hellboy,"Action, Fantasy, Horror  ",122,2004,68,72,310451
+National Treasure,"Action, Adventure, Mystery  ",131,2004,69,39,309461
+Meet the Fockers,"Comedy, Romance  ",115,2004,63,41,256412
+Van Helsing,"Action, Adventure, Fantasy  ",131,2004,61,35,249050
+The Village,"Drama, Mystery, Thriller  ",108,2004,65,44,246413
+Before Sunset,"Drama, Romance  ",80,2004,81,90,242480
+Dawn of the Dead,"Action, Horror  ",101,2004,73,59,241931
+Dodgeball: A True Underdog Story,"Comedy, Sport  ",92,2004,67,55,233057
+The Passion of the Christ,Drama  ,127,2004,72,47,220159
+The Chronicles of Riddick,"Action, Adventure, Sci-Fi  ",119,2004,67,38,217058
+Garden State,"Comedy, Drama, Romance  ",102,2004,74,67,208332
+Closer,"Drama, Romance  ",104,2004,72,65,206545
+The Girl Next Door,"Comedy, Drama, Romance  ",109,2004,67,47,205176
+Napoleon Dynamite,Comedy  ,96,2004,69,64,202486
+Finding Neverland,"Biography, Drama, Family  ",106,2004,77,67,200568
+EuroTrip,Comedy  ,92,2004,66,45,198958
+A Series of Unfortunate Events,"Adventure, Comedy, Family  ",108,2004,68,62,198785
+Resident Evil: Apocalypse,"Action, Horror, Sci-Fi  ",94,2004,62,35,189087
+Alien vs. Predator,"Action, Adventure, Horror  ",101,2004,56,29,187594
+Secret Window,"Drama, Mystery, Thriller  ",96,2004,65,46,185060
+Eternal Sunshine of the Spotless Mind,"Drama, Romance, Sci-Fi  ",108,2004,83,89,930324
+Kill Bill: Vol. 2,"Action, Crime, Thriller  ",137,2004,80,83,697043
+The Incredibles,"Animation, Action, Adventure  ",115,2004,80,90,669155
+Million Dollar Baby,"Drama, Sport  ",132,2004,81,86,647306
+Harry Potter and the Prisoner of Azkaban,"Adventure, Family, Fantasy  ",142,2004,79,82,566357
+Spider-Man 2,"Action, Adventure, Sci-Fi  ",127,2004,73,83,555966
+The Notebook,"Drama, Romance  ",123,2004,78,53,531507
+Shaun of the Dead,"Comedy, Horror  ",99,2004,79,76,522020
+"I, Robot","Action, Drama, Sci-Fi  ",115,2004,71,59,506187
+Troy,"Drama, History  ",163,2004,72,56,497383
+The Butterfly Effect,"Drama, Sci-Fi, Thriller  ",113,2004,76,30,458221
+The Bourne Supremacy,"Action, Mystery, Thriller  ",108,2004,77,73,440865
+Shrek 2,"Animation, Adventure, Comedy  ",93,2004,72,75,428854
+Crash,"Crime, Drama, Thriller  ",112,2004,77,66,423587
+The Day After Tomorrow,"Action, Adventure, Sci-Fi  ",124,2004,64,47,422221
+The Terminal,"Comedy, Drama, Romance  ",128,2004,74,55,417275
+Saw,"Horror, Mystery, Thriller  ",103,2004,76,46,388162
+Collateral,"Crime, Drama, Thriller  ",120,2004,75,71,369844
+Ocean's Twelve,"Crime, Thriller  ",125,2004,65,58,365356
+The Machinist,"Drama, Thriller  ",101,2004,77,61,364649
+Howl's Moving Castle,"Animation, Adventure, Family  ",119,2004,82,80,346667
+Mean Girls,Comedy  ,97,2004,70,66,344365
+The Aviator,"Biography, Drama  ",170,2004,75,77,340419
+Hotel Rwanda,"Biography, Drama, History  ",121,2004,81,79,339138
+Downfall,"Biography, Drama, History  ",156,2004,82,82,336828
+Anchorman: The Legend of Ron Burgundy,Comedy  ,94,2004,72,63,335099
+Man on Fire,"Action, Crime, Drama  ",146,2004,77,47,334818
+50 First Dates,"Comedy, Drama, Romance  ",99,2004,68,48,333219
+Hellboy,"Action, Fantasy, Horror  ",122,2004,68,72,310451
+National Treasure,"Action, Adventure, Mystery  ",131,2004,69,39,309461
+Meet the Fockers,"Comedy, Romance  ",115,2004,63,41,256412
+Van Helsing,"Action, Adventure, Fantasy  ",131,2004,61,35,249050
+The Village,"Drama, Mystery, Thriller  ",108,2004,65,44,246413
+Before Sunset,"Drama, Romance  ",80,2004,81,90,242480
+Dawn of the Dead,"Action, Horror  ",101,2004,73,59,241931
+Dodgeball: A True Underdog Story,"Comedy, Sport  ",92,2004,67,55,233057
+The Passion of the Christ,Drama  ,127,2004,72,47,220159
+The Chronicles of Riddick,"Action, Adventure, Sci-Fi  ",119,2004,67,38,217058
+Garden State,"Comedy, Drama, Romance  ",102,2004,74,67,208332
+Closer,"Drama, Romance  ",104,2004,72,65,206545
+The Girl Next Door,"Comedy, Drama, Romance  ",109,2004,67,47,205176
+Napoleon Dynamite,Comedy  ,96,2004,69,64,202486
+Finding Neverland,"Biography, Drama, Family  ",106,2004,77,67,200568
+EuroTrip,Comedy  ,92,2004,66,45,198958
+A Series of Unfortunate Events,"Adventure, Comedy, Family  ",108,2004,68,62,198785
+Resident Evil: Apocalypse,"Action, Horror, Sci-Fi  ",94,2004,62,35,189087
+Alien vs. Predator,"Action, Adventure, Horror  ",101,2004,56,29,187594
+Secret Window,"Drama, Mystery, Thriller  ",96,2004,65,46,185060
+Eternal Sunshine of the Spotless Mind,"Drama, Romance, Sci-Fi  ",108,2004,83,89,930324
+Kill Bill: Vol. 2,"Action, Crime, Thriller  ",137,2004,80,83,697043
+The Incredibles,"Animation, Action, Adventure  ",115,2004,80,90,669155
+Million Dollar Baby,"Drama, Sport  ",132,2004,81,86,647306
+Harry Potter and the Prisoner of Azkaban,"Adventure, Family, Fantasy  ",142,2004,79,82,566357
+Spider-Man 2,"Action, Adventure, Sci-Fi  ",127,2004,73,83,555966
+The Notebook,"Drama, Romance  ",123,2004,78,53,531507
+Shaun of the Dead,"Comedy, Horror  ",99,2004,79,76,522020
+"I, Robot","Action, Drama, Sci-Fi  ",115,2004,71,59,506187
+Troy,"Drama, History  ",163,2004,72,56,497383
+The Butterfly Effect,"Drama, Sci-Fi, Thriller  ",113,2004,76,30,458221
+The Bourne Supremacy,"Action, Mystery, Thriller  ",108,2004,77,73,440865
+Shrek 2,"Animation, Adventure, Comedy  ",93,2004,72,75,428854
+Crash,"Crime, Drama, Thriller  ",112,2004,77,66,423587
+The Day After Tomorrow,"Action, Adventure, Sci-Fi  ",124,2004,64,47,422221
+The Terminal,"Comedy, Drama, Romance  ",128,2004,74,55,417275
+Saw,"Horror, Mystery, Thriller  ",103,2004,76,46,388162
+Collateral,"Crime, Drama, Thriller  ",120,2004,75,71,369844
+Ocean's Twelve,"Crime, Thriller  ",125,2004,65,58,365356
+The Machinist,"Drama, Thriller  ",101,2004,77,61,364649
+Howl's Moving Castle,"Animation, Adventure, Family  ",119,2004,82,80,346667
+Mean Girls,Comedy  ,97,2004,70,66,344365
+The Aviator,"Biography, Drama  ",170,2004,75,77,340419
+Hotel Rwanda,"Biography, Drama, History  ",121,2004,81,79,339138
+Downfall,"Biography, Drama, History  ",156,2004,82,82,336828
+Anchorman: The Legend of Ron Burgundy,Comedy  ,94,2004,72,63,335099
+Man on Fire,"Action, Crime, Drama  ",146,2004,77,47,334818
+50 First Dates,"Comedy, Drama, Romance  ",99,2004,68,48,333219
+Hellboy,"Action, Fantasy, Horror  ",122,2004,68,72,310451
+National Treasure,"Action, Adventure, Mystery  ",131,2004,69,39,309461
+Meet the Fockers,"Comedy, Romance  ",115,2004,63,41,256412
+Van Helsing,"Action, Adventure, Fantasy  ",131,2004,61,35,249050
+The Village,"Drama, Mystery, Thriller  ",108,2004,65,44,246413
+Before Sunset,"Drama, Romance  ",80,2004,81,90,242480
+Dawn of the Dead,"Action, Horror  ",101,2004,73,59,241931
+Dodgeball: A True Underdog Story,"Comedy, Sport  ",92,2004,67,55,233057
+The Passion of the Christ,Drama  ,127,2004,72,47,220159
+The Chronicles of Riddick,"Action, Adventure, Sci-Fi  ",119,2004,67,38,217058
+Garden State,"Comedy, Drama, Romance  ",102,2004,74,67,208332
+Closer,"Drama, Romance  ",104,2004,72,65,206545
+The Girl Next Door,"Comedy, Drama, Romance  ",109,2004,67,47,205176
+Napoleon Dynamite,Comedy  ,96,2004,69,64,202486
+Finding Neverland,"Biography, Drama, Family  ",106,2004,77,67,200568
+EuroTrip,Comedy  ,92,2004,66,45,198958
+A Series of Unfortunate Events,"Adventure, Comedy, Family  ",108,2004,68,62,198785
+Resident Evil: Apocalypse,"Action, Horror, Sci-Fi  ",94,2004,62,35,189087
+Alien vs. Predator,"Action, Adventure, Horror  ",101,2004,56,29,187594
+Secret Window,"Drama, Mystery, Thriller  ",96,2004,65,46,185060
+Eternal Sunshine of the Spotless Mind,"Drama, Romance, Sci-Fi  ",108,2004,83,89,930324
+Kill Bill: Vol. 2,"Action, Crime, Thriller  ",137,2004,80,83,697043
+The Incredibles,"Animation, Action, Adventure  ",115,2004,80,90,669155
+Million Dollar Baby,"Drama, Sport  ",132,2004,81,86,647306
+Harry Potter and the Prisoner of Azkaban,"Adventure, Family, Fantasy  ",142,2004,79,82,566357
+Spider-Man 2,"Action, Adventure, Sci-Fi  ",127,2004,73,83,555966
+The Notebook,"Drama, Romance  ",123,2004,78,53,531507
+Shaun of the Dead,"Comedy, Horror  ",99,2004,79,76,522020
+"I, Robot","Action, Drama, Sci-Fi  ",115,2004,71,59,506187
+Troy,"Drama, History  ",163,2004,72,56,497383
+The Butterfly Effect,"Drama, Sci-Fi, Thriller  ",113,2004,76,30,458221
+The Bourne Supremacy,"Action, Mystery, Thriller  ",108,2004,77,73,440865
+Shrek 2,"Animation, Adventure, Comedy  ",93,2004,72,75,428854
+Crash,"Crime, Drama, Thriller  ",112,2004,77,66,423587
+The Day After Tomorrow,"Action, Adventure, Sci-Fi  ",124,2004,64,47,422221
+The Terminal,"Comedy, Drama, Romance  ",128,2004,74,55,417275
+Saw,"Horror, Mystery, Thriller  ",103,2004,76,46,388162
+Collateral,"Crime, Drama, Thriller  ",120,2004,75,71,369844
+Ocean's Twelve,"Crime, Thriller  ",125,2004,65,58,365356
+The Machinist,"Drama, Thriller  ",101,2004,77,61,364649
+Howl's Moving Castle,"Animation, Adventure, Family  ",119,2004,82,80,346667
+Mean Girls,Comedy  ,97,2004,70,66,344365
+The Aviator,"Biography, Drama  ",170,2004,75,77,340419
+Hotel Rwanda,"Biography, Drama, History  ",121,2004,81,79,339138
+Downfall,"Biography, Drama, History  ",156,2004,82,82,336828
+Anchorman: The Legend of Ron Burgundy,Comedy  ,94,2004,72,63,335099
+Man on Fire,"Action, Crime, Drama  ",146,2004,77,47,334818
+50 First Dates,"Comedy, Drama, Romance  ",99,2004,68,48,333219
+Hellboy,"Action, Fantasy, Horror  ",122,2004,68,72,310451
+National Treasure,"Action, Adventure, Mystery  ",131,2004,69,39,309461
+Meet the Fockers,"Comedy, Romance  ",115,2004,63,41,256412
+Van Helsing,"Action, Adventure, Fantasy  ",131,2004,61,35,249050
+The Village,"Drama, Mystery, Thriller  ",108,2004,65,44,246413
+Before Sunset,"Drama, Romance  ",80,2004,81,90,242480
+Dawn of the Dead,"Action, Horror  ",101,2004,73,59,241931
+Dodgeball: A True Underdog Story,"Comedy, Sport  ",92,2004,67,55,233057
+The Passion of the Christ,Drama  ,127,2004,72,47,220159
+The Chronicles of Riddick,"Action, Adventure, Sci-Fi  ",119,2004,67,38,217058
+Garden State,"Comedy, Drama, Romance  ",102,2004,74,67,208332
+Closer,"Drama, Romance  ",104,2004,72,65,206545
+The Girl Next Door,"Comedy, Drama, Romance  ",109,2004,67,47,205176
+Napoleon Dynamite,Comedy  ,96,2004,69,64,202486
+Finding Neverland,"Biography, Drama, Family  ",106,2004,77,67,200568
+EuroTrip,Comedy  ,92,2004,66,45,198958
+A Series of Unfortunate Events,"Adventure, Comedy, Family  ",108,2004,68,62,198785
+Resident Evil: Apocalypse,"Action, Horror, Sci-Fi  ",94,2004,62,35,189087
+Alien vs. Predator,"Action, Adventure, Horror  ",101,2004,56,29,187594
+Secret Window,"Drama, Mystery, Thriller  ",96,2004,65,46,185060
+Eternal Sunshine of the Spotless Mind,"Drama, Romance, Sci-Fi  ",108,2004,83,89,930324
+Kill Bill: Vol. 2,"Action, Crime, Thriller  ",137,2004,80,83,697043
+The Incredibles,"Animation, Action, Adventure  ",115,2004,80,90,669155
+Million Dollar Baby,"Drama, Sport  ",132,2004,81,86,647306
+Harry Potter and the Prisoner of Azkaban,"Adventure, Family, Fantasy  ",142,2004,79,82,566357
+Spider-Man 2,"Action, Adventure, Sci-Fi  ",127,2004,73,83,555966
+The Notebook,"Drama, Romance  ",123,2004,78,53,531507
+Shaun of the Dead,"Comedy, Horror  ",99,2004,79,76,522020
+"I, Robot","Action, Drama, Sci-Fi  ",115,2004,71,59,506187
+Troy,"Drama, History  ",163,2004,72,56,497383
+The Butterfly Effect,"Drama, Sci-Fi, Thriller  ",113,2004,76,30,458221
+The Bourne Supremacy,"Action, Mystery, Thriller  ",108,2004,77,73,440865
+Shrek 2,"Animation, Adventure, Comedy  ",93,2004,72,75,428854
+Crash,"Crime, Drama, Thriller  ",112,2004,77,66,423587
+The Day After Tomorrow,"Action, Adventure, Sci-Fi  ",124,2004,64,47,422221
+The Terminal,"Comedy, Drama, Romance  ",128,2004,74,55,417275
+Saw,"Horror, Mystery, Thriller  ",103,2004,76,46,388162
+Collateral,"Crime, Drama, Thriller  ",120,2004,75,71,369844
+Ocean's Twelve,"Crime, Thriller  ",125,2004,65,58,365356
+The Machinist,"Drama, Thriller  ",101,2004,77,61,364649
+Howl's Moving Castle,"Animation, Adventure, Family  ",119,2004,82,80,346667
+Mean Girls,Comedy  ,97,2004,70,66,344365
+The Aviator,"Biography, Drama  ",170,2004,75,77,340419
+Hotel Rwanda,"Biography, Drama, History  ",121,2004,81,79,339138
+Downfall,"Biography, Drama, History  ",156,2004,82,82,336828
+Anchorman: The Legend of Ron Burgundy,Comedy  ,94,2004,72,63,335099
+Man on Fire,"Action, Crime, Drama  ",146,2004,77,47,334818
+50 First Dates,"Comedy, Drama, Romance  ",99,2004,68,48,333219
+Hellboy,"Action, Fantasy, Horror  ",122,2004,68,72,310451
+National Treasure,"Action, Adventure, Mystery  ",131,2004,69,39,309461
+Meet the Fockers,"Comedy, Romance  ",115,2004,63,41,256412
+Van Helsing,"Action, Adventure, Fantasy  ",131,2004,61,35,249050
+The Village,"Drama, Mystery, Thriller  ",108,2004,65,44,246413
+Before Sunset,"Drama, Romance  ",80,2004,81,90,242480
+Dawn of the Dead,"Action, Horror  ",101,2004,73,59,241931
+Dodgeball: A True Underdog Story,"Comedy, Sport  ",92,2004,67,55,233057
+The Passion of the Christ,Drama  ,127,2004,72,47,220159
+The Chronicles of Riddick,"Action, Adventure, Sci-Fi  ",119,2004,67,38,217058
+Garden State,"Comedy, Drama, Romance  ",102,2004,74,67,208332
+Closer,"Drama, Romance  ",104,2004,72,65,206545
+The Girl Next Door,"Comedy, Drama, Romance  ",109,2004,67,47,205176
+Napoleon Dynamite,Comedy  ,96,2004,69,64,202486
+Finding Neverland,"Biography, Drama, Family  ",106,2004,77,67,200568
+EuroTrip,Comedy  ,92,2004,66,45,198958
+A Series of Unfortunate Events,"Adventure, Comedy, Family  ",108,2004,68,62,198785
+Resident Evil: Apocalypse,"Action, Horror, Sci-Fi  ",94,2004,62,35,189087
+Alien vs. Predator,"Action, Adventure, Horror  ",101,2004,56,29,187594
+Secret Window,"Drama, Mystery, Thriller  ",96,2004,65,46,185060
+Eternal Sunshine of the Spotless Mind,"Drama, Romance, Sci-Fi  ",108,2004,83,89,930324
+Kill Bill: Vol. 2,"Action, Crime, Thriller  ",137,2004,80,83,697043
+The Incredibles,"Animation, Action, Adventure  ",115,2004,80,90,669155
+Million Dollar Baby,"Drama, Sport  ",132,2004,81,86,647306
+Harry Potter and the Prisoner of Azkaban,"Adventure, Family, Fantasy  ",142,2004,79,82,566357
+Spider-Man 2,"Action, Adventure, Sci-Fi  ",127,2004,73,83,555966
+The Notebook,"Drama, Romance  ",123,2004,78,53,531507
+Shaun of the Dead,"Comedy, Horror  ",99,2004,79,76,522020
+"I, Robot","Action, Drama, Sci-Fi  ",115,2004,71,59,506187
+Troy,"Drama, History  ",163,2004,72,56,497383
+The Butterfly Effect,"Drama, Sci-Fi, Thriller  ",113,2004,76,30,458221
+The Bourne Supremacy,"Action, Mystery, Thriller  ",108,2004,77,73,440865
+Shrek 2,"Animation, Adventure, Comedy  ",93,2004,72,75,428854
+Crash,"Crime, Drama, Thriller  ",112,2004,77,66,423587
+The Day After Tomorrow,"Action, Adventure, Sci-Fi  ",124,2004,64,47,422221
+The Terminal,"Comedy, Drama, Romance  ",128,2004,74,55,417275
+Saw,"Horror, Mystery, Thriller  ",103,2004,76,46,388162
+Collateral,"Crime, Drama, Thriller  ",120,2004,75,71,369844
+Ocean's Twelve,"Crime, Thriller  ",125,2004,65,58,365356
+The Machinist,"Drama, Thriller  ",101,2004,77,61,364649
+Howl's Moving Castle,"Animation, Adventure, Family  ",119,2004,82,80,346667
+Mean Girls,Comedy  ,97,2004,70,66,344365
+The Aviator,"Biography, Drama  ",170,2004,75,77,340419
+Hotel Rwanda,"Biography, Drama, History  ",121,2004,81,79,339138
+Downfall,"Biography, Drama, History  ",156,2004,82,82,336828
+Anchorman: The Legend of Ron Burgundy,Comedy  ,94,2004,72,63,335099
+Man on Fire,"Action, Crime, Drama  ",146,2004,77,47,334818
+50 First Dates,"Comedy, Drama, Romance  ",99,2004,68,48,333219
+Hellboy,"Action, Fantasy, Horror  ",122,2004,68,72,310451
+National Treasure,"Action, Adventure, Mystery  ",131,2004,69,39,309461
+Meet the Fockers,"Comedy, Romance  ",115,2004,63,41,256412
+Van Helsing,"Action, Adventure, Fantasy  ",131,2004,61,35,249050
+The Village,"Drama, Mystery, Thriller  ",108,2004,65,44,246413
+Before Sunset,"Drama, Romance  ",80,2004,81,90,242480
+Dawn of the Dead,"Action, Horror  ",101,2004,73,59,241931
+Dodgeball: A True Underdog Story,"Comedy, Sport  ",92,2004,67,55,233057
+The Passion of the Christ,Drama  ,127,2004,72,47,220159
+The Chronicles of Riddick,"Action, Adventure, Sci-Fi  ",119,2004,67,38,217058
+Garden State,"Comedy, Drama, Romance  ",102,2004,74,67,208332
+Closer,"Drama, Romance  ",104,2004,72,65,206545
+The Girl Next Door,"Comedy, Drama, Romance  ",109,2004,67,47,205176
+Napoleon Dynamite,Comedy  ,96,2004,69,64,202486
+Finding Neverland,"Biography, Drama, Family  ",106,2004,77,67,200568
+EuroTrip,Comedy  ,92,2004,66,45,198958
+A Series of Unfortunate Events,"Adventure, Comedy, Family  ",108,2004,68,62,198785
+Resident Evil: Apocalypse,"Action, Horror, Sci-Fi  ",94,2004,62,35,189087
+Alien vs. Predator,"Action, Adventure, Horror  ",101,2004,56,29,187594
+Secret Window,"Drama, Mystery, Thriller  ",96,2004,65,46,185060
+Eternal Sunshine of the Spotless Mind,"Drama, Romance, Sci-Fi  ",108,2004,83,89,930324
+Kill Bill: Vol. 2,"Action, Crime, Thriller  ",137,2004,80,83,697043
+The Incredibles,"Animation, Action, Adventure  ",115,2004,80,90,669155
+Million Dollar Baby,"Drama, Sport  ",132,2004,81,86,647306
+Harry Potter and the Prisoner of Azkaban,"Adventure, Family, Fantasy  ",142,2004,79,82,566357
+Spider-Man 2,"Action, Adventure, Sci-Fi  ",127,2004,73,83,555966
+The Notebook,"Drama, Romance  ",123,2004,78,53,531507
+Shaun of the Dead,"Comedy, Horror  ",99,2004,79,76,522020
+"I, Robot","Action, Drama, Sci-Fi  ",115,2004,71,59,506187
+Troy,"Drama, History  ",163,2004,72,56,497383
+The Butterfly Effect,"Drama, Sci-Fi, Thriller  ",113,2004,76,30,458221
+The Bourne Supremacy,"Action, Mystery, Thriller  ",108,2004,77,73,440865
+Shrek 2,"Animation, Adventure, Comedy  ",93,2004,72,75,428854
+Crash,"Crime, Drama, Thriller  ",112,2004,77,66,423587
+The Day After Tomorrow,"Action, Adventure, Sci-Fi  ",124,2004,64,47,422221
+The Terminal,"Comedy, Drama, Romance  ",128,2004,74,55,417275
+Saw,"Horror, Mystery, Thriller  ",103,2004,76,46,388162
+Collateral,"Crime, Drama, Thriller  ",120,2004,75,71,369844
+Ocean's Twelve,"Crime, Thriller  ",125,2004,65,58,365356
+The Machinist,"Drama, Thriller  ",101,2004,77,61,364649
+Howl's Moving Castle,"Animation, Adventure, Family  ",119,2004,82,80,346667
+Mean Girls,Comedy  ,97,2004,70,66,344365
+The Aviator,"Biography, Drama  ",170,2004,75,77,340419
+Hotel Rwanda,"Biography, Drama, History  ",121,2004,81,79,339138
+Downfall,"Biography, Drama, History  ",156,2004,82,82,336828
+Anchorman: The Legend of Ron Burgundy,Comedy  ,94,2004,72,63,335099
+Man on Fire,"Action, Crime, Drama  ",146,2004,77,47,334818
+50 First Dates,"Comedy, Drama, Romance  ",99,2004,68,48,333219
+Hellboy,"Action, Fantasy, Horror  ",122,2004,68,72,310451
+National Treasure,"Action, Adventure, Mystery  ",131,2004,69,39,309461
+Meet the Fockers,"Comedy, Romance  ",115,2004,63,41,256412
+Van Helsing,"Action, Adventure, Fantasy  ",131,2004,61,35,249050
+The Village,"Drama, Mystery, Thriller  ",108,2004,65,44,246413
+Before Sunset,"Drama, Romance  ",80,2004,81,90,242480
+Dawn of the Dead,"Action, Horror  ",101,2004,73,59,241931
+Dodgeball: A True Underdog Story,"Comedy, Sport  ",92,2004,67,55,233057
+The Passion of the Christ,Drama  ,127,2004,72,47,220159
+The Chronicles of Riddick,"Action, Adventure, Sci-Fi  ",119,2004,67,38,217058
+Garden State,"Comedy, Drama, Romance  ",102,2004,74,67,208332
+Closer,"Drama, Romance  ",104,2004,72,65,206545
+The Girl Next Door,"Comedy, Drama, Romance  ",109,2004,67,47,205176
+Napoleon Dynamite,Comedy  ,96,2004,69,64,202486
+Finding Neverland,"Biography, Drama, Family  ",106,2004,77,67,200568
+EuroTrip,Comedy  ,92,2004,66,45,198958
+A Series of Unfortunate Events,"Adventure, Comedy, Family  ",108,2004,68,62,198785
+Resident Evil: Apocalypse,"Action, Horror, Sci-Fi  ",94,2004,62,35,189087
+Alien vs. Predator,"Action, Adventure, Horror  ",101,2004,56,29,187594
+Secret Window,"Drama, Mystery, Thriller  ",96,2004,65,46,185060
+Eternal Sunshine of the Spotless Mind,"Drama, Romance, Sci-Fi  ",108,2004,83,89,930324
+Kill Bill: Vol. 2,"Action, Crime, Thriller  ",137,2004,80,83,697043
+The Incredibles,"Animation, Action, Adventure  ",115,2004,80,90,669155
+Million Dollar Baby,"Drama, Sport  ",132,2004,81,86,647306
+Harry Potter and the Prisoner of Azkaban,"Adventure, Family, Fantasy  ",142,2004,79,82,566357
+Spider-Man 2,"Action, Adventure, Sci-Fi  ",127,2004,73,83,555966
+The Notebook,"Drama, Romance  ",123,2004,78,53,531507
+Shaun of the Dead,"Comedy, Horror  ",99,2004,79,76,522020
+"I, Robot","Action, Drama, Sci-Fi  ",115,2004,71,59,506187
+Troy,"Drama, History  ",163,2004,72,56,497383
+The Butterfly Effect,"Drama, Sci-Fi, Thriller  ",113,2004,76,30,458221
+The Bourne Supremacy,"Action, Mystery, Thriller  ",108,2004,77,73,440865
+Shrek 2,"Animation, Adventure, Comedy  ",93,2004,72,75,428854
+Crash,"Crime, Drama, Thriller  ",112,2004,77,66,423587
+The Day After Tomorrow,"Action, Adventure, Sci-Fi  ",124,2004,64,47,422221
+The Terminal,"Comedy, Drama, Romance  ",128,2004,74,55,417275
+Saw,"Horror, Mystery, Thriller  ",103,2004,76,46,388162
+Collateral,"Crime, Drama, Thriller  ",120,2004,75,71,369844
+Ocean's Twelve,"Crime, Thriller  ",125,2004,65,58,365356
+The Machinist,"Drama, Thriller  ",101,2004,77,61,364649
+Howl's Moving Castle,"Animation, Adventure, Family  ",119,2004,82,80,346667
+Mean Girls,Comedy  ,97,2004,70,66,344365
+The Aviator,"Biography, Drama  ",170,2004,75,77,340419
+Hotel Rwanda,"Biography, Drama, History  ",121,2004,81,79,339138
+Downfall,"Biography, Drama, History  ",156,2004,82,82,336828
+Anchorman: The Legend of Ron Burgundy,Comedy  ,94,2004,72,63,335099
+Man on Fire,"Action, Crime, Drama  ",146,2004,77,47,334818
+50 First Dates,"Comedy, Drama, Romance  ",99,2004,68,48,333219
+Hellboy,"Action, Fantasy, Horror  ",122,2004,68,72,310451
+National Treasure,"Action, Adventure, Mystery  ",131,2004,69,39,309461
+Meet the Fockers,"Comedy, Romance  ",115,2004,63,41,256412
+Van Helsing,"Action, Adventure, Fantasy  ",131,2004,61,35,249050
+The Village,"Drama, Mystery, Thriller  ",108,2004,65,44,246413
+Before Sunset,"Drama, Romance  ",80,2004,81,90,242480
+Dawn of the Dead,"Action, Horror  ",101,2004,73,59,241931
+Dodgeball: A True Underdog Story,"Comedy, Sport  ",92,2004,67,55,233057
+The Passion of the Christ,Drama  ,127,2004,72,47,220159
+The Chronicles of Riddick,"Action, Adventure, Sci-Fi  ",119,2004,67,38,217058
+Garden State,"Comedy, Drama, Romance  ",102,2004,74,67,208332
+Closer,"Drama, Romance  ",104,2004,72,65,206545
+The Girl Next Door,"Comedy, Drama, Romance  ",109,2004,67,47,205176
+Napoleon Dynamite,Comedy  ,96,2004,69,64,202486
+Finding Neverland,"Biography, Drama, Family  ",106,2004,77,67,200568
+EuroTrip,Comedy  ,92,2004,66,45,198958
+A Series of Unfortunate Events,"Adventure, Comedy, Family  ",108,2004,68,62,198785
+Resident Evil: Apocalypse,"Action, Horror, Sci-Fi  ",94,2004,62,35,189087
+Alien vs. Predator,"Action, Adventure, Horror  ",101,2004,56,29,187594
+Secret Window,"Drama, Mystery, Thriller  ",96,2004,65,46,185060

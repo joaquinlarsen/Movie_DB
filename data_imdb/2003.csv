@@ -1,0 +1,518 @@
+Movie,Genre,Duration,Year,Imdb_rating,Metascore_rating,Votes
+The Lord of the Rings: The Return of the King,"Action, Adventure, Drama  ",201,2003,89,94,1677364
+Pirates of the Caribbean: The Curse of the Black Pearl,"Action, Adventure, Fantasy  ",143,2003,80,63,1029134
+Kill Bill: Vol. 1,"Action, Crime, Drama  ",111,2003,81,69,1021728
+Finding Nemo,"Animation, Adventure, Comedy  ",100,2003,81,90,967278
+Oldboy,"Action, Drama, Mystery  ",120,2003,84,77,528892
+The Matrix Reloaded,"Action, Sci-Fi  ",138,2003,72,62,526013
+X2: X-Men United,"Action, Sci-Fi, Thriller  ",134,2003,74,68,519201
+The Matrix Revolutions,"Action, Sci-Fi  ",129,2003,67,47,456462
+Love Actually,"Comedy, Drama, Romance  ",135,2003,76,55,442458
+Mystic River,"Crime, Drama, Mystery  ",138,2003,79,84,427464
+Lost in Translation,"Comedy, Drama  ",102,2003,77,89,424240
+Big Fish,"Adventure, Drama, Fantasy  ",125,2003,80,58,420926
+The Last Samurai,"Action, Drama  ",154,2003,77,55,407012
+Terminator 3: Rise of the Machines,"Action, Sci-Fi  ",109,2003,63,66,381559
+Bruce Almighty,"Comedy, Fantasy  ",101,2003,67,46,377970
+The Italian Job,"Action, Crime, Thriller  ",111,2003,70,68,347844
+School of Rock,"Comedy, Music  ",109,2003,71,82,280244
+2 Fast 2 Furious,"Action, Crime, Thriller  ",107,2003,59,38,256327
+Underworld,"Action, Fantasy, Thriller  ",121,2003,70,42,256310
+Hulk,"Action, Sci-Fi  ",138,2003,56,54,254765
+Bad Boys II,"Action, Comedy, Crime  ",147,2003,66,38,235630
+Elf,"Adventure, Comedy, Family  ",97,2003,70,64,234534
+Identity,"Mystery, Thriller  ",90,2003,73,64,231576
+21 Grams,"Crime, Drama, Thriller  ",124,2003,76,70,227063
+Old School,Comedy  ,88,2003,71,54,218179
+How to Lose a Guy in 10 Days,"Comedy, Romance  ",116,2003,64,45,216760
+Daredevil,"Action, Crime  ",103,2003,53,42,208687
+Master and Commander: The Far Side of the World,"Action, Adventure, Drama  ",138,2003,74,81,207289
+Anger Management,Comedy  ,106,2003,62,52,205937
+American Wedding,Comedy  ,96,2003,63,43,197237
+The League of Extraordinary Gentlemen,"Action, Adventure, Fantasy  ",110,2003,58,30,170094
+Once Upon a Time in Mexico,"Action, Crime, Thriller  ",102,2003,64,56,155391
+Final Destination 2,"Horror, Thriller  ",90,2003,62,38,154901
+Johnny English,"Action, Adventure, Comedy  ",87,2003,62,51,150946
+Memories of Murder,"Crime, Drama, Mystery  ",132,2003,81,82,149468
+Cold Mountain,"Adventure, Drama, History  ",154,2003,72,73,141555
+S.W.A.T.,"Action, Adventure, Crime  ",117,2003,60,45,140354
+Dogville,"Crime, Drama  ",178,2003,80,60,140179
+Good Bye Lenin!,"Comedy, Drama, Romance  ",121,2003,77,68,139938
+Monster,"Biography, Crime, Drama  ",109,2003,73,74,139574
+Scary Movie 3,Comedy  ,84,2003,55,49,139404
+Bad Santa,"Comedy, Crime, Drama  ",92,2003,70,70,136693
+The Texas Chainsaw Massacre,"Crime, Horror  ",98,2003,62,38,132160
+Lara Croft Tomb Raider: The Cradle of Life,"Action, Adventure, Fantasy  ",117,2003,56,43,131763
+The Recruit,"Action, Thriller  ",115,2003,66,56,130460
+Freaky Friday,"Comedy, Family, Fantasy  ",97,2003,62,70,128033
+Matchstick Men,"Comedy, Crime, Drama  ",116,2003,73,61,125164
+The Lord of the Rings: The Return of the King,"Action, Adventure, Drama  ",201,2003,89,94,1677364
+Pirates of the Caribbean: The Curse of the Black Pearl,"Action, Adventure, Fantasy  ",143,2003,80,63,1029134
+Kill Bill: Vol. 1,"Action, Crime, Drama  ",111,2003,81,69,1021728
+Finding Nemo,"Animation, Adventure, Comedy  ",100,2003,81,90,967278
+Oldboy,"Action, Drama, Mystery  ",120,2003,84,77,528892
+The Matrix Reloaded,"Action, Sci-Fi  ",138,2003,72,62,526013
+X2: X-Men United,"Action, Sci-Fi, Thriller  ",134,2003,74,68,519201
+The Matrix Revolutions,"Action, Sci-Fi  ",129,2003,67,47,456462
+Love Actually,"Comedy, Drama, Romance  ",135,2003,76,55,442458
+Mystic River,"Crime, Drama, Mystery  ",138,2003,79,84,427464
+Lost in Translation,"Comedy, Drama  ",102,2003,77,89,424240
+Big Fish,"Adventure, Drama, Fantasy  ",125,2003,80,58,420926
+The Last Samurai,"Action, Drama  ",154,2003,77,55,407012
+Terminator 3: Rise of the Machines,"Action, Sci-Fi  ",109,2003,63,66,381559
+Bruce Almighty,"Comedy, Fantasy  ",101,2003,67,46,377970
+The Italian Job,"Action, Crime, Thriller  ",111,2003,70,68,347844
+School of Rock,"Comedy, Music  ",109,2003,71,82,280244
+2 Fast 2 Furious,"Action, Crime, Thriller  ",107,2003,59,38,256327
+Underworld,"Action, Fantasy, Thriller  ",121,2003,70,42,256310
+Hulk,"Action, Sci-Fi  ",138,2003,56,54,254765
+Bad Boys II,"Action, Comedy, Crime  ",147,2003,66,38,235630
+Elf,"Adventure, Comedy, Family  ",97,2003,70,64,234534
+Identity,"Mystery, Thriller  ",90,2003,73,64,231576
+21 Grams,"Crime, Drama, Thriller  ",124,2003,76,70,227063
+Old School,Comedy  ,88,2003,71,54,218179
+How to Lose a Guy in 10 Days,"Comedy, Romance  ",116,2003,64,45,216760
+Daredevil,"Action, Crime  ",103,2003,53,42,208687
+Master and Commander: The Far Side of the World,"Action, Adventure, Drama  ",138,2003,74,81,207289
+Anger Management,Comedy  ,106,2003,62,52,205937
+American Wedding,Comedy  ,96,2003,63,43,197237
+The League of Extraordinary Gentlemen,"Action, Adventure, Fantasy  ",110,2003,58,30,170094
+Once Upon a Time in Mexico,"Action, Crime, Thriller  ",102,2003,64,56,155391
+Final Destination 2,"Horror, Thriller  ",90,2003,62,38,154901
+Johnny English,"Action, Adventure, Comedy  ",87,2003,62,51,150946
+Memories of Murder,"Crime, Drama, Mystery  ",132,2003,81,82,149468
+Cold Mountain,"Adventure, Drama, History  ",154,2003,72,73,141555
+S.W.A.T.,"Action, Adventure, Crime  ",117,2003,60,45,140354
+Dogville,"Crime, Drama  ",178,2003,80,60,140179
+Good Bye Lenin!,"Comedy, Drama, Romance  ",121,2003,77,68,139938
+Monster,"Biography, Crime, Drama  ",109,2003,73,74,139574
+Scary Movie 3,Comedy  ,84,2003,55,49,139404
+Bad Santa,"Comedy, Crime, Drama  ",92,2003,70,70,136693
+The Texas Chainsaw Massacre,"Crime, Horror  ",98,2003,62,38,132160
+Lara Croft Tomb Raider: The Cradle of Life,"Action, Adventure, Fantasy  ",117,2003,56,43,131763
+The Recruit,"Action, Thriller  ",115,2003,66,56,130460
+Freaky Friday,"Comedy, Family, Fantasy  ",97,2003,62,70,128033
+Matchstick Men,"Comedy, Crime, Drama  ",116,2003,73,61,125164
+The Lord of the Rings: The Return of the King,"Action, Adventure, Drama  ",201,2003,89,94,1677364
+Pirates of the Caribbean: The Curse of the Black Pearl,"Action, Adventure, Fantasy  ",143,2003,80,63,1029134
+Kill Bill: Vol. 1,"Action, Crime, Drama  ",111,2003,81,69,1021728
+Finding Nemo,"Animation, Adventure, Comedy  ",100,2003,81,90,967278
+Oldboy,"Action, Drama, Mystery  ",120,2003,84,77,528892
+The Matrix Reloaded,"Action, Sci-Fi  ",138,2003,72,62,526013
+X2: X-Men United,"Action, Sci-Fi, Thriller  ",134,2003,74,68,519201
+The Matrix Revolutions,"Action, Sci-Fi  ",129,2003,67,47,456462
+Love Actually,"Comedy, Drama, Romance  ",135,2003,76,55,442458
+Mystic River,"Crime, Drama, Mystery  ",138,2003,79,84,427464
+Lost in Translation,"Comedy, Drama  ",102,2003,77,89,424240
+Big Fish,"Adventure, Drama, Fantasy  ",125,2003,80,58,420926
+The Last Samurai,"Action, Drama  ",154,2003,77,55,407012
+Terminator 3: Rise of the Machines,"Action, Sci-Fi  ",109,2003,63,66,381559
+Bruce Almighty,"Comedy, Fantasy  ",101,2003,67,46,377970
+The Italian Job,"Action, Crime, Thriller  ",111,2003,70,68,347844
+School of Rock,"Comedy, Music  ",109,2003,71,82,280244
+2 Fast 2 Furious,"Action, Crime, Thriller  ",107,2003,59,38,256327
+Underworld,"Action, Fantasy, Thriller  ",121,2003,70,42,256310
+Hulk,"Action, Sci-Fi  ",138,2003,56,54,254765
+Bad Boys II,"Action, Comedy, Crime  ",147,2003,66,38,235630
+Elf,"Adventure, Comedy, Family  ",97,2003,70,64,234534
+Identity,"Mystery, Thriller  ",90,2003,73,64,231576
+21 Grams,"Crime, Drama, Thriller  ",124,2003,76,70,227063
+Old School,Comedy  ,88,2003,71,54,218179
+How to Lose a Guy in 10 Days,"Comedy, Romance  ",116,2003,64,45,216760
+Daredevil,"Action, Crime  ",103,2003,53,42,208687
+Master and Commander: The Far Side of the World,"Action, Adventure, Drama  ",138,2003,74,81,207289
+Anger Management,Comedy  ,106,2003,62,52,205937
+American Wedding,Comedy  ,96,2003,63,43,197237
+The League of Extraordinary Gentlemen,"Action, Adventure, Fantasy  ",110,2003,58,30,170094
+Once Upon a Time in Mexico,"Action, Crime, Thriller  ",102,2003,64,56,155391
+Final Destination 2,"Horror, Thriller  ",90,2003,62,38,154901
+Johnny English,"Action, Adventure, Comedy  ",87,2003,62,51,150946
+Memories of Murder,"Crime, Drama, Mystery  ",132,2003,81,82,149468
+Cold Mountain,"Adventure, Drama, History  ",154,2003,72,73,141555
+S.W.A.T.,"Action, Adventure, Crime  ",117,2003,60,45,140354
+Dogville,"Crime, Drama  ",178,2003,80,60,140179
+Good Bye Lenin!,"Comedy, Drama, Romance  ",121,2003,77,68,139938
+Monster,"Biography, Crime, Drama  ",109,2003,73,74,139574
+Scary Movie 3,Comedy  ,84,2003,55,49,139404
+Bad Santa,"Comedy, Crime, Drama  ",92,2003,70,70,136693
+The Texas Chainsaw Massacre,"Crime, Horror  ",98,2003,62,38,132160
+Lara Croft Tomb Raider: The Cradle of Life,"Action, Adventure, Fantasy  ",117,2003,56,43,131763
+The Recruit,"Action, Thriller  ",115,2003,66,56,130460
+Freaky Friday,"Comedy, Family, Fantasy  ",97,2003,62,70,128033
+Matchstick Men,"Comedy, Crime, Drama  ",116,2003,73,61,125164
+The Lord of the Rings: The Return of the King,"Action, Adventure, Drama  ",201,2003,89,94,1677364
+Pirates of the Caribbean: The Curse of the Black Pearl,"Action, Adventure, Fantasy  ",143,2003,80,63,1029134
+Kill Bill: Vol. 1,"Action, Crime, Drama  ",111,2003,81,69,1021728
+Finding Nemo,"Animation, Adventure, Comedy  ",100,2003,81,90,967278
+Oldboy,"Action, Drama, Mystery  ",120,2003,84,77,528892
+The Matrix Reloaded,"Action, Sci-Fi  ",138,2003,72,62,526013
+X2: X-Men United,"Action, Sci-Fi, Thriller  ",134,2003,74,68,519201
+The Matrix Revolutions,"Action, Sci-Fi  ",129,2003,67,47,456462
+Love Actually,"Comedy, Drama, Romance  ",135,2003,76,55,442458
+Mystic River,"Crime, Drama, Mystery  ",138,2003,79,84,427464
+Lost in Translation,"Comedy, Drama  ",102,2003,77,89,424240
+Big Fish,"Adventure, Drama, Fantasy  ",125,2003,80,58,420926
+The Last Samurai,"Action, Drama  ",154,2003,77,55,407012
+Terminator 3: Rise of the Machines,"Action, Sci-Fi  ",109,2003,63,66,381559
+Bruce Almighty,"Comedy, Fantasy  ",101,2003,67,46,377970
+The Italian Job,"Action, Crime, Thriller  ",111,2003,70,68,347844
+School of Rock,"Comedy, Music  ",109,2003,71,82,280244
+2 Fast 2 Furious,"Action, Crime, Thriller  ",107,2003,59,38,256327
+Underworld,"Action, Fantasy, Thriller  ",121,2003,70,42,256310
+Hulk,"Action, Sci-Fi  ",138,2003,56,54,254765
+Bad Boys II,"Action, Comedy, Crime  ",147,2003,66,38,235630
+Elf,"Adventure, Comedy, Family  ",97,2003,70,64,234534
+Identity,"Mystery, Thriller  ",90,2003,73,64,231576
+21 Grams,"Crime, Drama, Thriller  ",124,2003,76,70,227063
+Old School,Comedy  ,88,2003,71,54,218179
+How to Lose a Guy in 10 Days,"Comedy, Romance  ",116,2003,64,45,216760
+Daredevil,"Action, Crime  ",103,2003,53,42,208687
+Master and Commander: The Far Side of the World,"Action, Adventure, Drama  ",138,2003,74,81,207289
+Anger Management,Comedy  ,106,2003,62,52,205937
+American Wedding,Comedy  ,96,2003,63,43,197237
+The League of Extraordinary Gentlemen,"Action, Adventure, Fantasy  ",110,2003,58,30,170094
+Once Upon a Time in Mexico,"Action, Crime, Thriller  ",102,2003,64,56,155391
+Final Destination 2,"Horror, Thriller  ",90,2003,62,38,154901
+Johnny English,"Action, Adventure, Comedy  ",87,2003,62,51,150946
+Memories of Murder,"Crime, Drama, Mystery  ",132,2003,81,82,149468
+Cold Mountain,"Adventure, Drama, History  ",154,2003,72,73,141555
+S.W.A.T.,"Action, Adventure, Crime  ",117,2003,60,45,140354
+Dogville,"Crime, Drama  ",178,2003,80,60,140179
+Good Bye Lenin!,"Comedy, Drama, Romance  ",121,2003,77,68,139938
+Monster,"Biography, Crime, Drama  ",109,2003,73,74,139574
+Scary Movie 3,Comedy  ,84,2003,55,49,139404
+Bad Santa,"Comedy, Crime, Drama  ",92,2003,70,70,136693
+The Texas Chainsaw Massacre,"Crime, Horror  ",98,2003,62,38,132160
+Lara Croft Tomb Raider: The Cradle of Life,"Action, Adventure, Fantasy  ",117,2003,56,43,131763
+The Recruit,"Action, Thriller  ",115,2003,66,56,130460
+Freaky Friday,"Comedy, Family, Fantasy  ",97,2003,62,70,128033
+Matchstick Men,"Comedy, Crime, Drama  ",116,2003,73,61,125164
+The Lord of the Rings: The Return of the King,"Action, Adventure, Drama  ",201,2003,89,94,1677364
+Pirates of the Caribbean: The Curse of the Black Pearl,"Action, Adventure, Fantasy  ",143,2003,80,63,1029134
+Kill Bill: Vol. 1,"Action, Crime, Drama  ",111,2003,81,69,1021728
+Finding Nemo,"Animation, Adventure, Comedy  ",100,2003,81,90,967278
+Oldboy,"Action, Drama, Mystery  ",120,2003,84,77,528892
+The Matrix Reloaded,"Action, Sci-Fi  ",138,2003,72,62,526013
+X2: X-Men United,"Action, Sci-Fi, Thriller  ",134,2003,74,68,519201
+The Matrix Revolutions,"Action, Sci-Fi  ",129,2003,67,47,456462
+Love Actually,"Comedy, Drama, Romance  ",135,2003,76,55,442458
+Mystic River,"Crime, Drama, Mystery  ",138,2003,79,84,427464
+Lost in Translation,"Comedy, Drama  ",102,2003,77,89,424240
+Big Fish,"Adventure, Drama, Fantasy  ",125,2003,80,58,420926
+The Last Samurai,"Action, Drama  ",154,2003,77,55,407012
+Terminator 3: Rise of the Machines,"Action, Sci-Fi  ",109,2003,63,66,381559
+Bruce Almighty,"Comedy, Fantasy  ",101,2003,67,46,377970
+The Italian Job,"Action, Crime, Thriller  ",111,2003,70,68,347844
+School of Rock,"Comedy, Music  ",109,2003,71,82,280244
+2 Fast 2 Furious,"Action, Crime, Thriller  ",107,2003,59,38,256327
+Underworld,"Action, Fantasy, Thriller  ",121,2003,70,42,256310
+Hulk,"Action, Sci-Fi  ",138,2003,56,54,254765
+Bad Boys II,"Action, Comedy, Crime  ",147,2003,66,38,235630
+Elf,"Adventure, Comedy, Family  ",97,2003,70,64,234534
+Identity,"Mystery, Thriller  ",90,2003,73,64,231576
+21 Grams,"Crime, Drama, Thriller  ",124,2003,76,70,227063
+Old School,Comedy  ,88,2003,71,54,218179
+How to Lose a Guy in 10 Days,"Comedy, Romance  ",116,2003,64,45,216760
+Daredevil,"Action, Crime  ",103,2003,53,42,208687
+Master and Commander: The Far Side of the World,"Action, Adventure, Drama  ",138,2003,74,81,207289
+Anger Management,Comedy  ,106,2003,62,52,205937
+American Wedding,Comedy  ,96,2003,63,43,197237
+The League of Extraordinary Gentlemen,"Action, Adventure, Fantasy  ",110,2003,58,30,170094
+Once Upon a Time in Mexico,"Action, Crime, Thriller  ",102,2003,64,56,155391
+Final Destination 2,"Horror, Thriller  ",90,2003,62,38,154901
+Johnny English,"Action, Adventure, Comedy  ",87,2003,62,51,150946
+Memories of Murder,"Crime, Drama, Mystery  ",132,2003,81,82,149468
+Cold Mountain,"Adventure, Drama, History  ",154,2003,72,73,141555
+S.W.A.T.,"Action, Adventure, Crime  ",117,2003,60,45,140354
+Dogville,"Crime, Drama  ",178,2003,80,60,140179
+Good Bye Lenin!,"Comedy, Drama, Romance  ",121,2003,77,68,139938
+Monster,"Biography, Crime, Drama  ",109,2003,73,74,139574
+Scary Movie 3,Comedy  ,84,2003,55,49,139404
+Bad Santa,"Comedy, Crime, Drama  ",92,2003,70,70,136693
+The Texas Chainsaw Massacre,"Crime, Horror  ",98,2003,62,38,132160
+Lara Croft Tomb Raider: The Cradle of Life,"Action, Adventure, Fantasy  ",117,2003,56,43,131763
+The Recruit,"Action, Thriller  ",115,2003,66,56,130460
+Freaky Friday,"Comedy, Family, Fantasy  ",97,2003,62,70,128033
+Matchstick Men,"Comedy, Crime, Drama  ",116,2003,73,61,125164
+The Lord of the Rings: The Return of the King,"Action, Adventure, Drama  ",201,2003,89,94,1677364
+Pirates of the Caribbean: The Curse of the Black Pearl,"Action, Adventure, Fantasy  ",143,2003,80,63,1029134
+Kill Bill: Vol. 1,"Action, Crime, Drama  ",111,2003,81,69,1021728
+Finding Nemo,"Animation, Adventure, Comedy  ",100,2003,81,90,967278
+Oldboy,"Action, Drama, Mystery  ",120,2003,84,77,528892
+The Matrix Reloaded,"Action, Sci-Fi  ",138,2003,72,62,526013
+X2: X-Men United,"Action, Sci-Fi, Thriller  ",134,2003,74,68,519201
+The Matrix Revolutions,"Action, Sci-Fi  ",129,2003,67,47,456462
+Love Actually,"Comedy, Drama, Romance  ",135,2003,76,55,442458
+Mystic River,"Crime, Drama, Mystery  ",138,2003,79,84,427464
+Lost in Translation,"Comedy, Drama  ",102,2003,77,89,424240
+Big Fish,"Adventure, Drama, Fantasy  ",125,2003,80,58,420926
+The Last Samurai,"Action, Drama  ",154,2003,77,55,407012
+Terminator 3: Rise of the Machines,"Action, Sci-Fi  ",109,2003,63,66,381559
+Bruce Almighty,"Comedy, Fantasy  ",101,2003,67,46,377970
+The Italian Job,"Action, Crime, Thriller  ",111,2003,70,68,347844
+School of Rock,"Comedy, Music  ",109,2003,71,82,280244
+2 Fast 2 Furious,"Action, Crime, Thriller  ",107,2003,59,38,256327
+Underworld,"Action, Fantasy, Thriller  ",121,2003,70,42,256310
+Hulk,"Action, Sci-Fi  ",138,2003,56,54,254765
+Bad Boys II,"Action, Comedy, Crime  ",147,2003,66,38,235630
+Elf,"Adventure, Comedy, Family  ",97,2003,70,64,234534
+Identity,"Mystery, Thriller  ",90,2003,73,64,231576
+21 Grams,"Crime, Drama, Thriller  ",124,2003,76,70,227063
+Old School,Comedy  ,88,2003,71,54,218179
+How to Lose a Guy in 10 Days,"Comedy, Romance  ",116,2003,64,45,216760
+Daredevil,"Action, Crime  ",103,2003,53,42,208687
+Master and Commander: The Far Side of the World,"Action, Adventure, Drama  ",138,2003,74,81,207289
+Anger Management,Comedy  ,106,2003,62,52,205937
+American Wedding,Comedy  ,96,2003,63,43,197237
+The League of Extraordinary Gentlemen,"Action, Adventure, Fantasy  ",110,2003,58,30,170094
+Once Upon a Time in Mexico,"Action, Crime, Thriller  ",102,2003,64,56,155391
+Final Destination 2,"Horror, Thriller  ",90,2003,62,38,154901
+Johnny English,"Action, Adventure, Comedy  ",87,2003,62,51,150946
+Memories of Murder,"Crime, Drama, Mystery  ",132,2003,81,82,149468
+Cold Mountain,"Adventure, Drama, History  ",154,2003,72,73,141555
+S.W.A.T.,"Action, Adventure, Crime  ",117,2003,60,45,140354
+Dogville,"Crime, Drama  ",178,2003,80,60,140179
+Good Bye Lenin!,"Comedy, Drama, Romance  ",121,2003,77,68,139938
+Monster,"Biography, Crime, Drama  ",109,2003,73,74,139574
+Scary Movie 3,Comedy  ,84,2003,55,49,139404
+Bad Santa,"Comedy, Crime, Drama  ",92,2003,70,70,136693
+The Texas Chainsaw Massacre,"Crime, Horror  ",98,2003,62,38,132160
+Lara Croft Tomb Raider: The Cradle of Life,"Action, Adventure, Fantasy  ",117,2003,56,43,131763
+The Recruit,"Action, Thriller  ",115,2003,66,56,130460
+Freaky Friday,"Comedy, Family, Fantasy  ",97,2003,62,70,128033
+Matchstick Men,"Comedy, Crime, Drama  ",116,2003,73,61,125164
+The Lord of the Rings: The Return of the King,"Action, Adventure, Drama  ",201,2003,89,94,1677364
+Pirates of the Caribbean: The Curse of the Black Pearl,"Action, Adventure, Fantasy  ",143,2003,80,63,1029134
+Kill Bill: Vol. 1,"Action, Crime, Drama  ",111,2003,81,69,1021728
+Finding Nemo,"Animation, Adventure, Comedy  ",100,2003,81,90,967278
+Oldboy,"Action, Drama, Mystery  ",120,2003,84,77,528892
+The Matrix Reloaded,"Action, Sci-Fi  ",138,2003,72,62,526013
+X2: X-Men United,"Action, Sci-Fi, Thriller  ",134,2003,74,68,519201
+The Matrix Revolutions,"Action, Sci-Fi  ",129,2003,67,47,456462
+Love Actually,"Comedy, Drama, Romance  ",135,2003,76,55,442458
+Mystic River,"Crime, Drama, Mystery  ",138,2003,79,84,427464
+Lost in Translation,"Comedy, Drama  ",102,2003,77,89,424240
+Big Fish,"Adventure, Drama, Fantasy  ",125,2003,80,58,420926
+The Last Samurai,"Action, Drama  ",154,2003,77,55,407012
+Terminator 3: Rise of the Machines,"Action, Sci-Fi  ",109,2003,63,66,381559
+Bruce Almighty,"Comedy, Fantasy  ",101,2003,67,46,377970
+The Italian Job,"Action, Crime, Thriller  ",111,2003,70,68,347844
+School of Rock,"Comedy, Music  ",109,2003,71,82,280244
+2 Fast 2 Furious,"Action, Crime, Thriller  ",107,2003,59,38,256327
+Underworld,"Action, Fantasy, Thriller  ",121,2003,70,42,256310
+Hulk,"Action, Sci-Fi  ",138,2003,56,54,254765
+Bad Boys II,"Action, Comedy, Crime  ",147,2003,66,38,235630
+Elf,"Adventure, Comedy, Family  ",97,2003,70,64,234534
+Identity,"Mystery, Thriller  ",90,2003,73,64,231576
+21 Grams,"Crime, Drama, Thriller  ",124,2003,76,70,227063
+Old School,Comedy  ,88,2003,71,54,218179
+How to Lose a Guy in 10 Days,"Comedy, Romance  ",116,2003,64,45,216760
+Daredevil,"Action, Crime  ",103,2003,53,42,208687
+Master and Commander: The Far Side of the World,"Action, Adventure, Drama  ",138,2003,74,81,207289
+Anger Management,Comedy  ,106,2003,62,52,205937
+American Wedding,Comedy  ,96,2003,63,43,197237
+The League of Extraordinary Gentlemen,"Action, Adventure, Fantasy  ",110,2003,58,30,170094
+Once Upon a Time in Mexico,"Action, Crime, Thriller  ",102,2003,64,56,155391
+Final Destination 2,"Horror, Thriller  ",90,2003,62,38,154901
+Johnny English,"Action, Adventure, Comedy  ",87,2003,62,51,150946
+Memories of Murder,"Crime, Drama, Mystery  ",132,2003,81,82,149468
+Cold Mountain,"Adventure, Drama, History  ",154,2003,72,73,141555
+S.W.A.T.,"Action, Adventure, Crime  ",117,2003,60,45,140354
+Dogville,"Crime, Drama  ",178,2003,80,60,140179
+Good Bye Lenin!,"Comedy, Drama, Romance  ",121,2003,77,68,139938
+Monster,"Biography, Crime, Drama  ",109,2003,73,74,139574
+Scary Movie 3,Comedy  ,84,2003,55,49,139404
+Bad Santa,"Comedy, Crime, Drama  ",92,2003,70,70,136693
+The Texas Chainsaw Massacre,"Crime, Horror  ",98,2003,62,38,132160
+Lara Croft Tomb Raider: The Cradle of Life,"Action, Adventure, Fantasy  ",117,2003,56,43,131763
+The Recruit,"Action, Thriller  ",115,2003,66,56,130460
+Freaky Friday,"Comedy, Family, Fantasy  ",97,2003,62,70,128033
+Matchstick Men,"Comedy, Crime, Drama  ",116,2003,73,61,125164
+The Lord of the Rings: The Return of the King,"Action, Adventure, Drama  ",201,2003,89,94,1677364
+Pirates of the Caribbean: The Curse of the Black Pearl,"Action, Adventure, Fantasy  ",143,2003,80,63,1029134
+Kill Bill: Vol. 1,"Action, Crime, Drama  ",111,2003,81,69,1021728
+Finding Nemo,"Animation, Adventure, Comedy  ",100,2003,81,90,967278
+Oldboy,"Action, Drama, Mystery  ",120,2003,84,77,528892
+The Matrix Reloaded,"Action, Sci-Fi  ",138,2003,72,62,526013
+X2: X-Men United,"Action, Sci-Fi, Thriller  ",134,2003,74,68,519201
+The Matrix Revolutions,"Action, Sci-Fi  ",129,2003,67,47,456462
+Love Actually,"Comedy, Drama, Romance  ",135,2003,76,55,442458
+Mystic River,"Crime, Drama, Mystery  ",138,2003,79,84,427464
+Lost in Translation,"Comedy, Drama  ",102,2003,77,89,424240
+Big Fish,"Adventure, Drama, Fantasy  ",125,2003,80,58,420926
+The Last Samurai,"Action, Drama  ",154,2003,77,55,407012
+Terminator 3: Rise of the Machines,"Action, Sci-Fi  ",109,2003,63,66,381559
+Bruce Almighty,"Comedy, Fantasy  ",101,2003,67,46,377970
+The Italian Job,"Action, Crime, Thriller  ",111,2003,70,68,347844
+School of Rock,"Comedy, Music  ",109,2003,71,82,280244
+2 Fast 2 Furious,"Action, Crime, Thriller  ",107,2003,59,38,256327
+Underworld,"Action, Fantasy, Thriller  ",121,2003,70,42,256310
+Hulk,"Action, Sci-Fi  ",138,2003,56,54,254765
+Bad Boys II,"Action, Comedy, Crime  ",147,2003,66,38,235630
+Elf,"Adventure, Comedy, Family  ",97,2003,70,64,234534
+Identity,"Mystery, Thriller  ",90,2003,73,64,231576
+21 Grams,"Crime, Drama, Thriller  ",124,2003,76,70,227063
+Old School,Comedy  ,88,2003,71,54,218179
+How to Lose a Guy in 10 Days,"Comedy, Romance  ",116,2003,64,45,216760
+Daredevil,"Action, Crime  ",103,2003,53,42,208687
+Master and Commander: The Far Side of the World,"Action, Adventure, Drama  ",138,2003,74,81,207289
+Anger Management,Comedy  ,106,2003,62,52,205937
+American Wedding,Comedy  ,96,2003,63,43,197237
+The League of Extraordinary Gentlemen,"Action, Adventure, Fantasy  ",110,2003,58,30,170094
+Once Upon a Time in Mexico,"Action, Crime, Thriller  ",102,2003,64,56,155391
+Final Destination 2,"Horror, Thriller  ",90,2003,62,38,154901
+Johnny English,"Action, Adventure, Comedy  ",87,2003,62,51,150946
+Memories of Murder,"Crime, Drama, Mystery  ",132,2003,81,82,149468
+Cold Mountain,"Adventure, Drama, History  ",154,2003,72,73,141555
+S.W.A.T.,"Action, Adventure, Crime  ",117,2003,60,45,140354
+Dogville,"Crime, Drama  ",178,2003,80,60,140179
+Good Bye Lenin!,"Comedy, Drama, Romance  ",121,2003,77,68,139938
+Monster,"Biography, Crime, Drama  ",109,2003,73,74,139574
+Scary Movie 3,Comedy  ,84,2003,55,49,139404
+Bad Santa,"Comedy, Crime, Drama  ",92,2003,70,70,136693
+The Texas Chainsaw Massacre,"Crime, Horror  ",98,2003,62,38,132160
+Lara Croft Tomb Raider: The Cradle of Life,"Action, Adventure, Fantasy  ",117,2003,56,43,131763
+The Recruit,"Action, Thriller  ",115,2003,66,56,130460
+Freaky Friday,"Comedy, Family, Fantasy  ",97,2003,62,70,128033
+Matchstick Men,"Comedy, Crime, Drama  ",116,2003,73,61,125164
+The Lord of the Rings: The Return of the King,"Action, Adventure, Drama  ",201,2003,89,94,1677364
+Pirates of the Caribbean: The Curse of the Black Pearl,"Action, Adventure, Fantasy  ",143,2003,80,63,1029134
+Kill Bill: Vol. 1,"Action, Crime, Drama  ",111,2003,81,69,1021728
+Finding Nemo,"Animation, Adventure, Comedy  ",100,2003,81,90,967278
+Oldboy,"Action, Drama, Mystery  ",120,2003,84,77,528892
+The Matrix Reloaded,"Action, Sci-Fi  ",138,2003,72,62,526013
+X2: X-Men United,"Action, Sci-Fi, Thriller  ",134,2003,74,68,519201
+The Matrix Revolutions,"Action, Sci-Fi  ",129,2003,67,47,456462
+Love Actually,"Comedy, Drama, Romance  ",135,2003,76,55,442458
+Mystic River,"Crime, Drama, Mystery  ",138,2003,79,84,427464
+Lost in Translation,"Comedy, Drama  ",102,2003,77,89,424240
+Big Fish,"Adventure, Drama, Fantasy  ",125,2003,80,58,420926
+The Last Samurai,"Action, Drama  ",154,2003,77,55,407012
+Terminator 3: Rise of the Machines,"Action, Sci-Fi  ",109,2003,63,66,381559
+Bruce Almighty,"Comedy, Fantasy  ",101,2003,67,46,377970
+The Italian Job,"Action, Crime, Thriller  ",111,2003,70,68,347844
+School of Rock,"Comedy, Music  ",109,2003,71,82,280244
+2 Fast 2 Furious,"Action, Crime, Thriller  ",107,2003,59,38,256327
+Underworld,"Action, Fantasy, Thriller  ",121,2003,70,42,256310
+Hulk,"Action, Sci-Fi  ",138,2003,56,54,254765
+Bad Boys II,"Action, Comedy, Crime  ",147,2003,66,38,235630
+Elf,"Adventure, Comedy, Family  ",97,2003,70,64,234534
+Identity,"Mystery, Thriller  ",90,2003,73,64,231576
+21 Grams,"Crime, Drama, Thriller  ",124,2003,76,70,227063
+Old School,Comedy  ,88,2003,71,54,218179
+How to Lose a Guy in 10 Days,"Comedy, Romance  ",116,2003,64,45,216760
+Daredevil,"Action, Crime  ",103,2003,53,42,208687
+Master and Commander: The Far Side of the World,"Action, Adventure, Drama  ",138,2003,74,81,207289
+Anger Management,Comedy  ,106,2003,62,52,205937
+American Wedding,Comedy  ,96,2003,63,43,197237
+The League of Extraordinary Gentlemen,"Action, Adventure, Fantasy  ",110,2003,58,30,170094
+Once Upon a Time in Mexico,"Action, Crime, Thriller  ",102,2003,64,56,155391
+Final Destination 2,"Horror, Thriller  ",90,2003,62,38,154901
+Johnny English,"Action, Adventure, Comedy  ",87,2003,62,51,150946
+Memories of Murder,"Crime, Drama, Mystery  ",132,2003,81,82,149468
+Cold Mountain,"Adventure, Drama, History  ",154,2003,72,73,141555
+S.W.A.T.,"Action, Adventure, Crime  ",117,2003,60,45,140354
+Dogville,"Crime, Drama  ",178,2003,80,60,140179
+Good Bye Lenin!,"Comedy, Drama, Romance  ",121,2003,77,68,139938
+Monster,"Biography, Crime, Drama  ",109,2003,73,74,139574
+Scary Movie 3,Comedy  ,84,2003,55,49,139404
+Bad Santa,"Comedy, Crime, Drama  ",92,2003,70,70,136693
+The Texas Chainsaw Massacre,"Crime, Horror  ",98,2003,62,38,132160
+Lara Croft Tomb Raider: The Cradle of Life,"Action, Adventure, Fantasy  ",117,2003,56,43,131763
+The Recruit,"Action, Thriller  ",115,2003,66,56,130460
+Freaky Friday,"Comedy, Family, Fantasy  ",97,2003,62,70,128033
+Matchstick Men,"Comedy, Crime, Drama  ",116,2003,73,61,125164
+The Lord of the Rings: The Return of the King,"Action, Adventure, Drama  ",201,2003,89,94,1677364
+Pirates of the Caribbean: The Curse of the Black Pearl,"Action, Adventure, Fantasy  ",143,2003,80,63,1029134
+Kill Bill: Vol. 1,"Action, Crime, Drama  ",111,2003,81,69,1021728
+Finding Nemo,"Animation, Adventure, Comedy  ",100,2003,81,90,967278
+Oldboy,"Action, Drama, Mystery  ",120,2003,84,77,528892
+The Matrix Reloaded,"Action, Sci-Fi  ",138,2003,72,62,526013
+X2: X-Men United,"Action, Sci-Fi, Thriller  ",134,2003,74,68,519201
+The Matrix Revolutions,"Action, Sci-Fi  ",129,2003,67,47,456462
+Love Actually,"Comedy, Drama, Romance  ",135,2003,76,55,442458
+Mystic River,"Crime, Drama, Mystery  ",138,2003,79,84,427464
+Lost in Translation,"Comedy, Drama  ",102,2003,77,89,424240
+Big Fish,"Adventure, Drama, Fantasy  ",125,2003,80,58,420926
+The Last Samurai,"Action, Drama  ",154,2003,77,55,407012
+Terminator 3: Rise of the Machines,"Action, Sci-Fi  ",109,2003,63,66,381559
+Bruce Almighty,"Comedy, Fantasy  ",101,2003,67,46,377970
+The Italian Job,"Action, Crime, Thriller  ",111,2003,70,68,347844
+School of Rock,"Comedy, Music  ",109,2003,71,82,280244
+2 Fast 2 Furious,"Action, Crime, Thriller  ",107,2003,59,38,256327
+Underworld,"Action, Fantasy, Thriller  ",121,2003,70,42,256310
+Hulk,"Action, Sci-Fi  ",138,2003,56,54,254765
+Bad Boys II,"Action, Comedy, Crime  ",147,2003,66,38,235630
+Elf,"Adventure, Comedy, Family  ",97,2003,70,64,234534
+Identity,"Mystery, Thriller  ",90,2003,73,64,231576
+21 Grams,"Crime, Drama, Thriller  ",124,2003,76,70,227063
+Old School,Comedy  ,88,2003,71,54,218179
+How to Lose a Guy in 10 Days,"Comedy, Romance  ",116,2003,64,45,216760
+Daredevil,"Action, Crime  ",103,2003,53,42,208687
+Master and Commander: The Far Side of the World,"Action, Adventure, Drama  ",138,2003,74,81,207289
+Anger Management,Comedy  ,106,2003,62,52,205937
+American Wedding,Comedy  ,96,2003,63,43,197237
+The League of Extraordinary Gentlemen,"Action, Adventure, Fantasy  ",110,2003,58,30,170094
+Once Upon a Time in Mexico,"Action, Crime, Thriller  ",102,2003,64,56,155391
+Final Destination 2,"Horror, Thriller  ",90,2003,62,38,154901
+Johnny English,"Action, Adventure, Comedy  ",87,2003,62,51,150946
+Memories of Murder,"Crime, Drama, Mystery  ",132,2003,81,82,149468
+Cold Mountain,"Adventure, Drama, History  ",154,2003,72,73,141555
+S.W.A.T.,"Action, Adventure, Crime  ",117,2003,60,45,140354
+Dogville,"Crime, Drama  ",178,2003,80,60,140179
+Good Bye Lenin!,"Comedy, Drama, Romance  ",121,2003,77,68,139938
+Monster,"Biography, Crime, Drama  ",109,2003,73,74,139574
+Scary Movie 3,Comedy  ,84,2003,55,49,139404
+Bad Santa,"Comedy, Crime, Drama  ",92,2003,70,70,136693
+The Texas Chainsaw Massacre,"Crime, Horror  ",98,2003,62,38,132160
+Lara Croft Tomb Raider: The Cradle of Life,"Action, Adventure, Fantasy  ",117,2003,56,43,131763
+The Recruit,"Action, Thriller  ",115,2003,66,56,130460
+Freaky Friday,"Comedy, Family, Fantasy  ",97,2003,62,70,128033
+Matchstick Men,"Comedy, Crime, Drama  ",116,2003,73,61,125164
+The Lord of the Rings: The Return of the King,"Action, Adventure, Drama  ",201,2003,89,94,1677364
+Pirates of the Caribbean: The Curse of the Black Pearl,"Action, Adventure, Fantasy  ",143,2003,80,63,1029134
+Kill Bill: Vol. 1,"Action, Crime, Drama  ",111,2003,81,69,1021728
+Finding Nemo,"Animation, Adventure, Comedy  ",100,2003,81,90,967278
+Oldboy,"Action, Drama, Mystery  ",120,2003,84,77,528892
+The Matrix Reloaded,"Action, Sci-Fi  ",138,2003,72,62,526013
+X2: X-Men United,"Action, Sci-Fi, Thriller  ",134,2003,74,68,519201
+The Matrix Revolutions,"Action, Sci-Fi  ",129,2003,67,47,456462
+Love Actually,"Comedy, Drama, Romance  ",135,2003,76,55,442458
+Mystic River,"Crime, Drama, Mystery  ",138,2003,79,84,427464
+Lost in Translation,"Comedy, Drama  ",102,2003,77,89,424240
+Big Fish,"Adventure, Drama, Fantasy  ",125,2003,80,58,420926
+The Last Samurai,"Action, Drama  ",154,2003,77,55,407012
+Terminator 3: Rise of the Machines,"Action, Sci-Fi  ",109,2003,63,66,381559
+Bruce Almighty,"Comedy, Fantasy  ",101,2003,67,46,377970
+The Italian Job,"Action, Crime, Thriller  ",111,2003,70,68,347844
+School of Rock,"Comedy, Music  ",109,2003,71,82,280244
+2 Fast 2 Furious,"Action, Crime, Thriller  ",107,2003,59,38,256327
+Underworld,"Action, Fantasy, Thriller  ",121,2003,70,42,256310
+Hulk,"Action, Sci-Fi  ",138,2003,56,54,254765
+Bad Boys II,"Action, Comedy, Crime  ",147,2003,66,38,235630
+Elf,"Adventure, Comedy, Family  ",97,2003,70,64,234534
+Identity,"Mystery, Thriller  ",90,2003,73,64,231576
+21 Grams,"Crime, Drama, Thriller  ",124,2003,76,70,227063
+Old School,Comedy  ,88,2003,71,54,218179
+How to Lose a Guy in 10 Days,"Comedy, Romance  ",116,2003,64,45,216760
+Daredevil,"Action, Crime  ",103,2003,53,42,208687
+Master and Commander: The Far Side of the World,"Action, Adventure, Drama  ",138,2003,74,81,207289
+Anger Management,Comedy  ,106,2003,62,52,205937
+American Wedding,Comedy  ,96,2003,63,43,197237
+The League of Extraordinary Gentlemen,"Action, Adventure, Fantasy  ",110,2003,58,30,170094
+Once Upon a Time in Mexico,"Action, Crime, Thriller  ",102,2003,64,56,155391
+Final Destination 2,"Horror, Thriller  ",90,2003,62,38,154901
+Johnny English,"Action, Adventure, Comedy  ",87,2003,62,51,150946
+Memories of Murder,"Crime, Drama, Mystery  ",132,2003,81,82,149468
+Cold Mountain,"Adventure, Drama, History  ",154,2003,72,73,141555
+S.W.A.T.,"Action, Adventure, Crime  ",117,2003,60,45,140354
+Dogville,"Crime, Drama  ",178,2003,80,60,140179
+Good Bye Lenin!,"Comedy, Drama, Romance  ",121,2003,77,68,139938
+Monster,"Biography, Crime, Drama  ",109,2003,73,74,139574
+Scary Movie 3,Comedy  ,84,2003,55,49,139404
+Bad Santa,"Comedy, Crime, Drama  ",92,2003,70,70,136693
+The Texas Chainsaw Massacre,"Crime, Horror  ",98,2003,62,38,132160
+Lara Croft Tomb Raider: The Cradle of Life,"Action, Adventure, Fantasy  ",117,2003,56,43,131763
+The Recruit,"Action, Thriller  ",115,2003,66,56,130460
+Freaky Friday,"Comedy, Family, Fantasy  ",97,2003,62,70,128033
+Matchstick Men,"Comedy, Crime, Drama  ",116,2003,73,61,125164

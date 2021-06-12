@@ -87,7 +87,7 @@ def parse_and_extract_imdb(start_year='2021', pages=6):
     df.to_csv(filepath, index=False)
 
 
-def run_imdb(start_year=2021, page_number=6, years_ago=2):
+def run_imdb(start_year=2021, page_number=10, years_ago=1):
     assert isinstance(start_year, int)
     assert isinstance(page_number, int)
     assert isinstance(years_ago, int)

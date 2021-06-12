@@ -1,0 +1,540 @@
+Movie,Genre,Duration,Year,Imdb_rating,Metascore_rating,Votes
+The Dark Knight Rises,"Action, Adventure  ",164,2012,84,78,1549823
+Django Unchained,"Drama, Western  ",165,2012,84,81,1394142
+The Avengers,"Action, Adventure, Sci-Fi  ",143,2012,80,69,1284990
+The Hunger Games,"Action, Adventure, Sci-Fi  ",142,2012,72,68,857820
+The Hobbit: An Unexpected Journey,"Adventure, Fantasy  ",169,2012,78,58,769157
+Silver Linings Playbook,"Comedy, Drama, Romance  ",122,2012,77,81,672098
+Skyfall,"Action, Adventure, Thriller  ",143,2012,77,81,639332
+Life of Pi,"Adventure, Drama, Fantasy  ",127,2012,79,79,591126
+Argo,"Biography, Drama, Thriller  ",120,2012,77,86,582656
+Ted,Comedy  ,106,2012,69,62,578039
+Prometheus,"Adventure, Mystery, Sci-Fi  ",124,2012,70,64,576096
+The Amazing Spider-Man,"Action, Adventure, Fantasy  ",136,2012,69,66,568440
+Looper,"Action, Drama, Sci-Fi  ",113,2012,74,84,542150
+21 Jump Street,"Action, Comedy, Crime  ",109,2012,72,69,518882
+The Perks of Being a Wallflower,"Drama, Romance  ",103,2012,80,67,472526
+Wreck-It Ralph,"Animation, Adventure, Comedy  ",101,2012,77,72,387912
+Brave,"Animation, Adventure, Comedy  ",93,2012,71,69,380756
+Cloud Atlas,"Action, Drama, Mystery  ",172,2012,74,55,348261
+Men in Black 3,"Action, Adventure, Comedy  ",106,2012,68,58,340442
+Flight,"Drama, Thriller  ",138,2012,73,76,332247
+Moonrise Kingdom,"Comedy, Drama, Romance  ",94,2012,78,84,325834
+Jack Reacher,"Action, Thriller  ",130,2012,70,50,315508
+Les Misérables,"Drama, History, Musical  ",158,2012,76,63,313701
+The Expendables 2,"Action, Adventure, Thriller  ",103,2012,66,51,295398
+The Hunt,Drama  ,115,2012,83,77,294017
+Taken 2,"Action, Crime, Thriller  ",92,2012,63,45,293197
+The Bourne Legacy,"Action, Adventure, Thriller  ",135,2012,66,61,288719
+The Dictator,Comedy  ,83,2012,64,58,284537
+Pitch Perfect,"Comedy, Music, Romance  ",112,2012,71,66,283003
+Zero Dark Thirty,"Drama, History, Thriller  ",157,2012,74,95,278581
+Snow White and the Huntsman,"Action, Adventure, Drama  ",127,2012,61,57,276975
+Dredd,"Action, Crime, Sci-Fi  ",95,2012,71,60,258642
+John Carter,"Action, Adventure, Sci-Fi  ",132,2012,66,51,258493
+The Place Beyond the Pines,"Crime, Drama, Thriller  ",140,2012,73,68,251766
+Dark Shadows,"Comedy, Fantasy, Horror  ",113,2012,62,55,251386
+Lincoln,"Biography, Drama, History  ",150,2012,73,86,248738
+Seven Psychopaths,"Comedy, Crime  ",110,2012,72,66,245306
+Total Recall,"Action, Adventure, Sci-Fi  ",118,2012,62,43,243216
+Chronicle,"Adventure, Drama, Sci-Fi  ",84,2012,70,69,241883
+Battleship,"Action, Adventure, Sci-Fi  ",131,2012,58,41,238970
+The Twilight Saga: Breaking Dawn - Part 2,"Adventure, Drama, Fantasy  ",115,2012,55,52,235187
+End of Watch,"Action, Crime, Drama  ",109,2012,76,68,231862
+Lawless,"Crime, Drama  ",116,2012,73,58,231617
+Hotel Transylvania,"Animation, Comedy, Family  ",91,2012,71,47,230524
+Sinister,"Horror, Mystery, Thriller  ",110,2012,68,53,226855
+Safe House,"Action, Thriller  ",115,2012,67,52,210227
+The Impossible,"Drama, History, Thriller  ",114,2012,76,73,206462
+American Reunion,Comedy  ,113,2012,67,49,205496
+Ice Age: Continental Drift,"Animation, Adventure, Comedy  ",88,2012,65,49,195582
+The Dark Knight Rises,"Action, Adventure  ",164,2012,84,78,1549823
+Django Unchained,"Drama, Western  ",165,2012,84,81,1394142
+The Avengers,"Action, Adventure, Sci-Fi  ",143,2012,80,69,1284990
+The Hunger Games,"Action, Adventure, Sci-Fi  ",142,2012,72,68,857820
+The Hobbit: An Unexpected Journey,"Adventure, Fantasy  ",169,2012,78,58,769157
+Silver Linings Playbook,"Comedy, Drama, Romance  ",122,2012,77,81,672098
+Skyfall,"Action, Adventure, Thriller  ",143,2012,77,81,639332
+Life of Pi,"Adventure, Drama, Fantasy  ",127,2012,79,79,591126
+Argo,"Biography, Drama, Thriller  ",120,2012,77,86,582656
+Ted,Comedy  ,106,2012,69,62,578039
+Prometheus,"Adventure, Mystery, Sci-Fi  ",124,2012,70,64,576096
+The Amazing Spider-Man,"Action, Adventure, Fantasy  ",136,2012,69,66,568440
+Looper,"Action, Drama, Sci-Fi  ",113,2012,74,84,542150
+21 Jump Street,"Action, Comedy, Crime  ",109,2012,72,69,518882
+The Perks of Being a Wallflower,"Drama, Romance  ",103,2012,80,67,472526
+Wreck-It Ralph,"Animation, Adventure, Comedy  ",101,2012,77,72,387912
+Brave,"Animation, Adventure, Comedy  ",93,2012,71,69,380756
+Cloud Atlas,"Action, Drama, Mystery  ",172,2012,74,55,348261
+Men in Black 3,"Action, Adventure, Comedy  ",106,2012,68,58,340442
+Flight,"Drama, Thriller  ",138,2012,73,76,332247
+Moonrise Kingdom,"Comedy, Drama, Romance  ",94,2012,78,84,325834
+Jack Reacher,"Action, Thriller  ",130,2012,70,50,315508
+Les Misérables,"Drama, History, Musical  ",158,2012,76,63,313701
+The Expendables 2,"Action, Adventure, Thriller  ",103,2012,66,51,295398
+The Hunt,Drama  ,115,2012,83,77,294017
+Taken 2,"Action, Crime, Thriller  ",92,2012,63,45,293197
+The Bourne Legacy,"Action, Adventure, Thriller  ",135,2012,66,61,288719
+The Dictator,Comedy  ,83,2012,64,58,284537
+Pitch Perfect,"Comedy, Music, Romance  ",112,2012,71,66,283003
+Zero Dark Thirty,"Drama, History, Thriller  ",157,2012,74,95,278581
+Snow White and the Huntsman,"Action, Adventure, Drama  ",127,2012,61,57,276975
+Dredd,"Action, Crime, Sci-Fi  ",95,2012,71,60,258642
+John Carter,"Action, Adventure, Sci-Fi  ",132,2012,66,51,258493
+The Place Beyond the Pines,"Crime, Drama, Thriller  ",140,2012,73,68,251766
+Dark Shadows,"Comedy, Fantasy, Horror  ",113,2012,62,55,251386
+Lincoln,"Biography, Drama, History  ",150,2012,73,86,248738
+Seven Psychopaths,"Comedy, Crime  ",110,2012,72,66,245306
+Total Recall,"Action, Adventure, Sci-Fi  ",118,2012,62,43,243216
+Chronicle,"Adventure, Drama, Sci-Fi  ",84,2012,70,69,241883
+Battleship,"Action, Adventure, Sci-Fi  ",131,2012,58,41,238970
+The Twilight Saga: Breaking Dawn - Part 2,"Adventure, Drama, Fantasy  ",115,2012,55,52,235187
+End of Watch,"Action, Crime, Drama  ",109,2012,76,68,231862
+Lawless,"Crime, Drama  ",116,2012,73,58,231617
+Hotel Transylvania,"Animation, Comedy, Family  ",91,2012,71,47,230524
+Sinister,"Horror, Mystery, Thriller  ",110,2012,68,53,226855
+Safe House,"Action, Thriller  ",115,2012,67,52,210227
+The Impossible,"Drama, History, Thriller  ",114,2012,76,73,206462
+American Reunion,Comedy  ,113,2012,67,49,205496
+Ice Age: Continental Drift,"Animation, Adventure, Comedy  ",88,2012,65,49,195582
+The Dark Knight Rises,"Action, Adventure  ",164,2012,84,78,1549823
+Django Unchained,"Drama, Western  ",165,2012,84,81,1394142
+The Avengers,"Action, Adventure, Sci-Fi  ",143,2012,80,69,1284990
+The Hunger Games,"Action, Adventure, Sci-Fi  ",142,2012,72,68,857820
+The Hobbit: An Unexpected Journey,"Adventure, Fantasy  ",169,2012,78,58,769157
+Silver Linings Playbook,"Comedy, Drama, Romance  ",122,2012,77,81,672098
+Skyfall,"Action, Adventure, Thriller  ",143,2012,77,81,639332
+Life of Pi,"Adventure, Drama, Fantasy  ",127,2012,79,79,591126
+Argo,"Biography, Drama, Thriller  ",120,2012,77,86,582656
+Ted,Comedy  ,106,2012,69,62,578039
+Prometheus,"Adventure, Mystery, Sci-Fi  ",124,2012,70,64,576096
+The Amazing Spider-Man,"Action, Adventure, Fantasy  ",136,2012,69,66,568440
+Looper,"Action, Drama, Sci-Fi  ",113,2012,74,84,542150
+21 Jump Street,"Action, Comedy, Crime  ",109,2012,72,69,518882
+The Perks of Being a Wallflower,"Drama, Romance  ",103,2012,80,67,472526
+Wreck-It Ralph,"Animation, Adventure, Comedy  ",101,2012,77,72,387912
+Brave,"Animation, Adventure, Comedy  ",93,2012,71,69,380756
+Cloud Atlas,"Action, Drama, Mystery  ",172,2012,74,55,348261
+Men in Black 3,"Action, Adventure, Comedy  ",106,2012,68,58,340442
+Flight,"Drama, Thriller  ",138,2012,73,76,332247
+Moonrise Kingdom,"Comedy, Drama, Romance  ",94,2012,78,84,325834
+Jack Reacher,"Action, Thriller  ",130,2012,70,50,315508
+Les Misérables,"Drama, History, Musical  ",158,2012,76,63,313701
+The Expendables 2,"Action, Adventure, Thriller  ",103,2012,66,51,295398
+The Hunt,Drama  ,115,2012,83,77,294017
+Taken 2,"Action, Crime, Thriller  ",92,2012,63,45,293197
+The Bourne Legacy,"Action, Adventure, Thriller  ",135,2012,66,61,288719
+The Dictator,Comedy  ,83,2012,64,58,284537
+Pitch Perfect,"Comedy, Music, Romance  ",112,2012,71,66,283003
+Zero Dark Thirty,"Drama, History, Thriller  ",157,2012,74,95,278581
+Snow White and the Huntsman,"Action, Adventure, Drama  ",127,2012,61,57,276975
+Dredd,"Action, Crime, Sci-Fi  ",95,2012,71,60,258642
+John Carter,"Action, Adventure, Sci-Fi  ",132,2012,66,51,258493
+The Place Beyond the Pines,"Crime, Drama, Thriller  ",140,2012,73,68,251766
+Dark Shadows,"Comedy, Fantasy, Horror  ",113,2012,62,55,251386
+Lincoln,"Biography, Drama, History  ",150,2012,73,86,248738
+Seven Psychopaths,"Comedy, Crime  ",110,2012,72,66,245306
+Total Recall,"Action, Adventure, Sci-Fi  ",118,2012,62,43,243216
+Chronicle,"Adventure, Drama, Sci-Fi  ",84,2012,70,69,241883
+Battleship,"Action, Adventure, Sci-Fi  ",131,2012,58,41,238970
+The Twilight Saga: Breaking Dawn - Part 2,"Adventure, Drama, Fantasy  ",115,2012,55,52,235187
+End of Watch,"Action, Crime, Drama  ",109,2012,76,68,231862
+Lawless,"Crime, Drama  ",116,2012,73,58,231617
+Hotel Transylvania,"Animation, Comedy, Family  ",91,2012,71,47,230524
+Sinister,"Horror, Mystery, Thriller  ",110,2012,68,53,226855
+Safe House,"Action, Thriller  ",115,2012,67,52,210227
+The Impossible,"Drama, History, Thriller  ",114,2012,76,73,206462
+American Reunion,Comedy  ,113,2012,67,49,205496
+Ice Age: Continental Drift,"Animation, Adventure, Comedy  ",88,2012,65,49,195582
+The Dark Knight Rises,"Action, Adventure  ",164,2012,84,78,1549823
+Django Unchained,"Drama, Western  ",165,2012,84,81,1394142
+The Avengers,"Action, Adventure, Sci-Fi  ",143,2012,80,69,1284990
+The Hunger Games,"Action, Adventure, Sci-Fi  ",142,2012,72,68,857820
+The Hobbit: An Unexpected Journey,"Adventure, Fantasy  ",169,2012,78,58,769157
+Silver Linings Playbook,"Comedy, Drama, Romance  ",122,2012,77,81,672098
+Skyfall,"Action, Adventure, Thriller  ",143,2012,77,81,639332
+Life of Pi,"Adventure, Drama, Fantasy  ",127,2012,79,79,591126
+Argo,"Biography, Drama, Thriller  ",120,2012,77,86,582656
+Ted,Comedy  ,106,2012,69,62,578039
+Prometheus,"Adventure, Mystery, Sci-Fi  ",124,2012,70,64,576096
+The Amazing Spider-Man,"Action, Adventure, Fantasy  ",136,2012,69,66,568440
+Looper,"Action, Drama, Sci-Fi  ",113,2012,74,84,542150
+21 Jump Street,"Action, Comedy, Crime  ",109,2012,72,69,518882
+The Perks of Being a Wallflower,"Drama, Romance  ",103,2012,80,67,472526
+Wreck-It Ralph,"Animation, Adventure, Comedy  ",101,2012,77,72,387912
+Brave,"Animation, Adventure, Comedy  ",93,2012,71,69,380756
+Cloud Atlas,"Action, Drama, Mystery  ",172,2012,74,55,348261
+Men in Black 3,"Action, Adventure, Comedy  ",106,2012,68,58,340442
+Flight,"Drama, Thriller  ",138,2012,73,76,332247
+Moonrise Kingdom,"Comedy, Drama, Romance  ",94,2012,78,84,325834
+Jack Reacher,"Action, Thriller  ",130,2012,70,50,315508
+Les Misérables,"Drama, History, Musical  ",158,2012,76,63,313701
+The Expendables 2,"Action, Adventure, Thriller  ",103,2012,66,51,295398
+The Hunt,Drama  ,115,2012,83,77,294017
+Taken 2,"Action, Crime, Thriller  ",92,2012,63,45,293197
+The Bourne Legacy,"Action, Adventure, Thriller  ",135,2012,66,61,288719
+The Dictator,Comedy  ,83,2012,64,58,284537
+Pitch Perfect,"Comedy, Music, Romance  ",112,2012,71,66,283003
+Zero Dark Thirty,"Drama, History, Thriller  ",157,2012,74,95,278581
+Snow White and the Huntsman,"Action, Adventure, Drama  ",127,2012,61,57,276975
+Dredd,"Action, Crime, Sci-Fi  ",95,2012,71,60,258642
+John Carter,"Action, Adventure, Sci-Fi  ",132,2012,66,51,258493
+The Place Beyond the Pines,"Crime, Drama, Thriller  ",140,2012,73,68,251766
+Dark Shadows,"Comedy, Fantasy, Horror  ",113,2012,62,55,251386
+Lincoln,"Biography, Drama, History  ",150,2012,73,86,248738
+Seven Psychopaths,"Comedy, Crime  ",110,2012,72,66,245306
+Total Recall,"Action, Adventure, Sci-Fi  ",118,2012,62,43,243216
+Chronicle,"Adventure, Drama, Sci-Fi  ",84,2012,70,69,241883
+Battleship,"Action, Adventure, Sci-Fi  ",131,2012,58,41,238970
+The Twilight Saga: Breaking Dawn - Part 2,"Adventure, Drama, Fantasy  ",115,2012,55,52,235187
+End of Watch,"Action, Crime, Drama  ",109,2012,76,68,231862
+Lawless,"Crime, Drama  ",116,2012,73,58,231617
+Hotel Transylvania,"Animation, Comedy, Family  ",91,2012,71,47,230524
+Sinister,"Horror, Mystery, Thriller  ",110,2012,68,53,226855
+Safe House,"Action, Thriller  ",115,2012,67,52,210227
+The Impossible,"Drama, History, Thriller  ",114,2012,76,73,206462
+American Reunion,Comedy  ,113,2012,67,49,205496
+Ice Age: Continental Drift,"Animation, Adventure, Comedy  ",88,2012,65,49,195582
+The Dark Knight Rises,"Action, Adventure  ",164,2012,84,78,1549823
+Django Unchained,"Drama, Western  ",165,2012,84,81,1394142
+The Avengers,"Action, Adventure, Sci-Fi  ",143,2012,80,69,1284990
+The Hunger Games,"Action, Adventure, Sci-Fi  ",142,2012,72,68,857820
+The Hobbit: An Unexpected Journey,"Adventure, Fantasy  ",169,2012,78,58,769157
+Silver Linings Playbook,"Comedy, Drama, Romance  ",122,2012,77,81,672098
+Skyfall,"Action, Adventure, Thriller  ",143,2012,77,81,639332
+Life of Pi,"Adventure, Drama, Fantasy  ",127,2012,79,79,591126
+Argo,"Biography, Drama, Thriller  ",120,2012,77,86,582656
+Ted,Comedy  ,106,2012,69,62,578039
+Prometheus,"Adventure, Mystery, Sci-Fi  ",124,2012,70,64,576096
+The Amazing Spider-Man,"Action, Adventure, Fantasy  ",136,2012,69,66,568440
+Looper,"Action, Drama, Sci-Fi  ",113,2012,74,84,542150
+21 Jump Street,"Action, Comedy, Crime  ",109,2012,72,69,518882
+The Perks of Being a Wallflower,"Drama, Romance  ",103,2012,80,67,472526
+Wreck-It Ralph,"Animation, Adventure, Comedy  ",101,2012,77,72,387912
+Brave,"Animation, Adventure, Comedy  ",93,2012,71,69,380756
+Cloud Atlas,"Action, Drama, Mystery  ",172,2012,74,55,348261
+Men in Black 3,"Action, Adventure, Comedy  ",106,2012,68,58,340442
+Flight,"Drama, Thriller  ",138,2012,73,76,332247
+Moonrise Kingdom,"Comedy, Drama, Romance  ",94,2012,78,84,325834
+Jack Reacher,"Action, Thriller  ",130,2012,70,50,315508
+Les Misérables,"Drama, History, Musical  ",158,2012,76,63,313701
+The Expendables 2,"Action, Adventure, Thriller  ",103,2012,66,51,295398
+The Hunt,Drama  ,115,2012,83,77,294017
+Taken 2,"Action, Crime, Thriller  ",92,2012,63,45,293197
+The Bourne Legacy,"Action, Adventure, Thriller  ",135,2012,66,61,288719
+The Dictator,Comedy  ,83,2012,64,58,284537
+Pitch Perfect,"Comedy, Music, Romance  ",112,2012,71,66,283003
+Zero Dark Thirty,"Drama, History, Thriller  ",157,2012,74,95,278581
+Snow White and the Huntsman,"Action, Adventure, Drama  ",127,2012,61,57,276975
+Dredd,"Action, Crime, Sci-Fi  ",95,2012,71,60,258642
+John Carter,"Action, Adventure, Sci-Fi  ",132,2012,66,51,258493
+The Place Beyond the Pines,"Crime, Drama, Thriller  ",140,2012,73,68,251766
+Dark Shadows,"Comedy, Fantasy, Horror  ",113,2012,62,55,251386
+Lincoln,"Biography, Drama, History  ",150,2012,73,86,248738
+Seven Psychopaths,"Comedy, Crime  ",110,2012,72,66,245306
+Total Recall,"Action, Adventure, Sci-Fi  ",118,2012,62,43,243216
+Chronicle,"Adventure, Drama, Sci-Fi  ",84,2012,70,69,241883
+Battleship,"Action, Adventure, Sci-Fi  ",131,2012,58,41,238970
+The Twilight Saga: Breaking Dawn - Part 2,"Adventure, Drama, Fantasy  ",115,2012,55,52,235187
+End of Watch,"Action, Crime, Drama  ",109,2012,76,68,231862
+Lawless,"Crime, Drama  ",116,2012,73,58,231617
+Hotel Transylvania,"Animation, Comedy, Family  ",91,2012,71,47,230524
+Sinister,"Horror, Mystery, Thriller  ",110,2012,68,53,226855
+Safe House,"Action, Thriller  ",115,2012,67,52,210227
+The Impossible,"Drama, History, Thriller  ",114,2012,76,73,206462
+American Reunion,Comedy  ,113,2012,67,49,205496
+Ice Age: Continental Drift,"Animation, Adventure, Comedy  ",88,2012,65,49,195582
+The Dark Knight Rises,"Action, Adventure  ",164,2012,84,78,1549823
+Django Unchained,"Drama, Western  ",165,2012,84,81,1394142
+The Avengers,"Action, Adventure, Sci-Fi  ",143,2012,80,69,1284990
+The Hunger Games,"Action, Adventure, Sci-Fi  ",142,2012,72,68,857820
+The Hobbit: An Unexpected Journey,"Adventure, Fantasy  ",169,2012,78,58,769157
+Silver Linings Playbook,"Comedy, Drama, Romance  ",122,2012,77,81,672098
+Skyfall,"Action, Adventure, Thriller  ",143,2012,77,81,639332
+Life of Pi,"Adventure, Drama, Fantasy  ",127,2012,79,79,591126
+Argo,"Biography, Drama, Thriller  ",120,2012,77,86,582656
+Ted,Comedy  ,106,2012,69,62,578039
+Prometheus,"Adventure, Mystery, Sci-Fi  ",124,2012,70,64,576096
+The Amazing Spider-Man,"Action, Adventure, Fantasy  ",136,2012,69,66,568440
+Looper,"Action, Drama, Sci-Fi  ",113,2012,74,84,542150
+21 Jump Street,"Action, Comedy, Crime  ",109,2012,72,69,518882
+The Perks of Being a Wallflower,"Drama, Romance  ",103,2012,80,67,472526
+Wreck-It Ralph,"Animation, Adventure, Comedy  ",101,2012,77,72,387912
+Brave,"Animation, Adventure, Comedy  ",93,2012,71,69,380756
+Cloud Atlas,"Action, Drama, Mystery  ",172,2012,74,55,348261
+Men in Black 3,"Action, Adventure, Comedy  ",106,2012,68,58,340442
+Flight,"Drama, Thriller  ",138,2012,73,76,332247
+Moonrise Kingdom,"Comedy, Drama, Romance  ",94,2012,78,84,325834
+Jack Reacher,"Action, Thriller  ",130,2012,70,50,315508
+Les Misérables,"Drama, History, Musical  ",158,2012,76,63,313701
+The Expendables 2,"Action, Adventure, Thriller  ",103,2012,66,51,295398
+The Hunt,Drama  ,115,2012,83,77,294017
+Taken 2,"Action, Crime, Thriller  ",92,2012,63,45,293197
+The Bourne Legacy,"Action, Adventure, Thriller  ",135,2012,66,61,288719
+The Dictator,Comedy  ,83,2012,64,58,284537
+Pitch Perfect,"Comedy, Music, Romance  ",112,2012,71,66,283003
+Zero Dark Thirty,"Drama, History, Thriller  ",157,2012,74,95,278581
+Snow White and the Huntsman,"Action, Adventure, Drama  ",127,2012,61,57,276975
+Dredd,"Action, Crime, Sci-Fi  ",95,2012,71,60,258642
+John Carter,"Action, Adventure, Sci-Fi  ",132,2012,66,51,258493
+The Place Beyond the Pines,"Crime, Drama, Thriller  ",140,2012,73,68,251766
+Dark Shadows,"Comedy, Fantasy, Horror  ",113,2012,62,55,251386
+Lincoln,"Biography, Drama, History  ",150,2012,73,86,248738
+Seven Psychopaths,"Comedy, Crime  ",110,2012,72,66,245306
+Total Recall,"Action, Adventure, Sci-Fi  ",118,2012,62,43,243216
+Chronicle,"Adventure, Drama, Sci-Fi  ",84,2012,70,69,241883
+Battleship,"Action, Adventure, Sci-Fi  ",131,2012,58,41,238970
+The Twilight Saga: Breaking Dawn - Part 2,"Adventure, Drama, Fantasy  ",115,2012,55,52,235187
+End of Watch,"Action, Crime, Drama  ",109,2012,76,68,231862
+Lawless,"Crime, Drama  ",116,2012,73,58,231617
+Hotel Transylvania,"Animation, Comedy, Family  ",91,2012,71,47,230524
+Sinister,"Horror, Mystery, Thriller  ",110,2012,68,53,226855
+Safe House,"Action, Thriller  ",115,2012,67,52,210227
+The Impossible,"Drama, History, Thriller  ",114,2012,76,73,206462
+American Reunion,Comedy  ,113,2012,67,49,205496
+Ice Age: Continental Drift,"Animation, Adventure, Comedy  ",88,2012,65,49,195582
+The Dark Knight Rises,"Action, Adventure  ",164,2012,84,78,1549823
+Django Unchained,"Drama, Western  ",165,2012,84,81,1394142
+The Avengers,"Action, Adventure, Sci-Fi  ",143,2012,80,69,1284990
+The Hunger Games,"Action, Adventure, Sci-Fi  ",142,2012,72,68,857820
+The Hobbit: An Unexpected Journey,"Adventure, Fantasy  ",169,2012,78,58,769157
+Silver Linings Playbook,"Comedy, Drama, Romance  ",122,2012,77,81,672098
+Skyfall,"Action, Adventure, Thriller  ",143,2012,77,81,639332
+Life of Pi,"Adventure, Drama, Fantasy  ",127,2012,79,79,591126
+Argo,"Biography, Drama, Thriller  ",120,2012,77,86,582656
+Ted,Comedy  ,106,2012,69,62,578039
+Prometheus,"Adventure, Mystery, Sci-Fi  ",124,2012,70,64,576096
+The Amazing Spider-Man,"Action, Adventure, Fantasy  ",136,2012,69,66,568440
+Looper,"Action, Drama, Sci-Fi  ",113,2012,74,84,542150
+21 Jump Street,"Action, Comedy, Crime  ",109,2012,72,69,518882
+The Perks of Being a Wallflower,"Drama, Romance  ",103,2012,80,67,472526
+Wreck-It Ralph,"Animation, Adventure, Comedy  ",101,2012,77,72,387912
+Brave,"Animation, Adventure, Comedy  ",93,2012,71,69,380756
+Cloud Atlas,"Action, Drama, Mystery  ",172,2012,74,55,348261
+Men in Black 3,"Action, Adventure, Comedy  ",106,2012,68,58,340442
+Flight,"Drama, Thriller  ",138,2012,73,76,332247
+Moonrise Kingdom,"Comedy, Drama, Romance  ",94,2012,78,84,325834
+Jack Reacher,"Action, Thriller  ",130,2012,70,50,315508
+Les Misérables,"Drama, History, Musical  ",158,2012,76,63,313701
+The Expendables 2,"Action, Adventure, Thriller  ",103,2012,66,51,295398
+The Hunt,Drama  ,115,2012,83,77,294017
+Taken 2,"Action, Crime, Thriller  ",92,2012,63,45,293197
+The Bourne Legacy,"Action, Adventure, Thriller  ",135,2012,66,61,288719
+The Dictator,Comedy  ,83,2012,64,58,284537
+Pitch Perfect,"Comedy, Music, Romance  ",112,2012,71,66,283003
+Zero Dark Thirty,"Drama, History, Thriller  ",157,2012,74,95,278581
+Snow White and the Huntsman,"Action, Adventure, Drama  ",127,2012,61,57,276975
+Dredd,"Action, Crime, Sci-Fi  ",95,2012,71,60,258642
+John Carter,"Action, Adventure, Sci-Fi  ",132,2012,66,51,258493
+The Place Beyond the Pines,"Crime, Drama, Thriller  ",140,2012,73,68,251766
+Dark Shadows,"Comedy, Fantasy, Horror  ",113,2012,62,55,251386
+Lincoln,"Biography, Drama, History  ",150,2012,73,86,248738
+Seven Psychopaths,"Comedy, Crime  ",110,2012,72,66,245306
+Total Recall,"Action, Adventure, Sci-Fi  ",118,2012,62,43,243216
+Chronicle,"Adventure, Drama, Sci-Fi  ",84,2012,70,69,241883
+Battleship,"Action, Adventure, Sci-Fi  ",131,2012,58,41,238970
+The Twilight Saga: Breaking Dawn - Part 2,"Adventure, Drama, Fantasy  ",115,2012,55,52,235187
+End of Watch,"Action, Crime, Drama  ",109,2012,76,68,231862
+Lawless,"Crime, Drama  ",116,2012,73,58,231617
+Hotel Transylvania,"Animation, Comedy, Family  ",91,2012,71,47,230524
+Sinister,"Horror, Mystery, Thriller  ",110,2012,68,53,226855
+Safe House,"Action, Thriller  ",115,2012,67,52,210227
+The Impossible,"Drama, History, Thriller  ",114,2012,76,73,206462
+American Reunion,Comedy  ,113,2012,67,49,205496
+Ice Age: Continental Drift,"Animation, Adventure, Comedy  ",88,2012,65,49,195582
+The Dark Knight Rises,"Action, Adventure  ",164,2012,84,78,1549823
+Django Unchained,"Drama, Western  ",165,2012,84,81,1394142
+The Avengers,"Action, Adventure, Sci-Fi  ",143,2012,80,69,1284990
+The Hunger Games,"Action, Adventure, Sci-Fi  ",142,2012,72,68,857820
+The Hobbit: An Unexpected Journey,"Adventure, Fantasy  ",169,2012,78,58,769157
+Silver Linings Playbook,"Comedy, Drama, Romance  ",122,2012,77,81,672098
+Skyfall,"Action, Adventure, Thriller  ",143,2012,77,81,639332
+Life of Pi,"Adventure, Drama, Fantasy  ",127,2012,79,79,591126
+Argo,"Biography, Drama, Thriller  ",120,2012,77,86,582656
+Ted,Comedy  ,106,2012,69,62,578039
+Prometheus,"Adventure, Mystery, Sci-Fi  ",124,2012,70,64,576096
+The Amazing Spider-Man,"Action, Adventure, Fantasy  ",136,2012,69,66,568440
+Looper,"Action, Drama, Sci-Fi  ",113,2012,74,84,542150
+21 Jump Street,"Action, Comedy, Crime  ",109,2012,72,69,518882
+The Perks of Being a Wallflower,"Drama, Romance  ",103,2012,80,67,472526
+Wreck-It Ralph,"Animation, Adventure, Comedy  ",101,2012,77,72,387912
+Brave,"Animation, Adventure, Comedy  ",93,2012,71,69,380756
+Cloud Atlas,"Action, Drama, Mystery  ",172,2012,74,55,348261
+Men in Black 3,"Action, Adventure, Comedy  ",106,2012,68,58,340442
+Flight,"Drama, Thriller  ",138,2012,73,76,332247
+Moonrise Kingdom,"Comedy, Drama, Romance  ",94,2012,78,84,325834
+Jack Reacher,"Action, Thriller  ",130,2012,70,50,315508
+Les Misérables,"Drama, History, Musical  ",158,2012,76,63,313701
+The Expendables 2,"Action, Adventure, Thriller  ",103,2012,66,51,295398
+The Hunt,Drama  ,115,2012,83,77,294017
+Taken 2,"Action, Crime, Thriller  ",92,2012,63,45,293197
+The Bourne Legacy,"Action, Adventure, Thriller  ",135,2012,66,61,288719
+The Dictator,Comedy  ,83,2012,64,58,284537
+Pitch Perfect,"Comedy, Music, Romance  ",112,2012,71,66,283003
+Zero Dark Thirty,"Drama, History, Thriller  ",157,2012,74,95,278581
+Snow White and the Huntsman,"Action, Adventure, Drama  ",127,2012,61,57,276975
+Dredd,"Action, Crime, Sci-Fi  ",95,2012,71,60,258642
+John Carter,"Action, Adventure, Sci-Fi  ",132,2012,66,51,258493
+The Place Beyond the Pines,"Crime, Drama, Thriller  ",140,2012,73,68,251766
+Dark Shadows,"Comedy, Fantasy, Horror  ",113,2012,62,55,251386
+Lincoln,"Biography, Drama, History  ",150,2012,73,86,248738
+Seven Psychopaths,"Comedy, Crime  ",110,2012,72,66,245306
+Total Recall,"Action, Adventure, Sci-Fi  ",118,2012,62,43,243216
+Chronicle,"Adventure, Drama, Sci-Fi  ",84,2012,70,69,241883
+Battleship,"Action, Adventure, Sci-Fi  ",131,2012,58,41,238970
+The Twilight Saga: Breaking Dawn - Part 2,"Adventure, Drama, Fantasy  ",115,2012,55,52,235187
+End of Watch,"Action, Crime, Drama  ",109,2012,76,68,231862
+Lawless,"Crime, Drama  ",116,2012,73,58,231617
+Hotel Transylvania,"Animation, Comedy, Family  ",91,2012,71,47,230524
+Sinister,"Horror, Mystery, Thriller  ",110,2012,68,53,226855
+Safe House,"Action, Thriller  ",115,2012,67,52,210227
+The Impossible,"Drama, History, Thriller  ",114,2012,76,73,206462
+American Reunion,Comedy  ,113,2012,67,49,205496
+Ice Age: Continental Drift,"Animation, Adventure, Comedy  ",88,2012,65,49,195582
+The Dark Knight Rises,"Action, Adventure  ",164,2012,84,78,1549823
+Django Unchained,"Drama, Western  ",165,2012,84,81,1394142
+The Avengers,"Action, Adventure, Sci-Fi  ",143,2012,80,69,1284990
+The Hunger Games,"Action, Adventure, Sci-Fi  ",142,2012,72,68,857820
+The Hobbit: An Unexpected Journey,"Adventure, Fantasy  ",169,2012,78,58,769157
+Silver Linings Playbook,"Comedy, Drama, Romance  ",122,2012,77,81,672098
+Skyfall,"Action, Adventure, Thriller  ",143,2012,77,81,639332
+Life of Pi,"Adventure, Drama, Fantasy  ",127,2012,79,79,591126
+Argo,"Biography, Drama, Thriller  ",120,2012,77,86,582656
+Ted,Comedy  ,106,2012,69,62,578039
+Prometheus,"Adventure, Mystery, Sci-Fi  ",124,2012,70,64,576096
+The Amazing Spider-Man,"Action, Adventure, Fantasy  ",136,2012,69,66,568440
+Looper,"Action, Drama, Sci-Fi  ",113,2012,74,84,542150
+21 Jump Street,"Action, Comedy, Crime  ",109,2012,72,69,518882
+The Perks of Being a Wallflower,"Drama, Romance  ",103,2012,80,67,472526
+Wreck-It Ralph,"Animation, Adventure, Comedy  ",101,2012,77,72,387912
+Brave,"Animation, Adventure, Comedy  ",93,2012,71,69,380756
+Cloud Atlas,"Action, Drama, Mystery  ",172,2012,74,55,348261
+Men in Black 3,"Action, Adventure, Comedy  ",106,2012,68,58,340442
+Flight,"Drama, Thriller  ",138,2012,73,76,332247
+Moonrise Kingdom,"Comedy, Drama, Romance  ",94,2012,78,84,325834
+Jack Reacher,"Action, Thriller  ",130,2012,70,50,315508
+Les Misérables,"Drama, History, Musical  ",158,2012,76,63,313701
+The Expendables 2,"Action, Adventure, Thriller  ",103,2012,66,51,295398
+The Hunt,Drama  ,115,2012,83,77,294017
+Taken 2,"Action, Crime, Thriller  ",92,2012,63,45,293197
+The Bourne Legacy,"Action, Adventure, Thriller  ",135,2012,66,61,288719
+The Dictator,Comedy  ,83,2012,64,58,284537
+Pitch Perfect,"Comedy, Music, Romance  ",112,2012,71,66,283003
+Zero Dark Thirty,"Drama, History, Thriller  ",157,2012,74,95,278581
+Snow White and the Huntsman,"Action, Adventure, Drama  ",127,2012,61,57,276975
+Dredd,"Action, Crime, Sci-Fi  ",95,2012,71,60,258642
+John Carter,"Action, Adventure, Sci-Fi  ",132,2012,66,51,258493
+The Place Beyond the Pines,"Crime, Drama, Thriller  ",140,2012,73,68,251766
+Dark Shadows,"Comedy, Fantasy, Horror  ",113,2012,62,55,251386
+Lincoln,"Biography, Drama, History  ",150,2012,73,86,248738
+Seven Psychopaths,"Comedy, Crime  ",110,2012,72,66,245306
+Total Recall,"Action, Adventure, Sci-Fi  ",118,2012,62,43,243216
+Chronicle,"Adventure, Drama, Sci-Fi  ",84,2012,70,69,241883
+Battleship,"Action, Adventure, Sci-Fi  ",131,2012,58,41,238970
+The Twilight Saga: Breaking Dawn - Part 2,"Adventure, Drama, Fantasy  ",115,2012,55,52,235187
+End of Watch,"Action, Crime, Drama  ",109,2012,76,68,231862
+Lawless,"Crime, Drama  ",116,2012,73,58,231617
+Hotel Transylvania,"Animation, Comedy, Family  ",91,2012,71,47,230524
+Sinister,"Horror, Mystery, Thriller  ",110,2012,68,53,226855
+Safe House,"Action, Thriller  ",115,2012,67,52,210227
+The Impossible,"Drama, History, Thriller  ",114,2012,76,73,206462
+American Reunion,Comedy  ,113,2012,67,49,205496
+Ice Age: Continental Drift,"Animation, Adventure, Comedy  ",88,2012,65,49,195582
+The Dark Knight Rises,"Action, Adventure  ",164,2012,84,78,1549823
+Django Unchained,"Drama, Western  ",165,2012,84,81,1394142
+The Avengers,"Action, Adventure, Sci-Fi  ",143,2012,80,69,1284990
+The Hunger Games,"Action, Adventure, Sci-Fi  ",142,2012,72,68,857820
+The Hobbit: An Unexpected Journey,"Adventure, Fantasy  ",169,2012,78,58,769157
+Silver Linings Playbook,"Comedy, Drama, Romance  ",122,2012,77,81,672098
+Skyfall,"Action, Adventure, Thriller  ",143,2012,77,81,639332
+Life of Pi,"Adventure, Drama, Fantasy  ",127,2012,79,79,591126
+Argo,"Biography, Drama, Thriller  ",120,2012,77,86,582656
+Ted,Comedy  ,106,2012,69,62,578039
+Prometheus,"Adventure, Mystery, Sci-Fi  ",124,2012,70,64,576096
+The Amazing Spider-Man,"Action, Adventure, Fantasy  ",136,2012,69,66,568440
+Looper,"Action, Drama, Sci-Fi  ",113,2012,74,84,542150
+21 Jump Street,"Action, Comedy, Crime  ",109,2012,72,69,518882
+The Perks of Being a Wallflower,"Drama, Romance  ",103,2012,80,67,472526
+Wreck-It Ralph,"Animation, Adventure, Comedy  ",101,2012,77,72,387912
+Brave,"Animation, Adventure, Comedy  ",93,2012,71,69,380756
+Cloud Atlas,"Action, Drama, Mystery  ",172,2012,74,55,348261
+Men in Black 3,"Action, Adventure, Comedy  ",106,2012,68,58,340442
+Flight,"Drama, Thriller  ",138,2012,73,76,332247
+Moonrise Kingdom,"Comedy, Drama, Romance  ",94,2012,78,84,325834
+Jack Reacher,"Action, Thriller  ",130,2012,70,50,315508
+Les Misérables,"Drama, History, Musical  ",158,2012,76,63,313701
+The Expendables 2,"Action, Adventure, Thriller  ",103,2012,66,51,295398
+The Hunt,Drama  ,115,2012,83,77,294017
+Taken 2,"Action, Crime, Thriller  ",92,2012,63,45,293197
+The Bourne Legacy,"Action, Adventure, Thriller  ",135,2012,66,61,288719
+The Dictator,Comedy  ,83,2012,64,58,284537
+Pitch Perfect,"Comedy, Music, Romance  ",112,2012,71,66,283003
+Zero Dark Thirty,"Drama, History, Thriller  ",157,2012,74,95,278581
+Snow White and the Huntsman,"Action, Adventure, Drama  ",127,2012,61,57,276975
+Dredd,"Action, Crime, Sci-Fi  ",95,2012,71,60,258642
+John Carter,"Action, Adventure, Sci-Fi  ",132,2012,66,51,258493
+The Place Beyond the Pines,"Crime, Drama, Thriller  ",140,2012,73,68,251766
+Dark Shadows,"Comedy, Fantasy, Horror  ",113,2012,62,55,251386
+Lincoln,"Biography, Drama, History  ",150,2012,73,86,248738
+Seven Psychopaths,"Comedy, Crime  ",110,2012,72,66,245306
+Total Recall,"Action, Adventure, Sci-Fi  ",118,2012,62,43,243216
+Chronicle,"Adventure, Drama, Sci-Fi  ",84,2012,70,69,241883
+Battleship,"Action, Adventure, Sci-Fi  ",131,2012,58,41,238970
+The Twilight Saga: Breaking Dawn - Part 2,"Adventure, Drama, Fantasy  ",115,2012,55,52,235187
+End of Watch,"Action, Crime, Drama  ",109,2012,76,68,231862
+Lawless,"Crime, Drama  ",116,2012,73,58,231617
+Hotel Transylvania,"Animation, Comedy, Family  ",91,2012,71,47,230524
+Sinister,"Horror, Mystery, Thriller  ",110,2012,68,53,226855
+Safe House,"Action, Thriller  ",115,2012,67,52,210227
+The Impossible,"Drama, History, Thriller  ",114,2012,76,73,206462
+American Reunion,Comedy  ,113,2012,67,49,205496
+Ice Age: Continental Drift,"Animation, Adventure, Comedy  ",88,2012,65,49,195582
+The Dark Knight Rises,"Action, Adventure  ",164,2012,84,78,1549823
+Django Unchained,"Drama, Western  ",165,2012,84,81,1394142
+The Avengers,"Action, Adventure, Sci-Fi  ",143,2012,80,69,1284990
+The Hunger Games,"Action, Adventure, Sci-Fi  ",142,2012,72,68,857820
+The Hobbit: An Unexpected Journey,"Adventure, Fantasy  ",169,2012,78,58,769157
+Silver Linings Playbook,"Comedy, Drama, Romance  ",122,2012,77,81,672098
+Skyfall,"Action, Adventure, Thriller  ",143,2012,77,81,639332
+Life of Pi,"Adventure, Drama, Fantasy  ",127,2012,79,79,591126
+Argo,"Biography, Drama, Thriller  ",120,2012,77,86,582656
+Ted,Comedy  ,106,2012,69,62,578039
+Prometheus,"Adventure, Mystery, Sci-Fi  ",124,2012,70,64,576096
+The Amazing Spider-Man,"Action, Adventure, Fantasy  ",136,2012,69,66,568440
+Looper,"Action, Drama, Sci-Fi  ",113,2012,74,84,542150
+21 Jump Street,"Action, Comedy, Crime  ",109,2012,72,69,518882
+The Perks of Being a Wallflower,"Drama, Romance  ",103,2012,80,67,472526
+Wreck-It Ralph,"Animation, Adventure, Comedy  ",101,2012,77,72,387912
+Brave,"Animation, Adventure, Comedy  ",93,2012,71,69,380756
+Cloud Atlas,"Action, Drama, Mystery  ",172,2012,74,55,348261
+Men in Black 3,"Action, Adventure, Comedy  ",106,2012,68,58,340442
+Flight,"Drama, Thriller  ",138,2012,73,76,332247
+Moonrise Kingdom,"Comedy, Drama, Romance  ",94,2012,78,84,325834
+Jack Reacher,"Action, Thriller  ",130,2012,70,50,315508
+Les Misérables,"Drama, History, Musical  ",158,2012,76,63,313701
+The Expendables 2,"Action, Adventure, Thriller  ",103,2012,66,51,295398
+The Hunt,Drama  ,115,2012,83,77,294017
+Taken 2,"Action, Crime, Thriller  ",92,2012,63,45,293197
+The Bourne Legacy,"Action, Adventure, Thriller  ",135,2012,66,61,288719
+The Dictator,Comedy  ,83,2012,64,58,284537
+Pitch Perfect,"Comedy, Music, Romance  ",112,2012,71,66,283003
+Zero Dark Thirty,"Drama, History, Thriller  ",157,2012,74,95,278581
+Snow White and the Huntsman,"Action, Adventure, Drama  ",127,2012,61,57,276975
+Dredd,"Action, Crime, Sci-Fi  ",95,2012,71,60,258642
+John Carter,"Action, Adventure, Sci-Fi  ",132,2012,66,51,258493
+The Place Beyond the Pines,"Crime, Drama, Thriller  ",140,2012,73,68,251766
+Dark Shadows,"Comedy, Fantasy, Horror  ",113,2012,62,55,251386
+Lincoln,"Biography, Drama, History  ",150,2012,73,86,248738
+Seven Psychopaths,"Comedy, Crime  ",110,2012,72,66,245306
+Total Recall,"Action, Adventure, Sci-Fi  ",118,2012,62,43,243216
+Chronicle,"Adventure, Drama, Sci-Fi  ",84,2012,70,69,241883
+Battleship,"Action, Adventure, Sci-Fi  ",131,2012,58,41,238970
+The Twilight Saga: Breaking Dawn - Part 2,"Adventure, Drama, Fantasy  ",115,2012,55,52,235187
+End of Watch,"Action, Crime, Drama  ",109,2012,76,68,231862
+Lawless,"Crime, Drama  ",116,2012,73,58,231617
+Hotel Transylvania,"Animation, Comedy, Family  ",91,2012,71,47,230524
+Sinister,"Horror, Mystery, Thriller  ",110,2012,68,53,226855
+Safe House,"Action, Thriller  ",115,2012,67,52,210227
+The Impossible,"Drama, History, Thriller  ",114,2012,76,73,206462
+American Reunion,Comedy  ,113,2012,67,49,205496
+Ice Age: Continental Drift,"Animation, Adventure, Comedy  ",88,2012,65,49,195582

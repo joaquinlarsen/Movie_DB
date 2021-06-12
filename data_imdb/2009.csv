@@ -1,0 +1,485 @@
+Movie,Genre,Duration,Year,Imdb_rating,Metascore_rating,Votes
+Inglourious Basterds,"Adventure, Drama, War  ",153,2009,83,69,1302721
+Avatar,"Action, Adventure, Fantasy  ",162,2009,78,83,1138385
+Up,"Animation, Adventure, Comedy  ",96,2009,82,88,956416
+The Hangover,Comedy  ,100,2009,77,73,729576
+District 9,"Action, Sci-Fi, Thriller  ",112,2009,79,81,645784
+Sherlock Holmes,"Action, Adventure, Mystery  ",128,2009,76,57,592820
+Star Trek,"Action, Adventure, Sci-Fi  ",127,2009,79,82,582637
+Zombieland,"Adventure, Comedy, Fantasy  ",88,2009,76,73,530699
+Watchmen,"Action, Drama, Mystery  ",162,2009,76,56,517414
+Harry Potter and the Half-Blood Prince,"Action, Adventure, Family  ",153,2009,76,78,488403
+500 Days of Summer,"Comedy, Drama, Romance  ",95,2009,77,76,480363
+X-Men Origins: Wolverine,"Action, Sci-Fi  ",107,2009,66,40,474934
+Transformers: Revenge of the Fallen,"Action, Adventure, Sci-Fi  ",149,2009,60,35,388705
+2012,"Action, Adventure, Sci-Fi  ",158,2009,58,49,358859
+3 Idiots,"Comedy, Drama  ",170,2009,84,67,357439
+Terminator Salvation,"Action, Sci-Fi  ",115,2009,65,49,347063
+Moon,"Drama, Mystery, Sci-Fi  ",97,2009,78,67,340487
+Up in the Air,"Comedy, Drama, Romance  ",109,2009,74,83,322703
+The Proposal,"Comedy, Drama, Romance  ",108,2009,67,48,301651
+The Blind Side,"Biography, Drama, Sport  ",129,2009,76,53,300676
+Public Enemies,"Biography, Crime, Drama  ",140,2009,70,70,286360
+Angels & Demons,"Action, Mystery, Thriller  ",138,2009,67,48,278475
+Law Abiding Citizen,"Action, Crime, Drama  ",109,2009,74,34,277013
+The Twilight Saga: New Moon,"Adventure, Drama, Fantasy  ",130,2009,47,44,269677
+Fast & Furious,"Action, Thriller  ",107,2009,66,46,268409
+Ice Age: Dawn of the Dinosaurs,"Animation, Adventure, Comedy  ",94,2009,69,50,228642
+The Road,Drama  ,111,2009,72,64,226921
+Knowing,"Action, Drama, Sci-Fi  ",121,2009,62,41,223786
+Mr. Nobody,"Drama, Fantasy, Romance  ",141,2009,78,63,220575
+Cloudy with a Chance of Meatballs,"Animation, Adventure, Comedy  ",90,2009,69,66,210799
+The Girl with the Dragon Tattoo,"Crime, Drama, Mystery  ",152,2009,78,76,210787
+The Ugly Truth,"Comedy, Romance  ",96,2009,64,28,207777
+Fantastic Mr. Fox,"Animation, Adventure, Comedy  ",87,2009,79,83,206849
+Coraline,"Animation, Drama, Family  ",100,2009,77,80,202723
+G.I. Joe: The Rise of Cobra,"Action, Adventure, Sci-Fi  ",118,2009,58,32,201545
+The Secret in Their Eyes,"Drama, Mystery, Romance  ",129,2009,82,80,197445
+Orphan,"Horror, Mystery, Thriller  ",123,2009,70,42,196590
+"I Love You, Man","Comedy, Romance  ",105,2009,70,70,196583
+Drag Me to Hell,Horror  ,99,2009,65,83,190923
+The Taking of Pelham 123,"Action, Crime, Thriller  ",106,2009,64,55,188832
+17 Again,"Comedy, Drama, Fantasy  ",102,2009,64,48,185202
+Night at the Museum: Battle of the Smithsonian,"Adventure, Comedy, Family  ",105,2009,60,42,181545
+Surrogates,"Action, Sci-Fi, Thriller  ",89,2009,63,45,170237
+He's Just Not That Into You,"Comedy, Drama, Romance  ",129,2009,64,47,164272
+Inglourious Basterds,"Adventure, Drama, War  ",153,2009,83,69,1302721
+Avatar,"Action, Adventure, Fantasy  ",162,2009,78,83,1138385
+Up,"Animation, Adventure, Comedy  ",96,2009,82,88,956416
+The Hangover,Comedy  ,100,2009,77,73,729576
+District 9,"Action, Sci-Fi, Thriller  ",112,2009,79,81,645784
+Sherlock Holmes,"Action, Adventure, Mystery  ",128,2009,76,57,592820
+Star Trek,"Action, Adventure, Sci-Fi  ",127,2009,79,82,582637
+Zombieland,"Adventure, Comedy, Fantasy  ",88,2009,76,73,530699
+Watchmen,"Action, Drama, Mystery  ",162,2009,76,56,517414
+Harry Potter and the Half-Blood Prince,"Action, Adventure, Family  ",153,2009,76,78,488403
+500 Days of Summer,"Comedy, Drama, Romance  ",95,2009,77,76,480363
+X-Men Origins: Wolverine,"Action, Sci-Fi  ",107,2009,66,40,474934
+Transformers: Revenge of the Fallen,"Action, Adventure, Sci-Fi  ",149,2009,60,35,388705
+2012,"Action, Adventure, Sci-Fi  ",158,2009,58,49,358859
+3 Idiots,"Comedy, Drama  ",170,2009,84,67,357439
+Terminator Salvation,"Action, Sci-Fi  ",115,2009,65,49,347063
+Moon,"Drama, Mystery, Sci-Fi  ",97,2009,78,67,340487
+Up in the Air,"Comedy, Drama, Romance  ",109,2009,74,83,322703
+The Proposal,"Comedy, Drama, Romance  ",108,2009,67,48,301651
+The Blind Side,"Biography, Drama, Sport  ",129,2009,76,53,300676
+Public Enemies,"Biography, Crime, Drama  ",140,2009,70,70,286360
+Angels & Demons,"Action, Mystery, Thriller  ",138,2009,67,48,278475
+Law Abiding Citizen,"Action, Crime, Drama  ",109,2009,74,34,277013
+The Twilight Saga: New Moon,"Adventure, Drama, Fantasy  ",130,2009,47,44,269677
+Fast & Furious,"Action, Thriller  ",107,2009,66,46,268409
+Ice Age: Dawn of the Dinosaurs,"Animation, Adventure, Comedy  ",94,2009,69,50,228642
+The Road,Drama  ,111,2009,72,64,226921
+Knowing,"Action, Drama, Sci-Fi  ",121,2009,62,41,223786
+Mr. Nobody,"Drama, Fantasy, Romance  ",141,2009,78,63,220575
+Cloudy with a Chance of Meatballs,"Animation, Adventure, Comedy  ",90,2009,69,66,210799
+The Girl with the Dragon Tattoo,"Crime, Drama, Mystery  ",152,2009,78,76,210787
+The Ugly Truth,"Comedy, Romance  ",96,2009,64,28,207777
+Fantastic Mr. Fox,"Animation, Adventure, Comedy  ",87,2009,79,83,206849
+Coraline,"Animation, Drama, Family  ",100,2009,77,80,202723
+G.I. Joe: The Rise of Cobra,"Action, Adventure, Sci-Fi  ",118,2009,58,32,201545
+The Secret in Their Eyes,"Drama, Mystery, Romance  ",129,2009,82,80,197445
+Orphan,"Horror, Mystery, Thriller  ",123,2009,70,42,196590
+"I Love You, Man","Comedy, Romance  ",105,2009,70,70,196583
+Drag Me to Hell,Horror  ,99,2009,65,83,190923
+The Taking of Pelham 123,"Action, Crime, Thriller  ",106,2009,64,55,188832
+17 Again,"Comedy, Drama, Fantasy  ",102,2009,64,48,185202
+Night at the Museum: Battle of the Smithsonian,"Adventure, Comedy, Family  ",105,2009,60,42,181545
+Surrogates,"Action, Sci-Fi, Thriller  ",89,2009,63,45,170237
+He's Just Not That Into You,"Comedy, Drama, Romance  ",129,2009,64,47,164272
+Inglourious Basterds,"Adventure, Drama, War  ",153,2009,83,69,1302721
+Avatar,"Action, Adventure, Fantasy  ",162,2009,78,83,1138385
+Up,"Animation, Adventure, Comedy  ",96,2009,82,88,956416
+The Hangover,Comedy  ,100,2009,77,73,729576
+District 9,"Action, Sci-Fi, Thriller  ",112,2009,79,81,645784
+Sherlock Holmes,"Action, Adventure, Mystery  ",128,2009,76,57,592820
+Star Trek,"Action, Adventure, Sci-Fi  ",127,2009,79,82,582637
+Zombieland,"Adventure, Comedy, Fantasy  ",88,2009,76,73,530699
+Watchmen,"Action, Drama, Mystery  ",162,2009,76,56,517414
+Harry Potter and the Half-Blood Prince,"Action, Adventure, Family  ",153,2009,76,78,488403
+500 Days of Summer,"Comedy, Drama, Romance  ",95,2009,77,76,480363
+X-Men Origins: Wolverine,"Action, Sci-Fi  ",107,2009,66,40,474934
+Transformers: Revenge of the Fallen,"Action, Adventure, Sci-Fi  ",149,2009,60,35,388705
+2012,"Action, Adventure, Sci-Fi  ",158,2009,58,49,358859
+3 Idiots,"Comedy, Drama  ",170,2009,84,67,357439
+Terminator Salvation,"Action, Sci-Fi  ",115,2009,65,49,347063
+Moon,"Drama, Mystery, Sci-Fi  ",97,2009,78,67,340487
+Up in the Air,"Comedy, Drama, Romance  ",109,2009,74,83,322703
+The Proposal,"Comedy, Drama, Romance  ",108,2009,67,48,301651
+The Blind Side,"Biography, Drama, Sport  ",129,2009,76,53,300676
+Public Enemies,"Biography, Crime, Drama  ",140,2009,70,70,286360
+Angels & Demons,"Action, Mystery, Thriller  ",138,2009,67,48,278475
+Law Abiding Citizen,"Action, Crime, Drama  ",109,2009,74,34,277013
+The Twilight Saga: New Moon,"Adventure, Drama, Fantasy  ",130,2009,47,44,269677
+Fast & Furious,"Action, Thriller  ",107,2009,66,46,268409
+Ice Age: Dawn of the Dinosaurs,"Animation, Adventure, Comedy  ",94,2009,69,50,228642
+The Road,Drama  ,111,2009,72,64,226921
+Knowing,"Action, Drama, Sci-Fi  ",121,2009,62,41,223786
+Mr. Nobody,"Drama, Fantasy, Romance  ",141,2009,78,63,220575
+Cloudy with a Chance of Meatballs,"Animation, Adventure, Comedy  ",90,2009,69,66,210799
+The Girl with the Dragon Tattoo,"Crime, Drama, Mystery  ",152,2009,78,76,210787
+The Ugly Truth,"Comedy, Romance  ",96,2009,64,28,207777
+Fantastic Mr. Fox,"Animation, Adventure, Comedy  ",87,2009,79,83,206849
+Coraline,"Animation, Drama, Family  ",100,2009,77,80,202723
+G.I. Joe: The Rise of Cobra,"Action, Adventure, Sci-Fi  ",118,2009,58,32,201545
+The Secret in Their Eyes,"Drama, Mystery, Romance  ",129,2009,82,80,197445
+Orphan,"Horror, Mystery, Thriller  ",123,2009,70,42,196590
+"I Love You, Man","Comedy, Romance  ",105,2009,70,70,196583
+Drag Me to Hell,Horror  ,99,2009,65,83,190923
+The Taking of Pelham 123,"Action, Crime, Thriller  ",106,2009,64,55,188832
+17 Again,"Comedy, Drama, Fantasy  ",102,2009,64,48,185202
+Night at the Museum: Battle of the Smithsonian,"Adventure, Comedy, Family  ",105,2009,60,42,181545
+Surrogates,"Action, Sci-Fi, Thriller  ",89,2009,63,45,170237
+He's Just Not That Into You,"Comedy, Drama, Romance  ",129,2009,64,47,164272
+Inglourious Basterds,"Adventure, Drama, War  ",153,2009,83,69,1302721
+Avatar,"Action, Adventure, Fantasy  ",162,2009,78,83,1138385
+Up,"Animation, Adventure, Comedy  ",96,2009,82,88,956416
+The Hangover,Comedy  ,100,2009,77,73,729576
+District 9,"Action, Sci-Fi, Thriller  ",112,2009,79,81,645784
+Sherlock Holmes,"Action, Adventure, Mystery  ",128,2009,76,57,592820
+Star Trek,"Action, Adventure, Sci-Fi  ",127,2009,79,82,582637
+Zombieland,"Adventure, Comedy, Fantasy  ",88,2009,76,73,530699
+Watchmen,"Action, Drama, Mystery  ",162,2009,76,56,517414
+Harry Potter and the Half-Blood Prince,"Action, Adventure, Family  ",153,2009,76,78,488403
+500 Days of Summer,"Comedy, Drama, Romance  ",95,2009,77,76,480363
+X-Men Origins: Wolverine,"Action, Sci-Fi  ",107,2009,66,40,474934
+Transformers: Revenge of the Fallen,"Action, Adventure, Sci-Fi  ",149,2009,60,35,388705
+2012,"Action, Adventure, Sci-Fi  ",158,2009,58,49,358859
+3 Idiots,"Comedy, Drama  ",170,2009,84,67,357439
+Terminator Salvation,"Action, Sci-Fi  ",115,2009,65,49,347063
+Moon,"Drama, Mystery, Sci-Fi  ",97,2009,78,67,340487
+Up in the Air,"Comedy, Drama, Romance  ",109,2009,74,83,322703
+The Proposal,"Comedy, Drama, Romance  ",108,2009,67,48,301651
+The Blind Side,"Biography, Drama, Sport  ",129,2009,76,53,300676
+Public Enemies,"Biography, Crime, Drama  ",140,2009,70,70,286360
+Angels & Demons,"Action, Mystery, Thriller  ",138,2009,67,48,278475
+Law Abiding Citizen,"Action, Crime, Drama  ",109,2009,74,34,277013
+The Twilight Saga: New Moon,"Adventure, Drama, Fantasy  ",130,2009,47,44,269677
+Fast & Furious,"Action, Thriller  ",107,2009,66,46,268409
+Ice Age: Dawn of the Dinosaurs,"Animation, Adventure, Comedy  ",94,2009,69,50,228642
+The Road,Drama  ,111,2009,72,64,226921
+Knowing,"Action, Drama, Sci-Fi  ",121,2009,62,41,223786
+Mr. Nobody,"Drama, Fantasy, Romance  ",141,2009,78,63,220575
+Cloudy with a Chance of Meatballs,"Animation, Adventure, Comedy  ",90,2009,69,66,210799
+The Girl with the Dragon Tattoo,"Crime, Drama, Mystery  ",152,2009,78,76,210787
+The Ugly Truth,"Comedy, Romance  ",96,2009,64,28,207777
+Fantastic Mr. Fox,"Animation, Adventure, Comedy  ",87,2009,79,83,206849
+Coraline,"Animation, Drama, Family  ",100,2009,77,80,202723
+G.I. Joe: The Rise of Cobra,"Action, Adventure, Sci-Fi  ",118,2009,58,32,201545
+The Secret in Their Eyes,"Drama, Mystery, Romance  ",129,2009,82,80,197445
+Orphan,"Horror, Mystery, Thriller  ",123,2009,70,42,196590
+"I Love You, Man","Comedy, Romance  ",105,2009,70,70,196583
+Drag Me to Hell,Horror  ,99,2009,65,83,190923
+The Taking of Pelham 123,"Action, Crime, Thriller  ",106,2009,64,55,188832
+17 Again,"Comedy, Drama, Fantasy  ",102,2009,64,48,185202
+Night at the Museum: Battle of the Smithsonian,"Adventure, Comedy, Family  ",105,2009,60,42,181545
+Surrogates,"Action, Sci-Fi, Thriller  ",89,2009,63,45,170237
+He's Just Not That Into You,"Comedy, Drama, Romance  ",129,2009,64,47,164272
+Inglourious Basterds,"Adventure, Drama, War  ",153,2009,83,69,1302721
+Avatar,"Action, Adventure, Fantasy  ",162,2009,78,83,1138385
+Up,"Animation, Adventure, Comedy  ",96,2009,82,88,956416
+The Hangover,Comedy  ,100,2009,77,73,729576
+District 9,"Action, Sci-Fi, Thriller  ",112,2009,79,81,645784
+Sherlock Holmes,"Action, Adventure, Mystery  ",128,2009,76,57,592820
+Star Trek,"Action, Adventure, Sci-Fi  ",127,2009,79,82,582637
+Zombieland,"Adventure, Comedy, Fantasy  ",88,2009,76,73,530699
+Watchmen,"Action, Drama, Mystery  ",162,2009,76,56,517414
+Harry Potter and the Half-Blood Prince,"Action, Adventure, Family  ",153,2009,76,78,488403
+500 Days of Summer,"Comedy, Drama, Romance  ",95,2009,77,76,480363
+X-Men Origins: Wolverine,"Action, Sci-Fi  ",107,2009,66,40,474934
+Transformers: Revenge of the Fallen,"Action, Adventure, Sci-Fi  ",149,2009,60,35,388705
+2012,"Action, Adventure, Sci-Fi  ",158,2009,58,49,358859
+3 Idiots,"Comedy, Drama  ",170,2009,84,67,357439
+Terminator Salvation,"Action, Sci-Fi  ",115,2009,65,49,347063
+Moon,"Drama, Mystery, Sci-Fi  ",97,2009,78,67,340487
+Up in the Air,"Comedy, Drama, Romance  ",109,2009,74,83,322703
+The Proposal,"Comedy, Drama, Romance  ",108,2009,67,48,301651
+The Blind Side,"Biography, Drama, Sport  ",129,2009,76,53,300676
+Public Enemies,"Biography, Crime, Drama  ",140,2009,70,70,286360
+Angels & Demons,"Action, Mystery, Thriller  ",138,2009,67,48,278475
+Law Abiding Citizen,"Action, Crime, Drama  ",109,2009,74,34,277013
+The Twilight Saga: New Moon,"Adventure, Drama, Fantasy  ",130,2009,47,44,269677
+Fast & Furious,"Action, Thriller  ",107,2009,66,46,268409
+Ice Age: Dawn of the Dinosaurs,"Animation, Adventure, Comedy  ",94,2009,69,50,228642
+The Road,Drama  ,111,2009,72,64,226921
+Knowing,"Action, Drama, Sci-Fi  ",121,2009,62,41,223786
+Mr. Nobody,"Drama, Fantasy, Romance  ",141,2009,78,63,220575
+Cloudy with a Chance of Meatballs,"Animation, Adventure, Comedy  ",90,2009,69,66,210799
+The Girl with the Dragon Tattoo,"Crime, Drama, Mystery  ",152,2009,78,76,210787
+The Ugly Truth,"Comedy, Romance  ",96,2009,64,28,207777
+Fantastic Mr. Fox,"Animation, Adventure, Comedy  ",87,2009,79,83,206849
+Coraline,"Animation, Drama, Family  ",100,2009,77,80,202723
+G.I. Joe: The Rise of Cobra,"Action, Adventure, Sci-Fi  ",118,2009,58,32,201545
+The Secret in Their Eyes,"Drama, Mystery, Romance  ",129,2009,82,80,197445
+Orphan,"Horror, Mystery, Thriller  ",123,2009,70,42,196590
+"I Love You, Man","Comedy, Romance  ",105,2009,70,70,196583
+Drag Me to Hell,Horror  ,99,2009,65,83,190923
+The Taking of Pelham 123,"Action, Crime, Thriller  ",106,2009,64,55,188832
+17 Again,"Comedy, Drama, Fantasy  ",102,2009,64,48,185202
+Night at the Museum: Battle of the Smithsonian,"Adventure, Comedy, Family  ",105,2009,60,42,181545
+Surrogates,"Action, Sci-Fi, Thriller  ",89,2009,63,45,170237
+He's Just Not That Into You,"Comedy, Drama, Romance  ",129,2009,64,47,164272
+Inglourious Basterds,"Adventure, Drama, War  ",153,2009,83,69,1302721
+Avatar,"Action, Adventure, Fantasy  ",162,2009,78,83,1138385
+Up,"Animation, Adventure, Comedy  ",96,2009,82,88,956416
+The Hangover,Comedy  ,100,2009,77,73,729576
+District 9,"Action, Sci-Fi, Thriller  ",112,2009,79,81,645784
+Sherlock Holmes,"Action, Adventure, Mystery  ",128,2009,76,57,592820
+Star Trek,"Action, Adventure, Sci-Fi  ",127,2009,79,82,582637
+Zombieland,"Adventure, Comedy, Fantasy  ",88,2009,76,73,530699
+Watchmen,"Action, Drama, Mystery  ",162,2009,76,56,517414
+Harry Potter and the Half-Blood Prince,"Action, Adventure, Family  ",153,2009,76,78,488403
+500 Days of Summer,"Comedy, Drama, Romance  ",95,2009,77,76,480363
+X-Men Origins: Wolverine,"Action, Sci-Fi  ",107,2009,66,40,474934
+Transformers: Revenge of the Fallen,"Action, Adventure, Sci-Fi  ",149,2009,60,35,388705
+2012,"Action, Adventure, Sci-Fi  ",158,2009,58,49,358859
+3 Idiots,"Comedy, Drama  ",170,2009,84,67,357439
+Terminator Salvation,"Action, Sci-Fi  ",115,2009,65,49,347063
+Moon,"Drama, Mystery, Sci-Fi  ",97,2009,78,67,340487
+Up in the Air,"Comedy, Drama, Romance  ",109,2009,74,83,322703
+The Proposal,"Comedy, Drama, Romance  ",108,2009,67,48,301651
+The Blind Side,"Biography, Drama, Sport  ",129,2009,76,53,300676
+Public Enemies,"Biography, Crime, Drama  ",140,2009,70,70,286360
+Angels & Demons,"Action, Mystery, Thriller  ",138,2009,67,48,278475
+Law Abiding Citizen,"Action, Crime, Drama  ",109,2009,74,34,277013
+The Twilight Saga: New Moon,"Adventure, Drama, Fantasy  ",130,2009,47,44,269677
+Fast & Furious,"Action, Thriller  ",107,2009,66,46,268409
+Ice Age: Dawn of the Dinosaurs,"Animation, Adventure, Comedy  ",94,2009,69,50,228642
+The Road,Drama  ,111,2009,72,64,226921
+Knowing,"Action, Drama, Sci-Fi  ",121,2009,62,41,223786
+Mr. Nobody,"Drama, Fantasy, Romance  ",141,2009,78,63,220575
+Cloudy with a Chance of Meatballs,"Animation, Adventure, Comedy  ",90,2009,69,66,210799
+The Girl with the Dragon Tattoo,"Crime, Drama, Mystery  ",152,2009,78,76,210787
+The Ugly Truth,"Comedy, Romance  ",96,2009,64,28,207777
+Fantastic Mr. Fox,"Animation, Adventure, Comedy  ",87,2009,79,83,206849
+Coraline,"Animation, Drama, Family  ",100,2009,77,80,202723
+G.I. Joe: The Rise of Cobra,"Action, Adventure, Sci-Fi  ",118,2009,58,32,201545
+The Secret in Their Eyes,"Drama, Mystery, Romance  ",129,2009,82,80,197445
+Orphan,"Horror, Mystery, Thriller  ",123,2009,70,42,196590
+"I Love You, Man","Comedy, Romance  ",105,2009,70,70,196583
+Drag Me to Hell,Horror  ,99,2009,65,83,190923
+The Taking of Pelham 123,"Action, Crime, Thriller  ",106,2009,64,55,188832
+17 Again,"Comedy, Drama, Fantasy  ",102,2009,64,48,185202
+Night at the Museum: Battle of the Smithsonian,"Adventure, Comedy, Family  ",105,2009,60,42,181545
+Surrogates,"Action, Sci-Fi, Thriller  ",89,2009,63,45,170237
+He's Just Not That Into You,"Comedy, Drama, Romance  ",129,2009,64,47,164272
+Inglourious Basterds,"Adventure, Drama, War  ",153,2009,83,69,1302721
+Avatar,"Action, Adventure, Fantasy  ",162,2009,78,83,1138385
+Up,"Animation, Adventure, Comedy  ",96,2009,82,88,956416
+The Hangover,Comedy  ,100,2009,77,73,729576
+District 9,"Action, Sci-Fi, Thriller  ",112,2009,79,81,645784
+Sherlock Holmes,"Action, Adventure, Mystery  ",128,2009,76,57,592820
+Star Trek,"Action, Adventure, Sci-Fi  ",127,2009,79,82,582637
+Zombieland,"Adventure, Comedy, Fantasy  ",88,2009,76,73,530699
+Watchmen,"Action, Drama, Mystery  ",162,2009,76,56,517414
+Harry Potter and the Half-Blood Prince,"Action, Adventure, Family  ",153,2009,76,78,488403
+500 Days of Summer,"Comedy, Drama, Romance  ",95,2009,77,76,480363
+X-Men Origins: Wolverine,"Action, Sci-Fi  ",107,2009,66,40,474934
+Transformers: Revenge of the Fallen,"Action, Adventure, Sci-Fi  ",149,2009,60,35,388705
+2012,"Action, Adventure, Sci-Fi  ",158,2009,58,49,358859
+3 Idiots,"Comedy, Drama  ",170,2009,84,67,357439
+Terminator Salvation,"Action, Sci-Fi  ",115,2009,65,49,347063
+Moon,"Drama, Mystery, Sci-Fi  ",97,2009,78,67,340487
+Up in the Air,"Comedy, Drama, Romance  ",109,2009,74,83,322703
+The Proposal,"Comedy, Drama, Romance  ",108,2009,67,48,301651
+The Blind Side,"Biography, Drama, Sport  ",129,2009,76,53,300676
+Public Enemies,"Biography, Crime, Drama  ",140,2009,70,70,286360
+Angels & Demons,"Action, Mystery, Thriller  ",138,2009,67,48,278475
+Law Abiding Citizen,"Action, Crime, Drama  ",109,2009,74,34,277013
+The Twilight Saga: New Moon,"Adventure, Drama, Fantasy  ",130,2009,47,44,269677
+Fast & Furious,"Action, Thriller  ",107,2009,66,46,268409
+Ice Age: Dawn of the Dinosaurs,"Animation, Adventure, Comedy  ",94,2009,69,50,228642
+The Road,Drama  ,111,2009,72,64,226921
+Knowing,"Action, Drama, Sci-Fi  ",121,2009,62,41,223786
+Mr. Nobody,"Drama, Fantasy, Romance  ",141,2009,78,63,220575
+Cloudy with a Chance of Meatballs,"Animation, Adventure, Comedy  ",90,2009,69,66,210799
+The Girl with the Dragon Tattoo,"Crime, Drama, Mystery  ",152,2009,78,76,210787
+The Ugly Truth,"Comedy, Romance  ",96,2009,64,28,207777
+Fantastic Mr. Fox,"Animation, Adventure, Comedy  ",87,2009,79,83,206849
+Coraline,"Animation, Drama, Family  ",100,2009,77,80,202723
+G.I. Joe: The Rise of Cobra,"Action, Adventure, Sci-Fi  ",118,2009,58,32,201545
+The Secret in Their Eyes,"Drama, Mystery, Romance  ",129,2009,82,80,197445
+Orphan,"Horror, Mystery, Thriller  ",123,2009,70,42,196590
+"I Love You, Man","Comedy, Romance  ",105,2009,70,70,196583
+Drag Me to Hell,Horror  ,99,2009,65,83,190923
+The Taking of Pelham 123,"Action, Crime, Thriller  ",106,2009,64,55,188832
+17 Again,"Comedy, Drama, Fantasy  ",102,2009,64,48,185202
+Night at the Museum: Battle of the Smithsonian,"Adventure, Comedy, Family  ",105,2009,60,42,181545
+Surrogates,"Action, Sci-Fi, Thriller  ",89,2009,63,45,170237
+He's Just Not That Into You,"Comedy, Drama, Romance  ",129,2009,64,47,164272
+Inglourious Basterds,"Adventure, Drama, War  ",153,2009,83,69,1302721
+Avatar,"Action, Adventure, Fantasy  ",162,2009,78,83,1138385
+Up,"Animation, Adventure, Comedy  ",96,2009,82,88,956416
+The Hangover,Comedy  ,100,2009,77,73,729576
+District 9,"Action, Sci-Fi, Thriller  ",112,2009,79,81,645784
+Sherlock Holmes,"Action, Adventure, Mystery  ",128,2009,76,57,592820
+Star Trek,"Action, Adventure, Sci-Fi  ",127,2009,79,82,582637
+Zombieland,"Adventure, Comedy, Fantasy  ",88,2009,76,73,530699
+Watchmen,"Action, Drama, Mystery  ",162,2009,76,56,517414
+Harry Potter and the Half-Blood Prince,"Action, Adventure, Family  ",153,2009,76,78,488403
+500 Days of Summer,"Comedy, Drama, Romance  ",95,2009,77,76,480363
+X-Men Origins: Wolverine,"Action, Sci-Fi  ",107,2009,66,40,474934
+Transformers: Revenge of the Fallen,"Action, Adventure, Sci-Fi  ",149,2009,60,35,388705
+2012,"Action, Adventure, Sci-Fi  ",158,2009,58,49,358859
+3 Idiots,"Comedy, Drama  ",170,2009,84,67,357439
+Terminator Salvation,"Action, Sci-Fi  ",115,2009,65,49,347063
+Moon,"Drama, Mystery, Sci-Fi  ",97,2009,78,67,340487
+Up in the Air,"Comedy, Drama, Romance  ",109,2009,74,83,322703
+The Proposal,"Comedy, Drama, Romance  ",108,2009,67,48,301651
+The Blind Side,"Biography, Drama, Sport  ",129,2009,76,53,300676
+Public Enemies,"Biography, Crime, Drama  ",140,2009,70,70,286360
+Angels & Demons,"Action, Mystery, Thriller  ",138,2009,67,48,278475
+Law Abiding Citizen,"Action, Crime, Drama  ",109,2009,74,34,277013
+The Twilight Saga: New Moon,"Adventure, Drama, Fantasy  ",130,2009,47,44,269677
+Fast & Furious,"Action, Thriller  ",107,2009,66,46,268409
+Ice Age: Dawn of the Dinosaurs,"Animation, Adventure, Comedy  ",94,2009,69,50,228642
+The Road,Drama  ,111,2009,72,64,226921
+Knowing,"Action, Drama, Sci-Fi  ",121,2009,62,41,223786
+Mr. Nobody,"Drama, Fantasy, Romance  ",141,2009,78,63,220575
+Cloudy with a Chance of Meatballs,"Animation, Adventure, Comedy  ",90,2009,69,66,210799
+The Girl with the Dragon Tattoo,"Crime, Drama, Mystery  ",152,2009,78,76,210787
+The Ugly Truth,"Comedy, Romance  ",96,2009,64,28,207777
+Fantastic Mr. Fox,"Animation, Adventure, Comedy  ",87,2009,79,83,206849
+Coraline,"Animation, Drama, Family  ",100,2009,77,80,202723
+G.I. Joe: The Rise of Cobra,"Action, Adventure, Sci-Fi  ",118,2009,58,32,201545
+The Secret in Their Eyes,"Drama, Mystery, Romance  ",129,2009,82,80,197445
+Orphan,"Horror, Mystery, Thriller  ",123,2009,70,42,196590
+"I Love You, Man","Comedy, Romance  ",105,2009,70,70,196583
+Drag Me to Hell,Horror  ,99,2009,65,83,190923
+The Taking of Pelham 123,"Action, Crime, Thriller  ",106,2009,64,55,188832
+17 Again,"Comedy, Drama, Fantasy  ",102,2009,64,48,185202
+Night at the Museum: Battle of the Smithsonian,"Adventure, Comedy, Family  ",105,2009,60,42,181545
+Surrogates,"Action, Sci-Fi, Thriller  ",89,2009,63,45,170237
+He's Just Not That Into You,"Comedy, Drama, Romance  ",129,2009,64,47,164272
+Inglourious Basterds,"Adventure, Drama, War  ",153,2009,83,69,1302721
+Avatar,"Action, Adventure, Fantasy  ",162,2009,78,83,1138385
+Up,"Animation, Adventure, Comedy  ",96,2009,82,88,956416
+The Hangover,Comedy  ,100,2009,77,73,729576
+District 9,"Action, Sci-Fi, Thriller  ",112,2009,79,81,645784
+Sherlock Holmes,"Action, Adventure, Mystery  ",128,2009,76,57,592820
+Star Trek,"Action, Adventure, Sci-Fi  ",127,2009,79,82,582637
+Zombieland,"Adventure, Comedy, Fantasy  ",88,2009,76,73,530699
+Watchmen,"Action, Drama, Mystery  ",162,2009,76,56,517414
+Harry Potter and the Half-Blood Prince,"Action, Adventure, Family  ",153,2009,76,78,488403
+500 Days of Summer,"Comedy, Drama, Romance  ",95,2009,77,76,480363
+X-Men Origins: Wolverine,"Action, Sci-Fi  ",107,2009,66,40,474934
+Transformers: Revenge of the Fallen,"Action, Adventure, Sci-Fi  ",149,2009,60,35,388705
+2012,"Action, Adventure, Sci-Fi  ",158,2009,58,49,358859
+3 Idiots,"Comedy, Drama  ",170,2009,84,67,357439
+Terminator Salvation,"Action, Sci-Fi  ",115,2009,65,49,347063
+Moon,"Drama, Mystery, Sci-Fi  ",97,2009,78,67,340487
+Up in the Air,"Comedy, Drama, Romance  ",109,2009,74,83,322703
+The Proposal,"Comedy, Drama, Romance  ",108,2009,67,48,301651
+The Blind Side,"Biography, Drama, Sport  ",129,2009,76,53,300676
+Public Enemies,"Biography, Crime, Drama  ",140,2009,70,70,286360
+Angels & Demons,"Action, Mystery, Thriller  ",138,2009,67,48,278475
+Law Abiding Citizen,"Action, Crime, Drama  ",109,2009,74,34,277013
+The Twilight Saga: New Moon,"Adventure, Drama, Fantasy  ",130,2009,47,44,269677
+Fast & Furious,"Action, Thriller  ",107,2009,66,46,268409
+Ice Age: Dawn of the Dinosaurs,"Animation, Adventure, Comedy  ",94,2009,69,50,228642
+The Road,Drama  ,111,2009,72,64,226921
+Knowing,"Action, Drama, Sci-Fi  ",121,2009,62,41,223786
+Mr. Nobody,"Drama, Fantasy, Romance  ",141,2009,78,63,220575
+Cloudy with a Chance of Meatballs,"Animation, Adventure, Comedy  ",90,2009,69,66,210799
+The Girl with the Dragon Tattoo,"Crime, Drama, Mystery  ",152,2009,78,76,210787
+The Ugly Truth,"Comedy, Romance  ",96,2009,64,28,207777
+Fantastic Mr. Fox,"Animation, Adventure, Comedy  ",87,2009,79,83,206849
+Coraline,"Animation, Drama, Family  ",100,2009,77,80,202723
+G.I. Joe: The Rise of Cobra,"Action, Adventure, Sci-Fi  ",118,2009,58,32,201545
+The Secret in Their Eyes,"Drama, Mystery, Romance  ",129,2009,82,80,197445
+Orphan,"Horror, Mystery, Thriller  ",123,2009,70,42,196590
+"I Love You, Man","Comedy, Romance  ",105,2009,70,70,196583
+Drag Me to Hell,Horror  ,99,2009,65,83,190923
+The Taking of Pelham 123,"Action, Crime, Thriller  ",106,2009,64,55,188832
+17 Again,"Comedy, Drama, Fantasy  ",102,2009,64,48,185202
+Night at the Museum: Battle of the Smithsonian,"Adventure, Comedy, Family  ",105,2009,60,42,181545
+Surrogates,"Action, Sci-Fi, Thriller  ",89,2009,63,45,170237
+He's Just Not That Into You,"Comedy, Drama, Romance  ",129,2009,64,47,164272
+Inglourious Basterds,"Adventure, Drama, War  ",153,2009,83,69,1302721
+Avatar,"Action, Adventure, Fantasy  ",162,2009,78,83,1138385
+Up,"Animation, Adventure, Comedy  ",96,2009,82,88,956416
+The Hangover,Comedy  ,100,2009,77,73,729576
+District 9,"Action, Sci-Fi, Thriller  ",112,2009,79,81,645784
+Sherlock Holmes,"Action, Adventure, Mystery  ",128,2009,76,57,592820
+Star Trek,"Action, Adventure, Sci-Fi  ",127,2009,79,82,582637
+Zombieland,"Adventure, Comedy, Fantasy  ",88,2009,76,73,530699
+Watchmen,"Action, Drama, Mystery  ",162,2009,76,56,517414
+Harry Potter and the Half-Blood Prince,"Action, Adventure, Family  ",153,2009,76,78,488403
+500 Days of Summer,"Comedy, Drama, Romance  ",95,2009,77,76,480363
+X-Men Origins: Wolverine,"Action, Sci-Fi  ",107,2009,66,40,474934
+Transformers: Revenge of the Fallen,"Action, Adventure, Sci-Fi  ",149,2009,60,35,388705
+2012,"Action, Adventure, Sci-Fi  ",158,2009,58,49,358859
+3 Idiots,"Comedy, Drama  ",170,2009,84,67,357439
+Terminator Salvation,"Action, Sci-Fi  ",115,2009,65,49,347063
+Moon,"Drama, Mystery, Sci-Fi  ",97,2009,78,67,340487
+Up in the Air,"Comedy, Drama, Romance  ",109,2009,74,83,322703
+The Proposal,"Comedy, Drama, Romance  ",108,2009,67,48,301651
+The Blind Side,"Biography, Drama, Sport  ",129,2009,76,53,300676
+Public Enemies,"Biography, Crime, Drama  ",140,2009,70,70,286360
+Angels & Demons,"Action, Mystery, Thriller  ",138,2009,67,48,278475
+Law Abiding Citizen,"Action, Crime, Drama  ",109,2009,74,34,277013
+The Twilight Saga: New Moon,"Adventure, Drama, Fantasy  ",130,2009,47,44,269677
+Fast & Furious,"Action, Thriller  ",107,2009,66,46,268409
+Ice Age: Dawn of the Dinosaurs,"Animation, Adventure, Comedy  ",94,2009,69,50,228642
+The Road,Drama  ,111,2009,72,64,226921
+Knowing,"Action, Drama, Sci-Fi  ",121,2009,62,41,223786
+Mr. Nobody,"Drama, Fantasy, Romance  ",141,2009,78,63,220575
+Cloudy with a Chance of Meatballs,"Animation, Adventure, Comedy  ",90,2009,69,66,210799
+The Girl with the Dragon Tattoo,"Crime, Drama, Mystery  ",152,2009,78,76,210787
+The Ugly Truth,"Comedy, Romance  ",96,2009,64,28,207777
+Fantastic Mr. Fox,"Animation, Adventure, Comedy  ",87,2009,79,83,206849
+Coraline,"Animation, Drama, Family  ",100,2009,77,80,202723
+G.I. Joe: The Rise of Cobra,"Action, Adventure, Sci-Fi  ",118,2009,58,32,201545
+The Secret in Their Eyes,"Drama, Mystery, Romance  ",129,2009,82,80,197445
+Orphan,"Horror, Mystery, Thriller  ",123,2009,70,42,196590
+"I Love You, Man","Comedy, Romance  ",105,2009,70,70,196583
+Drag Me to Hell,Horror  ,99,2009,65,83,190923
+The Taking of Pelham 123,"Action, Crime, Thriller  ",106,2009,64,55,188832
+17 Again,"Comedy, Drama, Fantasy  ",102,2009,64,48,185202
+Night at the Museum: Battle of the Smithsonian,"Adventure, Comedy, Family  ",105,2009,60,42,181545
+Surrogates,"Action, Sci-Fi, Thriller  ",89,2009,63,45,170237
+He's Just Not That Into You,"Comedy, Drama, Romance  ",129,2009,64,47,164272
+Inglourious Basterds,"Adventure, Drama, War  ",153,2009,83,69,1302721
+Avatar,"Action, Adventure, Fantasy  ",162,2009,78,83,1138385
+Up,"Animation, Adventure, Comedy  ",96,2009,82,88,956416
+The Hangover,Comedy  ,100,2009,77,73,729576
+District 9,"Action, Sci-Fi, Thriller  ",112,2009,79,81,645784
+Sherlock Holmes,"Action, Adventure, Mystery  ",128,2009,76,57,592820
+Star Trek,"Action, Adventure, Sci-Fi  ",127,2009,79,82,582637
+Zombieland,"Adventure, Comedy, Fantasy  ",88,2009,76,73,530699
+Watchmen,"Action, Drama, Mystery  ",162,2009,76,56,517414
+Harry Potter and the Half-Blood Prince,"Action, Adventure, Family  ",153,2009,76,78,488403
+500 Days of Summer,"Comedy, Drama, Romance  ",95,2009,77,76,480363
+X-Men Origins: Wolverine,"Action, Sci-Fi  ",107,2009,66,40,474934
+Transformers: Revenge of the Fallen,"Action, Adventure, Sci-Fi  ",149,2009,60,35,388705
+2012,"Action, Adventure, Sci-Fi  ",158,2009,58,49,358859
+3 Idiots,"Comedy, Drama  ",170,2009,84,67,357439
+Terminator Salvation,"Action, Sci-Fi  ",115,2009,65,49,347063
+Moon,"Drama, Mystery, Sci-Fi  ",97,2009,78,67,340487
+Up in the Air,"Comedy, Drama, Romance  ",109,2009,74,83,322703
+The Proposal,"Comedy, Drama, Romance  ",108,2009,67,48,301651
+The Blind Side,"Biography, Drama, Sport  ",129,2009,76,53,300676
+Public Enemies,"Biography, Crime, Drama  ",140,2009,70,70,286360
+Angels & Demons,"Action, Mystery, Thriller  ",138,2009,67,48,278475
+Law Abiding Citizen,"Action, Crime, Drama  ",109,2009,74,34,277013
+The Twilight Saga: New Moon,"Adventure, Drama, Fantasy  ",130,2009,47,44,269677
+Fast & Furious,"Action, Thriller  ",107,2009,66,46,268409
+Ice Age: Dawn of the Dinosaurs,"Animation, Adventure, Comedy  ",94,2009,69,50,228642
+The Road,Drama  ,111,2009,72,64,226921
+Knowing,"Action, Drama, Sci-Fi  ",121,2009,62,41,223786
+Mr. Nobody,"Drama, Fantasy, Romance  ",141,2009,78,63,220575
+Cloudy with a Chance of Meatballs,"Animation, Adventure, Comedy  ",90,2009,69,66,210799
+The Girl with the Dragon Tattoo,"Crime, Drama, Mystery  ",152,2009,78,76,210787
+The Ugly Truth,"Comedy, Romance  ",96,2009,64,28,207777
+Fantastic Mr. Fox,"Animation, Adventure, Comedy  ",87,2009,79,83,206849
+Coraline,"Animation, Drama, Family  ",100,2009,77,80,202723
+G.I. Joe: The Rise of Cobra,"Action, Adventure, Sci-Fi  ",118,2009,58,32,201545
+The Secret in Their Eyes,"Drama, Mystery, Romance  ",129,2009,82,80,197445
+Orphan,"Horror, Mystery, Thriller  ",123,2009,70,42,196590
+"I Love You, Man","Comedy, Romance  ",105,2009,70,70,196583
+Drag Me to Hell,Horror  ,99,2009,65,83,190923
+The Taking of Pelham 123,"Action, Crime, Thriller  ",106,2009,64,55,188832
+17 Again,"Comedy, Drama, Fantasy  ",102,2009,64,48,185202
+Night at the Museum: Battle of the Smithsonian,"Adventure, Comedy, Family  ",105,2009,60,42,181545
+Surrogates,"Action, Sci-Fi, Thriller  ",89,2009,63,45,170237
+He's Just Not That Into You,"Comedy, Drama, Romance  ",129,2009,64,47,164272

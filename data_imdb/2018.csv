@@ -1,0 +1,518 @@
+Movie,Genre,Duration,Year,Imdb_rating,Metascore_rating,Votes
+Avengers: Infinity War,"Action, Adventure, Sci-Fi  ",149,2018,84,68,884474
+Black Panther,"Action, Adventure, Sci-Fi  ",134,2018,73,88,653695
+Deadpool 2,"Action, Adventure, Comedy  ",119,2018,77,66,500455
+Bohemian Rhapsody,"Biography, Drama, Music  ",134,2018,79,49,471932
+A Quiet Place,"Drama, Horror, Sci-Fi  ",90,2018,75,82,432784
+Green Book,"Biography, Comedy, Drama  ",130,2018,82,69,407886
+Spider-Man: Into the Spider-Verse,"Animation, Action, Adventure  ",117,2018,84,87,404045
+Aquaman,"Action, Adventure, Fantasy  ",143,2018,69,55,398599
+Ready Player One,"Action, Adventure, Sci-Fi  ",140,2018,74,64,383768
+Venom,"Action, Adventure, Sci-Fi  ",112,2018,67,35,381786
+A Star Is Born,"Drama, Music, Romance  ",136,2018,76,88,347312
+Ant-Man and the Wasp,"Action, Adventure, Comedy  ",118,2018,70,70,328213
+Solo: A Star Wars Story,"Action, Adventure, Sci-Fi  ",135,2018,69,62,303435
+Mission: Impossible - Fallout,"Action, Adventure, Thriller  ",147,2018,77,86,300662
+Bird Box,"Horror, Sci-Fi  ",124,2018,66,51,291578
+Annihilation,"Adventure, Drama, Horror  ",115,2018,68,79,289540
+Jurassic World: Fallen Kingdom,"Action, Adventure, Sci-Fi  ",128,2018,62,51,274549
+Incredibles 2,"Animation, Action, Adventure  ",118,2018,76,80,260026
+Hereditary,"Drama, Horror, Mystery  ",127,2018,73,87,254312
+BlacKkKlansman,"Biography, Comedy, Crime  ",135,2018,75,83,233340
+Fantastic Beasts: The Crimes of Grindelwald,"Adventure, Family, Fantasy  ",134,2018,65,52,232087
+Game Night,"Action, Comedy, Crime  ",100,2018,69,66,213446
+Tomb Raider,"Action, Adventure, Fantasy  ",119,2018,63,48,195419
+Ocean's Eight,"Action, Comedy, Crime  ",110,2018,69,61,194713
+The Favourite,"Biography, Comedy, Drama  ",119,2018,75,91,179718
+First Man,"Biography, Drama, History  ",141,2018,73,84,174806
+Red Sparrow,"Action, Drama, Thriller  ",140,2018,66,53,171660
+Upgrade,"Action, Sci-Fi, Thriller  ",100,2018,75,67,166643
+The Meg,"Action, Horror, Sci-Fi  ",113,2018,56,46,155861
+Rampage,"Action, Adventure, Sci-Fi  ",107,2018,61,45,149455
+Crazy Rich Asians,"Comedy, Drama, Romance  ",120,2018,69,74,149348
+Searching,"Drama, Mystery, Thriller  ",102,2018,76,71,146538
+Isle of Dogs,"Animation, Adventure, Comedy  ",101,2018,79,82,145461
+Bumblebee,"Action, Adventure, Sci-Fi  ",114,2018,68,66,145093
+Roma,Drama  ,135,2018,77,96,144952
+The Equalizer 2,"Action, Crime, Thriller  ",121,2018,67,50,139784
+Ralph Breaks the Internet,"Animation, Adventure, Comedy  ",112,2018,70,71,138325
+A Simple Favor,"Comedy, Crime, Mystery  ",117,2018,68,67,134465
+Bad Times at the El Royale,"Crime, Drama, Mystery  ",141,2018,71,60,133818
+Sicario: Day of the Soldado,"Action, Adventure, Crime  ",122,2018,71,61,130761
+Vice,"Biography, Comedy, Drama  ",132,2018,72,61,128851
+The Ballad of Buster Scruggs,"Comedy, Drama, Musical  ",133,2018,73,79,128497
+Halloween,"Crime, Horror, Thriller  ",106,2018,65,67,124585
+The Nun,"Horror, Mystery, Thriller  ",96,2018,53,46,124079
+Tag,"Action, Comedy  ",100,2018,65,56,120163
+The Mule,"Crime, Drama, Thriller  ",116,2018,70,58,119882
+Maze Runner: The Death Cure,"Action, Adventure, Sci-Fi  ",143,2018,63,50,119453
+Avengers: Infinity War,"Action, Adventure, Sci-Fi  ",149,2018,84,68,884474
+Black Panther,"Action, Adventure, Sci-Fi  ",134,2018,73,88,653695
+Deadpool 2,"Action, Adventure, Comedy  ",119,2018,77,66,500455
+Bohemian Rhapsody,"Biography, Drama, Music  ",134,2018,79,49,471932
+A Quiet Place,"Drama, Horror, Sci-Fi  ",90,2018,75,82,432784
+Green Book,"Biography, Comedy, Drama  ",130,2018,82,69,407886
+Spider-Man: Into the Spider-Verse,"Animation, Action, Adventure  ",117,2018,84,87,404045
+Aquaman,"Action, Adventure, Fantasy  ",143,2018,69,55,398599
+Ready Player One,"Action, Adventure, Sci-Fi  ",140,2018,74,64,383768
+Venom,"Action, Adventure, Sci-Fi  ",112,2018,67,35,381786
+A Star Is Born,"Drama, Music, Romance  ",136,2018,76,88,347312
+Ant-Man and the Wasp,"Action, Adventure, Comedy  ",118,2018,70,70,328213
+Solo: A Star Wars Story,"Action, Adventure, Sci-Fi  ",135,2018,69,62,303435
+Mission: Impossible - Fallout,"Action, Adventure, Thriller  ",147,2018,77,86,300662
+Bird Box,"Horror, Sci-Fi  ",124,2018,66,51,291578
+Annihilation,"Adventure, Drama, Horror  ",115,2018,68,79,289540
+Jurassic World: Fallen Kingdom,"Action, Adventure, Sci-Fi  ",128,2018,62,51,274549
+Incredibles 2,"Animation, Action, Adventure  ",118,2018,76,80,260026
+Hereditary,"Drama, Horror, Mystery  ",127,2018,73,87,254312
+BlacKkKlansman,"Biography, Comedy, Crime  ",135,2018,75,83,233340
+Fantastic Beasts: The Crimes of Grindelwald,"Adventure, Family, Fantasy  ",134,2018,65,52,232087
+Game Night,"Action, Comedy, Crime  ",100,2018,69,66,213446
+Tomb Raider,"Action, Adventure, Fantasy  ",119,2018,63,48,195419
+Ocean's Eight,"Action, Comedy, Crime  ",110,2018,69,61,194713
+The Favourite,"Biography, Comedy, Drama  ",119,2018,75,91,179718
+First Man,"Biography, Drama, History  ",141,2018,73,84,174806
+Red Sparrow,"Action, Drama, Thriller  ",140,2018,66,53,171660
+Upgrade,"Action, Sci-Fi, Thriller  ",100,2018,75,67,166643
+The Meg,"Action, Horror, Sci-Fi  ",113,2018,56,46,155861
+Rampage,"Action, Adventure, Sci-Fi  ",107,2018,61,45,149455
+Crazy Rich Asians,"Comedy, Drama, Romance  ",120,2018,69,74,149348
+Searching,"Drama, Mystery, Thriller  ",102,2018,76,71,146538
+Isle of Dogs,"Animation, Adventure, Comedy  ",101,2018,79,82,145461
+Bumblebee,"Action, Adventure, Sci-Fi  ",114,2018,68,66,145093
+Roma,Drama  ,135,2018,77,96,144952
+The Equalizer 2,"Action, Crime, Thriller  ",121,2018,67,50,139784
+Ralph Breaks the Internet,"Animation, Adventure, Comedy  ",112,2018,70,71,138325
+A Simple Favor,"Comedy, Crime, Mystery  ",117,2018,68,67,134465
+Bad Times at the El Royale,"Crime, Drama, Mystery  ",141,2018,71,60,133818
+Sicario: Day of the Soldado,"Action, Adventure, Crime  ",122,2018,71,61,130761
+Vice,"Biography, Comedy, Drama  ",132,2018,72,61,128851
+The Ballad of Buster Scruggs,"Comedy, Drama, Musical  ",133,2018,73,79,128497
+Halloween,"Crime, Horror, Thriller  ",106,2018,65,67,124585
+The Nun,"Horror, Mystery, Thriller  ",96,2018,53,46,124079
+Tag,"Action, Comedy  ",100,2018,65,56,120163
+The Mule,"Crime, Drama, Thriller  ",116,2018,70,58,119882
+Maze Runner: The Death Cure,"Action, Adventure, Sci-Fi  ",143,2018,63,50,119453
+Avengers: Infinity War,"Action, Adventure, Sci-Fi  ",149,2018,84,68,884474
+Black Panther,"Action, Adventure, Sci-Fi  ",134,2018,73,88,653695
+Deadpool 2,"Action, Adventure, Comedy  ",119,2018,77,66,500455
+Bohemian Rhapsody,"Biography, Drama, Music  ",134,2018,79,49,471932
+A Quiet Place,"Drama, Horror, Sci-Fi  ",90,2018,75,82,432784
+Green Book,"Biography, Comedy, Drama  ",130,2018,82,69,407886
+Spider-Man: Into the Spider-Verse,"Animation, Action, Adventure  ",117,2018,84,87,404045
+Aquaman,"Action, Adventure, Fantasy  ",143,2018,69,55,398599
+Ready Player One,"Action, Adventure, Sci-Fi  ",140,2018,74,64,383768
+Venom,"Action, Adventure, Sci-Fi  ",112,2018,67,35,381786
+A Star Is Born,"Drama, Music, Romance  ",136,2018,76,88,347312
+Ant-Man and the Wasp,"Action, Adventure, Comedy  ",118,2018,70,70,328213
+Solo: A Star Wars Story,"Action, Adventure, Sci-Fi  ",135,2018,69,62,303435
+Mission: Impossible - Fallout,"Action, Adventure, Thriller  ",147,2018,77,86,300662
+Bird Box,"Horror, Sci-Fi  ",124,2018,66,51,291578
+Annihilation,"Adventure, Drama, Horror  ",115,2018,68,79,289540
+Jurassic World: Fallen Kingdom,"Action, Adventure, Sci-Fi  ",128,2018,62,51,274549
+Incredibles 2,"Animation, Action, Adventure  ",118,2018,76,80,260026
+Hereditary,"Drama, Horror, Mystery  ",127,2018,73,87,254312
+BlacKkKlansman,"Biography, Comedy, Crime  ",135,2018,75,83,233340
+Fantastic Beasts: The Crimes of Grindelwald,"Adventure, Family, Fantasy  ",134,2018,65,52,232087
+Game Night,"Action, Comedy, Crime  ",100,2018,69,66,213446
+Tomb Raider,"Action, Adventure, Fantasy  ",119,2018,63,48,195419
+Ocean's Eight,"Action, Comedy, Crime  ",110,2018,69,61,194713
+The Favourite,"Biography, Comedy, Drama  ",119,2018,75,91,179718
+First Man,"Biography, Drama, History  ",141,2018,73,84,174806
+Red Sparrow,"Action, Drama, Thriller  ",140,2018,66,53,171660
+Upgrade,"Action, Sci-Fi, Thriller  ",100,2018,75,67,166643
+The Meg,"Action, Horror, Sci-Fi  ",113,2018,56,46,155861
+Rampage,"Action, Adventure, Sci-Fi  ",107,2018,61,45,149455
+Crazy Rich Asians,"Comedy, Drama, Romance  ",120,2018,69,74,149348
+Searching,"Drama, Mystery, Thriller  ",102,2018,76,71,146538
+Isle of Dogs,"Animation, Adventure, Comedy  ",101,2018,79,82,145461
+Bumblebee,"Action, Adventure, Sci-Fi  ",114,2018,68,66,145093
+Roma,Drama  ,135,2018,77,96,144952
+The Equalizer 2,"Action, Crime, Thriller  ",121,2018,67,50,139784
+Ralph Breaks the Internet,"Animation, Adventure, Comedy  ",112,2018,70,71,138325
+A Simple Favor,"Comedy, Crime, Mystery  ",117,2018,68,67,134465
+Bad Times at the El Royale,"Crime, Drama, Mystery  ",141,2018,71,60,133818
+Sicario: Day of the Soldado,"Action, Adventure, Crime  ",122,2018,71,61,130761
+Vice,"Biography, Comedy, Drama  ",132,2018,72,61,128851
+The Ballad of Buster Scruggs,"Comedy, Drama, Musical  ",133,2018,73,79,128497
+Halloween,"Crime, Horror, Thriller  ",106,2018,65,67,124585
+The Nun,"Horror, Mystery, Thriller  ",96,2018,53,46,124079
+Tag,"Action, Comedy  ",100,2018,65,56,120163
+The Mule,"Crime, Drama, Thriller  ",116,2018,70,58,119882
+Maze Runner: The Death Cure,"Action, Adventure, Sci-Fi  ",143,2018,63,50,119453
+Avengers: Infinity War,"Action, Adventure, Sci-Fi  ",149,2018,84,68,884474
+Black Panther,"Action, Adventure, Sci-Fi  ",134,2018,73,88,653695
+Deadpool 2,"Action, Adventure, Comedy  ",119,2018,77,66,500455
+Bohemian Rhapsody,"Biography, Drama, Music  ",134,2018,79,49,471932
+A Quiet Place,"Drama, Horror, Sci-Fi  ",90,2018,75,82,432784
+Green Book,"Biography, Comedy, Drama  ",130,2018,82,69,407886
+Spider-Man: Into the Spider-Verse,"Animation, Action, Adventure  ",117,2018,84,87,404045
+Aquaman,"Action, Adventure, Fantasy  ",143,2018,69,55,398599
+Ready Player One,"Action, Adventure, Sci-Fi  ",140,2018,74,64,383768
+Venom,"Action, Adventure, Sci-Fi  ",112,2018,67,35,381786
+A Star Is Born,"Drama, Music, Romance  ",136,2018,76,88,347312
+Ant-Man and the Wasp,"Action, Adventure, Comedy  ",118,2018,70,70,328213
+Solo: A Star Wars Story,"Action, Adventure, Sci-Fi  ",135,2018,69,62,303435
+Mission: Impossible - Fallout,"Action, Adventure, Thriller  ",147,2018,77,86,300662
+Bird Box,"Horror, Sci-Fi  ",124,2018,66,51,291578
+Annihilation,"Adventure, Drama, Horror  ",115,2018,68,79,289540
+Jurassic World: Fallen Kingdom,"Action, Adventure, Sci-Fi  ",128,2018,62,51,274549
+Incredibles 2,"Animation, Action, Adventure  ",118,2018,76,80,260026
+Hereditary,"Drama, Horror, Mystery  ",127,2018,73,87,254312
+BlacKkKlansman,"Biography, Comedy, Crime  ",135,2018,75,83,233340
+Fantastic Beasts: The Crimes of Grindelwald,"Adventure, Family, Fantasy  ",134,2018,65,52,232087
+Game Night,"Action, Comedy, Crime  ",100,2018,69,66,213446
+Tomb Raider,"Action, Adventure, Fantasy  ",119,2018,63,48,195419
+Ocean's Eight,"Action, Comedy, Crime  ",110,2018,69,61,194713
+The Favourite,"Biography, Comedy, Drama  ",119,2018,75,91,179718
+First Man,"Biography, Drama, History  ",141,2018,73,84,174806
+Red Sparrow,"Action, Drama, Thriller  ",140,2018,66,53,171660
+Upgrade,"Action, Sci-Fi, Thriller  ",100,2018,75,67,166643
+The Meg,"Action, Horror, Sci-Fi  ",113,2018,56,46,155861
+Rampage,"Action, Adventure, Sci-Fi  ",107,2018,61,45,149455
+Crazy Rich Asians,"Comedy, Drama, Romance  ",120,2018,69,74,149348
+Searching,"Drama, Mystery, Thriller  ",102,2018,76,71,146538
+Isle of Dogs,"Animation, Adventure, Comedy  ",101,2018,79,82,145461
+Bumblebee,"Action, Adventure, Sci-Fi  ",114,2018,68,66,145093
+Roma,Drama  ,135,2018,77,96,144952
+The Equalizer 2,"Action, Crime, Thriller  ",121,2018,67,50,139784
+Ralph Breaks the Internet,"Animation, Adventure, Comedy  ",112,2018,70,71,138325
+A Simple Favor,"Comedy, Crime, Mystery  ",117,2018,68,67,134465
+Bad Times at the El Royale,"Crime, Drama, Mystery  ",141,2018,71,60,133818
+Sicario: Day of the Soldado,"Action, Adventure, Crime  ",122,2018,71,61,130761
+Vice,"Biography, Comedy, Drama  ",132,2018,72,61,128851
+The Ballad of Buster Scruggs,"Comedy, Drama, Musical  ",133,2018,73,79,128497
+Halloween,"Crime, Horror, Thriller  ",106,2018,65,67,124585
+The Nun,"Horror, Mystery, Thriller  ",96,2018,53,46,124079
+Tag,"Action, Comedy  ",100,2018,65,56,120163
+The Mule,"Crime, Drama, Thriller  ",116,2018,70,58,119882
+Maze Runner: The Death Cure,"Action, Adventure, Sci-Fi  ",143,2018,63,50,119453
+Avengers: Infinity War,"Action, Adventure, Sci-Fi  ",149,2018,84,68,884474
+Black Panther,"Action, Adventure, Sci-Fi  ",134,2018,73,88,653695
+Deadpool 2,"Action, Adventure, Comedy  ",119,2018,77,66,500455
+Bohemian Rhapsody,"Biography, Drama, Music  ",134,2018,79,49,471932
+A Quiet Place,"Drama, Horror, Sci-Fi  ",90,2018,75,82,432784
+Green Book,"Biography, Comedy, Drama  ",130,2018,82,69,407886
+Spider-Man: Into the Spider-Verse,"Animation, Action, Adventure  ",117,2018,84,87,404045
+Aquaman,"Action, Adventure, Fantasy  ",143,2018,69,55,398599
+Ready Player One,"Action, Adventure, Sci-Fi  ",140,2018,74,64,383768
+Venom,"Action, Adventure, Sci-Fi  ",112,2018,67,35,381786
+A Star Is Born,"Drama, Music, Romance  ",136,2018,76,88,347312
+Ant-Man and the Wasp,"Action, Adventure, Comedy  ",118,2018,70,70,328213
+Solo: A Star Wars Story,"Action, Adventure, Sci-Fi  ",135,2018,69,62,303435
+Mission: Impossible - Fallout,"Action, Adventure, Thriller  ",147,2018,77,86,300662
+Bird Box,"Horror, Sci-Fi  ",124,2018,66,51,291578
+Annihilation,"Adventure, Drama, Horror  ",115,2018,68,79,289540
+Jurassic World: Fallen Kingdom,"Action, Adventure, Sci-Fi  ",128,2018,62,51,274549
+Incredibles 2,"Animation, Action, Adventure  ",118,2018,76,80,260026
+Hereditary,"Drama, Horror, Mystery  ",127,2018,73,87,254312
+BlacKkKlansman,"Biography, Comedy, Crime  ",135,2018,75,83,233340
+Fantastic Beasts: The Crimes of Grindelwald,"Adventure, Family, Fantasy  ",134,2018,65,52,232087
+Game Night,"Action, Comedy, Crime  ",100,2018,69,66,213446
+Tomb Raider,"Action, Adventure, Fantasy  ",119,2018,63,48,195419
+Ocean's Eight,"Action, Comedy, Crime  ",110,2018,69,61,194713
+The Favourite,"Biography, Comedy, Drama  ",119,2018,75,91,179718
+First Man,"Biography, Drama, History  ",141,2018,73,84,174806
+Red Sparrow,"Action, Drama, Thriller  ",140,2018,66,53,171660
+Upgrade,"Action, Sci-Fi, Thriller  ",100,2018,75,67,166643
+The Meg,"Action, Horror, Sci-Fi  ",113,2018,56,46,155861
+Rampage,"Action, Adventure, Sci-Fi  ",107,2018,61,45,149455
+Crazy Rich Asians,"Comedy, Drama, Romance  ",120,2018,69,74,149348
+Searching,"Drama, Mystery, Thriller  ",102,2018,76,71,146538
+Isle of Dogs,"Animation, Adventure, Comedy  ",101,2018,79,82,145461
+Bumblebee,"Action, Adventure, Sci-Fi  ",114,2018,68,66,145093
+Roma,Drama  ,135,2018,77,96,144952
+The Equalizer 2,"Action, Crime, Thriller  ",121,2018,67,50,139784
+Ralph Breaks the Internet,"Animation, Adventure, Comedy  ",112,2018,70,71,138325
+A Simple Favor,"Comedy, Crime, Mystery  ",117,2018,68,67,134465
+Bad Times at the El Royale,"Crime, Drama, Mystery  ",141,2018,71,60,133818
+Sicario: Day of the Soldado,"Action, Adventure, Crime  ",122,2018,71,61,130761
+Vice,"Biography, Comedy, Drama  ",132,2018,72,61,128851
+The Ballad of Buster Scruggs,"Comedy, Drama, Musical  ",133,2018,73,79,128497
+Halloween,"Crime, Horror, Thriller  ",106,2018,65,67,124585
+The Nun,"Horror, Mystery, Thriller  ",96,2018,53,46,124079
+Tag,"Action, Comedy  ",100,2018,65,56,120163
+The Mule,"Crime, Drama, Thriller  ",116,2018,70,58,119882
+Maze Runner: The Death Cure,"Action, Adventure, Sci-Fi  ",143,2018,63,50,119453
+Avengers: Infinity War,"Action, Adventure, Sci-Fi  ",149,2018,84,68,884474
+Black Panther,"Action, Adventure, Sci-Fi  ",134,2018,73,88,653695
+Deadpool 2,"Action, Adventure, Comedy  ",119,2018,77,66,500455
+Bohemian Rhapsody,"Biography, Drama, Music  ",134,2018,79,49,471932
+A Quiet Place,"Drama, Horror, Sci-Fi  ",90,2018,75,82,432784
+Green Book,"Biography, Comedy, Drama  ",130,2018,82,69,407886
+Spider-Man: Into the Spider-Verse,"Animation, Action, Adventure  ",117,2018,84,87,404045
+Aquaman,"Action, Adventure, Fantasy  ",143,2018,69,55,398599
+Ready Player One,"Action, Adventure, Sci-Fi  ",140,2018,74,64,383768
+Venom,"Action, Adventure, Sci-Fi  ",112,2018,67,35,381786
+A Star Is Born,"Drama, Music, Romance  ",136,2018,76,88,347312
+Ant-Man and the Wasp,"Action, Adventure, Comedy  ",118,2018,70,70,328213
+Solo: A Star Wars Story,"Action, Adventure, Sci-Fi  ",135,2018,69,62,303435
+Mission: Impossible - Fallout,"Action, Adventure, Thriller  ",147,2018,77,86,300662
+Bird Box,"Horror, Sci-Fi  ",124,2018,66,51,291578
+Annihilation,"Adventure, Drama, Horror  ",115,2018,68,79,289540
+Jurassic World: Fallen Kingdom,"Action, Adventure, Sci-Fi  ",128,2018,62,51,274549
+Incredibles 2,"Animation, Action, Adventure  ",118,2018,76,80,260026
+Hereditary,"Drama, Horror, Mystery  ",127,2018,73,87,254312
+BlacKkKlansman,"Biography, Comedy, Crime  ",135,2018,75,83,233340
+Fantastic Beasts: The Crimes of Grindelwald,"Adventure, Family, Fantasy  ",134,2018,65,52,232087
+Game Night,"Action, Comedy, Crime  ",100,2018,69,66,213446
+Tomb Raider,"Action, Adventure, Fantasy  ",119,2018,63,48,195419
+Ocean's Eight,"Action, Comedy, Crime  ",110,2018,69,61,194713
+The Favourite,"Biography, Comedy, Drama  ",119,2018,75,91,179718
+First Man,"Biography, Drama, History  ",141,2018,73,84,174806
+Red Sparrow,"Action, Drama, Thriller  ",140,2018,66,53,171660
+Upgrade,"Action, Sci-Fi, Thriller  ",100,2018,75,67,166643
+The Meg,"Action, Horror, Sci-Fi  ",113,2018,56,46,155861
+Rampage,"Action, Adventure, Sci-Fi  ",107,2018,61,45,149455
+Crazy Rich Asians,"Comedy, Drama, Romance  ",120,2018,69,74,149348
+Searching,"Drama, Mystery, Thriller  ",102,2018,76,71,146538
+Isle of Dogs,"Animation, Adventure, Comedy  ",101,2018,79,82,145461
+Bumblebee,"Action, Adventure, Sci-Fi  ",114,2018,68,66,145093
+Roma,Drama  ,135,2018,77,96,144952
+The Equalizer 2,"Action, Crime, Thriller  ",121,2018,67,50,139784
+Ralph Breaks the Internet,"Animation, Adventure, Comedy  ",112,2018,70,71,138325
+A Simple Favor,"Comedy, Crime, Mystery  ",117,2018,68,67,134465
+Bad Times at the El Royale,"Crime, Drama, Mystery  ",141,2018,71,60,133818
+Sicario: Day of the Soldado,"Action, Adventure, Crime  ",122,2018,71,61,130761
+Vice,"Biography, Comedy, Drama  ",132,2018,72,61,128851
+The Ballad of Buster Scruggs,"Comedy, Drama, Musical  ",133,2018,73,79,128497
+Halloween,"Crime, Horror, Thriller  ",106,2018,65,67,124585
+The Nun,"Horror, Mystery, Thriller  ",96,2018,53,46,124079
+Tag,"Action, Comedy  ",100,2018,65,56,120163
+The Mule,"Crime, Drama, Thriller  ",116,2018,70,58,119882
+Maze Runner: The Death Cure,"Action, Adventure, Sci-Fi  ",143,2018,63,50,119453
+Avengers: Infinity War,"Action, Adventure, Sci-Fi  ",149,2018,84,68,884474
+Black Panther,"Action, Adventure, Sci-Fi  ",134,2018,73,88,653695
+Deadpool 2,"Action, Adventure, Comedy  ",119,2018,77,66,500455
+Bohemian Rhapsody,"Biography, Drama, Music  ",134,2018,79,49,471932
+A Quiet Place,"Drama, Horror, Sci-Fi  ",90,2018,75,82,432784
+Green Book,"Biography, Comedy, Drama  ",130,2018,82,69,407886
+Spider-Man: Into the Spider-Verse,"Animation, Action, Adventure  ",117,2018,84,87,404045
+Aquaman,"Action, Adventure, Fantasy  ",143,2018,69,55,398599
+Ready Player One,"Action, Adventure, Sci-Fi  ",140,2018,74,64,383768
+Venom,"Action, Adventure, Sci-Fi  ",112,2018,67,35,381786
+A Star Is Born,"Drama, Music, Romance  ",136,2018,76,88,347312
+Ant-Man and the Wasp,"Action, Adventure, Comedy  ",118,2018,70,70,328213
+Solo: A Star Wars Story,"Action, Adventure, Sci-Fi  ",135,2018,69,62,303435
+Mission: Impossible - Fallout,"Action, Adventure, Thriller  ",147,2018,77,86,300662
+Bird Box,"Horror, Sci-Fi  ",124,2018,66,51,291578
+Annihilation,"Adventure, Drama, Horror  ",115,2018,68,79,289540
+Jurassic World: Fallen Kingdom,"Action, Adventure, Sci-Fi  ",128,2018,62,51,274549
+Incredibles 2,"Animation, Action, Adventure  ",118,2018,76,80,260026
+Hereditary,"Drama, Horror, Mystery  ",127,2018,73,87,254312
+BlacKkKlansman,"Biography, Comedy, Crime  ",135,2018,75,83,233340
+Fantastic Beasts: The Crimes of Grindelwald,"Adventure, Family, Fantasy  ",134,2018,65,52,232087
+Game Night,"Action, Comedy, Crime  ",100,2018,69,66,213446
+Tomb Raider,"Action, Adventure, Fantasy  ",119,2018,63,48,195419
+Ocean's Eight,"Action, Comedy, Crime  ",110,2018,69,61,194713
+The Favourite,"Biography, Comedy, Drama  ",119,2018,75,91,179718
+First Man,"Biography, Drama, History  ",141,2018,73,84,174806
+Red Sparrow,"Action, Drama, Thriller  ",140,2018,66,53,171660
+Upgrade,"Action, Sci-Fi, Thriller  ",100,2018,75,67,166643
+The Meg,"Action, Horror, Sci-Fi  ",113,2018,56,46,155861
+Rampage,"Action, Adventure, Sci-Fi  ",107,2018,61,45,149455
+Crazy Rich Asians,"Comedy, Drama, Romance  ",120,2018,69,74,149348
+Searching,"Drama, Mystery, Thriller  ",102,2018,76,71,146538
+Isle of Dogs,"Animation, Adventure, Comedy  ",101,2018,79,82,145461
+Bumblebee,"Action, Adventure, Sci-Fi  ",114,2018,68,66,145093
+Roma,Drama  ,135,2018,77,96,144952
+The Equalizer 2,"Action, Crime, Thriller  ",121,2018,67,50,139784
+Ralph Breaks the Internet,"Animation, Adventure, Comedy  ",112,2018,70,71,138325
+A Simple Favor,"Comedy, Crime, Mystery  ",117,2018,68,67,134465
+Bad Times at the El Royale,"Crime, Drama, Mystery  ",141,2018,71,60,133818
+Sicario: Day of the Soldado,"Action, Adventure, Crime  ",122,2018,71,61,130761
+Vice,"Biography, Comedy, Drama  ",132,2018,72,61,128851
+The Ballad of Buster Scruggs,"Comedy, Drama, Musical  ",133,2018,73,79,128497
+Halloween,"Crime, Horror, Thriller  ",106,2018,65,67,124585
+The Nun,"Horror, Mystery, Thriller  ",96,2018,53,46,124079
+Tag,"Action, Comedy  ",100,2018,65,56,120163
+The Mule,"Crime, Drama, Thriller  ",116,2018,70,58,119882
+Maze Runner: The Death Cure,"Action, Adventure, Sci-Fi  ",143,2018,63,50,119453
+Avengers: Infinity War,"Action, Adventure, Sci-Fi  ",149,2018,84,68,884474
+Black Panther,"Action, Adventure, Sci-Fi  ",134,2018,73,88,653695
+Deadpool 2,"Action, Adventure, Comedy  ",119,2018,77,66,500455
+Bohemian Rhapsody,"Biography, Drama, Music  ",134,2018,79,49,471932
+A Quiet Place,"Drama, Horror, Sci-Fi  ",90,2018,75,82,432784
+Green Book,"Biography, Comedy, Drama  ",130,2018,82,69,407886
+Spider-Man: Into the Spider-Verse,"Animation, Action, Adventure  ",117,2018,84,87,404045
+Aquaman,"Action, Adventure, Fantasy  ",143,2018,69,55,398599
+Ready Player One,"Action, Adventure, Sci-Fi  ",140,2018,74,64,383768
+Venom,"Action, Adventure, Sci-Fi  ",112,2018,67,35,381786
+A Star Is Born,"Drama, Music, Romance  ",136,2018,76,88,347312
+Ant-Man and the Wasp,"Action, Adventure, Comedy  ",118,2018,70,70,328213
+Solo: A Star Wars Story,"Action, Adventure, Sci-Fi  ",135,2018,69,62,303435
+Mission: Impossible - Fallout,"Action, Adventure, Thriller  ",147,2018,77,86,300662
+Bird Box,"Horror, Sci-Fi  ",124,2018,66,51,291578
+Annihilation,"Adventure, Drama, Horror  ",115,2018,68,79,289540
+Jurassic World: Fallen Kingdom,"Action, Adventure, Sci-Fi  ",128,2018,62,51,274549
+Incredibles 2,"Animation, Action, Adventure  ",118,2018,76,80,260026
+Hereditary,"Drama, Horror, Mystery  ",127,2018,73,87,254312
+BlacKkKlansman,"Biography, Comedy, Crime  ",135,2018,75,83,233340
+Fantastic Beasts: The Crimes of Grindelwald,"Adventure, Family, Fantasy  ",134,2018,65,52,232087
+Game Night,"Action, Comedy, Crime  ",100,2018,69,66,213446
+Tomb Raider,"Action, Adventure, Fantasy  ",119,2018,63,48,195419
+Ocean's Eight,"Action, Comedy, Crime  ",110,2018,69,61,194713
+The Favourite,"Biography, Comedy, Drama  ",119,2018,75,91,179718
+First Man,"Biography, Drama, History  ",141,2018,73,84,174806
+Red Sparrow,"Action, Drama, Thriller  ",140,2018,66,53,171660
+Upgrade,"Action, Sci-Fi, Thriller  ",100,2018,75,67,166643
+The Meg,"Action, Horror, Sci-Fi  ",113,2018,56,46,155861
+Rampage,"Action, Adventure, Sci-Fi  ",107,2018,61,45,149455
+Crazy Rich Asians,"Comedy, Drama, Romance  ",120,2018,69,74,149348
+Searching,"Drama, Mystery, Thriller  ",102,2018,76,71,146538
+Isle of Dogs,"Animation, Adventure, Comedy  ",101,2018,79,82,145461
+Bumblebee,"Action, Adventure, Sci-Fi  ",114,2018,68,66,145093
+Roma,Drama  ,135,2018,77,96,144952
+The Equalizer 2,"Action, Crime, Thriller  ",121,2018,67,50,139784
+Ralph Breaks the Internet,"Animation, Adventure, Comedy  ",112,2018,70,71,138325
+A Simple Favor,"Comedy, Crime, Mystery  ",117,2018,68,67,134465
+Bad Times at the El Royale,"Crime, Drama, Mystery  ",141,2018,71,60,133818
+Sicario: Day of the Soldado,"Action, Adventure, Crime  ",122,2018,71,61,130761
+Vice,"Biography, Comedy, Drama  ",132,2018,72,61,128851
+The Ballad of Buster Scruggs,"Comedy, Drama, Musical  ",133,2018,73,79,128497
+Halloween,"Crime, Horror, Thriller  ",106,2018,65,67,124585
+The Nun,"Horror, Mystery, Thriller  ",96,2018,53,46,124079
+Tag,"Action, Comedy  ",100,2018,65,56,120163
+The Mule,"Crime, Drama, Thriller  ",116,2018,70,58,119882
+Maze Runner: The Death Cure,"Action, Adventure, Sci-Fi  ",143,2018,63,50,119453
+Avengers: Infinity War,"Action, Adventure, Sci-Fi  ",149,2018,84,68,884474
+Black Panther,"Action, Adventure, Sci-Fi  ",134,2018,73,88,653695
+Deadpool 2,"Action, Adventure, Comedy  ",119,2018,77,66,500455
+Bohemian Rhapsody,"Biography, Drama, Music  ",134,2018,79,49,471932
+A Quiet Place,"Drama, Horror, Sci-Fi  ",90,2018,75,82,432784
+Green Book,"Biography, Comedy, Drama  ",130,2018,82,69,407886
+Spider-Man: Into the Spider-Verse,"Animation, Action, Adventure  ",117,2018,84,87,404045
+Aquaman,"Action, Adventure, Fantasy  ",143,2018,69,55,398599
+Ready Player One,"Action, Adventure, Sci-Fi  ",140,2018,74,64,383768
+Venom,"Action, Adventure, Sci-Fi  ",112,2018,67,35,381786
+A Star Is Born,"Drama, Music, Romance  ",136,2018,76,88,347312
+Ant-Man and the Wasp,"Action, Adventure, Comedy  ",118,2018,70,70,328213
+Solo: A Star Wars Story,"Action, Adventure, Sci-Fi  ",135,2018,69,62,303435
+Mission: Impossible - Fallout,"Action, Adventure, Thriller  ",147,2018,77,86,300662
+Bird Box,"Horror, Sci-Fi  ",124,2018,66,51,291578
+Annihilation,"Adventure, Drama, Horror  ",115,2018,68,79,289540
+Jurassic World: Fallen Kingdom,"Action, Adventure, Sci-Fi  ",128,2018,62,51,274549
+Incredibles 2,"Animation, Action, Adventure  ",118,2018,76,80,260026
+Hereditary,"Drama, Horror, Mystery  ",127,2018,73,87,254312
+BlacKkKlansman,"Biography, Comedy, Crime  ",135,2018,75,83,233340
+Fantastic Beasts: The Crimes of Grindelwald,"Adventure, Family, Fantasy  ",134,2018,65,52,232087
+Game Night,"Action, Comedy, Crime  ",100,2018,69,66,213446
+Tomb Raider,"Action, Adventure, Fantasy  ",119,2018,63,48,195419
+Ocean's Eight,"Action, Comedy, Crime  ",110,2018,69,61,194713
+The Favourite,"Biography, Comedy, Drama  ",119,2018,75,91,179718
+First Man,"Biography, Drama, History  ",141,2018,73,84,174806
+Red Sparrow,"Action, Drama, Thriller  ",140,2018,66,53,171660
+Upgrade,"Action, Sci-Fi, Thriller  ",100,2018,75,67,166643
+The Meg,"Action, Horror, Sci-Fi  ",113,2018,56,46,155861
+Rampage,"Action, Adventure, Sci-Fi  ",107,2018,61,45,149455
+Crazy Rich Asians,"Comedy, Drama, Romance  ",120,2018,69,74,149348
+Searching,"Drama, Mystery, Thriller  ",102,2018,76,71,146538
+Isle of Dogs,"Animation, Adventure, Comedy  ",101,2018,79,82,145461
+Bumblebee,"Action, Adventure, Sci-Fi  ",114,2018,68,66,145093
+Roma,Drama  ,135,2018,77,96,144952
+The Equalizer 2,"Action, Crime, Thriller  ",121,2018,67,50,139784
+Ralph Breaks the Internet,"Animation, Adventure, Comedy  ",112,2018,70,71,138325
+A Simple Favor,"Comedy, Crime, Mystery  ",117,2018,68,67,134465
+Bad Times at the El Royale,"Crime, Drama, Mystery  ",141,2018,71,60,133818
+Sicario: Day of the Soldado,"Action, Adventure, Crime  ",122,2018,71,61,130761
+Vice,"Biography, Comedy, Drama  ",132,2018,72,61,128851
+The Ballad of Buster Scruggs,"Comedy, Drama, Musical  ",133,2018,73,79,128497
+Halloween,"Crime, Horror, Thriller  ",106,2018,65,67,124585
+The Nun,"Horror, Mystery, Thriller  ",96,2018,53,46,124079
+Tag,"Action, Comedy  ",100,2018,65,56,120163
+The Mule,"Crime, Drama, Thriller  ",116,2018,70,58,119882
+Maze Runner: The Death Cure,"Action, Adventure, Sci-Fi  ",143,2018,63,50,119453
+Avengers: Infinity War,"Action, Adventure, Sci-Fi  ",149,2018,84,68,884474
+Black Panther,"Action, Adventure, Sci-Fi  ",134,2018,73,88,653695
+Deadpool 2,"Action, Adventure, Comedy  ",119,2018,77,66,500455
+Bohemian Rhapsody,"Biography, Drama, Music  ",134,2018,79,49,471932
+A Quiet Place,"Drama, Horror, Sci-Fi  ",90,2018,75,82,432784
+Green Book,"Biography, Comedy, Drama  ",130,2018,82,69,407886
+Spider-Man: Into the Spider-Verse,"Animation, Action, Adventure  ",117,2018,84,87,404045
+Aquaman,"Action, Adventure, Fantasy  ",143,2018,69,55,398599
+Ready Player One,"Action, Adventure, Sci-Fi  ",140,2018,74,64,383768
+Venom,"Action, Adventure, Sci-Fi  ",112,2018,67,35,381786
+A Star Is Born,"Drama, Music, Romance  ",136,2018,76,88,347312
+Ant-Man and the Wasp,"Action, Adventure, Comedy  ",118,2018,70,70,328213
+Solo: A Star Wars Story,"Action, Adventure, Sci-Fi  ",135,2018,69,62,303435
+Mission: Impossible - Fallout,"Action, Adventure, Thriller  ",147,2018,77,86,300662
+Bird Box,"Horror, Sci-Fi  ",124,2018,66,51,291578
+Annihilation,"Adventure, Drama, Horror  ",115,2018,68,79,289540
+Jurassic World: Fallen Kingdom,"Action, Adventure, Sci-Fi  ",128,2018,62,51,274549
+Incredibles 2,"Animation, Action, Adventure  ",118,2018,76,80,260026
+Hereditary,"Drama, Horror, Mystery  ",127,2018,73,87,254312
+BlacKkKlansman,"Biography, Comedy, Crime  ",135,2018,75,83,233340
+Fantastic Beasts: The Crimes of Grindelwald,"Adventure, Family, Fantasy  ",134,2018,65,52,232087
+Game Night,"Action, Comedy, Crime  ",100,2018,69,66,213446
+Tomb Raider,"Action, Adventure, Fantasy  ",119,2018,63,48,195419
+Ocean's Eight,"Action, Comedy, Crime  ",110,2018,69,61,194713
+The Favourite,"Biography, Comedy, Drama  ",119,2018,75,91,179718
+First Man,"Biography, Drama, History  ",141,2018,73,84,174806
+Red Sparrow,"Action, Drama, Thriller  ",140,2018,66,53,171660
+Upgrade,"Action, Sci-Fi, Thriller  ",100,2018,75,67,166643
+The Meg,"Action, Horror, Sci-Fi  ",113,2018,56,46,155861
+Rampage,"Action, Adventure, Sci-Fi  ",107,2018,61,45,149455
+Crazy Rich Asians,"Comedy, Drama, Romance  ",120,2018,69,74,149348
+Searching,"Drama, Mystery, Thriller  ",102,2018,76,71,146538
+Isle of Dogs,"Animation, Adventure, Comedy  ",101,2018,79,82,145461
+Bumblebee,"Action, Adventure, Sci-Fi  ",114,2018,68,66,145093
+Roma,Drama  ,135,2018,77,96,144952
+The Equalizer 2,"Action, Crime, Thriller  ",121,2018,67,50,139784
+Ralph Breaks the Internet,"Animation, Adventure, Comedy  ",112,2018,70,71,138325
+A Simple Favor,"Comedy, Crime, Mystery  ",117,2018,68,67,134465
+Bad Times at the El Royale,"Crime, Drama, Mystery  ",141,2018,71,60,133818
+Sicario: Day of the Soldado,"Action, Adventure, Crime  ",122,2018,71,61,130761
+Vice,"Biography, Comedy, Drama  ",132,2018,72,61,128851
+The Ballad of Buster Scruggs,"Comedy, Drama, Musical  ",133,2018,73,79,128497
+Halloween,"Crime, Horror, Thriller  ",106,2018,65,67,124585
+The Nun,"Horror, Mystery, Thriller  ",96,2018,53,46,124079
+Tag,"Action, Comedy  ",100,2018,65,56,120163
+The Mule,"Crime, Drama, Thriller  ",116,2018,70,58,119882
+Maze Runner: The Death Cure,"Action, Adventure, Sci-Fi  ",143,2018,63,50,119453
+Avengers: Infinity War,"Action, Adventure, Sci-Fi  ",149,2018,84,68,884474
+Black Panther,"Action, Adventure, Sci-Fi  ",134,2018,73,88,653695
+Deadpool 2,"Action, Adventure, Comedy  ",119,2018,77,66,500455
+Bohemian Rhapsody,"Biography, Drama, Music  ",134,2018,79,49,471932
+A Quiet Place,"Drama, Horror, Sci-Fi  ",90,2018,75,82,432784
+Green Book,"Biography, Comedy, Drama  ",130,2018,82,69,407886
+Spider-Man: Into the Spider-Verse,"Animation, Action, Adventure  ",117,2018,84,87,404045
+Aquaman,"Action, Adventure, Fantasy  ",143,2018,69,55,398599
+Ready Player One,"Action, Adventure, Sci-Fi  ",140,2018,74,64,383768
+Venom,"Action, Adventure, Sci-Fi  ",112,2018,67,35,381786
+A Star Is Born,"Drama, Music, Romance  ",136,2018,76,88,347312
+Ant-Man and the Wasp,"Action, Adventure, Comedy  ",118,2018,70,70,328213
+Solo: A Star Wars Story,"Action, Adventure, Sci-Fi  ",135,2018,69,62,303435
+Mission: Impossible - Fallout,"Action, Adventure, Thriller  ",147,2018,77,86,300662
+Bird Box,"Horror, Sci-Fi  ",124,2018,66,51,291578
+Annihilation,"Adventure, Drama, Horror  ",115,2018,68,79,289540
+Jurassic World: Fallen Kingdom,"Action, Adventure, Sci-Fi  ",128,2018,62,51,274549
+Incredibles 2,"Animation, Action, Adventure  ",118,2018,76,80,260026
+Hereditary,"Drama, Horror, Mystery  ",127,2018,73,87,254312
+BlacKkKlansman,"Biography, Comedy, Crime  ",135,2018,75,83,233340
+Fantastic Beasts: The Crimes of Grindelwald,"Adventure, Family, Fantasy  ",134,2018,65,52,232087
+Game Night,"Action, Comedy, Crime  ",100,2018,69,66,213446
+Tomb Raider,"Action, Adventure, Fantasy  ",119,2018,63,48,195419
+Ocean's Eight,"Action, Comedy, Crime  ",110,2018,69,61,194713
+The Favourite,"Biography, Comedy, Drama  ",119,2018,75,91,179718
+First Man,"Biography, Drama, History  ",141,2018,73,84,174806
+Red Sparrow,"Action, Drama, Thriller  ",140,2018,66,53,171660
+Upgrade,"Action, Sci-Fi, Thriller  ",100,2018,75,67,166643
+The Meg,"Action, Horror, Sci-Fi  ",113,2018,56,46,155861
+Rampage,"Action, Adventure, Sci-Fi  ",107,2018,61,45,149455
+Crazy Rich Asians,"Comedy, Drama, Romance  ",120,2018,69,74,149348
+Searching,"Drama, Mystery, Thriller  ",102,2018,76,71,146538
+Isle of Dogs,"Animation, Adventure, Comedy  ",101,2018,79,82,145461
+Bumblebee,"Action, Adventure, Sci-Fi  ",114,2018,68,66,145093
+Roma,Drama  ,135,2018,77,96,144952
+The Equalizer 2,"Action, Crime, Thriller  ",121,2018,67,50,139784
+Ralph Breaks the Internet,"Animation, Adventure, Comedy  ",112,2018,70,71,138325
+A Simple Favor,"Comedy, Crime, Mystery  ",117,2018,68,67,134465
+Bad Times at the El Royale,"Crime, Drama, Mystery  ",141,2018,71,60,133818
+Sicario: Day of the Soldado,"Action, Adventure, Crime  ",122,2018,71,61,130761
+Vice,"Biography, Comedy, Drama  ",132,2018,72,61,128851
+The Ballad of Buster Scruggs,"Comedy, Drama, Musical  ",133,2018,73,79,128497
+Halloween,"Crime, Horror, Thriller  ",106,2018,65,67,124585
+The Nun,"Horror, Mystery, Thriller  ",96,2018,53,46,124079
+Tag,"Action, Comedy  ",100,2018,65,56,120163
+The Mule,"Crime, Drama, Thriller  ",116,2018,70,58,119882
+Maze Runner: The Death Cure,"Action, Adventure, Sci-Fi  ",143,2018,63,50,119453

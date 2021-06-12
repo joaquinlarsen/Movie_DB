@@ -1,0 +1,507 @@
+Movie,Genre,Duration,Year,Imdb_rating,Metascore_rating,Votes
+Saving Private Ryan,"Drama, War  ",169,1998,86,91,1266694
+American History X,Drama  ,119,1998,85,62,1051656
+The Truman Show,"Comedy, Drama  ",103,1998,81,90,966072
+The Big Lebowski,"Comedy, Crime, Sport  ",117,1998,81,71,748107
+"Lock, Stock and Two Smoking Barrels","Action, Comedy, Crime  ",107,1998,82,66,545322
+Armageddon,"Action, Adventure, Sci-Fi  ",151,1998,67,42,401546
+There's Something About Mary,"Comedy, Romance  ",119,1998,71,69,295235
+A Bug's Life,"Animation, Adventure, Comedy  ",95,1998,72,77,271445
+Fear and Loathing in Las Vegas,"Adventure, Comedy, Drama  ",118,1998,76,41,264250
+Mulan,"Animation, Adventure, Family  ",88,1998,76,71,262943
+Blade,"Action, Horror, Sci-Fi  ",120,1998,71,45,250768
+Rush Hour,"Action, Comedy, Crime  ",98,1998,70,60,244616
+Enemy of the State,"Action, Thriller  ",132,1998,73,67,230728
+Meet Joe Black,"Drama, Fantasy, Romance  ",178,1998,72,43,220338
+Shakespeare in Love,"Comedy, Drama, History  ",123,1998,71,87,216638
+You've Got Mail,"Comedy, Drama, Romance  ",119,1998,67,57,199311
+Dark City,"Fantasy, Mystery, Sci-Fi  ",100,1998,76,66,190646
+Run Lola Run,"Crime, Drama, Thriller  ",80,1998,77,77,190397
+Godzilla,"Action, Sci-Fi, Thriller  ",139,1998,54,32,186012
+The Thin Red Line,"Drama, War  ",170,1998,76,78,176127
+Ronin,"Action, Crime, Thriller  ",122,1998,73,67,174927
+Rushmore,"Comedy, Drama, Romance  ",93,1998,77,86,172960
+The Mask of Zorro,"Action, Adventure, Comedy  ",136,1998,68,63,172216
+Pi,"Drama, Horror, Mystery  ",84,1998,74,72,172044
+Deep Impact,"Action, Drama, Sci-Fi  ",120,1998,62,40,167588
+The Man in the Iron Mask,"Action, Adventure, Drama  ",132,1998,65,48,159017
+Lethal Weapon 4,"Action, Crime, Thriller  ",127,1998,66,37,155431
+The Waterboy,"Comedy, Sport  ",90,1998,61,41,151759
+Antz,"Animation, Adventure, Comedy  ",83,1998,65,72,148068
+Rounders,"Crime, Drama  ",121,1998,73,54,143752
+The Wedding Singer,"Comedy, Music, Romance  ",97,1998,68,59,137860
+The Negotiator,"Action, Crime, Drama  ",140,1998,73,62,133083
+The Parent Trap,"Adventure, Comedy, Drama  ",128,1998,65,64,124081
+Pleasantville,"Comedy, Drama, Fantasy  ",124,1998,75,71,122942
+The Prince of Egypt,"Animation, Adventure, Drama  ",99,1998,71,64,121726
+City of Angels,"Drama, Fantasy, Romance  ",114,1998,67,54,115266
+The Faculty,"Horror, Mystery, Sci-Fi  ",104,1998,65,61,113358
+Wild Things,"Crime, Drama, Mystery  ",108,1998,65,52,111080
+Patch Adams,"Biography, Comedy, Drama  ",115,1998,68,25,107493
+What Dreams May Come,"Drama, Fantasy, Romance  ",113,1998,70,44,103832
+The X Files,"Drama, Mystery, Sci-Fi  ",121,1998,70,60,102265
+Sphere,"Action, Mystery, Sci-Fi  ",134,1998,61,35,100680
+U.S. Marshals,"Action, Crime, Thriller  ",131,1998,66,47,97588
+Elizabeth,"Biography, Drama, History  ",124,1998,74,75,94517
+Doctor Dolittle,"Comedy, Family, Fantasy  ",85,1998,54,46,92484
+Following,"Crime, Mystery, Thriller  ",69,1998,75,60,88593
+Saving Private Ryan,"Drama, War  ",169,1998,86,91,1266694
+American History X,Drama  ,119,1998,85,62,1051656
+The Truman Show,"Comedy, Drama  ",103,1998,81,90,966072
+The Big Lebowski,"Comedy, Crime, Sport  ",117,1998,81,71,748107
+"Lock, Stock and Two Smoking Barrels","Action, Comedy, Crime  ",107,1998,82,66,545322
+Armageddon,"Action, Adventure, Sci-Fi  ",151,1998,67,42,401546
+There's Something About Mary,"Comedy, Romance  ",119,1998,71,69,295235
+A Bug's Life,"Animation, Adventure, Comedy  ",95,1998,72,77,271445
+Fear and Loathing in Las Vegas,"Adventure, Comedy, Drama  ",118,1998,76,41,264250
+Mulan,"Animation, Adventure, Family  ",88,1998,76,71,262943
+Blade,"Action, Horror, Sci-Fi  ",120,1998,71,45,250768
+Rush Hour,"Action, Comedy, Crime  ",98,1998,70,60,244616
+Enemy of the State,"Action, Thriller  ",132,1998,73,67,230728
+Meet Joe Black,"Drama, Fantasy, Romance  ",178,1998,72,43,220338
+Shakespeare in Love,"Comedy, Drama, History  ",123,1998,71,87,216638
+You've Got Mail,"Comedy, Drama, Romance  ",119,1998,67,57,199311
+Dark City,"Fantasy, Mystery, Sci-Fi  ",100,1998,76,66,190646
+Run Lola Run,"Crime, Drama, Thriller  ",80,1998,77,77,190397
+Godzilla,"Action, Sci-Fi, Thriller  ",139,1998,54,32,186012
+The Thin Red Line,"Drama, War  ",170,1998,76,78,176127
+Ronin,"Action, Crime, Thriller  ",122,1998,73,67,174927
+Rushmore,"Comedy, Drama, Romance  ",93,1998,77,86,172960
+The Mask of Zorro,"Action, Adventure, Comedy  ",136,1998,68,63,172216
+Pi,"Drama, Horror, Mystery  ",84,1998,74,72,172044
+Deep Impact,"Action, Drama, Sci-Fi  ",120,1998,62,40,167588
+The Man in the Iron Mask,"Action, Adventure, Drama  ",132,1998,65,48,159017
+Lethal Weapon 4,"Action, Crime, Thriller  ",127,1998,66,37,155431
+The Waterboy,"Comedy, Sport  ",90,1998,61,41,151759
+Antz,"Animation, Adventure, Comedy  ",83,1998,65,72,148068
+Rounders,"Crime, Drama  ",121,1998,73,54,143752
+The Wedding Singer,"Comedy, Music, Romance  ",97,1998,68,59,137860
+The Negotiator,"Action, Crime, Drama  ",140,1998,73,62,133083
+The Parent Trap,"Adventure, Comedy, Drama  ",128,1998,65,64,124081
+Pleasantville,"Comedy, Drama, Fantasy  ",124,1998,75,71,122942
+The Prince of Egypt,"Animation, Adventure, Drama  ",99,1998,71,64,121726
+City of Angels,"Drama, Fantasy, Romance  ",114,1998,67,54,115266
+The Faculty,"Horror, Mystery, Sci-Fi  ",104,1998,65,61,113358
+Wild Things,"Crime, Drama, Mystery  ",108,1998,65,52,111080
+Patch Adams,"Biography, Comedy, Drama  ",115,1998,68,25,107493
+What Dreams May Come,"Drama, Fantasy, Romance  ",113,1998,70,44,103832
+The X Files,"Drama, Mystery, Sci-Fi  ",121,1998,70,60,102265
+Sphere,"Action, Mystery, Sci-Fi  ",134,1998,61,35,100680
+U.S. Marshals,"Action, Crime, Thriller  ",131,1998,66,47,97588
+Elizabeth,"Biography, Drama, History  ",124,1998,74,75,94517
+Doctor Dolittle,"Comedy, Family, Fantasy  ",85,1998,54,46,92484
+Following,"Crime, Mystery, Thriller  ",69,1998,75,60,88593
+Saving Private Ryan,"Drama, War  ",169,1998,86,91,1266694
+American History X,Drama  ,119,1998,85,62,1051656
+The Truman Show,"Comedy, Drama  ",103,1998,81,90,966072
+The Big Lebowski,"Comedy, Crime, Sport  ",117,1998,81,71,748107
+"Lock, Stock and Two Smoking Barrels","Action, Comedy, Crime  ",107,1998,82,66,545322
+Armageddon,"Action, Adventure, Sci-Fi  ",151,1998,67,42,401546
+There's Something About Mary,"Comedy, Romance  ",119,1998,71,69,295235
+A Bug's Life,"Animation, Adventure, Comedy  ",95,1998,72,77,271445
+Fear and Loathing in Las Vegas,"Adventure, Comedy, Drama  ",118,1998,76,41,264250
+Mulan,"Animation, Adventure, Family  ",88,1998,76,71,262943
+Blade,"Action, Horror, Sci-Fi  ",120,1998,71,45,250768
+Rush Hour,"Action, Comedy, Crime  ",98,1998,70,60,244616
+Enemy of the State,"Action, Thriller  ",132,1998,73,67,230728
+Meet Joe Black,"Drama, Fantasy, Romance  ",178,1998,72,43,220338
+Shakespeare in Love,"Comedy, Drama, History  ",123,1998,71,87,216638
+You've Got Mail,"Comedy, Drama, Romance  ",119,1998,67,57,199311
+Dark City,"Fantasy, Mystery, Sci-Fi  ",100,1998,76,66,190646
+Run Lola Run,"Crime, Drama, Thriller  ",80,1998,77,77,190397
+Godzilla,"Action, Sci-Fi, Thriller  ",139,1998,54,32,186012
+The Thin Red Line,"Drama, War  ",170,1998,76,78,176127
+Ronin,"Action, Crime, Thriller  ",122,1998,73,67,174927
+Rushmore,"Comedy, Drama, Romance  ",93,1998,77,86,172960
+The Mask of Zorro,"Action, Adventure, Comedy  ",136,1998,68,63,172216
+Pi,"Drama, Horror, Mystery  ",84,1998,74,72,172044
+Deep Impact,"Action, Drama, Sci-Fi  ",120,1998,62,40,167588
+The Man in the Iron Mask,"Action, Adventure, Drama  ",132,1998,65,48,159017
+Lethal Weapon 4,"Action, Crime, Thriller  ",127,1998,66,37,155431
+The Waterboy,"Comedy, Sport  ",90,1998,61,41,151759
+Antz,"Animation, Adventure, Comedy  ",83,1998,65,72,148068
+Rounders,"Crime, Drama  ",121,1998,73,54,143752
+The Wedding Singer,"Comedy, Music, Romance  ",97,1998,68,59,137860
+The Negotiator,"Action, Crime, Drama  ",140,1998,73,62,133083
+The Parent Trap,"Adventure, Comedy, Drama  ",128,1998,65,64,124081
+Pleasantville,"Comedy, Drama, Fantasy  ",124,1998,75,71,122942
+The Prince of Egypt,"Animation, Adventure, Drama  ",99,1998,71,64,121726
+City of Angels,"Drama, Fantasy, Romance  ",114,1998,67,54,115266
+The Faculty,"Horror, Mystery, Sci-Fi  ",104,1998,65,61,113358
+Wild Things,"Crime, Drama, Mystery  ",108,1998,65,52,111080
+Patch Adams,"Biography, Comedy, Drama  ",115,1998,68,25,107493
+What Dreams May Come,"Drama, Fantasy, Romance  ",113,1998,70,44,103832
+The X Files,"Drama, Mystery, Sci-Fi  ",121,1998,70,60,102265
+Sphere,"Action, Mystery, Sci-Fi  ",134,1998,61,35,100680
+U.S. Marshals,"Action, Crime, Thriller  ",131,1998,66,47,97588
+Elizabeth,"Biography, Drama, History  ",124,1998,74,75,94517
+Doctor Dolittle,"Comedy, Family, Fantasy  ",85,1998,54,46,92484
+Following,"Crime, Mystery, Thriller  ",69,1998,75,60,88593
+Saving Private Ryan,"Drama, War  ",169,1998,86,91,1266694
+American History X,Drama  ,119,1998,85,62,1051656
+The Truman Show,"Comedy, Drama  ",103,1998,81,90,966072
+The Big Lebowski,"Comedy, Crime, Sport  ",117,1998,81,71,748107
+"Lock, Stock and Two Smoking Barrels","Action, Comedy, Crime  ",107,1998,82,66,545322
+Armageddon,"Action, Adventure, Sci-Fi  ",151,1998,67,42,401546
+There's Something About Mary,"Comedy, Romance  ",119,1998,71,69,295235
+A Bug's Life,"Animation, Adventure, Comedy  ",95,1998,72,77,271445
+Fear and Loathing in Las Vegas,"Adventure, Comedy, Drama  ",118,1998,76,41,264250
+Mulan,"Animation, Adventure, Family  ",88,1998,76,71,262943
+Blade,"Action, Horror, Sci-Fi  ",120,1998,71,45,250768
+Rush Hour,"Action, Comedy, Crime  ",98,1998,70,60,244616
+Enemy of the State,"Action, Thriller  ",132,1998,73,67,230728
+Meet Joe Black,"Drama, Fantasy, Romance  ",178,1998,72,43,220338
+Shakespeare in Love,"Comedy, Drama, History  ",123,1998,71,87,216638
+You've Got Mail,"Comedy, Drama, Romance  ",119,1998,67,57,199311
+Dark City,"Fantasy, Mystery, Sci-Fi  ",100,1998,76,66,190646
+Run Lola Run,"Crime, Drama, Thriller  ",80,1998,77,77,190397
+Godzilla,"Action, Sci-Fi, Thriller  ",139,1998,54,32,186012
+The Thin Red Line,"Drama, War  ",170,1998,76,78,176127
+Ronin,"Action, Crime, Thriller  ",122,1998,73,67,174927
+Rushmore,"Comedy, Drama, Romance  ",93,1998,77,86,172960
+The Mask of Zorro,"Action, Adventure, Comedy  ",136,1998,68,63,172216
+Pi,"Drama, Horror, Mystery  ",84,1998,74,72,172044
+Deep Impact,"Action, Drama, Sci-Fi  ",120,1998,62,40,167588
+The Man in the Iron Mask,"Action, Adventure, Drama  ",132,1998,65,48,159017
+Lethal Weapon 4,"Action, Crime, Thriller  ",127,1998,66,37,155431
+The Waterboy,"Comedy, Sport  ",90,1998,61,41,151759
+Antz,"Animation, Adventure, Comedy  ",83,1998,65,72,148068
+Rounders,"Crime, Drama  ",121,1998,73,54,143752
+The Wedding Singer,"Comedy, Music, Romance  ",97,1998,68,59,137860
+The Negotiator,"Action, Crime, Drama  ",140,1998,73,62,133083
+The Parent Trap,"Adventure, Comedy, Drama  ",128,1998,65,64,124081
+Pleasantville,"Comedy, Drama, Fantasy  ",124,1998,75,71,122942
+The Prince of Egypt,"Animation, Adventure, Drama  ",99,1998,71,64,121726
+City of Angels,"Drama, Fantasy, Romance  ",114,1998,67,54,115266
+The Faculty,"Horror, Mystery, Sci-Fi  ",104,1998,65,61,113358
+Wild Things,"Crime, Drama, Mystery  ",108,1998,65,52,111080
+Patch Adams,"Biography, Comedy, Drama  ",115,1998,68,25,107493
+What Dreams May Come,"Drama, Fantasy, Romance  ",113,1998,70,44,103832
+The X Files,"Drama, Mystery, Sci-Fi  ",121,1998,70,60,102265
+Sphere,"Action, Mystery, Sci-Fi  ",134,1998,61,35,100680
+U.S. Marshals,"Action, Crime, Thriller  ",131,1998,66,47,97588
+Elizabeth,"Biography, Drama, History  ",124,1998,74,75,94517
+Doctor Dolittle,"Comedy, Family, Fantasy  ",85,1998,54,46,92484
+Following,"Crime, Mystery, Thriller  ",69,1998,75,60,88593
+Saving Private Ryan,"Drama, War  ",169,1998,86,91,1266694
+American History X,Drama  ,119,1998,85,62,1051656
+The Truman Show,"Comedy, Drama  ",103,1998,81,90,966072
+The Big Lebowski,"Comedy, Crime, Sport  ",117,1998,81,71,748107
+"Lock, Stock and Two Smoking Barrels","Action, Comedy, Crime  ",107,1998,82,66,545322
+Armageddon,"Action, Adventure, Sci-Fi  ",151,1998,67,42,401546
+There's Something About Mary,"Comedy, Romance  ",119,1998,71,69,295235
+A Bug's Life,"Animation, Adventure, Comedy  ",95,1998,72,77,271445
+Fear and Loathing in Las Vegas,"Adventure, Comedy, Drama  ",118,1998,76,41,264250
+Mulan,"Animation, Adventure, Family  ",88,1998,76,71,262943
+Blade,"Action, Horror, Sci-Fi  ",120,1998,71,45,250768
+Rush Hour,"Action, Comedy, Crime  ",98,1998,70,60,244616
+Enemy of the State,"Action, Thriller  ",132,1998,73,67,230728
+Meet Joe Black,"Drama, Fantasy, Romance  ",178,1998,72,43,220338
+Shakespeare in Love,"Comedy, Drama, History  ",123,1998,71,87,216638
+You've Got Mail,"Comedy, Drama, Romance  ",119,1998,67,57,199311
+Dark City,"Fantasy, Mystery, Sci-Fi  ",100,1998,76,66,190646
+Run Lola Run,"Crime, Drama, Thriller  ",80,1998,77,77,190397
+Godzilla,"Action, Sci-Fi, Thriller  ",139,1998,54,32,186012
+The Thin Red Line,"Drama, War  ",170,1998,76,78,176127
+Ronin,"Action, Crime, Thriller  ",122,1998,73,67,174927
+Rushmore,"Comedy, Drama, Romance  ",93,1998,77,86,172960
+The Mask of Zorro,"Action, Adventure, Comedy  ",136,1998,68,63,172216
+Pi,"Drama, Horror, Mystery  ",84,1998,74,72,172044
+Deep Impact,"Action, Drama, Sci-Fi  ",120,1998,62,40,167588
+The Man in the Iron Mask,"Action, Adventure, Drama  ",132,1998,65,48,159017
+Lethal Weapon 4,"Action, Crime, Thriller  ",127,1998,66,37,155431
+The Waterboy,"Comedy, Sport  ",90,1998,61,41,151759
+Antz,"Animation, Adventure, Comedy  ",83,1998,65,72,148068
+Rounders,"Crime, Drama  ",121,1998,73,54,143752
+The Wedding Singer,"Comedy, Music, Romance  ",97,1998,68,59,137860
+The Negotiator,"Action, Crime, Drama  ",140,1998,73,62,133083
+The Parent Trap,"Adventure, Comedy, Drama  ",128,1998,65,64,124081
+Pleasantville,"Comedy, Drama, Fantasy  ",124,1998,75,71,122942
+The Prince of Egypt,"Animation, Adventure, Drama  ",99,1998,71,64,121726
+City of Angels,"Drama, Fantasy, Romance  ",114,1998,67,54,115266
+The Faculty,"Horror, Mystery, Sci-Fi  ",104,1998,65,61,113358
+Wild Things,"Crime, Drama, Mystery  ",108,1998,65,52,111080
+Patch Adams,"Biography, Comedy, Drama  ",115,1998,68,25,107493
+What Dreams May Come,"Drama, Fantasy, Romance  ",113,1998,70,44,103832
+The X Files,"Drama, Mystery, Sci-Fi  ",121,1998,70,60,102265
+Sphere,"Action, Mystery, Sci-Fi  ",134,1998,61,35,100680
+U.S. Marshals,"Action, Crime, Thriller  ",131,1998,66,47,97588
+Elizabeth,"Biography, Drama, History  ",124,1998,74,75,94517
+Doctor Dolittle,"Comedy, Family, Fantasy  ",85,1998,54,46,92484
+Following,"Crime, Mystery, Thriller  ",69,1998,75,60,88593
+Saving Private Ryan,"Drama, War  ",169,1998,86,91,1266694
+American History X,Drama  ,119,1998,85,62,1051656
+The Truman Show,"Comedy, Drama  ",103,1998,81,90,966072
+The Big Lebowski,"Comedy, Crime, Sport  ",117,1998,81,71,748107
+"Lock, Stock and Two Smoking Barrels","Action, Comedy, Crime  ",107,1998,82,66,545322
+Armageddon,"Action, Adventure, Sci-Fi  ",151,1998,67,42,401546
+There's Something About Mary,"Comedy, Romance  ",119,1998,71,69,295235
+A Bug's Life,"Animation, Adventure, Comedy  ",95,1998,72,77,271445
+Fear and Loathing in Las Vegas,"Adventure, Comedy, Drama  ",118,1998,76,41,264250
+Mulan,"Animation, Adventure, Family  ",88,1998,76,71,262943
+Blade,"Action, Horror, Sci-Fi  ",120,1998,71,45,250768
+Rush Hour,"Action, Comedy, Crime  ",98,1998,70,60,244616
+Enemy of the State,"Action, Thriller  ",132,1998,73,67,230728
+Meet Joe Black,"Drama, Fantasy, Romance  ",178,1998,72,43,220338
+Shakespeare in Love,"Comedy, Drama, History  ",123,1998,71,87,216638
+You've Got Mail,"Comedy, Drama, Romance  ",119,1998,67,57,199311
+Dark City,"Fantasy, Mystery, Sci-Fi  ",100,1998,76,66,190646
+Run Lola Run,"Crime, Drama, Thriller  ",80,1998,77,77,190397
+Godzilla,"Action, Sci-Fi, Thriller  ",139,1998,54,32,186012
+The Thin Red Line,"Drama, War  ",170,1998,76,78,176127
+Ronin,"Action, Crime, Thriller  ",122,1998,73,67,174927
+Rushmore,"Comedy, Drama, Romance  ",93,1998,77,86,172960
+The Mask of Zorro,"Action, Adventure, Comedy  ",136,1998,68,63,172216
+Pi,"Drama, Horror, Mystery  ",84,1998,74,72,172044
+Deep Impact,"Action, Drama, Sci-Fi  ",120,1998,62,40,167588
+The Man in the Iron Mask,"Action, Adventure, Drama  ",132,1998,65,48,159017
+Lethal Weapon 4,"Action, Crime, Thriller  ",127,1998,66,37,155431
+The Waterboy,"Comedy, Sport  ",90,1998,61,41,151759
+Antz,"Animation, Adventure, Comedy  ",83,1998,65,72,148068
+Rounders,"Crime, Drama  ",121,1998,73,54,143752
+The Wedding Singer,"Comedy, Music, Romance  ",97,1998,68,59,137860
+The Negotiator,"Action, Crime, Drama  ",140,1998,73,62,133083
+The Parent Trap,"Adventure, Comedy, Drama  ",128,1998,65,64,124081
+Pleasantville,"Comedy, Drama, Fantasy  ",124,1998,75,71,122942
+The Prince of Egypt,"Animation, Adventure, Drama  ",99,1998,71,64,121726
+City of Angels,"Drama, Fantasy, Romance  ",114,1998,67,54,115266
+The Faculty,"Horror, Mystery, Sci-Fi  ",104,1998,65,61,113358
+Wild Things,"Crime, Drama, Mystery  ",108,1998,65,52,111080
+Patch Adams,"Biography, Comedy, Drama  ",115,1998,68,25,107493
+What Dreams May Come,"Drama, Fantasy, Romance  ",113,1998,70,44,103832
+The X Files,"Drama, Mystery, Sci-Fi  ",121,1998,70,60,102265
+Sphere,"Action, Mystery, Sci-Fi  ",134,1998,61,35,100680
+U.S. Marshals,"Action, Crime, Thriller  ",131,1998,66,47,97588
+Elizabeth,"Biography, Drama, History  ",124,1998,74,75,94517
+Doctor Dolittle,"Comedy, Family, Fantasy  ",85,1998,54,46,92484
+Following,"Crime, Mystery, Thriller  ",69,1998,75,60,88593
+Saving Private Ryan,"Drama, War  ",169,1998,86,91,1266694
+American History X,Drama  ,119,1998,85,62,1051656
+The Truman Show,"Comedy, Drama  ",103,1998,81,90,966072
+The Big Lebowski,"Comedy, Crime, Sport  ",117,1998,81,71,748107
+"Lock, Stock and Two Smoking Barrels","Action, Comedy, Crime  ",107,1998,82,66,545322
+Armageddon,"Action, Adventure, Sci-Fi  ",151,1998,67,42,401546
+There's Something About Mary,"Comedy, Romance  ",119,1998,71,69,295235
+A Bug's Life,"Animation, Adventure, Comedy  ",95,1998,72,77,271445
+Fear and Loathing in Las Vegas,"Adventure, Comedy, Drama  ",118,1998,76,41,264250
+Mulan,"Animation, Adventure, Family  ",88,1998,76,71,262943
+Blade,"Action, Horror, Sci-Fi  ",120,1998,71,45,250768
+Rush Hour,"Action, Comedy, Crime  ",98,1998,70,60,244616
+Enemy of the State,"Action, Thriller  ",132,1998,73,67,230728
+Meet Joe Black,"Drama, Fantasy, Romance  ",178,1998,72,43,220338
+Shakespeare in Love,"Comedy, Drama, History  ",123,1998,71,87,216638
+You've Got Mail,"Comedy, Drama, Romance  ",119,1998,67,57,199311
+Dark City,"Fantasy, Mystery, Sci-Fi  ",100,1998,76,66,190646
+Run Lola Run,"Crime, Drama, Thriller  ",80,1998,77,77,190397
+Godzilla,"Action, Sci-Fi, Thriller  ",139,1998,54,32,186012
+The Thin Red Line,"Drama, War  ",170,1998,76,78,176127
+Ronin,"Action, Crime, Thriller  ",122,1998,73,67,174927
+Rushmore,"Comedy, Drama, Romance  ",93,1998,77,86,172960
+The Mask of Zorro,"Action, Adventure, Comedy  ",136,1998,68,63,172216
+Pi,"Drama, Horror, Mystery  ",84,1998,74,72,172044
+Deep Impact,"Action, Drama, Sci-Fi  ",120,1998,62,40,167588
+The Man in the Iron Mask,"Action, Adventure, Drama  ",132,1998,65,48,159017
+Lethal Weapon 4,"Action, Crime, Thriller  ",127,1998,66,37,155431
+The Waterboy,"Comedy, Sport  ",90,1998,61,41,151759
+Antz,"Animation, Adventure, Comedy  ",83,1998,65,72,148068
+Rounders,"Crime, Drama  ",121,1998,73,54,143752
+The Wedding Singer,"Comedy, Music, Romance  ",97,1998,68,59,137860
+The Negotiator,"Action, Crime, Drama  ",140,1998,73,62,133083
+The Parent Trap,"Adventure, Comedy, Drama  ",128,1998,65,64,124081
+Pleasantville,"Comedy, Drama, Fantasy  ",124,1998,75,71,122942
+The Prince of Egypt,"Animation, Adventure, Drama  ",99,1998,71,64,121726
+City of Angels,"Drama, Fantasy, Romance  ",114,1998,67,54,115266
+The Faculty,"Horror, Mystery, Sci-Fi  ",104,1998,65,61,113358
+Wild Things,"Crime, Drama, Mystery  ",108,1998,65,52,111080
+Patch Adams,"Biography, Comedy, Drama  ",115,1998,68,25,107493
+What Dreams May Come,"Drama, Fantasy, Romance  ",113,1998,70,44,103832
+The X Files,"Drama, Mystery, Sci-Fi  ",121,1998,70,60,102265
+Sphere,"Action, Mystery, Sci-Fi  ",134,1998,61,35,100680
+U.S. Marshals,"Action, Crime, Thriller  ",131,1998,66,47,97588
+Elizabeth,"Biography, Drama, History  ",124,1998,74,75,94517
+Doctor Dolittle,"Comedy, Family, Fantasy  ",85,1998,54,46,92484
+Following,"Crime, Mystery, Thriller  ",69,1998,75,60,88593
+Saving Private Ryan,"Drama, War  ",169,1998,86,91,1266694
+American History X,Drama  ,119,1998,85,62,1051656
+The Truman Show,"Comedy, Drama  ",103,1998,81,90,966072
+The Big Lebowski,"Comedy, Crime, Sport  ",117,1998,81,71,748107
+"Lock, Stock and Two Smoking Barrels","Action, Comedy, Crime  ",107,1998,82,66,545322
+Armageddon,"Action, Adventure, Sci-Fi  ",151,1998,67,42,401546
+There's Something About Mary,"Comedy, Romance  ",119,1998,71,69,295235
+A Bug's Life,"Animation, Adventure, Comedy  ",95,1998,72,77,271445
+Fear and Loathing in Las Vegas,"Adventure, Comedy, Drama  ",118,1998,76,41,264250
+Mulan,"Animation, Adventure, Family  ",88,1998,76,71,262943
+Blade,"Action, Horror, Sci-Fi  ",120,1998,71,45,250768
+Rush Hour,"Action, Comedy, Crime  ",98,1998,70,60,244616
+Enemy of the State,"Action, Thriller  ",132,1998,73,67,230728
+Meet Joe Black,"Drama, Fantasy, Romance  ",178,1998,72,43,220338
+Shakespeare in Love,"Comedy, Drama, History  ",123,1998,71,87,216638
+You've Got Mail,"Comedy, Drama, Romance  ",119,1998,67,57,199311
+Dark City,"Fantasy, Mystery, Sci-Fi  ",100,1998,76,66,190646
+Run Lola Run,"Crime, Drama, Thriller  ",80,1998,77,77,190397
+Godzilla,"Action, Sci-Fi, Thriller  ",139,1998,54,32,186012
+The Thin Red Line,"Drama, War  ",170,1998,76,78,176127
+Ronin,"Action, Crime, Thriller  ",122,1998,73,67,174927
+Rushmore,"Comedy, Drama, Romance  ",93,1998,77,86,172960
+The Mask of Zorro,"Action, Adventure, Comedy  ",136,1998,68,63,172216
+Pi,"Drama, Horror, Mystery  ",84,1998,74,72,172044
+Deep Impact,"Action, Drama, Sci-Fi  ",120,1998,62,40,167588
+The Man in the Iron Mask,"Action, Adventure, Drama  ",132,1998,65,48,159017
+Lethal Weapon 4,"Action, Crime, Thriller  ",127,1998,66,37,155431
+The Waterboy,"Comedy, Sport  ",90,1998,61,41,151759
+Antz,"Animation, Adventure, Comedy  ",83,1998,65,72,148068
+Rounders,"Crime, Drama  ",121,1998,73,54,143752
+The Wedding Singer,"Comedy, Music, Romance  ",97,1998,68,59,137860
+The Negotiator,"Action, Crime, Drama  ",140,1998,73,62,133083
+The Parent Trap,"Adventure, Comedy, Drama  ",128,1998,65,64,124081
+Pleasantville,"Comedy, Drama, Fantasy  ",124,1998,75,71,122942
+The Prince of Egypt,"Animation, Adventure, Drama  ",99,1998,71,64,121726
+City of Angels,"Drama, Fantasy, Romance  ",114,1998,67,54,115266
+The Faculty,"Horror, Mystery, Sci-Fi  ",104,1998,65,61,113358
+Wild Things,"Crime, Drama, Mystery  ",108,1998,65,52,111080
+Patch Adams,"Biography, Comedy, Drama  ",115,1998,68,25,107493
+What Dreams May Come,"Drama, Fantasy, Romance  ",113,1998,70,44,103832
+The X Files,"Drama, Mystery, Sci-Fi  ",121,1998,70,60,102265
+Sphere,"Action, Mystery, Sci-Fi  ",134,1998,61,35,100680
+U.S. Marshals,"Action, Crime, Thriller  ",131,1998,66,47,97588
+Elizabeth,"Biography, Drama, History  ",124,1998,74,75,94517
+Doctor Dolittle,"Comedy, Family, Fantasy  ",85,1998,54,46,92484
+Following,"Crime, Mystery, Thriller  ",69,1998,75,60,88593
+Saving Private Ryan,"Drama, War  ",169,1998,86,91,1266694
+American History X,Drama  ,119,1998,85,62,1051656
+The Truman Show,"Comedy, Drama  ",103,1998,81,90,966072
+The Big Lebowski,"Comedy, Crime, Sport  ",117,1998,81,71,748107
+"Lock, Stock and Two Smoking Barrels","Action, Comedy, Crime  ",107,1998,82,66,545322
+Armageddon,"Action, Adventure, Sci-Fi  ",151,1998,67,42,401546
+There's Something About Mary,"Comedy, Romance  ",119,1998,71,69,295235
+A Bug's Life,"Animation, Adventure, Comedy  ",95,1998,72,77,271445
+Fear and Loathing in Las Vegas,"Adventure, Comedy, Drama  ",118,1998,76,41,264250
+Mulan,"Animation, Adventure, Family  ",88,1998,76,71,262943
+Blade,"Action, Horror, Sci-Fi  ",120,1998,71,45,250768
+Rush Hour,"Action, Comedy, Crime  ",98,1998,70,60,244616
+Enemy of the State,"Action, Thriller  ",132,1998,73,67,230728
+Meet Joe Black,"Drama, Fantasy, Romance  ",178,1998,72,43,220338
+Shakespeare in Love,"Comedy, Drama, History  ",123,1998,71,87,216638
+You've Got Mail,"Comedy, Drama, Romance  ",119,1998,67,57,199311
+Dark City,"Fantasy, Mystery, Sci-Fi  ",100,1998,76,66,190646
+Run Lola Run,"Crime, Drama, Thriller  ",80,1998,77,77,190397
+Godzilla,"Action, Sci-Fi, Thriller  ",139,1998,54,32,186012
+The Thin Red Line,"Drama, War  ",170,1998,76,78,176127
+Ronin,"Action, Crime, Thriller  ",122,1998,73,67,174927
+Rushmore,"Comedy, Drama, Romance  ",93,1998,77,86,172960
+The Mask of Zorro,"Action, Adventure, Comedy  ",136,1998,68,63,172216
+Pi,"Drama, Horror, Mystery  ",84,1998,74,72,172044
+Deep Impact,"Action, Drama, Sci-Fi  ",120,1998,62,40,167588
+The Man in the Iron Mask,"Action, Adventure, Drama  ",132,1998,65,48,159017
+Lethal Weapon 4,"Action, Crime, Thriller  ",127,1998,66,37,155431
+The Waterboy,"Comedy, Sport  ",90,1998,61,41,151759
+Antz,"Animation, Adventure, Comedy  ",83,1998,65,72,148068
+Rounders,"Crime, Drama  ",121,1998,73,54,143752
+The Wedding Singer,"Comedy, Music, Romance  ",97,1998,68,59,137860
+The Negotiator,"Action, Crime, Drama  ",140,1998,73,62,133083
+The Parent Trap,"Adventure, Comedy, Drama  ",128,1998,65,64,124081
+Pleasantville,"Comedy, Drama, Fantasy  ",124,1998,75,71,122942
+The Prince of Egypt,"Animation, Adventure, Drama  ",99,1998,71,64,121726
+City of Angels,"Drama, Fantasy, Romance  ",114,1998,67,54,115266
+The Faculty,"Horror, Mystery, Sci-Fi  ",104,1998,65,61,113358
+Wild Things,"Crime, Drama, Mystery  ",108,1998,65,52,111080
+Patch Adams,"Biography, Comedy, Drama  ",115,1998,68,25,107493
+What Dreams May Come,"Drama, Fantasy, Romance  ",113,1998,70,44,103832
+The X Files,"Drama, Mystery, Sci-Fi  ",121,1998,70,60,102265
+Sphere,"Action, Mystery, Sci-Fi  ",134,1998,61,35,100680
+U.S. Marshals,"Action, Crime, Thriller  ",131,1998,66,47,97588
+Elizabeth,"Biography, Drama, History  ",124,1998,74,75,94517
+Doctor Dolittle,"Comedy, Family, Fantasy  ",85,1998,54,46,92484
+Following,"Crime, Mystery, Thriller  ",69,1998,75,60,88593
+Saving Private Ryan,"Drama, War  ",169,1998,86,91,1266694
+American History X,Drama  ,119,1998,85,62,1051656
+The Truman Show,"Comedy, Drama  ",103,1998,81,90,966072
+The Big Lebowski,"Comedy, Crime, Sport  ",117,1998,81,71,748107
+"Lock, Stock and Two Smoking Barrels","Action, Comedy, Crime  ",107,1998,82,66,545322
+Armageddon,"Action, Adventure, Sci-Fi  ",151,1998,67,42,401546
+There's Something About Mary,"Comedy, Romance  ",119,1998,71,69,295235
+A Bug's Life,"Animation, Adventure, Comedy  ",95,1998,72,77,271445
+Fear and Loathing in Las Vegas,"Adventure, Comedy, Drama  ",118,1998,76,41,264250
+Mulan,"Animation, Adventure, Family  ",88,1998,76,71,262943
+Blade,"Action, Horror, Sci-Fi  ",120,1998,71,45,250768
+Rush Hour,"Action, Comedy, Crime  ",98,1998,70,60,244616
+Enemy of the State,"Action, Thriller  ",132,1998,73,67,230728
+Meet Joe Black,"Drama, Fantasy, Romance  ",178,1998,72,43,220338
+Shakespeare in Love,"Comedy, Drama, History  ",123,1998,71,87,216638
+You've Got Mail,"Comedy, Drama, Romance  ",119,1998,67,57,199311
+Dark City,"Fantasy, Mystery, Sci-Fi  ",100,1998,76,66,190646
+Run Lola Run,"Crime, Drama, Thriller  ",80,1998,77,77,190397
+Godzilla,"Action, Sci-Fi, Thriller  ",139,1998,54,32,186012
+The Thin Red Line,"Drama, War  ",170,1998,76,78,176127
+Ronin,"Action, Crime, Thriller  ",122,1998,73,67,174927
+Rushmore,"Comedy, Drama, Romance  ",93,1998,77,86,172960
+The Mask of Zorro,"Action, Adventure, Comedy  ",136,1998,68,63,172216
+Pi,"Drama, Horror, Mystery  ",84,1998,74,72,172044
+Deep Impact,"Action, Drama, Sci-Fi  ",120,1998,62,40,167588
+The Man in the Iron Mask,"Action, Adventure, Drama  ",132,1998,65,48,159017
+Lethal Weapon 4,"Action, Crime, Thriller  ",127,1998,66,37,155431
+The Waterboy,"Comedy, Sport  ",90,1998,61,41,151759
+Antz,"Animation, Adventure, Comedy  ",83,1998,65,72,148068
+Rounders,"Crime, Drama  ",121,1998,73,54,143752
+The Wedding Singer,"Comedy, Music, Romance  ",97,1998,68,59,137860
+The Negotiator,"Action, Crime, Drama  ",140,1998,73,62,133083
+The Parent Trap,"Adventure, Comedy, Drama  ",128,1998,65,64,124081
+Pleasantville,"Comedy, Drama, Fantasy  ",124,1998,75,71,122942
+The Prince of Egypt,"Animation, Adventure, Drama  ",99,1998,71,64,121726
+City of Angels,"Drama, Fantasy, Romance  ",114,1998,67,54,115266
+The Faculty,"Horror, Mystery, Sci-Fi  ",104,1998,65,61,113358
+Wild Things,"Crime, Drama, Mystery  ",108,1998,65,52,111080
+Patch Adams,"Biography, Comedy, Drama  ",115,1998,68,25,107493
+What Dreams May Come,"Drama, Fantasy, Romance  ",113,1998,70,44,103832
+The X Files,"Drama, Mystery, Sci-Fi  ",121,1998,70,60,102265
+Sphere,"Action, Mystery, Sci-Fi  ",134,1998,61,35,100680
+U.S. Marshals,"Action, Crime, Thriller  ",131,1998,66,47,97588
+Elizabeth,"Biography, Drama, History  ",124,1998,74,75,94517
+Doctor Dolittle,"Comedy, Family, Fantasy  ",85,1998,54,46,92484
+Following,"Crime, Mystery, Thriller  ",69,1998,75,60,88593
+Saving Private Ryan,"Drama, War  ",169,1998,86,91,1266694
+American History X,Drama  ,119,1998,85,62,1051656
+The Truman Show,"Comedy, Drama  ",103,1998,81,90,966072
+The Big Lebowski,"Comedy, Crime, Sport  ",117,1998,81,71,748107
+"Lock, Stock and Two Smoking Barrels","Action, Comedy, Crime  ",107,1998,82,66,545322
+Armageddon,"Action, Adventure, Sci-Fi  ",151,1998,67,42,401546
+There's Something About Mary,"Comedy, Romance  ",119,1998,71,69,295235
+A Bug's Life,"Animation, Adventure, Comedy  ",95,1998,72,77,271445
+Fear and Loathing in Las Vegas,"Adventure, Comedy, Drama  ",118,1998,76,41,264250
+Mulan,"Animation, Adventure, Family  ",88,1998,76,71,262943
+Blade,"Action, Horror, Sci-Fi  ",120,1998,71,45,250768
+Rush Hour,"Action, Comedy, Crime  ",98,1998,70,60,244616
+Enemy of the State,"Action, Thriller  ",132,1998,73,67,230728
+Meet Joe Black,"Drama, Fantasy, Romance  ",178,1998,72,43,220338
+Shakespeare in Love,"Comedy, Drama, History  ",123,1998,71,87,216638
+You've Got Mail,"Comedy, Drama, Romance  ",119,1998,67,57,199311
+Dark City,"Fantasy, Mystery, Sci-Fi  ",100,1998,76,66,190646
+Run Lola Run,"Crime, Drama, Thriller  ",80,1998,77,77,190397
+Godzilla,"Action, Sci-Fi, Thriller  ",139,1998,54,32,186012
+The Thin Red Line,"Drama, War  ",170,1998,76,78,176127
+Ronin,"Action, Crime, Thriller  ",122,1998,73,67,174927
+Rushmore,"Comedy, Drama, Romance  ",93,1998,77,86,172960
+The Mask of Zorro,"Action, Adventure, Comedy  ",136,1998,68,63,172216
+Pi,"Drama, Horror, Mystery  ",84,1998,74,72,172044
+Deep Impact,"Action, Drama, Sci-Fi  ",120,1998,62,40,167588
+The Man in the Iron Mask,"Action, Adventure, Drama  ",132,1998,65,48,159017
+Lethal Weapon 4,"Action, Crime, Thriller  ",127,1998,66,37,155431
+The Waterboy,"Comedy, Sport  ",90,1998,61,41,151759
+Antz,"Animation, Adventure, Comedy  ",83,1998,65,72,148068
+Rounders,"Crime, Drama  ",121,1998,73,54,143752
+The Wedding Singer,"Comedy, Music, Romance  ",97,1998,68,59,137860
+The Negotiator,"Action, Crime, Drama  ",140,1998,73,62,133083
+The Parent Trap,"Adventure, Comedy, Drama  ",128,1998,65,64,124081
+Pleasantville,"Comedy, Drama, Fantasy  ",124,1998,75,71,122942
+The Prince of Egypt,"Animation, Adventure, Drama  ",99,1998,71,64,121726
+City of Angels,"Drama, Fantasy, Romance  ",114,1998,67,54,115266
+The Faculty,"Horror, Mystery, Sci-Fi  ",104,1998,65,61,113358
+Wild Things,"Crime, Drama, Mystery  ",108,1998,65,52,111080
+Patch Adams,"Biography, Comedy, Drama  ",115,1998,68,25,107493
+What Dreams May Come,"Drama, Fantasy, Romance  ",113,1998,70,44,103832
+The X Files,"Drama, Mystery, Sci-Fi  ",121,1998,70,60,102265
+Sphere,"Action, Mystery, Sci-Fi  ",134,1998,61,35,100680
+U.S. Marshals,"Action, Crime, Thriller  ",131,1998,66,47,97588
+Elizabeth,"Biography, Drama, History  ",124,1998,74,75,94517
+Doctor Dolittle,"Comedy, Family, Fantasy  ",85,1998,54,46,92484
+Following,"Crime, Mystery, Thriller  ",69,1998,75,60,88593

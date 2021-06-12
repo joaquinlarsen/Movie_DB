@@ -1,0 +1,441 @@
+Movie,Genre,Duration,Year,Imdb_rating,Metascore_rating,Votes
+Batman Begins,"Action, Adventure  ",140,2005,82,70,1336154
+V for Vendetta,"Action, Drama, Sci-Fi  ",132,2005,81,62,1050961
+Sin City,"Crime, Thriller  ",124,2005,80,74,743524
+Star Wars: Episode III - Revenge of the Sith,"Action, Adventure, Fantasy  ",140,2005,75,68,726044
+Harry Potter and the Goblet of Fire,"Adventure, Family, Fantasy  ",157,2005,77,81,562081
+Mr. & Mrs. Smith,"Action, Comedy, Crime  ",120,2005,65,55,458657
+Charlie and the Chocolate Factory,"Adventure, Comedy, Family  ",115,2005,66,72,438548
+War of the Worlds,"Adventure, Sci-Fi, Thriller  ",116,2005,65,73,422618
+The 40-Year-Old Virgin,"Comedy, Romance  ",116,2005,71,73,403954
+King Kong,"Action, Adventure, Drama  ",187,2005,72,81,401412
+Madagascar,"Animation, Adventure, Comedy  ",86,2005,69,57,374327
+"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe","Adventure, Family, Fantasy  ",143,2005,69,75,373056
+Wedding Crashers,"Comedy, Romance  ",119,2005,69,64,337078
+Brokeback Mountain,"Drama, Romance  ",134,2005,77,87,331282
+Fantastic Four,"Action, Adventure, Fantasy  ",106,2005,57,40,315010
+Constantine,"Action, Fantasy, Horror  ",121,2005,70,50,314988
+The Island,"Action, Sci-Fi, Thriller  ",136,2005,68,50,303408
+Hitch,"Comedy, Romance  ",118,2005,66,58,300180
+Lord of War,"Action, Crime, Drama  ",122,2005,76,62,298333
+Serenity,"Action, Adventure, Sci-Fi  ",119,2005,78,74,286202
+Kingdom of Heaven,"Action, Adventure, Drama  ",144,2005,72,63,271494
+Pride & Prejudice,"Drama, Romance  ",129,2005,78,82,266867
+Corpse Bride,"Animation, Drama, Family  ",77,2005,73,83,250035
+Walk the Line,"Biography, Drama, Music  ",136,2005,78,72,237771
+Saw II,"Horror, Mystery  ",93,2005,66,40,237430
+A History of Violence,"Drama, Thriller  ",96,2005,74,81,227040
+Kiss Kiss Bang Bang,"Comedy, Crime, Mystery  ",103,2005,75,72,217926
+Munich,"Action, Drama, History  ",164,2005,75,74,215494
+Thank You for Smoking,"Comedy, Drama  ",92,2005,76,71,214588
+Match Point,"Drama, Romance, Thriller  ",124,2005,76,72,208822
+The Descent,"Adventure, Horror, Thriller  ",99,2005,72,71,205683
+Transporter 2,"Action, Crime, Thriller  ",87,2005,63,56,194095
+The Hitchhiker's Guide to the Galaxy,"Adventure, Comedy, Sci-Fi  ",109,2005,67,63,188845
+Cinderella Man,"Biography, Drama, History  ",144,2005,80,69,178669
+Jarhead,"Action, Biography, Drama  ",125,2005,70,58,178476
+Hostel,Horror  ,94,2005,59,55,171965
+The Longest Yard,"Comedy, Crime, Sport  ",113,2005,64,48,165932
+Hard Candy,"Drama, Thriller  ",104,2005,71,58,155472
+Flightplan,"Drama, Mystery, Thriller  ",98,2005,63,53,154693
+Green Street Hooligans,"Crime, Drama, Sport  ",109,2005,74,55,143912
+Batman Begins,"Action, Adventure  ",140,2005,82,70,1336154
+V for Vendetta,"Action, Drama, Sci-Fi  ",132,2005,81,62,1050961
+Sin City,"Crime, Thriller  ",124,2005,80,74,743524
+Star Wars: Episode III - Revenge of the Sith,"Action, Adventure, Fantasy  ",140,2005,75,68,726044
+Harry Potter and the Goblet of Fire,"Adventure, Family, Fantasy  ",157,2005,77,81,562081
+Mr. & Mrs. Smith,"Action, Comedy, Crime  ",120,2005,65,55,458657
+Charlie and the Chocolate Factory,"Adventure, Comedy, Family  ",115,2005,66,72,438548
+War of the Worlds,"Adventure, Sci-Fi, Thriller  ",116,2005,65,73,422618
+The 40-Year-Old Virgin,"Comedy, Romance  ",116,2005,71,73,403954
+King Kong,"Action, Adventure, Drama  ",187,2005,72,81,401412
+Madagascar,"Animation, Adventure, Comedy  ",86,2005,69,57,374327
+"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe","Adventure, Family, Fantasy  ",143,2005,69,75,373056
+Wedding Crashers,"Comedy, Romance  ",119,2005,69,64,337078
+Brokeback Mountain,"Drama, Romance  ",134,2005,77,87,331282
+Fantastic Four,"Action, Adventure, Fantasy  ",106,2005,57,40,315010
+Constantine,"Action, Fantasy, Horror  ",121,2005,70,50,314988
+The Island,"Action, Sci-Fi, Thriller  ",136,2005,68,50,303408
+Hitch,"Comedy, Romance  ",118,2005,66,58,300180
+Lord of War,"Action, Crime, Drama  ",122,2005,76,62,298333
+Serenity,"Action, Adventure, Sci-Fi  ",119,2005,78,74,286202
+Kingdom of Heaven,"Action, Adventure, Drama  ",144,2005,72,63,271494
+Pride & Prejudice,"Drama, Romance  ",129,2005,78,82,266867
+Corpse Bride,"Animation, Drama, Family  ",77,2005,73,83,250035
+Walk the Line,"Biography, Drama, Music  ",136,2005,78,72,237771
+Saw II,"Horror, Mystery  ",93,2005,66,40,237430
+A History of Violence,"Drama, Thriller  ",96,2005,74,81,227040
+Kiss Kiss Bang Bang,"Comedy, Crime, Mystery  ",103,2005,75,72,217926
+Munich,"Action, Drama, History  ",164,2005,75,74,215494
+Thank You for Smoking,"Comedy, Drama  ",92,2005,76,71,214588
+Match Point,"Drama, Romance, Thriller  ",124,2005,76,72,208822
+The Descent,"Adventure, Horror, Thriller  ",99,2005,72,71,205683
+Transporter 2,"Action, Crime, Thriller  ",87,2005,63,56,194095
+The Hitchhiker's Guide to the Galaxy,"Adventure, Comedy, Sci-Fi  ",109,2005,67,63,188845
+Cinderella Man,"Biography, Drama, History  ",144,2005,80,69,178669
+Jarhead,"Action, Biography, Drama  ",125,2005,70,58,178476
+Hostel,Horror  ,94,2005,59,55,171965
+The Longest Yard,"Comedy, Crime, Sport  ",113,2005,64,48,165932
+Hard Candy,"Drama, Thriller  ",104,2005,71,58,155472
+Flightplan,"Drama, Mystery, Thriller  ",98,2005,63,53,154693
+Green Street Hooligans,"Crime, Drama, Sport  ",109,2005,74,55,143912
+Batman Begins,"Action, Adventure  ",140,2005,82,70,1336154
+V for Vendetta,"Action, Drama, Sci-Fi  ",132,2005,81,62,1050961
+Sin City,"Crime, Thriller  ",124,2005,80,74,743524
+Star Wars: Episode III - Revenge of the Sith,"Action, Adventure, Fantasy  ",140,2005,75,68,726044
+Harry Potter and the Goblet of Fire,"Adventure, Family, Fantasy  ",157,2005,77,81,562081
+Mr. & Mrs. Smith,"Action, Comedy, Crime  ",120,2005,65,55,458657
+Charlie and the Chocolate Factory,"Adventure, Comedy, Family  ",115,2005,66,72,438548
+War of the Worlds,"Adventure, Sci-Fi, Thriller  ",116,2005,65,73,422618
+The 40-Year-Old Virgin,"Comedy, Romance  ",116,2005,71,73,403954
+King Kong,"Action, Adventure, Drama  ",187,2005,72,81,401412
+Madagascar,"Animation, Adventure, Comedy  ",86,2005,69,57,374327
+"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe","Adventure, Family, Fantasy  ",143,2005,69,75,373056
+Wedding Crashers,"Comedy, Romance  ",119,2005,69,64,337078
+Brokeback Mountain,"Drama, Romance  ",134,2005,77,87,331282
+Fantastic Four,"Action, Adventure, Fantasy  ",106,2005,57,40,315010
+Constantine,"Action, Fantasy, Horror  ",121,2005,70,50,314988
+The Island,"Action, Sci-Fi, Thriller  ",136,2005,68,50,303408
+Hitch,"Comedy, Romance  ",118,2005,66,58,300180
+Lord of War,"Action, Crime, Drama  ",122,2005,76,62,298333
+Serenity,"Action, Adventure, Sci-Fi  ",119,2005,78,74,286202
+Kingdom of Heaven,"Action, Adventure, Drama  ",144,2005,72,63,271494
+Pride & Prejudice,"Drama, Romance  ",129,2005,78,82,266867
+Corpse Bride,"Animation, Drama, Family  ",77,2005,73,83,250035
+Walk the Line,"Biography, Drama, Music  ",136,2005,78,72,237771
+Saw II,"Horror, Mystery  ",93,2005,66,40,237430
+A History of Violence,"Drama, Thriller  ",96,2005,74,81,227040
+Kiss Kiss Bang Bang,"Comedy, Crime, Mystery  ",103,2005,75,72,217926
+Munich,"Action, Drama, History  ",164,2005,75,74,215494
+Thank You for Smoking,"Comedy, Drama  ",92,2005,76,71,214588
+Match Point,"Drama, Romance, Thriller  ",124,2005,76,72,208822
+The Descent,"Adventure, Horror, Thriller  ",99,2005,72,71,205683
+Transporter 2,"Action, Crime, Thriller  ",87,2005,63,56,194095
+The Hitchhiker's Guide to the Galaxy,"Adventure, Comedy, Sci-Fi  ",109,2005,67,63,188845
+Cinderella Man,"Biography, Drama, History  ",144,2005,80,69,178669
+Jarhead,"Action, Biography, Drama  ",125,2005,70,58,178476
+Hostel,Horror  ,94,2005,59,55,171965
+The Longest Yard,"Comedy, Crime, Sport  ",113,2005,64,48,165932
+Hard Candy,"Drama, Thriller  ",104,2005,71,58,155472
+Flightplan,"Drama, Mystery, Thriller  ",98,2005,63,53,154693
+Green Street Hooligans,"Crime, Drama, Sport  ",109,2005,74,55,143912
+Batman Begins,"Action, Adventure  ",140,2005,82,70,1336154
+V for Vendetta,"Action, Drama, Sci-Fi  ",132,2005,81,62,1050961
+Sin City,"Crime, Thriller  ",124,2005,80,74,743524
+Star Wars: Episode III - Revenge of the Sith,"Action, Adventure, Fantasy  ",140,2005,75,68,726044
+Harry Potter and the Goblet of Fire,"Adventure, Family, Fantasy  ",157,2005,77,81,562081
+Mr. & Mrs. Smith,"Action, Comedy, Crime  ",120,2005,65,55,458657
+Charlie and the Chocolate Factory,"Adventure, Comedy, Family  ",115,2005,66,72,438548
+War of the Worlds,"Adventure, Sci-Fi, Thriller  ",116,2005,65,73,422618
+The 40-Year-Old Virgin,"Comedy, Romance  ",116,2005,71,73,403954
+King Kong,"Action, Adventure, Drama  ",187,2005,72,81,401412
+Madagascar,"Animation, Adventure, Comedy  ",86,2005,69,57,374327
+"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe","Adventure, Family, Fantasy  ",143,2005,69,75,373056
+Wedding Crashers,"Comedy, Romance  ",119,2005,69,64,337078
+Brokeback Mountain,"Drama, Romance  ",134,2005,77,87,331282
+Fantastic Four,"Action, Adventure, Fantasy  ",106,2005,57,40,315010
+Constantine,"Action, Fantasy, Horror  ",121,2005,70,50,314988
+The Island,"Action, Sci-Fi, Thriller  ",136,2005,68,50,303408
+Hitch,"Comedy, Romance  ",118,2005,66,58,300180
+Lord of War,"Action, Crime, Drama  ",122,2005,76,62,298333
+Serenity,"Action, Adventure, Sci-Fi  ",119,2005,78,74,286202
+Kingdom of Heaven,"Action, Adventure, Drama  ",144,2005,72,63,271494
+Pride & Prejudice,"Drama, Romance  ",129,2005,78,82,266867
+Corpse Bride,"Animation, Drama, Family  ",77,2005,73,83,250035
+Walk the Line,"Biography, Drama, Music  ",136,2005,78,72,237771
+Saw II,"Horror, Mystery  ",93,2005,66,40,237430
+A History of Violence,"Drama, Thriller  ",96,2005,74,81,227040
+Kiss Kiss Bang Bang,"Comedy, Crime, Mystery  ",103,2005,75,72,217926
+Munich,"Action, Drama, History  ",164,2005,75,74,215494
+Thank You for Smoking,"Comedy, Drama  ",92,2005,76,71,214588
+Match Point,"Drama, Romance, Thriller  ",124,2005,76,72,208822
+The Descent,"Adventure, Horror, Thriller  ",99,2005,72,71,205683
+Transporter 2,"Action, Crime, Thriller  ",87,2005,63,56,194095
+The Hitchhiker's Guide to the Galaxy,"Adventure, Comedy, Sci-Fi  ",109,2005,67,63,188845
+Cinderella Man,"Biography, Drama, History  ",144,2005,80,69,178669
+Jarhead,"Action, Biography, Drama  ",125,2005,70,58,178476
+Hostel,Horror  ,94,2005,59,55,171965
+The Longest Yard,"Comedy, Crime, Sport  ",113,2005,64,48,165932
+Hard Candy,"Drama, Thriller  ",104,2005,71,58,155472
+Flightplan,"Drama, Mystery, Thriller  ",98,2005,63,53,154693
+Green Street Hooligans,"Crime, Drama, Sport  ",109,2005,74,55,143912
+Batman Begins,"Action, Adventure  ",140,2005,82,70,1336154
+V for Vendetta,"Action, Drama, Sci-Fi  ",132,2005,81,62,1050961
+Sin City,"Crime, Thriller  ",124,2005,80,74,743524
+Star Wars: Episode III - Revenge of the Sith,"Action, Adventure, Fantasy  ",140,2005,75,68,726044
+Harry Potter and the Goblet of Fire,"Adventure, Family, Fantasy  ",157,2005,77,81,562081
+Mr. & Mrs. Smith,"Action, Comedy, Crime  ",120,2005,65,55,458657
+Charlie and the Chocolate Factory,"Adventure, Comedy, Family  ",115,2005,66,72,438548
+War of the Worlds,"Adventure, Sci-Fi, Thriller  ",116,2005,65,73,422618
+The 40-Year-Old Virgin,"Comedy, Romance  ",116,2005,71,73,403954
+King Kong,"Action, Adventure, Drama  ",187,2005,72,81,401412
+Madagascar,"Animation, Adventure, Comedy  ",86,2005,69,57,374327
+"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe","Adventure, Family, Fantasy  ",143,2005,69,75,373056
+Wedding Crashers,"Comedy, Romance  ",119,2005,69,64,337078
+Brokeback Mountain,"Drama, Romance  ",134,2005,77,87,331282
+Fantastic Four,"Action, Adventure, Fantasy  ",106,2005,57,40,315010
+Constantine,"Action, Fantasy, Horror  ",121,2005,70,50,314988
+The Island,"Action, Sci-Fi, Thriller  ",136,2005,68,50,303408
+Hitch,"Comedy, Romance  ",118,2005,66,58,300180
+Lord of War,"Action, Crime, Drama  ",122,2005,76,62,298333
+Serenity,"Action, Adventure, Sci-Fi  ",119,2005,78,74,286202
+Kingdom of Heaven,"Action, Adventure, Drama  ",144,2005,72,63,271494
+Pride & Prejudice,"Drama, Romance  ",129,2005,78,82,266867
+Corpse Bride,"Animation, Drama, Family  ",77,2005,73,83,250035
+Walk the Line,"Biography, Drama, Music  ",136,2005,78,72,237771
+Saw II,"Horror, Mystery  ",93,2005,66,40,237430
+A History of Violence,"Drama, Thriller  ",96,2005,74,81,227040
+Kiss Kiss Bang Bang,"Comedy, Crime, Mystery  ",103,2005,75,72,217926
+Munich,"Action, Drama, History  ",164,2005,75,74,215494
+Thank You for Smoking,"Comedy, Drama  ",92,2005,76,71,214588
+Match Point,"Drama, Romance, Thriller  ",124,2005,76,72,208822
+The Descent,"Adventure, Horror, Thriller  ",99,2005,72,71,205683
+Transporter 2,"Action, Crime, Thriller  ",87,2005,63,56,194095
+The Hitchhiker's Guide to the Galaxy,"Adventure, Comedy, Sci-Fi  ",109,2005,67,63,188845
+Cinderella Man,"Biography, Drama, History  ",144,2005,80,69,178669
+Jarhead,"Action, Biography, Drama  ",125,2005,70,58,178476
+Hostel,Horror  ,94,2005,59,55,171965
+The Longest Yard,"Comedy, Crime, Sport  ",113,2005,64,48,165932
+Hard Candy,"Drama, Thriller  ",104,2005,71,58,155472
+Flightplan,"Drama, Mystery, Thriller  ",98,2005,63,53,154693
+Green Street Hooligans,"Crime, Drama, Sport  ",109,2005,74,55,143912
+Batman Begins,"Action, Adventure  ",140,2005,82,70,1336154
+V for Vendetta,"Action, Drama, Sci-Fi  ",132,2005,81,62,1050961
+Sin City,"Crime, Thriller  ",124,2005,80,74,743524
+Star Wars: Episode III - Revenge of the Sith,"Action, Adventure, Fantasy  ",140,2005,75,68,726044
+Harry Potter and the Goblet of Fire,"Adventure, Family, Fantasy  ",157,2005,77,81,562081
+Mr. & Mrs. Smith,"Action, Comedy, Crime  ",120,2005,65,55,458657
+Charlie and the Chocolate Factory,"Adventure, Comedy, Family  ",115,2005,66,72,438548
+War of the Worlds,"Adventure, Sci-Fi, Thriller  ",116,2005,65,73,422618
+The 40-Year-Old Virgin,"Comedy, Romance  ",116,2005,71,73,403954
+King Kong,"Action, Adventure, Drama  ",187,2005,72,81,401412
+Madagascar,"Animation, Adventure, Comedy  ",86,2005,69,57,374327
+"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe","Adventure, Family, Fantasy  ",143,2005,69,75,373056
+Wedding Crashers,"Comedy, Romance  ",119,2005,69,64,337078
+Brokeback Mountain,"Drama, Romance  ",134,2005,77,87,331282
+Fantastic Four,"Action, Adventure, Fantasy  ",106,2005,57,40,315010
+Constantine,"Action, Fantasy, Horror  ",121,2005,70,50,314988
+The Island,"Action, Sci-Fi, Thriller  ",136,2005,68,50,303408
+Hitch,"Comedy, Romance  ",118,2005,66,58,300180
+Lord of War,"Action, Crime, Drama  ",122,2005,76,62,298333
+Serenity,"Action, Adventure, Sci-Fi  ",119,2005,78,74,286202
+Kingdom of Heaven,"Action, Adventure, Drama  ",144,2005,72,63,271494
+Pride & Prejudice,"Drama, Romance  ",129,2005,78,82,266867
+Corpse Bride,"Animation, Drama, Family  ",77,2005,73,83,250035
+Walk the Line,"Biography, Drama, Music  ",136,2005,78,72,237771
+Saw II,"Horror, Mystery  ",93,2005,66,40,237430
+A History of Violence,"Drama, Thriller  ",96,2005,74,81,227040
+Kiss Kiss Bang Bang,"Comedy, Crime, Mystery  ",103,2005,75,72,217926
+Munich,"Action, Drama, History  ",164,2005,75,74,215494
+Thank You for Smoking,"Comedy, Drama  ",92,2005,76,71,214588
+Match Point,"Drama, Romance, Thriller  ",124,2005,76,72,208822
+The Descent,"Adventure, Horror, Thriller  ",99,2005,72,71,205683
+Transporter 2,"Action, Crime, Thriller  ",87,2005,63,56,194095
+The Hitchhiker's Guide to the Galaxy,"Adventure, Comedy, Sci-Fi  ",109,2005,67,63,188845
+Cinderella Man,"Biography, Drama, History  ",144,2005,80,69,178669
+Jarhead,"Action, Biography, Drama  ",125,2005,70,58,178476
+Hostel,Horror  ,94,2005,59,55,171965
+The Longest Yard,"Comedy, Crime, Sport  ",113,2005,64,48,165932
+Hard Candy,"Drama, Thriller  ",104,2005,71,58,155472
+Flightplan,"Drama, Mystery, Thriller  ",98,2005,63,53,154693
+Green Street Hooligans,"Crime, Drama, Sport  ",109,2005,74,55,143912
+Batman Begins,"Action, Adventure  ",140,2005,82,70,1336154
+V for Vendetta,"Action, Drama, Sci-Fi  ",132,2005,81,62,1050961
+Sin City,"Crime, Thriller  ",124,2005,80,74,743524
+Star Wars: Episode III - Revenge of the Sith,"Action, Adventure, Fantasy  ",140,2005,75,68,726044
+Harry Potter and the Goblet of Fire,"Adventure, Family, Fantasy  ",157,2005,77,81,562081
+Mr. & Mrs. Smith,"Action, Comedy, Crime  ",120,2005,65,55,458657
+Charlie and the Chocolate Factory,"Adventure, Comedy, Family  ",115,2005,66,72,438548
+War of the Worlds,"Adventure, Sci-Fi, Thriller  ",116,2005,65,73,422618
+The 40-Year-Old Virgin,"Comedy, Romance  ",116,2005,71,73,403954
+King Kong,"Action, Adventure, Drama  ",187,2005,72,81,401412
+Madagascar,"Animation, Adventure, Comedy  ",86,2005,69,57,374327
+"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe","Adventure, Family, Fantasy  ",143,2005,69,75,373056
+Wedding Crashers,"Comedy, Romance  ",119,2005,69,64,337078
+Brokeback Mountain,"Drama, Romance  ",134,2005,77,87,331282
+Fantastic Four,"Action, Adventure, Fantasy  ",106,2005,57,40,315010
+Constantine,"Action, Fantasy, Horror  ",121,2005,70,50,314988
+The Island,"Action, Sci-Fi, Thriller  ",136,2005,68,50,303408
+Hitch,"Comedy, Romance  ",118,2005,66,58,300180
+Lord of War,"Action, Crime, Drama  ",122,2005,76,62,298333
+Serenity,"Action, Adventure, Sci-Fi  ",119,2005,78,74,286202
+Kingdom of Heaven,"Action, Adventure, Drama  ",144,2005,72,63,271494
+Pride & Prejudice,"Drama, Romance  ",129,2005,78,82,266867
+Corpse Bride,"Animation, Drama, Family  ",77,2005,73,83,250035
+Walk the Line,"Biography, Drama, Music  ",136,2005,78,72,237771
+Saw II,"Horror, Mystery  ",93,2005,66,40,237430
+A History of Violence,"Drama, Thriller  ",96,2005,74,81,227040
+Kiss Kiss Bang Bang,"Comedy, Crime, Mystery  ",103,2005,75,72,217926
+Munich,"Action, Drama, History  ",164,2005,75,74,215494
+Thank You for Smoking,"Comedy, Drama  ",92,2005,76,71,214588
+Match Point,"Drama, Romance, Thriller  ",124,2005,76,72,208822
+The Descent,"Adventure, Horror, Thriller  ",99,2005,72,71,205683
+Transporter 2,"Action, Crime, Thriller  ",87,2005,63,56,194095
+The Hitchhiker's Guide to the Galaxy,"Adventure, Comedy, Sci-Fi  ",109,2005,67,63,188845
+Cinderella Man,"Biography, Drama, History  ",144,2005,80,69,178669
+Jarhead,"Action, Biography, Drama  ",125,2005,70,58,178476
+Hostel,Horror  ,94,2005,59,55,171965
+The Longest Yard,"Comedy, Crime, Sport  ",113,2005,64,48,165932
+Hard Candy,"Drama, Thriller  ",104,2005,71,58,155472
+Flightplan,"Drama, Mystery, Thriller  ",98,2005,63,53,154693
+Green Street Hooligans,"Crime, Drama, Sport  ",109,2005,74,55,143912
+Batman Begins,"Action, Adventure  ",140,2005,82,70,1336154
+V for Vendetta,"Action, Drama, Sci-Fi  ",132,2005,81,62,1050961
+Sin City,"Crime, Thriller  ",124,2005,80,74,743524
+Star Wars: Episode III - Revenge of the Sith,"Action, Adventure, Fantasy  ",140,2005,75,68,726044
+Harry Potter and the Goblet of Fire,"Adventure, Family, Fantasy  ",157,2005,77,81,562081
+Mr. & Mrs. Smith,"Action, Comedy, Crime  ",120,2005,65,55,458657
+Charlie and the Chocolate Factory,"Adventure, Comedy, Family  ",115,2005,66,72,438548
+War of the Worlds,"Adventure, Sci-Fi, Thriller  ",116,2005,65,73,422618
+The 40-Year-Old Virgin,"Comedy, Romance  ",116,2005,71,73,403954
+King Kong,"Action, Adventure, Drama  ",187,2005,72,81,401412
+Madagascar,"Animation, Adventure, Comedy  ",86,2005,69,57,374327
+"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe","Adventure, Family, Fantasy  ",143,2005,69,75,373056
+Wedding Crashers,"Comedy, Romance  ",119,2005,69,64,337078
+Brokeback Mountain,"Drama, Romance  ",134,2005,77,87,331282
+Fantastic Four,"Action, Adventure, Fantasy  ",106,2005,57,40,315010
+Constantine,"Action, Fantasy, Horror  ",121,2005,70,50,314988
+The Island,"Action, Sci-Fi, Thriller  ",136,2005,68,50,303408
+Hitch,"Comedy, Romance  ",118,2005,66,58,300180
+Lord of War,"Action, Crime, Drama  ",122,2005,76,62,298333
+Serenity,"Action, Adventure, Sci-Fi  ",119,2005,78,74,286202
+Kingdom of Heaven,"Action, Adventure, Drama  ",144,2005,72,63,271494
+Pride & Prejudice,"Drama, Romance  ",129,2005,78,82,266867
+Corpse Bride,"Animation, Drama, Family  ",77,2005,73,83,250035
+Walk the Line,"Biography, Drama, Music  ",136,2005,78,72,237771
+Saw II,"Horror, Mystery  ",93,2005,66,40,237430
+A History of Violence,"Drama, Thriller  ",96,2005,74,81,227040
+Kiss Kiss Bang Bang,"Comedy, Crime, Mystery  ",103,2005,75,72,217926
+Munich,"Action, Drama, History  ",164,2005,75,74,215494
+Thank You for Smoking,"Comedy, Drama  ",92,2005,76,71,214588
+Match Point,"Drama, Romance, Thriller  ",124,2005,76,72,208822
+The Descent,"Adventure, Horror, Thriller  ",99,2005,72,71,205683
+Transporter 2,"Action, Crime, Thriller  ",87,2005,63,56,194095
+The Hitchhiker's Guide to the Galaxy,"Adventure, Comedy, Sci-Fi  ",109,2005,67,63,188845
+Cinderella Man,"Biography, Drama, History  ",144,2005,80,69,178669
+Jarhead,"Action, Biography, Drama  ",125,2005,70,58,178476
+Hostel,Horror  ,94,2005,59,55,171965
+The Longest Yard,"Comedy, Crime, Sport  ",113,2005,64,48,165932
+Hard Candy,"Drama, Thriller  ",104,2005,71,58,155472
+Flightplan,"Drama, Mystery, Thriller  ",98,2005,63,53,154693
+Green Street Hooligans,"Crime, Drama, Sport  ",109,2005,74,55,143912
+Batman Begins,"Action, Adventure  ",140,2005,82,70,1336154
+V for Vendetta,"Action, Drama, Sci-Fi  ",132,2005,81,62,1050961
+Sin City,"Crime, Thriller  ",124,2005,80,74,743524
+Star Wars: Episode III - Revenge of the Sith,"Action, Adventure, Fantasy  ",140,2005,75,68,726044
+Harry Potter and the Goblet of Fire,"Adventure, Family, Fantasy  ",157,2005,77,81,562081
+Mr. & Mrs. Smith,"Action, Comedy, Crime  ",120,2005,65,55,458657
+Charlie and the Chocolate Factory,"Adventure, Comedy, Family  ",115,2005,66,72,438548
+War of the Worlds,"Adventure, Sci-Fi, Thriller  ",116,2005,65,73,422618
+The 40-Year-Old Virgin,"Comedy, Romance  ",116,2005,71,73,403954
+King Kong,"Action, Adventure, Drama  ",187,2005,72,81,401412
+Madagascar,"Animation, Adventure, Comedy  ",86,2005,69,57,374327
+"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe","Adventure, Family, Fantasy  ",143,2005,69,75,373056
+Wedding Crashers,"Comedy, Romance  ",119,2005,69,64,337078
+Brokeback Mountain,"Drama, Romance  ",134,2005,77,87,331282
+Fantastic Four,"Action, Adventure, Fantasy  ",106,2005,57,40,315010
+Constantine,"Action, Fantasy, Horror  ",121,2005,70,50,314988
+The Island,"Action, Sci-Fi, Thriller  ",136,2005,68,50,303408
+Hitch,"Comedy, Romance  ",118,2005,66,58,300180
+Lord of War,"Action, Crime, Drama  ",122,2005,76,62,298333
+Serenity,"Action, Adventure, Sci-Fi  ",119,2005,78,74,286202
+Kingdom of Heaven,"Action, Adventure, Drama  ",144,2005,72,63,271494
+Pride & Prejudice,"Drama, Romance  ",129,2005,78,82,266867
+Corpse Bride,"Animation, Drama, Family  ",77,2005,73,83,250035
+Walk the Line,"Biography, Drama, Music  ",136,2005,78,72,237771
+Saw II,"Horror, Mystery  ",93,2005,66,40,237430
+A History of Violence,"Drama, Thriller  ",96,2005,74,81,227040
+Kiss Kiss Bang Bang,"Comedy, Crime, Mystery  ",103,2005,75,72,217926
+Munich,"Action, Drama, History  ",164,2005,75,74,215494
+Thank You for Smoking,"Comedy, Drama  ",92,2005,76,71,214588
+Match Point,"Drama, Romance, Thriller  ",124,2005,76,72,208822
+The Descent,"Adventure, Horror, Thriller  ",99,2005,72,71,205683
+Transporter 2,"Action, Crime, Thriller  ",87,2005,63,56,194095
+The Hitchhiker's Guide to the Galaxy,"Adventure, Comedy, Sci-Fi  ",109,2005,67,63,188845
+Cinderella Man,"Biography, Drama, History  ",144,2005,80,69,178669
+Jarhead,"Action, Biography, Drama  ",125,2005,70,58,178476
+Hostel,Horror  ,94,2005,59,55,171965
+The Longest Yard,"Comedy, Crime, Sport  ",113,2005,64,48,165932
+Hard Candy,"Drama, Thriller  ",104,2005,71,58,155472
+Flightplan,"Drama, Mystery, Thriller  ",98,2005,63,53,154693
+Green Street Hooligans,"Crime, Drama, Sport  ",109,2005,74,55,143912
+Batman Begins,"Action, Adventure  ",140,2005,82,70,1336154
+V for Vendetta,"Action, Drama, Sci-Fi  ",132,2005,81,62,1050961
+Sin City,"Crime, Thriller  ",124,2005,80,74,743524
+Star Wars: Episode III - Revenge of the Sith,"Action, Adventure, Fantasy  ",140,2005,75,68,726044
+Harry Potter and the Goblet of Fire,"Adventure, Family, Fantasy  ",157,2005,77,81,562081
+Mr. & Mrs. Smith,"Action, Comedy, Crime  ",120,2005,65,55,458657
+Charlie and the Chocolate Factory,"Adventure, Comedy, Family  ",115,2005,66,72,438548
+War of the Worlds,"Adventure, Sci-Fi, Thriller  ",116,2005,65,73,422618
+The 40-Year-Old Virgin,"Comedy, Romance  ",116,2005,71,73,403954
+King Kong,"Action, Adventure, Drama  ",187,2005,72,81,401412
+Madagascar,"Animation, Adventure, Comedy  ",86,2005,69,57,374327
+"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe","Adventure, Family, Fantasy  ",143,2005,69,75,373056
+Wedding Crashers,"Comedy, Romance  ",119,2005,69,64,337078
+Brokeback Mountain,"Drama, Romance  ",134,2005,77,87,331282
+Fantastic Four,"Action, Adventure, Fantasy  ",106,2005,57,40,315010
+Constantine,"Action, Fantasy, Horror  ",121,2005,70,50,314988
+The Island,"Action, Sci-Fi, Thriller  ",136,2005,68,50,303408
+Hitch,"Comedy, Romance  ",118,2005,66,58,300180
+Lord of War,"Action, Crime, Drama  ",122,2005,76,62,298333
+Serenity,"Action, Adventure, Sci-Fi  ",119,2005,78,74,286202
+Kingdom of Heaven,"Action, Adventure, Drama  ",144,2005,72,63,271494
+Pride & Prejudice,"Drama, Romance  ",129,2005,78,82,266867
+Corpse Bride,"Animation, Drama, Family  ",77,2005,73,83,250035
+Walk the Line,"Biography, Drama, Music  ",136,2005,78,72,237771
+Saw II,"Horror, Mystery  ",93,2005,66,40,237430
+A History of Violence,"Drama, Thriller  ",96,2005,74,81,227040
+Kiss Kiss Bang Bang,"Comedy, Crime, Mystery  ",103,2005,75,72,217926
+Munich,"Action, Drama, History  ",164,2005,75,74,215494
+Thank You for Smoking,"Comedy, Drama  ",92,2005,76,71,214588
+Match Point,"Drama, Romance, Thriller  ",124,2005,76,72,208822
+The Descent,"Adventure, Horror, Thriller  ",99,2005,72,71,205683
+Transporter 2,"Action, Crime, Thriller  ",87,2005,63,56,194095
+The Hitchhiker's Guide to the Galaxy,"Adventure, Comedy, Sci-Fi  ",109,2005,67,63,188845
+Cinderella Man,"Biography, Drama, History  ",144,2005,80,69,178669
+Jarhead,"Action, Biography, Drama  ",125,2005,70,58,178476
+Hostel,Horror  ,94,2005,59,55,171965
+The Longest Yard,"Comedy, Crime, Sport  ",113,2005,64,48,165932
+Hard Candy,"Drama, Thriller  ",104,2005,71,58,155472
+Flightplan,"Drama, Mystery, Thriller  ",98,2005,63,53,154693
+Green Street Hooligans,"Crime, Drama, Sport  ",109,2005,74,55,143912
+Batman Begins,"Action, Adventure  ",140,2005,82,70,1336154
+V for Vendetta,"Action, Drama, Sci-Fi  ",132,2005,81,62,1050961
+Sin City,"Crime, Thriller  ",124,2005,80,74,743524
+Star Wars: Episode III - Revenge of the Sith,"Action, Adventure, Fantasy  ",140,2005,75,68,726044
+Harry Potter and the Goblet of Fire,"Adventure, Family, Fantasy  ",157,2005,77,81,562081
+Mr. & Mrs. Smith,"Action, Comedy, Crime  ",120,2005,65,55,458657
+Charlie and the Chocolate Factory,"Adventure, Comedy, Family  ",115,2005,66,72,438548
+War of the Worlds,"Adventure, Sci-Fi, Thriller  ",116,2005,65,73,422618
+The 40-Year-Old Virgin,"Comedy, Romance  ",116,2005,71,73,403954
+King Kong,"Action, Adventure, Drama  ",187,2005,72,81,401412
+Madagascar,"Animation, Adventure, Comedy  ",86,2005,69,57,374327
+"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe","Adventure, Family, Fantasy  ",143,2005,69,75,373056
+Wedding Crashers,"Comedy, Romance  ",119,2005,69,64,337078
+Brokeback Mountain,"Drama, Romance  ",134,2005,77,87,331282
+Fantastic Four,"Action, Adventure, Fantasy  ",106,2005,57,40,315010
+Constantine,"Action, Fantasy, Horror  ",121,2005,70,50,314988
+The Island,"Action, Sci-Fi, Thriller  ",136,2005,68,50,303408
+Hitch,"Comedy, Romance  ",118,2005,66,58,300180
+Lord of War,"Action, Crime, Drama  ",122,2005,76,62,298333
+Serenity,"Action, Adventure, Sci-Fi  ",119,2005,78,74,286202
+Kingdom of Heaven,"Action, Adventure, Drama  ",144,2005,72,63,271494
+Pride & Prejudice,"Drama, Romance  ",129,2005,78,82,266867
+Corpse Bride,"Animation, Drama, Family  ",77,2005,73,83,250035
+Walk the Line,"Biography, Drama, Music  ",136,2005,78,72,237771
+Saw II,"Horror, Mystery  ",93,2005,66,40,237430
+A History of Violence,"Drama, Thriller  ",96,2005,74,81,227040
+Kiss Kiss Bang Bang,"Comedy, Crime, Mystery  ",103,2005,75,72,217926
+Munich,"Action, Drama, History  ",164,2005,75,74,215494
+Thank You for Smoking,"Comedy, Drama  ",92,2005,76,71,214588
+Match Point,"Drama, Romance, Thriller  ",124,2005,76,72,208822
+The Descent,"Adventure, Horror, Thriller  ",99,2005,72,71,205683
+Transporter 2,"Action, Crime, Thriller  ",87,2005,63,56,194095
+The Hitchhiker's Guide to the Galaxy,"Adventure, Comedy, Sci-Fi  ",109,2005,67,63,188845
+Cinderella Man,"Biography, Drama, History  ",144,2005,80,69,178669
+Jarhead,"Action, Biography, Drama  ",125,2005,70,58,178476
+Hostel,Horror  ,94,2005,59,55,171965
+The Longest Yard,"Comedy, Crime, Sport  ",113,2005,64,48,165932
+Hard Candy,"Drama, Thriller  ",104,2005,71,58,155472
+Flightplan,"Drama, Mystery, Thriller  ",98,2005,63,53,154693
+Green Street Hooligans,"Crime, Drama, Sport  ",109,2005,74,55,143912
