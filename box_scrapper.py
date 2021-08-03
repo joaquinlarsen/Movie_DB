@@ -4,6 +4,7 @@ import requests
 from requests_html import HTML
 import datetime
 import pandas as pd
+import numpy as np
 
 BASE_DIR = os.path.dirname(__file__)
 
@@ -45,14 +46,17 @@ def parse_and_extract(url, year='2021'):
                 row_data.append(col.text)
             table_data.append(row_data)
 
+
     df = pd.DataFrame(table_data, columns=header_names)
+    df = df.drop(columns='Rank')
+    df['Year'] = np.full(len(table_data), year)
     path = os.path.join(BASE_DIR, 'data')
     os.makedirs(path, exist_ok=True)
     filepath = os.path.join('data', f'{year}.csv')
     df.to_csv(filepath, index=False)
 
 
-def run(start_year=2021, years_ago=1):
+def run(start_year=2021, years_ago=25):
     if start_year == None:
         now = datetime.datetime.now()
         start_year = now.year
